@@ -2,6 +2,10 @@ name: Update
 
 on:
   workflow_dispatch:
+  push:  # 添加此行以在push时触发
+    paths-ignore:  # 避免无限循环
+      - 'README.md'
+      - '.github/ISSUE_TEMPLATE.md'
   label:
     types:
       - created # for test
@@ -18,6 +22,8 @@ jobs:
     steps:
     - name: Checkout repository
       uses: actions/checkout@v3
+      with:
+        fetch-depth: 0 
 
     - name: Set up Python
       uses: actions/setup-python@v4
@@ -30,12 +36,17 @@ jobs:
     - name: Update papers
       run: |
         python main.py
-
+    
+    - name: Debug keywords
+      run: |
+        echo "Current keywords in main.py:"
+        grep "keywords =" main.py
+    
     - name: Commit and push changes
       uses: github-actions-x/commit@v2.9
       with:
         github-token: ${{ secrets.GITHUB_TOKEN }}
-        push-branch: 'master'
+        push-branch: 'main'
         commit-message: '✏️ Update papers automatically.'
         force-add: 'true'
         files: README.md .github/ISSUE_TEMPLATE.md
