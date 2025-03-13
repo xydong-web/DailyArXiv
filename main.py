@@ -22,9 +22,9 @@ with open("README.md", "r") as f:
     # if last_update_date == current_date:
     #     sys.exit("Already updated today!")
 
-keywords = ["molecular","Human Pose Estimation","Gaussian Splatting","diffusion"] # TODO add more keywords
+keywords = ["Molecular","Molecular Generation","Graph Neural Networks","Diffusion"] # TODO add more keywords
 
-max_result = 100 # maximum query results from arXiv API for each keyword
+max_result = 200 # maximum query results from arXiv API for each keyword
 issues_result = 15 # maximum papers to be included in the issue
 
 # all columns: Title, Authors, Abstract, Link, Tags, Comment, Date
