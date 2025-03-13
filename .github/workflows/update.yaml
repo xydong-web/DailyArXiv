@@ -50,8 +50,8 @@ jobs:
         commit-message: '✏️ Update papers automatically.'
         force-add: 'true'
         files: README.md .github/ISSUE_TEMPLATE.md
-        name: JiamingZang
-        email: 1831544918@qq.com
+        name: xydong
+        email: gs.xydong24@gzu.edu.cn
 
     - name: Create an issue to notify
       uses: JasonEtco/create-an-issue@v2
