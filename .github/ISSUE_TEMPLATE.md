@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 01, 2025
+title: Latest 15 Papers - April 02, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/JiamingZang/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,25 +7,28 @@ labels: documentation
 ## Molecular
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[On Finding All Connected Maximum-Sized Common Subgraphs in Multiple Labeled Graphs](http://arxiv.org/abs/2503.22368v1)** | 2025-03-28 |  |
-| **[PharmAgents: Building a Virtual Pharma with Large Language Model Agents](http://arxiv.org/abs/2503.22164v1)** | 2025-03-28 |  |
-| **[Molecular Quantum Transformer](http://arxiv.org/abs/2503.21686v1)** | 2025-03-27 | 13 pages, 8 figures |
-| **[GPU-Accelerated Charge-Equilibration for Shadow Molecular Dynamics in Python](http://arxiv.org/abs/2503.21176v1)** | 2025-03-27 |  |
-| **[AugWard: Augmentation-Aware Representation Learning for Accurate Graph Classification](http://arxiv.org/abs/2503.21105v1)** | 2025-03-27 | <details><summary>Accep...</summary><p>Accepted to PAKDD 2025 (Oral Presentation)</p></details> |
-| **[Long-context Protein Language Modeling Using Bidirectional Mamba with Shared Projection Layers](http://arxiv.org/abs/2411.08909v2)** | 2025-03-26 | <details><summary>model...</summary><p>model weights open-sourced at https://github.com/amazon-science/LC-PLM</p></details> |
-| **[TransDiffSBDD: Causality-Aware Multi-Modal Structure-Based Drug Design](http://arxiv.org/abs/2503.20913v1)** | 2025-03-26 |  |
-| **[Fast, Modular, and Differentiable Framework for Machine Learning-Enhanced Molecular Simulations](http://arxiv.org/abs/2503.20541v1)** | 2025-03-26 |  |
-| **[Pretraining Generative Flow Networks with Inexpensive Rewards for Molecular Graph Generation](http://arxiv.org/abs/2503.06337v2)** | 2025-03-25 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2409.09702</p></details> |
-| **[Lossy Compression of Scientific Data: Applications Constrains and Requirements](http://arxiv.org/abs/2503.20031v1)** | 2025-03-25 | 33 pages |
-| **[A scalable gene network model of regulatory dynamics in single cells](http://arxiv.org/abs/2503.20027v1)** | 2025-03-25 | 42 pages, 10 figures |
-| **[Single Shot AI-assisted quantification of KI-67 proliferation index in breast cancer](http://arxiv.org/abs/2503.19606v1)** | 2025-03-25 |  |
-| **[Solvation Free Energies from Neural Thermodynamic Integration](http://arxiv.org/abs/2410.15815v3)** | 2025-03-25 |  |
-| **[Benchmarking Data Efficiency in $Δ$-ML and Multifidelity Models for Quantum Chemistry](http://arxiv.org/abs/2410.11391v3)** | 2025-03-25 | <details><summary>Suppl...</summary><p>Supplementary sections S1-S4 and FIG.~S1-S4, Table S1.Work modified to include benchmarks for 3 more QC properties: first and second excitation energies, magnitude of electronic dipole moment</p></details> |
-| **[UniMoMo: Unified Generative Modeling of 3D Molecules for De Novo Binder Design](http://arxiv.org/abs/2503.19300v1)** | 2025-03-25 | preprint |
+| **[Evaluating machine learning models for predicting pesticides toxicity to honey bees](http://arxiv.org/abs/2503.24305v1)** | 2025-03-31 |  |
+| **[PharmAgents: Building a Virtual Pharma with Large Language Model Agents](http://arxiv.org/abs/2503.22164v2)** | 2025-03-31 |  |
+| **[Data-driven construction of a generalized kinetic collision operator from molecular dynamics](http://arxiv.org/abs/2503.24208v1)** | 2025-03-31 |  |
+| **[Inductive Graph Representation Learning with Quantum Graph Neural Networks](http://arxiv.org/abs/2503.24111v1)** | 2025-03-31 | 18 pages, 6 figures |
+| **[Pharmolix-FM: All-Atom Foundation Models for Molecular Modeling and Generation](http://arxiv.org/abs/2503.21788v2)** | 2025-03-31 |  |
+| **[Force-Free Molecular Dynamics Through Autoregressive Equivariant Networks](http://arxiv.org/abs/2503.23794v1)** | 2025-03-31 | <details><summary>25 pa...</summary><p>25 pages total (19 manuscript, 6 SI). 5 figures in manuscript, 3 figures and 2 tables in SI</p></details> |
+| **[MolGround: A Benchmark for Molecular Grounding](http://arxiv.org/abs/2503.23668v1)** | 2025-03-31 |  |
+| **[Make Autoregressive Great Again: Diffusion-Free Graph Generation with Next-Scale Prediction](http://arxiv.org/abs/2503.23612v1)** | 2025-03-30 | Draft #1 |
+| **[Addressing Model Overcomplexity in Drug-Drug Interaction Prediction With Molecular Fingerprints](http://arxiv.org/abs/2503.23550v1)** | 2025-03-30 | <details><summary>Accep...</summary><p>Accepted to the GEM Workshop at ICLR 2025</p></details> |
+| **[In-silico biological discovery with large perturbation models](http://arxiv.org/abs/2503.23535v1)** | 2025-03-30 |  |
+| **[Graph ODEs and Beyond: A Comprehensive Survey on Integrating Differential Equations with Graph Neural Networks](http://arxiv.org/abs/2503.23167v1)** | 2025-03-29 |  |
+| **[Fast Direct: Query-Efficient Online Black-box Guidance for Diffusion-model Target Generation](http://arxiv.org/abs/2502.01692v5)** | 2025-03-29 |  |
+| **[Multimodal machine learning with large language embedding model for polymer property prediction](http://arxiv.org/abs/2503.22962v1)** | 2025-03-29 |  |
+| **[Graph Kolmogorov-Arnold Networks for Multi-Cancer Classification and Biomarker Identification, An Interpretable Multi-Omics Approach](http://arxiv.org/abs/2503.22939v1)** | 2025-03-29 |  |
+| **[Cross-Cluster Weighted Forests](http://arxiv.org/abs/2105.07610v4)** | 2025-03-28 | <details><summary>12 pa...</summary><p>12 pages, 6 figures, 1 table</p></details> |
 
 ## Molecular Generation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Pharmolix-FM: All-Atom Foundation Models for Molecular Modeling and Generation](http://arxiv.org/abs/2503.21788v2)** | 2025-03-31 |  |
+| **[Make Autoregressive Great Again: Diffusion-Free Graph Generation with Next-Scale Prediction](http://arxiv.org/abs/2503.23612v1)** | 2025-03-30 | Draft #1 |
+| **[Fast Direct: Query-Efficient Online Black-box Guidance for Diffusion-model Target Generation](http://arxiv.org/abs/2502.01692v5)** | 2025-03-29 |  |
 | **[TransDiffSBDD: Causality-Aware Multi-Modal Structure-Based Drug Design](http://arxiv.org/abs/2503.20913v1)** | 2025-03-26 |  |
 | **[Pretraining Generative Flow Networks with Inexpensive Rewards for Molecular Graph Generation](http://arxiv.org/abs/2503.06337v2)** | 2025-03-25 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2409.09702</p></details> |
 | **[UniMoMo: Unified Generative Modeling of 3D Molecules for De Novo Binder Design](http://arxiv.org/abs/2503.19300v1)** | 2025-03-25 | preprint |
@@ -38,45 +41,42 @@ labels: documentation
 | **[Probabilistic Graph Circuits: Deep Generative Models for Tractable Probabilistic Inference over Graphs](http://arxiv.org/abs/2503.12162v1)** | 2025-03-15 |  |
 | **[Pesti-Gen: Unleashing a Generative Molecule Approach for Toxicity Aware Pesticide Design](http://arxiv.org/abs/2501.14469v2)** | 2025-03-14 | <details><summary>Accep...</summary><p>Accepted to the RECOMB 2025 Poster Track</p></details> |
 | **[FOSS solution for Molecular Dynamics Simulation Automation and Collaboration with MDSGAT](http://arxiv.org/abs/2503.05113v3)** | 2025-03-14 |  |
-| **[ProtTeX: Structure-In-Context Reasoning and Editing of Proteins with Large Language Models](http://arxiv.org/abs/2503.08179v3)** | 2025-03-13 | 26 pages, 9 figures |
-| **[Pharmolix-FM: An All-Atom Multi-Modal Foundation Model for Molecular Modeling and Generation](http://arxiv.org/abs/2503.21788v1)** | 2025-03-12 |  |
-| **[Chemistry-Inspired Diffusion with Non-Differentiable Guidance](http://arxiv.org/abs/2410.06502v2)** | 2025-03-11 | <details><summary>accep...</summary><p>accepted by ICLR 2025</p></details> |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[MCI-GRU: Stock Prediction Model Based on Multi-Head Cross-Attention and Improved GRU](http://arxiv.org/abs/2410.20679v2)** | 2025-03-28 |  |
-| **[Comparing Methods for Bias Mitigation in Graph Neural Networks](http://arxiv.org/abs/2503.22569v1)** | 2025-03-28 |  |
-| **[Efficient Data Selection for Training Genomic Perturbation Models](http://arxiv.org/abs/2503.14571v2)** | 2025-03-28 | 19 pages |
-| **[CFiCS: Graph-Based Classification of Common Factors and Microcounseling Skills](http://arxiv.org/abs/2503.22277v1)** | 2025-03-28 | <details><summary>10 pa...</summary><p>10 pages, 3 figures, 2 tables</p></details> |
-| **[Data-driven modeling of fluid flow around rotating structures with graph neural networks](http://arxiv.org/abs/2503.22252v1)** | 2025-03-28 |  |
-| **[A Social Dynamical System for Twitter Analysis](http://arxiv.org/abs/2503.19316v3)** | 2025-03-28 | <details><summary>will ...</summary><p>will be submitted to a journal soon</p></details> |
-| **[Few-Shot Graph Out-of-Distribution Detection with LLMs](http://arxiv.org/abs/2503.22097v1)** | 2025-03-28 |  |
-| **[Graph Sampling for Scalable and Expressive Graph Neural Networks on Homophilic Graphs](http://arxiv.org/abs/2410.16593v3)** | 2025-03-27 |  |
-| **[Improving Equivariant Networks with Probabilistic Symmetry Breaking](http://arxiv.org/abs/2503.21985v1)** | 2025-03-27 | 28 pages, 7 figures |
-| **[A Comprehensive Benchmark for RNA 3D Structure-Function Modeling](http://arxiv.org/abs/2503.21681v1)** | 2025-03-27 |  |
-| **[GNNMerge: Merging of GNN Models Without Accessing Training Data](http://arxiv.org/abs/2503.03384v2)** | 2025-03-27 |  |
-| **[Fusion of Graph Neural Networks via Optimal Transport](http://arxiv.org/abs/2503.21579v1)** | 2025-03-27 |  |
-| **[Deep Cut-informed Graph Embedding and Clustering](http://arxiv.org/abs/2503.06635v2)** | 2025-03-27 |  |
-| **[CombiGCN: An effective GCN model for Recommender System](http://arxiv.org/abs/2503.21471v1)** | 2025-03-27 |  |
-| **[Improvement Graph Convolution Collaborative Filtering with Weighted addition input](http://arxiv.org/abs/2503.21468v1)** | 2025-03-27 |  |
+| **[Evaluating machine learning models for predicting pesticides toxicity to honey bees](http://arxiv.org/abs/2503.24305v1)** | 2025-03-31 |  |
+| **[Advances in Continual Graph Learning for Anti-Money Laundering Systems: A Comprehensive Review](http://arxiv.org/abs/2503.24259v1)** | 2025-03-31 |  |
+| **[Traffic Engineering in Large-scale Networks with Generalizable Graph Neural Networks](http://arxiv.org/abs/2503.24203v1)** | 2025-03-31 |  |
+| **[Backdoor Graph Condensation](http://arxiv.org/abs/2407.11025v4)** | 2025-03-31 | <details><summary>ICDE ...</summary><p>ICDE 2025 Camera Ready</p></details> |
+| **[Graph Neural Network-Based Predictive Modeling for Robotic Plaster Printing](http://arxiv.org/abs/2503.24130v1)** | 2025-03-31 |  |
+| **[Inductive Graph Representation Learning with Quantum Graph Neural Networks](http://arxiv.org/abs/2503.24111v1)** | 2025-03-31 | 18 pages, 6 figures |
+| **[Accelerating High-Efficiency Organic Photovoltaic Discovery via Pretrained Graph Neural Networks and Generative Reinforcement Learning](http://arxiv.org/abs/2503.23766v1)** | 2025-03-31 | <details><summary>AI fo...</summary><p>AI for Accelerated Materials Design - ICLR 2025</p></details> |
+| **[GNN-Based Candidate Node Predictor for Influence Maximization in Temporal Graphs](http://arxiv.org/abs/2503.23713v1)** | 2025-03-31 | <details><summary>9 pag...</summary><p>9 pages, 5 figures, Accepted in AAAI25 to AI4TS Workshop@AAAI 2025</p></details> |
+| **[Graph neural networks extrapolate out-of-distribution for shortest paths](http://arxiv.org/abs/2503.19173v2)** | 2025-03-31 |  |
+| **[Hierarchical graph sampling based minibatch learning with chain preservation and variance reduction](http://arxiv.org/abs/2503.00860v5)** | 2025-03-30 | 26 pages, 10 figures |
+| **[Simple Feedfoward Neural Networks are Almost All You Need for Time Series Forecasting](http://arxiv.org/abs/2503.23621v1)** | 2025-03-30 |  |
+| **[Graph-Eq: Discovering Mathematical Equations using Graph Generative Models](http://arxiv.org/abs/2503.23617v1)** | 2025-03-30 | 8 pages, 4 figures |
+| **[Krait: A Backdoor Attack Against Graph Prompt Tuning](http://arxiv.org/abs/2407.13068v2)** | 2025-03-30 | <details><summary>Accep...</summary><p>Accepted by SaTML'2025</p></details> |
+| **[Question-Aware Knowledge Graph Prompting for Enhancing Large Language Models](http://arxiv.org/abs/2503.23523v1)** | 2025-03-30 |  |
+| **[POINT$^{2}$: A Polymer Informatics Training and Testing Database](http://arxiv.org/abs/2503.23491v1)** | 2025-03-30 |  |
 
 ## Diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[DSO: Aligning 3D Generators with Simulation Feedback for Physical Soundness](http://arxiv.org/abs/2503.22677v1)** | 2025-03-28 | <details><summary>Proje...</summary><p>Project page: https://ruiningli.com/dso</p></details> |
-| **[Empirical Analysis of Sim-and-Real Cotraining Of Diffusion Policies For Planar Pushing from Pixels](http://arxiv.org/abs/2503.22634v1)** | 2025-03-28 | <details><summary>9 pag...</summary><p>9 pages, 15 figures, In Submission to IROS 2025</p></details> |
-| **[Zero4D: Training-Free 4D Video Generation From Single Video Using Off-the-Shelf Video Diffusion Model](http://arxiv.org/abs/2503.22622v1)** | 2025-03-28 | <details><summary>proje...</summary><p>project page: https://zero4dvid.github.io/</p></details> |
-| **[Advancing DevSecOps in SMEs: Challenges and Best Practices for Secure CI/CD Pipelines](http://arxiv.org/abs/2503.22612v1)** | 2025-03-28 | <details><summary>6 pag...</summary><p>6 pages, 6 figures, 4 tables</p></details> |
-| **[Generative Latent Neural PDE Solver using Flow Matching](http://arxiv.org/abs/2503.22600v1)** | 2025-03-28 | work in progress |
-| **[Neural Network Approach to Stochastic Dynamics for Smooth Multimodal Density Estimation](http://arxiv.org/abs/2503.17807v2)** | 2025-03-28 |  |
-| **[Towards Stabilized and Efficient Diffusion Transformers through Long-Skip-Connections with Spectral Constraints](http://arxiv.org/abs/2411.17616v3)** | 2025-03-28 | 17 pages, 8 figures |
-| **[RELD: Regularization by Latent Diffusion Models for Image Restoration](http://arxiv.org/abs/2503.22563v1)** | 2025-03-28 |  |
-| **[Cross-Modal and Uncertainty-Aware Agglomeration for Open-Vocabulary 3D Scene Understanding](http://arxiv.org/abs/2503.16707v2)** | 2025-03-28 | <details><summary>Accep...</summary><p>Accepted by CVPR 2025</p></details> |
-| **[Bridging the Dimensional Chasm: Uncover Layer-wise Dimensional Reduction in Transformers through Token Correlation](http://arxiv.org/abs/2503.22547v1)** | 2025-03-28 | <details><summary>17 pa...</summary><p>17 pages, 9 figures, 2 tables</p></details> |
-| **[LIM: Large Interpolator Model for Dynamic Reconstruction](http://arxiv.org/abs/2503.22537v1)** | 2025-03-28 |  |
-| **[Deterministic Medical Image Translation via High-fidelity Brownian Bridges](http://arxiv.org/abs/2503.22531v1)** | 2025-03-28 |  |
-| **[Multi-stage model predictive control for slug flow crystallizers using uncertainty-aware surrogate models](http://arxiv.org/abs/2503.22520v1)** | 2025-03-28 |  |
-| **[UniCon: Unidirectional Information Flow for Effective Control of Large-Scale Diffusion Models](http://arxiv.org/abs/2503.17221v2)** | 2025-03-28 | <details><summary>This ...</summary><p>This work has been accepted for publication at the International Conference on Learning Representations (ICLR) 2025</p></details> |
-| **[Scenario Dreamer: Vectorized Latent Diffusion for Generating Driving Simulation Environments](http://arxiv.org/abs/2503.22496v1)** | 2025-03-28 | CVPR 2025 |
+| **[InstructRestore: Region-Customized Image Restoration with Human Instructions](http://arxiv.org/abs/2503.24357v1)** | 2025-03-31 |  |
+| **[ORAL: Prompting Your Large-Scale LoRAs via Conditional Recurrent Diffusion](http://arxiv.org/abs/2503.24354v1)** | 2025-03-31 |  |
+| **[NoProp: Training Neural Networks without Back-propagation or Forward-propagation](http://arxiv.org/abs/2503.24322v1)** | 2025-03-31 |  |
+| **[Enhancing Image Resolution of Solar Magnetograms: A Latent Diffusion Model Approach](http://arxiv.org/abs/2503.24271v1)** | 2025-03-31 | <details><summary>Accep...</summary><p>Accepted for publication on A&A</p></details> |
+| **[Visual Acoustic Fields](http://arxiv.org/abs/2503.24270v1)** | 2025-03-31 |  |
+| **[Inductive Moment Matching](http://arxiv.org/abs/2503.07565v6)** | 2025-03-31 |  |
+| **[DiET-GS: Diffusion Prior and Event Stream-Assisted Motion Deblurring 3D Gaussian Splatting](http://arxiv.org/abs/2503.24210v1)** | 2025-03-31 | <details><summary>CVPR ...</summary><p>CVPR 2025. Project Page: https://diet-gs.github.io</p></details> |
+| **[DICE: Discrete Inversion Enabling Controllable Editing for Multinomial Diffusion and Masked Generative Models](http://arxiv.org/abs/2410.08207v2)** | 2025-03-31 | <details><summary>Proje...</summary><p>Project webpage: https://hexiaoxiao-cs.github.io/DICE/. This paper was accepted to CVPR 2025 but later desk-rejected post camera-ready, due to a withdrawal from ICLR made 14 days before reviewer assignment</p></details> |
+| **[CALMM-Drive: Confidence-Aware Autonomous Driving with Large Multimodal Model](http://arxiv.org/abs/2412.04209v2)** | 2025-03-31 | 14 pages, 7 figures |
+| **[Controlled Latent Diffusion Models for 3D Porous Media Reconstruction](http://arxiv.org/abs/2503.24083v1)** | 2025-03-31 | 58 pages |
+| **[Score-Based Metropolis-Hastings Algorithms](http://arxiv.org/abs/2501.00467v2)** | 2025-03-31 |  |
+| **[Evaluating Variational Quantum Eigensolver and Quantum Dynamics Algorithms on the Advection-Diffusion Equation](http://arxiv.org/abs/2503.24045v1)** | 2025-03-31 | 7 pages, 2 figures |
+| **[DenseFormer: Learning Dense Depth Map from Sparse Depth and Image via Conditional Diffusion Model](http://arxiv.org/abs/2503.23993v1)** | 2025-03-31 |  |
+| **[Singular Value Scaling: Efficient Generative Model Compression via Pruned Weights Refinement](http://arxiv.org/abs/2412.17387v3)** | 2025-03-31 | <details><summary>Accep...</summary><p>Accepted to AAAI 2025</p></details> |
+| **[JointTuner: Appearance-Motion Adaptive Joint Training for Customized Video Generation](http://arxiv.org/abs/2503.23951v1)** | 2025-03-31 | <details><summary>Proje...</summary><p>Project Page: https://fdchen24.github.io/JointTuner-Website</p></details> |
 
