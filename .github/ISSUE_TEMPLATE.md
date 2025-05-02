@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 02, 2025
+title: Latest 15 Papers - May 03, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/JiamingZang/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,6 +7,13 @@ labels: documentation
 ## Molecular
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Action-Minimization Meets Generative Modeling: Efficient Transition Path Sampling with the Onsager-Machlup Functional](http://arxiv.org/abs/2504.18506v2)** | 2025-05-01 | ICML 2025 |
+| **[Integer linear programming for unsupervised training set selection in molecular machine learning](http://arxiv.org/abs/2410.16122v2)** | 2025-05-01 | <details><summary>29 pa...</summary><p>29 pages + SI (15 pages)</p></details> |
+| **[Data Therapist: Eliciting Domain Knowledge from Subject Matter Experts Using Large Language Models](http://arxiv.org/abs/2505.00455v1)** | 2025-05-01 | <details><summary>Submi...</summary><p>Submitted to IEEE VIS2025</p></details> |
+| **[Multi-Hierarchical Fine-Grained Feature Mapping Driven by Feature Contribution for Molecular Odor Prediction](http://arxiv.org/abs/2505.00290v1)** | 2025-05-01 |  |
+| **[MolGround: A Benchmark for Molecular Grounding](http://arxiv.org/abs/2503.23668v4)** | 2025-05-01 |  |
+| **[Node2Vec-DGI-EL: A Hierarchical Graph Representation Learning Model for Ingredient-Disease Association Prediction](http://arxiv.org/abs/2505.00236v1)** | 2025-05-01 |  |
+| **[GEOM-Drugs Revisited: Toward More Chemically Accurate Benchmarks for 3D Molecule Generation](http://arxiv.org/abs/2505.00169v1)** | 2025-04-30 |  |
 | **[Data-driven Discovery of Biophysical T Cell Receptor Co-specificity Rules](http://arxiv.org/abs/2412.13722v2)** | 2025-04-30 | 17 pages, 12 figures |
 | **[Inferring the Langevin Equation with Uncertainty via Bayesian Neural Networks](http://arxiv.org/abs/2402.01338v2)** | 2025-04-30 | 34 pages, 17 figures |
 | **[Learning Hierarchical Interaction for Accurate Molecular Property Prediction](http://arxiv.org/abs/2504.20127v2)** | 2025-04-30 |  |
@@ -15,17 +22,11 @@ labels: documentation
 | **[MADGEN: Mass-Spec attends to De Novo Molecular generation](http://arxiv.org/abs/2501.01950v4)** | 2025-04-29 | ICLR 2025 |
 | **[Evaluating Effects of Augmented SELFIES for Molecular Understanding Using QK-LSTM](http://arxiv.org/abs/2504.20789v1)** | 2025-04-29 |  |
 | **[JTreeformer: Graph-Transformer via Latent-Diffusion Model for Molecular Generation](http://arxiv.org/abs/2504.20770v1)** | 2025-04-29 | 9 pages, 6figures |
-| **[Two-stage deep learning framework for the restoration of incomplete-ring PET images](http://arxiv.org/abs/2504.00816v2)** | 2025-04-29 | 20 pages, 8 figures |
-| **[A 3D pocket-aware and affinity-guided diffusion model for lead optimization](http://arxiv.org/abs/2504.21065v1)** | 2025-04-29 |  |
-| **[Identification over Poisson ISI Channels: Feedback and Molecular Applications](http://arxiv.org/abs/2504.20550v1)** | 2025-04-29 | <details><summary>11 pa...</summary><p>11 pages, 4 figures, submitted to Globecom 2025</p></details> |
-| **[FourierSpecNet: Neural Collision Operator Approximation Inspired by the Fourier Spectral Method for Solving the Boltzmann Equation](http://arxiv.org/abs/2504.20408v1)** | 2025-04-29 | 27 pages, 11 figures |
-| **[Molecular Learning Dynamics](http://arxiv.org/abs/2504.10560v2)** | 2025-04-29 | <details><summary>16 pa...</summary><p>16 pages, 7 figures, 1 table</p></details> |
-| **[Can AI Agents Design and Implement Drug Discovery Pipelines?](http://arxiv.org/abs/2504.19912v1)** | 2025-04-28 |  |
-| **[Efficient Distributed Algorithms for Shape Reduction via Reconfigurable Circuits](http://arxiv.org/abs/2503.18663v3)** | 2025-04-28 |  |
 
 ## Molecular Generation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[GEOM-Drugs Revisited: Toward More Chemically Accurate Benchmarks for 3D Molecule Generation](http://arxiv.org/abs/2505.00169v1)** | 2025-04-30 |  |
 | **[MADGEN: Mass-Spec attends to De Novo Molecular generation](http://arxiv.org/abs/2501.01950v4)** | 2025-04-29 | ICLR 2025 |
 | **[JTreeformer: Graph-Transformer via Latent-Diffusion Model for Molecular Generation](http://arxiv.org/abs/2504.20770v1)** | 2025-04-29 | 9 pages, 6figures |
 | **[Heterophily-informed Message Passing](http://arxiv.org/abs/2504.19785v1)** | 2025-04-28 | <details><summary>Appea...</summary><p>Appearing in Transactions on Machine Learning Research (TMLR) 2025</p></details> |
@@ -40,11 +41,18 @@ labels: documentation
 | **[How to Detect and Defeat Molecular Mirage: A Metric-Driven Benchmark for Hallucination in LLM-based Molecular Comprehension](http://arxiv.org/abs/2504.12314v1)** | 2025-04-10 | 17 pages |
 | **[SynFlowNet: Design of Diverse and Novel Molecules with Synthesis Constraints](http://arxiv.org/abs/2405.01155v3)** | 2025-04-09 |  |
 | **[UniGEM: A Unified Approach to Generation and Property Prediction for Molecules](http://arxiv.org/abs/2410.10516v3)** | 2025-04-04 | 11 pages, 5 figures |
-| **[Towards Unified Latent Space for 3D Molecular Latent Diffusion Modeling](http://arxiv.org/abs/2503.15567v2)** | 2025-04-03 |  |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[OmniSage: Large Scale, Multi-Entity Heterogeneous Graph Representation Learning](http://arxiv.org/abs/2504.17811v2)** | 2025-05-01 |  |
+| **[SA-GAT-SR: Self-Adaptable Graph Attention Networks with Symbolic Regression for high-fidelity material property prediction](http://arxiv.org/abs/2505.00625v1)** | 2025-05-01 |  |
+| **[Commute Graph Neural Networks](http://arxiv.org/abs/2407.01635v5)** | 2025-05-01 |  |
+| **[TeLoGraF: Temporal Logic Planning via Graph-encoded Flow Matching](http://arxiv.org/abs/2505.00562v1)** | 2025-05-01 | Accepted to ICML2025 |
+| **[DeepSTA: A Spatial-Temporal Attention Network for Logistics Delivery Timely Rate Prediction in Anomaly Conditions](http://arxiv.org/abs/2505.00402v1)** | 2025-05-01 | <details><summary>Accep...</summary><p>Accepted by CIKM 2023</p></details> |
+| **[From GNNs to Trees: Multi-Granular Interpretability for Graph Neural Networks](http://arxiv.org/abs/2505.00364v1)** | 2025-05-01 | <details><summary>Accep...</summary><p>Accepted by ICLR 2025</p></details> |
+| **[Repetition Makes Perfect: Recurrent Sum-GNNs Match Message Passing Limit](http://arxiv.org/abs/2505.00291v1)** | 2025-05-01 |  |
+| **[Graph Privacy: A Heterogeneous Federated GNN for Trans-Border Financial Data Circulation](http://arxiv.org/abs/2505.00257v1)** | 2025-05-01 |  |
 | **[Scalable Multi-Task Learning for Particle Collision Event Reconstruction with Heterogeneous Graph Neural Networks](http://arxiv.org/abs/2504.21844v1)** | 2025-04-30 | <details><summary>21 pa...</summary><p>21 pages, 10 figures, 4 tables</p></details> |
 | **[MAGNET: an open-source library for mesh agglomeration by Graph Neural Networks](http://arxiv.org/abs/2504.21780v1)** | 2025-04-30 |  |
 | **[Comparative Analysis of FPGA and GPU Performance for Machine Learning-Based Track Reconstruction at LHCb](http://arxiv.org/abs/2502.02304v4)** | 2025-04-30 |  |
@@ -52,31 +60,23 @@ labels: documentation
 | **[Quantifying the Noise of Structural Perturbations on Graph Adversarial Attacks](http://arxiv.org/abs/2504.20869v2)** | 2025-04-30 | Under Review |
 | **[ABG-NAS: Adaptive Bayesian Genetic Neural Architecture Search for Graph Representation Learning](http://arxiv.org/abs/2504.21254v1)** | 2025-04-30 |  |
 | **[FedHERO: A Federated Learning Approach for Node Classification Task on Heterophilic Graphs](http://arxiv.org/abs/2504.21206v1)** | 2025-04-29 |  |
-| **[Artificial Intelligence for Personalized Prediction of Alzheimer's Disease Progression: A Survey of Methods, Data Challenges, and Future Directions](http://arxiv.org/abs/2504.21189v1)** | 2025-04-29 | 25 pages, 11 figures |
-| **[LIFT: LLM-Based Pragma Insertion for HLS via GNN Supervised Fine-Tuning](http://arxiv.org/abs/2504.21187v1)** | 2025-04-29 |  |
-| **[Sample complexity of data-driven tuning of model hyperparameters in neural networks with structured parameter-dependent dual function](http://arxiv.org/abs/2501.13734v4)** | 2025-04-29 | 57 pages, 4 figures |
-| **[Dual Explanations via Subgraph Matching for Malware Detection](http://arxiv.org/abs/2504.20904v1)** | 2025-04-29 |  |
-| **[Mitigating the Structural Bias in Graph Adversarial Defenses](http://arxiv.org/abs/2504.20848v1)** | 2025-04-29 | Under Review |
-| **[Learning a General Model: Folding Clothing with Topological Dynamics](http://arxiv.org/abs/2504.20720v1)** | 2025-04-29 |  |
-| **[SFi-Former: Sparse Flow Induced Attention for Graph Transformer](http://arxiv.org/abs/2504.20666v1)** | 2025-04-29 | ICMR 2025 |
-| **[Frequency Feature Fusion Graph Network For Depression Diagnosis Via fNIRS](http://arxiv.org/abs/2504.21064v1)** | 2025-04-29 |  |
 
 ## Diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[ReVision: High-Quality, Low-Cost Video Generation with Explicit 3D Physics Modeling for Complex Motion and Interaction](http://arxiv.org/abs/2504.21855v1)** | 2025-04-30 | <details><summary>Proje...</summary><p>Project Page: https://revision-video.github.io/</p></details> |
-| **[A Comparison of the Consistent and Independent Second Moment Methods Applied to Thermal Radiative Transfer](http://arxiv.org/abs/2504.21784v1)** | 2025-04-30 |  |
-| **[PixelHacker: Image Inpainting with Structural and Semantic Consistency](http://arxiv.org/abs/2504.20438v2)** | 2025-04-30 | <details><summary>https...</summary><p>https://hustvl.github.io/PixelHacker</p></details> |
-| **[Garment3DGen: 3D Garment Stylization and Texture Generation](http://arxiv.org/abs/2403.18816v3)** | 2025-04-30 | <details><summary>3DV 2...</summary><p>3DV 2025. Project Page and Code: https://nsarafianos.github.io/garment3dgen</p></details> |
-| **[Approximation and regularity results for the Heston model and related processes](http://arxiv.org/abs/2504.21658v1)** | 2025-04-30 |  |
-| **[HoloTime: Taming Video Diffusion Models for Panoramic 4D Scene Generation](http://arxiv.org/abs/2504.21650v1)** | 2025-04-30 | <details><summary>Proje...</summary><p>Project homepage: https://zhouhyocean.github.io/holotime/</p></details> |
-| **[Diffusion-based Adversarial Identity Manipulation for Facial Privacy Protection](http://arxiv.org/abs/2504.21646v1)** | 2025-04-30 |  |
-| **[BEVWorld: A Multimodal World Simulator for Autonomous Driving via Scene-Level BEV Latents](http://arxiv.org/abs/2407.05679v3)** | 2025-04-30 | 10 pages |
-| **[Sparsity for Infinite-Parametric Holomorphic Functions on Gaussian Spaces](http://arxiv.org/abs/2504.21639v1)** | 2025-04-30 |  |
-| **[Latent Feature-Guided Conditional Diffusion for High-Fidelity Generative Image Semantic Communication](http://arxiv.org/abs/2504.21577v1)** | 2025-04-30 | 6 pages, 6 figures |
-| **[MagicPortrait: Temporally Consistent Face Reenactment with 3D Geometric Guidance](http://arxiv.org/abs/2504.21497v1)** | 2025-04-30 |  |
-| **[Type-R: Automatically Retouching Typos for Text-to-Image Generation](http://arxiv.org/abs/2411.18159v2)** | 2025-04-30 | <details><summary>Accep...</summary><p>Accepted to CVPR 2025. Codes: https://github.com/CyberAgentAILab/Type-R</p></details> |
-| **[DGSolver: Diffusion Generalist Solver with Universal Posterior Sampling for Image Restoration](http://arxiv.org/abs/2504.21487v1)** | 2025-04-30 |  |
-| **[GarmentDiffusion: 3D Garment Sewing Pattern Generation with Multimodal Diffusion Transformers](http://arxiv.org/abs/2504.21476v1)** | 2025-04-30 | <details><summary>The 3...</summary><p>The 34th International Joint Conference on Artificial Intelligence (IJCAI 2025)</p></details> |
-| **[Ditto: Motion-Space Diffusion for Controllable Realtime Talking Head Synthesis](http://arxiv.org/abs/2411.19509v3)** | 2025-04-30 | <details><summary>Proje...</summary><p>Project Page: https://digital-avatar.github.io/ai/Ditto/</p></details> |
+| **[Controllable Weather Synthesis and Removal with Video Diffusion Models](http://arxiv.org/abs/2505.00704v1)** | 2025-05-01 |  |
+| **[Action-Minimization Meets Generative Modeling: Efficient Transition Path Sampling with the Onsager-Machlup Functional](http://arxiv.org/abs/2504.18506v2)** | 2025-05-01 | ICML 2025 |
+| **[GuideSR: Rethinking Guidance for One-Step High-Fidelity Diffusion-Based Super-Resolution](http://arxiv.org/abs/2505.00687v1)** | 2025-05-01 |  |
+| **[Gaussian Mixture Flow Matching Models](http://arxiv.org/abs/2504.05304v2)** | 2025-05-01 | <details><summary>ICML ...</summary><p>ICML 2025. Code: https://github.com/Lakonik/GMFlow</p></details> |
+| **[Generative Predictive Control: Flow Matching Policies for Dynamic and Difficult-to-Demonstrate Tasks](http://arxiv.org/abs/2502.13406v2)** | 2025-05-01 |  |
+| **[The local coupling of noise technique and its application to lower error bounds for strong approximation of SDEs with irregular coefficients](http://arxiv.org/abs/2505.00656v1)** | 2025-05-01 |  |
+| **[Conditional Diffusion-Based Retrieval of Atmospheric CO2 from Earth Observing Spectroscopy](http://arxiv.org/abs/2504.17074v3)** | 2025-05-01 | <details><summary>Publi...</summary><p>Published as a workshop paper in "Tackling Climate Change with Machine Learning", ICLR 2025 Workshop on Tackling Climate Change with Machine Learning. https://www.climatechange.ai/papers/iclr2025/12</p></details> |
+| **[LT3SD: Latent Trees for 3D Scene Diffusion](http://arxiv.org/abs/2409.08215v2)** | 2025-05-01 | <details><summary>Proje...</summary><p>Project page: https://quan-meng.github.io/projects/lt3sd/ Video: https://youtu.be/AJ5sG9VyjGA</p></details> |
+| **[ParkDiffusion: Heterogeneous Multi-Agent Multi-Modal Trajectory Prediction for Automated Parking using Diffusion Models](http://arxiv.org/abs/2505.00586v1)** | 2025-05-01 |  |
+| **[Infinite-dimensional Diffusion Bridge Simulation via Operator Learning](http://arxiv.org/abs/2405.18353v3)** | 2025-05-01 |  |
+| **[Safety-Critical Traffic Simulation with Guided Latent Diffusion Model](http://arxiv.org/abs/2505.00515v1)** | 2025-05-01 | 7 pages, 3 figures |
+| **[TabRep: Training Tabular Diffusion Models with a Simple and Effective Continuous Representation](http://arxiv.org/abs/2504.04798v4)** | 2025-05-01 |  |
+| **[Scene-Conditional 3D Object Stylization and Composition](http://arxiv.org/abs/2312.12419v2)** | 2025-05-01 |  |
+| **[JointDiT: Enhancing RGB-Depth Joint Modeling with Diffusion Transformers](http://arxiv.org/abs/2505.00482v1)** | 2025-05-01 |  |
+| **[Ouroboros3D: Image-to-3D Generation via 3D-aware Recursive Diffusion](http://arxiv.org/abs/2406.03184v2)** | 2025-05-01 | <details><summary>See o...</summary><p>See our project page at https://costwen.github.io/Ouroboros3D/</p></details> |
 
