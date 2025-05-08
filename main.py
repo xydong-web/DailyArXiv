@@ -22,7 +22,7 @@ with open("README.md", "r") as f:
     # if last_update_date == current_date:
     #     sys.exit("Already updated today!")
 
-keywords = ["Molecular", "Molecular Generation", "Graph Neural Networks","Diffusion","Object Counting", "Open World", "image caption", "describe", "Lightweight", "Mamba", "Efficient", "Few-Shot Class-Incremental Learning", "Catastrophic Forgetting", "Knowledge Transfer","Data Imbalance","Bias towards new/old classes"] # TODO add more keywords
+keywords = ["Molecular", "Molecular Generation", "Graph Neural Networks","Diffusion","Object Counting", "Open World", "Image Caption", "Describe", "Light Weight", "Mamba", "Efficient", "Class-Incremental Learning", "Data Imbalance"] # TODO add more keywords
 
 max_result = 10 # maximum query results from arXiv API for each keyword
 issues_result = 20 # maximum papers to be included in the issue
