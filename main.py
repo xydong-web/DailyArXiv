@@ -22,10 +22,10 @@ with open("README.md", "r") as f:
     # if last_update_date == current_date:
     #     sys.exit("Already updated today!")
 
-keywords = ["Molecular", "Graph Neural Networks", "Diffusion", "Object Counting", "Image Caption", "Describe", "Light Weight", "Class Incremental" ] # TODO add more keywords
+keywords = ["Molecular", "Molecular Generation" "Graph Neural Networks", "Diffusion", "Object Counting", "Image Caption", "Describe", "Mamba", "Light Weight", "Class Incremental" ] # TODO add more keywords
 
-max_result = 10 # maximum query results from arXiv API for each keyword
-issues_result = 20 # maximum papers to be included in the issue
+max_result = 100 # maximum query results from arXiv API for each keyword
+issues_result = 50 # maximum papers to be included in the issue
 
 # all columns: Title, Authors, Abstract, Link, Tags, Comment, Date
 # fixed_columns = ["Title", "Link", "Date"]
@@ -55,18 +55,17 @@ for keyword in keywords:
     # link = "OR"
     papers = get_daily_papers_by_keyword_with_retries(keyword, column_names, max_result, link)
     if papers is None: # failed to get papers
-        print("Failed to get papers!")
-        f_rm.close()
-        f_is.close()
-        restore_files()
-        sys.exit("Failed to get papers!")
-    rm_table = generate_table(papers)
-    is_table = generate_table(papers[:issues_result], ignore_keys=["Abstract"])
-    f_rm.write(rm_table)
-    f_rm.write("\n\n")
-    f_is.write(is_table)
-    f_is.write("\n\n")
-    time.sleep(5) # avoid being blocked by arXiv API
+        print(f"Failed to get papers for keyword: {keyword}. Skipping this keyword.")
+        f_rm.write(f"Could not retrieve papers for '{keyword}' at this time.\n\n")
+        f_is.write(f"Could not retrieve papers for '{keyword}' at this time.\n\n")
+    else:  
+        rm_table = generate_table(papers)
+        is_table = generate_table(papers[:issues_result], ignore_keys=["Abstract"])
+        f_rm.write(rm_table)
+        f_rm.write("\n\n")
+        f_is.write(is_table)
+        f_is.write("\n\n")
+        time.sleep(5) # avoid being blocked by arXiv API
 
 f_rm.close()
 f_is.close()
