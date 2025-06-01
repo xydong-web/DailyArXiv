@@ -1,5 +1,5 @@
 ---
-title: Latest 50 Papers - June 01, 2025
+title: Latest 50 Papers - June 02, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/JiamingZang/DailyArxiv) page for a better reading experience and more papers.**
@@ -21,6 +21,16 @@ labels: documentation
 | **[DiffMS: Diffusion Generation of Molecules Conditioned on Mass Spectra](http://arxiv.org/abs/2502.09571v2)** | 2025-05-27 | ICML 2025 |
 | **[HybridLinker: Topology-Guided Posterior Sampling for Enhanced Diversity and Validity in 3D Molecular Linker Generation](http://arxiv.org/abs/2502.17349v3)** | 2025-05-27 |  |
 | **[GenMol: A Drug Discovery Generalist with Discrete Diffusion](http://arxiv.org/abs/2501.06158v2)** | 2025-05-26 | ICML 2025 |
+| **[UniMoMo: Unified Generative Modeling of 3D Molecules for De Novo Binder Design](http://arxiv.org/abs/2503.19300v3)** | 2025-05-26 | <details><summary>Accep...</summary><p>Accepted to ICML 2025</p></details> |
+| **[Finding Pathways in Reaction Networks guided by Energy Barriers using Integer Linear Programming](http://arxiv.org/abs/2504.10609v2)** | 2025-05-26 | 29 pages |
+| **[Property Enhanced Instruction Tuning for Multi-task Molecule Generation with Large Language Models](http://arxiv.org/abs/2412.18084v5)** | 2025-05-26 | 9 |
+| **[On scalable and efficient training of diffusion samplers](http://arxiv.org/abs/2505.19552v1)** | 2025-05-26 |  |
+| **[Learning Flexible Forward Trajectories for Masked Molecular Diffusion](http://arxiv.org/abs/2505.16790v2)** | 2025-05-25 |  |
+| **[Text-Guided Multi-Property Molecular Optimization with a Diffusion Language Model](http://arxiv.org/abs/2410.13597v2)** | 2025-05-24 |  |
+| **[Applications of Modular Co-Design for De Novo 3D Molecule Generation](http://arxiv.org/abs/2505.18392v1)** | 2025-05-23 |  |
+| **[MolMiner: Towards Controllable, 3D-Aware, Fragment-Based Molecular Design](http://arxiv.org/abs/2411.06608v2)** | 2025-05-23 |  |
+| **[A Survey of Large Language Models for Text-Guided Molecular Discovery: from Molecule Generation to Optimization](http://arxiv.org/abs/2505.16094v1)** | 2025-05-22 | Under review |
+| **[MolLangBench: A Comprehensive Benchmark for Language-Prompted Molecular Structure Recognition, Editing, and Generation](http://arxiv.org/abs/2505.15054v1)** | 2025-05-21 |  |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
