@@ -1,5 +1,5 @@
 ---
-title: Latest 50 Papers - June 30, 2025
+title: Latest 50 Papers - July 01, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/JiamingZang/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,13 +7,9 @@ labels: documentation
 ## Molecular
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Action-Minimization Meets Generative Modeling: Efficient Transition Path Sampling with the Onsager-Machlup Functional](http://arxiv.org/abs/2504.18506v3)** | 2025-06-26 | ICML 2025 |
-| **[Communicating Smartly in the Molecular Domain: Neural Networks in the Internet of Bio-Nano Things](http://arxiv.org/abs/2506.20589v2)** | 2025-06-26 | <details><summary>Paper...</summary><p>Paper submitted to IEEE Communications Surveys & Tutorials</p></details> |
-| **[xChemAgents: Agentic AI for Explainable Quantum Chemistry](http://arxiv.org/abs/2505.20574v2)** | 2025-06-26 | <details><summary>Accep...</summary><p>Accepted Paper at ICML 2025 Workshop on MAS</p></details> |
-| **[On the coordinate system-dependence of the accuracy of symplectic numerical methods](http://arxiv.org/abs/2506.21241v1)** | 2025-06-26 | 24 pages, 7 figures |
-| **[Diverse Mini-Batch Selection in Reinforcement Learning for Efficient Chemical Exploration in de novo Drug Design](http://arxiv.org/abs/2506.21158v1)** | 2025-06-26 |  |
-| **[Unlasting: Unpaired Single-Cell Multi-Perturbation Estimation by Dual Conditional Diffusion Implicit Bridges](http://arxiv.org/abs/2506.21107v1)** | 2025-06-26 |  |
-| **[CovDocker: Benchmarking Covalent Drug Design with Tasks, Datasets, and Solutions](http://arxiv.org/abs/2506.21085v1)** | 2025-06-26 | <details><summary>Accep...</summary><p>Accepted to KDD 2025 Research Track</p></details> |
+| **[Learning Non-Local Molecular Interactions via Equivariant Local Representations and Charge Equilibration](http://arxiv.org/abs/2501.19179v2)** | 2025-06-27 |  |
+| **[On Drug Delivery System Parameter Optimisation via Semantic Information Theory](http://arxiv.org/abs/2506.22137v1)** | 2025-06-27 | <details><summary>This ...</summary><p>This work has been submitted for possible publication in the IEEE TRANSACTIONS ON MOLECULAR, BIOLOGICAL, AND MULTI-SCALE COMMUNICATIONS journal</p></details> |
+| **[SPADE: Spatial Transcriptomics and Pathology Alignment Using a Mixture of Data Experts for an Expressive Latent Space](http://arxiv.org/abs/2506.21857v1)** | 2025-06-27 |  |
 
 ## Molecular Generation
 | **Title** | **Date** | **Comment** |
@@ -33,46 +29,37 @@ labels: documentation
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Learning Non-Local Molecular Interactions via Equivariant Local Representations and Charge Equilibration](http://arxiv.org/abs/2501.19179v2)** | 2025-06-27 |  |
+| **[CoATA: Effective Co-Augmentation of Topology and Attribute for Graph Neural Networks](http://arxiv.org/abs/2506.22299v1)** | 2025-06-27 | icmr |
+| **[How do Probabilistic Graphical Models and Graph Neural Networks Look at Network Data?](http://arxiv.org/abs/2506.11869v2)** | 2025-06-27 |  |
+| **[LLM as GNN: Graph Vocabulary Learning for Text-Attributed Graph Foundation Models](http://arxiv.org/abs/2503.03313v2)** | 2025-06-27 |  |
+| **[The Missing Link: Joint Legal Citation Prediction using Heterogeneous Graph Enrichment](http://arxiv.org/abs/2506.22165v1)** | 2025-06-27 |  |
+| **[Learning Distributed Safe Multi-Agent Navigation via Infinite-Horizon Optimal Graph Control](http://arxiv.org/abs/2506.22117v1)** | 2025-06-27 |  |
+| **[Transformers are Graph Neural Networks](http://arxiv.org/abs/2506.22084v1)** | 2025-06-27 | <details><summary>This ...</summary><p>This paper is a technical version of an article in The Gradient at https://thegradient.pub/transformers-are-graph-neural-networks/</p></details> |
+| **[PQ-GCN: Enhancing Text Graph Question Classification with Phrase Features](http://arxiv.org/abs/2409.02481v3)** | 2025-06-27 |  |
+| **[Multi-task parallelism for robust pre-training of graph foundation models on multi-source, multi-fidelity atomistic modeling data](http://arxiv.org/abs/2506.21788v1)** | 2025-06-26 | <details><summary>15 pa...</summary><p>15 pages, 4 figures, 2 tables</p></details> |
+| **[Graph ODEs and Beyond: A Comprehensive Survey on Integrating Differential Equations with Graph Neural Networks](http://arxiv.org/abs/2503.23167v3)** | 2025-06-26 | <details><summary>Accep...</summary><p>Accepted by KDD 2025 Tutorial Track</p></details> |
+| **[Analysis of static and dynamic batching algorithms for graph neural networks](http://arxiv.org/abs/2502.00944v2)** | 2025-06-26 |  |
+| **[Link Prediction with Physics-Inspired Graph Neural Networks](http://arxiv.org/abs/2402.14802v3)** | 2025-06-26 | <details><summary>Camer...</summary><p>Camera-Ready version. Accepted at IJCNN 2025</p></details> |
+| **[Do We Really Need GNNs with Explicit Structural Modeling? MLPs Suffice for Language Model Representations](http://arxiv.org/abs/2506.21682v1)** | 2025-06-26 | <details><summary>Graph...</summary><p>Graph Neural Networks, Multi-Layer Perceptrons, Explicit Structural Modeling, Probing Classifier</p></details> |
 | **[Graph Neural Network for Neutrino Physics Event Reconstruction](http://arxiv.org/abs/2403.11872v2)** | 2025-06-26 | <details><summary>18 pa...</summary><p>18 pages, 14 figures, published in Physical Review D</p></details> |
 | **[Accelerating GNN Training through Locality-aware Dropout and Merge](http://arxiv.org/abs/2506.21414v1)** | 2025-06-26 | <details><summary>under...</summary><p>under review in TPDS. extend version of DATE 2025</p></details> |
 | **[Temporal-Aware Graph Attention Network for Cryptocurrency Transaction Fraud Detection](http://arxiv.org/abs/2506.21382v1)** | 2025-06-26 |  |
 | **[Real-time and personalized product recommendations for large e-commerce platforms](http://arxiv.org/abs/2506.21368v1)** | 2025-06-26 | <details><summary>This ...</summary><p>This paper has been accepted for publication at the International Conference on Artificial Neural Networks (ICANN) 2025. The final authenticated version will be available for purchase through the publisher's website. The conference proceedings will be published by Springer in the Lecture Notes in Computer Science (LNCS) series</p></details> |
 | **[ScaleGNN: Towards Scalable Graph Neural Networks via Adaptive High-order Neighboring Feature Fusion](http://arxiv.org/abs/2504.15920v4)** | 2025-06-26 |  |
 | **[Devil's Hand: Data Poisoning Attacks to Locally Private Graph Learning Protocols](http://arxiv.org/abs/2506.09803v2)** | 2025-06-26 |  |
-| **[xChemAgents: Agentic AI for Explainable Quantum Chemistry](http://arxiv.org/abs/2505.20574v2)** | 2025-06-26 | <details><summary>Accep...</summary><p>Accepted Paper at ICML 2025 Workshop on MAS</p></details> |
-| **[A GREAT Architecture for Edge-Based Graph Problems Like TSP](http://arxiv.org/abs/2408.16717v2)** | 2025-06-26 | 15 pages, 7 figures |
-| **[Demystifying Distributed Training of Graph Neural Networks for Link Prediction](http://arxiv.org/abs/2506.20818v1)** | 2025-06-25 | <details><summary>Accep...</summary><p>Accepted by IEEE ICDCS 2025</p></details> |
-| **[Poster: Enhancing GNN Robustness for Network Intrusion Detection via Agent-based Analysis](http://arxiv.org/abs/2506.20806v1)** | 2025-06-25 | <details><summary>Poste...</summary><p>Poster accepted at the 10th IEEE European Symposium on Security and Privacy (Euro S&P 2025)</p></details> |
-| **[Exploring Graph-Transformer Out-of-Distribution Generalization Abilities](http://arxiv.org/abs/2506.20575v1)** | 2025-06-25 |  |
-| **[Adaptive Supergeo Design: A Scalable Framework for Geographic Marketing Experiments](http://arxiv.org/abs/2506.20499v1)** | 2025-06-25 |  |
-| **[Self-Supervised Graph Learning via Spectral Bootstrapping and Laplacian-Based Augmentations](http://arxiv.org/abs/2506.20362v1)** | 2025-06-25 | <details><summary>Lapla...</summary><p>LaplaceGNN is a novel graph learning framework that employs a bootstrapped teacher-student architecture. Its precomputed spectral augmentations and adversarial training enable robust performance, outperforming SOTA methods while scaling linearly</p></details> |
-| **[Permutation Equivariant Neural Controlled Differential Equations for Dynamic Graph Representation Learning](http://arxiv.org/abs/2506.20324v1)** | 2025-06-25 |  |
-| **[Flexible Infinite-Width Graph Convolutional Neural Networks](http://arxiv.org/abs/2402.06525v2)** | 2025-06-25 | <details><summary>Major...</summary><p>Major revision. Title and abstract updated. Added new analysis section on linear models and additional datasets. Paper accepted to TMLR</p></details> |
-| **[Beyond Topological Self-Explainable GNNs: A Formal Explainability Perspective](http://arxiv.org/abs/2502.02719v2)** | 2025-06-25 |  |
-| **[Dual-Channel Multiplex Graph Neural Networks for Recommendation](http://arxiv.org/abs/2403.11624v5)** | 2025-06-25 |  |
-| **[Directed Link Prediction using GNN with Local and Global Feature Fusion](http://arxiv.org/abs/2506.20235v1)** | 2025-06-25 |  |
-| **[GNN's Uncertainty Quantification using Self-Distillation](http://arxiv.org/abs/2506.20046v1)** | 2025-06-24 | <details><summary>The p...</summary><p>The paper has been accepted in the International Conference on AI in Healthcare (AIiH) 2025 and will appear in the conference proceedings</p></details> |
 
 ## Diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Whole-Body Conditioned Egocentric Video Prediction](http://arxiv.org/abs/2506.21552v1)** | 2025-06-26 | <details><summary>Proje...</summary><p>Project Page: https://dannytran123.github.io/PEVA</p></details> |
-| **[DeOcc-1-to-3: 3D De-Occlusion from a Single Image via Self-Supervised Multi-View Diffusion](http://arxiv.org/abs/2506.21544v1)** | 2025-06-26 |  |
-| **[QuEST: Low-bit Diffusion Model Quantization via Efficient Selective Finetuning](http://arxiv.org/abs/2402.03666v4)** | 2025-06-26 | <details><summary>ICCV ...</summary><p>ICCV 2025. Code is available at https://github.com/hatchetProject/QuEST</p></details> |
-| **[SmoothSinger: A Conditional Diffusion Model for Singing Voice Synthesis with Multi-Resolution Architecture](http://arxiv.org/abs/2506.21478v1)** | 2025-06-26 |  |
-| **[Consistency of MLE in partially observed diffusion models on a torus](http://arxiv.org/abs/2412.03380v4)** | 2025-06-26 |  |
-| **[Rethinking Oversaturation in Classifier-Free Guidance via Low Frequency](http://arxiv.org/abs/2506.21452v1)** | 2025-06-26 |  |
-| **[Controllable 3D Placement of Objects with Scene-Aware Diffusion Models](http://arxiv.org/abs/2506.21446v1)** | 2025-06-26 |  |
-| **[Flow-Based Single-Step Completion for Efficient and Expressive Policy Learning](http://arxiv.org/abs/2506.21427v1)** | 2025-06-26 |  |
-| **[XVerse: Consistent Multi-Subject Control of Identity and Semantic Attributes via DiT Modulation](http://arxiv.org/abs/2506.21416v1)** | 2025-06-26 | <details><summary>Proje...</summary><p>Project Page: https://bytedance.github.io/XVerse Github Link: https://github.com/bytedance/XVerse</p></details> |
-| **[Action-Minimization Meets Generative Modeling: Efficient Transition Path Sampling with the Onsager-Machlup Functional](http://arxiv.org/abs/2504.18506v3)** | 2025-06-26 | ICML 2025 |
-| **[DiffuCoder: Understanding and Improving Masked Diffusion Models for Code Generation](http://arxiv.org/abs/2506.20639v2)** | 2025-06-26 | minor update |
-| **[Aligned Novel View Image and Geometry Synthesis via Cross-modal Attention Instillation](http://arxiv.org/abs/2506.11924v2)** | 2025-06-26 | <details><summary>Proje...</summary><p>Project page at https://cvlab-kaist.github.io/MoAI</p></details> |
-| **[Latent Diffusion Model Based Denoising Receiver for 6G Semantic Communication: From Stochastic Differential Theory to Application](http://arxiv.org/abs/2506.05710v2)** | 2025-06-26 |  |
-| **[A discontinuous in time Streamline Diffusion Virtual Element Method for Darcy-transport problem](http://arxiv.org/abs/2506.21326v1)** | 2025-06-26 |  |
-| **[Exploring Adapter Design Tradeoffs for Low Resource Music Generation](http://arxiv.org/abs/2506.21298v1)** | 2025-06-26 | 9 pages, 5 figures |
-| **[HieraSurg: Hierarchy-Aware Diffusion Model for Surgical Video Generation](http://arxiv.org/abs/2506.21287v1)** | 2025-06-26 | <details><summary>Accep...</summary><p>Accepted at MICCAI 2025</p></details> |
-| **[FairyGen: Storied Cartoon Video from a Single Child-Drawn Character](http://arxiv.org/abs/2506.21272v1)** | 2025-06-26 | <details><summary>Proje...</summary><p>Project Page: https://jayleejia.github.io/FairyGen/ ; Code: https://github.com/GVCLab/FairyGen</p></details> |
+| **[Shape-for-Motion: Precise and Consistent Video Editing with 3D Proxy](http://arxiv.org/abs/2506.22432v1)** | 2025-06-27 |  |
+| **[Diffusion-Based Surrogate Modeling and Multi-Fidelity Calibration](http://arxiv.org/abs/2407.17720v2)** | 2025-06-27 |  |
+| **[DiffSoundStream: Efficient Speech Tokenization via Diffusion Decoding](http://arxiv.org/abs/2506.22362v1)** | 2025-06-27 |  |
+| **[Unfolding Generative Flows with Koopman Operators: Fast and Interpretable Sampling](http://arxiv.org/abs/2506.22304v1)** | 2025-06-27 |  |
+| **[OutDreamer: Video Outpainting with a Diffusion Transformer](http://arxiv.org/abs/2506.22298v1)** | 2025-06-27 |  |
+| **[The Effect of Network Topology on the Equilibria of Influence-Opinion Games](http://arxiv.org/abs/2506.22293v1)** | 2025-06-27 | 12 pages, 2 figures |
+| **[Enhancing Object Detection Robustness: Detecting and Restoring Confidence in the Presence of Adversarial Patch Attacks](http://arxiv.org/abs/2403.12988v2)** | 2025-06-27 |  |
+| **[Unified Multimodal Understanding and Generation Models: Advances, Challenges, and Opportunities](http://arxiv.org/abs/2505.02567v4)** | 2025-06-27 | <details><summary>In th...</summary><p>In this version, we incorporate new papers, datasets, and benchmarks. This work is still in progress; Github project: https://github.com/AIDC-AI/Awesome-Unified-Multimodal-Models</p></details> |
 
 ## Object Counting
 | **Title** | **Date** | **Comment** |
@@ -100,6 +87,7 @@ labels: documentation
 ## Image Caption
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[On the Feasibility of Poisoning Text-to-Image AI Models via Adversarial Mislabeling](http://arxiv.org/abs/2506.21874v1)** | 2025-06-27 | <details><summary>ACM C...</summary><p>ACM Conference on Computer and Communications Security 2025</p></details> |
 | **[GroundCap: A Visually Grounded Image Captioning Dataset](http://arxiv.org/abs/2502.13898v3)** | 2025-06-25 | 37 pages |
 | **[Text-to-Image Models and Their Representation of People from Different Nationalities Engaging in Activities](http://arxiv.org/abs/2504.06313v3)** | 2025-06-25 |  |
 | **[Show, Tell and Summarize: Dense Video Captioning Using Visual Cue Aided Sentence Summarization](http://arxiv.org/abs/2506.20567v1)** | 2025-06-25 | 10 pages |
@@ -113,24 +101,21 @@ labels: documentation
 | **[PostAlign: Multimodal Grounding as a Corrective Lens for MLLMs](http://arxiv.org/abs/2506.17901v1)** | 2025-06-22 |  |
 | **[MDSAM:Memory-Driven Sparse Attention Matrix for LVLMs Hallucination Mitigation](http://arxiv.org/abs/2506.17664v1)** | 2025-06-21 |  |
 | **[ICC: Quantifying Image Caption Concreteness for Multimodal Dataset Curation](http://arxiv.org/abs/2403.01306v4)** | 2025-06-20 | <details><summary>Accep...</summary><p>Accepted to ACL 2024 (Finding). For Project webpage, see https://moranyanuka.github.io/icc/</p></details> |
+| **[Evaluating VisualRAG: Quantifying Cross-Modal Performance in Enterprise Document Understanding](http://arxiv.org/abs/2506.21604v1)** | 2025-06-19 | <details><summary>Confe...</summary><p>Conference: KDD conference workshop: https://kdd-eval-workshop.github.io/genai-evaluation-kdd2025/</p></details> |
 | **[On Domain-Adaptive Post-Training for Multimodal Large Language Models](http://arxiv.org/abs/2411.19930v3)** | 2025-06-19 | <details><summary>https...</summary><p>https://huggingface.co/AdaptLLM</p></details> |
 | **[DiscoSG: Towards Discourse-Level Text Scene Graph Parsing through Iterative Graph Refinement](http://arxiv.org/abs/2506.15583v1)** | 2025-06-18 |  |
 | **[EXGRA-MED: Extended Context Graph Alignment for Medical Vision- Language Models](http://arxiv.org/abs/2410.02615v3)** | 2025-06-17 | Version 2 |
 | **[LaMP-Cap: Personalized Figure Caption Generation With Multimodal Figure Profiles](http://arxiv.org/abs/2506.06561v2)** | 2025-06-17 | <details><summary>The L...</summary><p>The LaMP-CAP dataset is publicly available at: https://github.com/Crowd-AI-Lab/lamp-cap</p></details> |
 | **[PunchBench: Benchmarking MLLMs in Multimodal Punchline Comprehension](http://arxiv.org/abs/2412.11906v2)** | 2025-06-17 | <details><summary>This ...</summary><p>This is the camera-ready version for ACL 2025</p></details> |
-| **[An Open-Source Software Toolkit & Benchmark Suite for the Evaluation and Adaptation of Multimodal Action Models](http://arxiv.org/abs/2506.09172v2)** | 2025-06-17 | <details><summary>ICML ...</summary><p>ICML CodeML Workshop, 13 Pages, 6 Figures, 2 Tables</p></details> |
-| **[UltraVideo: High-Quality UHD Video Dataset with Comprehensive Captions](http://arxiv.org/abs/2506.13691v1)** | 2025-06-16 |  |
 
 ## Describe
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Towards Reliable Detection of Empty Space: Conditional Marked Point Processes for Object Detection](http://arxiv.org/abs/2506.21486v1)** | 2025-06-26 | <details><summary>15 pa...</summary><p>15 pages, 4 figures, 3 tables</p></details> |
-| **[In-Context Learning Strategies Emerge Rationally](http://arxiv.org/abs/2506.17859v2)** | 2025-06-26 | Preprint |
-| **[Efficient and Reuseable Cloud Configuration Search Using Discovery Spaces](http://arxiv.org/abs/2506.21467v1)** | 2025-06-26 |  |
-| **[Wild refitting for black box prediction](http://arxiv.org/abs/2506.21460v1)** | 2025-06-26 |  |
-| **[An Iterative Methodology for Unitary Quantum Channel Search](http://arxiv.org/abs/2506.21455v1)** | 2025-06-26 |  |
-| **[New Bounds for Sparse Variational Gaussian Processes](http://arxiv.org/abs/2502.08730v2)** | 2025-06-26 | 18 pages, 5 figures |
-| **[Graph Neural Network for Neutrino Physics Event Reconstruction](http://arxiv.org/abs/2403.11872v2)** | 2025-06-26 | <details><summary>18 pa...</summary><p>18 pages, 14 figures, published in Physical Review D</p></details> |
+| **[Bridging the Gap Between Saliency Prediction and Image Quality Assessment](http://arxiv.org/abs/2405.04997v2)** | 2025-06-27 | <details><summary>Accep...</summary><p>Accepted to EUSIPCO 2025</p></details> |
+| **[CRAB: Cross-environment Agent Benchmark for Multimodal Language Model Agents](http://arxiv.org/abs/2407.01511v3)** | 2025-06-27 | 2025 ACL Findings |
+| **[Embodied AI Agents: Modeling the World](http://arxiv.org/abs/2506.22355v1)** | 2025-06-27 |  |
+| **[Less Greedy Equivalence Search](http://arxiv.org/abs/2506.22331v1)** | 2025-06-27 | <details><summary>35 to...</summary><p>35 total pages. 14 figures</p></details> |
+| **[Risk Estimate under a Time-Varying Autoregressive Model for Data-Driven Reproduction Number Estimation](http://arxiv.org/abs/2409.14937v3)** | 2025-06-27 |  |
 
 ## Light Weight
 | **Title** | **Date** | **Comment** |
@@ -158,6 +143,7 @@ labels: documentation
 ## Class Incremental
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Mamba-FSCIL: Dynamic Adaptation with Selective State Space Model for Few-Shot Class-Incremental Learning](http://arxiv.org/abs/2407.06136v3)** | 2025-06-27 | <details><summary>Code:...</summary><p>Code: https://github.com/xiaojieli0903/Mamba-FSCIL</p></details> |
 | **[DuET: Dual Incremental Object Detection via Exemplar-Free Task Arithmetic](http://arxiv.org/abs/2506.21260v1)** | 2025-06-26 | <details><summary>Accep...</summary><p>Accepted at ICCV 2025</p></details> |
 | **[ChordPrompt: Orchestrating Cross-Modal Prompt Synergy for Multi-Domain Incremental Learning in CLIP](http://arxiv.org/abs/2506.19608v1)** | 2025-06-24 | <details><summary>Accep...</summary><p>Accept by ECML-PKDD 2025</p></details> |
 | **[ConCM: Consistency-Driven Calibration and Matching for Few-Shot Class-Incremental Learning](http://arxiv.org/abs/2506.19558v1)** | 2025-06-24 | <details><summary>9 pag...</summary><p>9 pages, 5 figures(Excluding the appendix)</p></details> |
@@ -176,5 +162,4 @@ labels: documentation
 | **[Flashbacks to Harmonize Stability and Plasticity in Continual Learning](http://arxiv.org/abs/2506.00477v1)** | 2025-05-31 | <details><summary>Manus...</summary><p>Manuscript submitted to Neural Networks (Elsevier) in August 2024; and accepted in May 2025 for publication. This version is author-accepted manuscript before copyediting and typesetting. The codes of this article will be available at https://github.com/csiro-robotics/Flashback-Learning</p></details> |
 | **[CL-LoRA: Continual Low-Rank Adaptation for Rehearsal-Free Class-Incremental Learning](http://arxiv.org/abs/2505.24816v1)** | 2025-05-30 | <details><summary>Accep...</summary><p>Accepted to CVPR 2025</p></details> |
 | **[Buffer-free Class-Incremental Learning with Out-of-Distribution Detection](http://arxiv.org/abs/2505.23412v1)** | 2025-05-29 |  |
-| **[IRS: Incremental Relationship-guided Segmentation for Digital Pathology](http://arxiv.org/abs/2505.22855v1)** | 2025-05-28 |  |
 
