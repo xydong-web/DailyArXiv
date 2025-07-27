@@ -1,5 +1,5 @@
 ---
-title: Latest 50 Papers - July 27, 2025
+title: Latest 50 Papers - July 28, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/JiamingZang/DailyArxiv) page for a better reading experience and more papers.**
@@ -45,11 +45,11 @@ labels: documentation
 | **[Learning to Locate: GNN-Powered Vulnerability Path Discovery in Open Source Code](http://arxiv.org/abs/2507.17888v1)** | 2025-07-23 | 8 pages, 5 Figures |
 | **[Towards Effective Open-set Graph Class-incremental Learning](http://arxiv.org/abs/2507.17687v1)** | 2025-07-23 | <details><summary>Accep...</summary><p>Accepted by 33rd ACM International Conference on Multimedia (MM 2025)</p></details> |
 | **[Graph Neural Network Approach to Predicting Magnetization in Quasi-One-Dimensional Ising Systems](http://arxiv.org/abs/2507.17509v1)** | 2025-07-23 | 18 pages, 4 figures |
+| **[ACMP: Allen-Cahn Message Passing with Attractive and Repulsive Forces for Graph Neural Networks](http://arxiv.org/abs/2206.05437v4)** | 2025-07-23 | <details><summary>26 pa...</summary><p>26 pages, 5 figures. NeurIPS 2022 Workshop on GLFrontiers (Oral). ICLR 2023 (Spotlight)</p></details> |
 | **[Graph Neural Networks for O-RAN Mobility Management: A Link Prediction Approach](http://arxiv.org/abs/2502.02170v2)** | 2025-07-23 | <details><summary>7 pag...</summary><p>7 pages, 5 figures, 1 table. Submitted to IEEE Vehicular Technology Magazine, Special Issue on "AI for 6G O-RAN Intelligent, Cost-Efficient and Secure Automation". Version after Major Revision</p></details> |
 | **[Hierarchical Learning-Enhanced MPC for Safe Crowd Navigation with Heterogeneous Constraints](http://arxiv.org/abs/2506.09859v2)** | 2025-07-23 |  |
 | **[TwiUSD: A Benchmark Dataset and Structure-Aware LLM Framework for User Stance Detection](http://arxiv.org/abs/2506.13343v2)** | 2025-07-23 |  |
 | **[HypoChainer: A Collaborative System Combining LLMs and Knowledge Graphs for Hypothesis-Driven Scientific Discovery](http://arxiv.org/abs/2507.17209v1)** | 2025-07-23 |  |
-| **[PyG 2.0: Scalable Learning on Real World Graphs](http://arxiv.org/abs/2507.16991v1)** | 2025-07-22 |  |
 
 ## Diffusion
 | **Title** | **Date** | **Comment** |
