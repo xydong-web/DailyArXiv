@@ -1,5 +1,5 @@
 ---
-title: Latest 50 Papers - August 02, 2025
+title: Latest 50 Papers - August 03, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/JiamingZang/DailyArxiv) page for a better reading experience and more papers.**
@@ -15,6 +15,21 @@ labels: documentation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
 | **[MolPIF: A Parameter Interpolation Flow Model for Molecule Generation](http://arxiv.org/abs/2507.13762v3)** | 2025-07-31 |  |
+| **[Image Super-resolution Inspired Electron Density Prediction](http://arxiv.org/abs/2402.12335v2)** | 2025-07-29 |  |
+| **[Geometric Representation Condition Improves Equivariant Molecule Generation](http://arxiv.org/abs/2410.03655v4)** | 2025-07-28 | <details><summary>Accep...</summary><p>Accepted to ICML 2025 as a Spotlight Poster</p></details> |
+| **[Look the Other Way: Designing 'Positive' Molecules with Negative Data via Task Arithmetic](http://arxiv.org/abs/2507.17876v1)** | 2025-07-23 |  |
+| **[GenMol: A Drug Discovery Generalist with Discrete Diffusion](http://arxiv.org/abs/2501.06158v3)** | 2025-07-22 | ICML 2025 |
+| **[Aligned Manifold Property and Topology Point Clouds for Learning Molecular Properties](http://arxiv.org/abs/2507.16223v1)** | 2025-07-22 | 13 pages, 6 figures |
+| **[BARNN: A Bayesian Autoregressive and Recurrent Neural Network](http://arxiv.org/abs/2501.18665v2)** | 2025-07-18 |  |
+| **[MoDyGAN: Combining Molecular Dynamics With GANs to Investigate Protein Conformational Space](http://arxiv.org/abs/2507.13950v1)** | 2025-07-18 |  |
+| **[Computing and Bounding Equilibrium Concentrations in Athermic Chemical Systems](http://arxiv.org/abs/2507.12699v1)** | 2025-07-17 | <details><summary>To be...</summary><p>To be published in DNA31 (31st International Conference on DNA Computing and Molecular Programming)</p></details> |
+| **[SynCoGen: Synthesizable 3D Molecule Generation via Joint Reaction and Coordinate Modeling](http://arxiv.org/abs/2507.11818v1)** | 2025-07-16 |  |
+| **[Torsional-GFN: a conditional conformation generator for small molecules](http://arxiv.org/abs/2507.11759v1)** | 2025-07-15 | <details><summary>The t...</summary><p>The two first authors are Alexandra Volokhova and L\'ena N\'ehale Ezzine, with equal contribution</p></details> |
+| **[Acquiring and Adapting Priors for Novel Tasks via Neural Meta-Architectures](http://arxiv.org/abs/2507.10446v2)** | 2025-07-15 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2310.17075</p></details> |
+| **[TextOmics-Guided Diffusion for Hit-like Molecular Generation](http://arxiv.org/abs/2507.09982v1)** | 2025-07-14 |  |
+| **[Efficient Molecular Conformer Generation with SO(3)-Averaged Flow Matching and Reflow](http://arxiv.org/abs/2507.09785v1)** | 2025-07-13 | ICML 2025 poster |
+| **[Learning Flexible Forward Trajectories for Masked Molecular Diffusion](http://arxiv.org/abs/2505.16790v3)** | 2025-07-13 |  |
+| **[Learning-Order Autoregressive Models with Application to Molecular Graph Generation](http://arxiv.org/abs/2503.05979v2)** | 2025-07-13 |  |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
