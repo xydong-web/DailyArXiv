@@ -1,5 +1,5 @@
 ---
-title: Latest 50 Papers - August 10, 2025
+title: Latest 50 Papers - August 11, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/JiamingZang/DailyArxiv) page for a better reading experience and more papers.**
@@ -150,21 +150,4 @@ labels: documentation
 | **[Sculpting Margin Penalty: Intra-Task Adapter Merging and Classifier Calibration for Few-Shot Class-Incremental Learning](http://arxiv.org/abs/2508.05094v1)** | 2025-08-07 | 13 pages, 7 figures |
 | **[Continual Multiple Instance Learning for Hematologic Disease Diagnosis](http://arxiv.org/abs/2508.04368v1)** | 2025-08-06 | <details><summary>Accep...</summary><p>Accepted for publication at MICCAI 2024 workshop on Efficient Medical AI</p></details> |
 | **[Learning New Concepts, Remembering the Old: Continual Learning for Multimodal Concept Bottleneck Models](http://arxiv.org/abs/2411.17471v2)** | 2025-08-04 |  |
-| **[Welcome New Doctor: Continual Learning with Expert Consultation and Autoregressive Inference for Whole Slide Image Analysis](http://arxiv.org/abs/2508.02220v1)** | 2025-08-04 |  |
-| **[Dynamic Robot-Assisted Surgery with Hierarchical Class-Incremental Semantic Segmentation](http://arxiv.org/abs/2508.01713v1)** | 2025-08-03 |  |
-| **[Lifelong Person Re-identification via Privacy-Preserving Data Replay](http://arxiv.org/abs/2508.01587v1)** | 2025-08-03 | 15 pages, 11 figures |
-| **[DuET: Dual Incremental Object Detection via Exemplar-Free Task Arithmetic](http://arxiv.org/abs/2506.21260v2)** | 2025-08-02 | <details><summary>Accep...</summary><p>Accepted at ICCV 2025</p></details> |
-| **[Ambiguity-Guided Learnable Distribution Calibration for Semi-Supervised Few-Shot Class-Incremental Learning](http://arxiv.org/abs/2507.23237v1)** | 2025-07-31 | 6 pages, 5 figures |
-| **[Prompt-Based Exemplar Super-Compression and Regeneration for Class-Incremental Learning](http://arxiv.org/abs/2311.18266v3)** | 2025-07-31 | <details><summary>BMVC ...</summary><p>BMVC 2025. Code: https://github.com/KerryDRX/PESCR</p></details> |
-| **[RainbowPrompt: Diversity-Enhanced Prompt-Evolving for Continual Learning](http://arxiv.org/abs/2507.22553v1)** | 2025-07-30 | <details><summary>Accep...</summary><p>Accepted by the 2025 IEEE/CVF International Conference on Computer Vision (ICCV 2025)</p></details> |
-| **[CLoRA: Parameter-Efficient Continual Learning with Low-Rank Adaptation](http://arxiv.org/abs/2507.19887v1)** | 2025-07-26 | <details><summary>Accep...</summary><p>Accepted at CoLLAs 2025</p></details> |
-| **[External Knowledge Injection for CLIP-Based Class-Incremental Learning](http://arxiv.org/abs/2503.08510v2)** | 2025-07-24 | <details><summary>Accep...</summary><p>Accepted to ICCV 2025. Code is available at: https://github.com/LAMDA-CL/ICCV25-ENGINE</p></details> |
-| **[Towards Effective Open-set Graph Class-incremental Learning](http://arxiv.org/abs/2507.17687v1)** | 2025-07-23 | <details><summary>Accep...</summary><p>Accepted by 33rd ACM International Conference on Multimedia (MM 2025)</p></details> |
-| **[Continual Generalized Category Discovery: Learning and Forgetting from a Bayesian Perspective](http://arxiv.org/abs/2507.17382v1)** | 2025-07-23 | <details><summary>20 pa...</summary><p>20 pages, 6 figures. Forty-second International Conference on Machine Learning. 2025</p></details> |
-| **[Scaled Relative Graph Analysis of General Interconnections of SISO Nonlinear Systems](http://arxiv.org/abs/2507.15564v1)** | 2025-07-21 |  |
-| **[Vector Quantization Prompting for Continual Learning](http://arxiv.org/abs/2410.20444v2)** | 2025-07-20 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2024</p></details> |
-| **[Revisiting Pool-based Prompt Learning for Few-shot Class-incremental Learning](http://arxiv.org/abs/2507.09183v2)** | 2025-07-20 | <details><summary>Accep...</summary><p>Accepted to ICCV 2025, 11 pages</p></details> |
-| **[Noradrenergic-inspired gain modulation attenuates the stability gap in joint training](http://arxiv.org/abs/2507.14056v1)** | 2025-07-18 | <details><summary>18 pa...</summary><p>18 pages, 5 figures, 1 table, 1 pseudo-code</p></details> |
-| **[Foundation Models as Class-Incremental Learners for Dermatological Image Classification](http://arxiv.org/abs/2507.14050v1)** | 2025-07-18 | <details><summary>Accep...</summary><p>Accepted at the MICCAI EMERGE 2025 workshop</p></details> |
-| **[Can Synthetic Images Conquer Forgetting? Beyond Unexplored Doubts in Few-Shot Class-Incremental Learning](http://arxiv.org/abs/2507.13739v1)** | 2025-07-18 | <details><summary>6th C...</summary><p>6th CLVISION ICCV Workshop accepted</p></details> |
 
