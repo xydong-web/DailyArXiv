@@ -1,5 +1,5 @@
 ---
-title: Latest 50 Papers - August 17, 2025
+title: Latest 50 Papers - August 18, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/JiamingZang/DailyArxiv) page for a better reading experience and more papers.**
@@ -127,9 +127,6 @@ labels: documentation
 | **[TexVerse: A Universe of 3D Objects with High-Resolution Textures](http://arxiv.org/abs/2508.10868v1)** | 2025-08-14 |  |
 | **[Introducing CQ: A C-like API for Quantum Accelerated HPC](http://arxiv.org/abs/2508.10854v1)** | 2025-08-14 | <details><summary>8 pag...</summary><p>8 pages, 1 figure. Submitted to the 1st International Workshop for Software Frameworks and Workload Management on Quantum and HPC Ecosystems at SC25</p></details> |
 | **[SoK: Data Minimization in Machine Learning](http://arxiv.org/abs/2508.10836v1)** | 2025-08-14 |  |
-| **[Scaling Up without Fading Out: Goal-Aware Sparse GNN for RL-based Generalized Planning](http://arxiv.org/abs/2508.10747v1)** | 2025-08-14 | 16 pages, 10 figures |
-| **[Visualization of Electronic Health Record Sequences at Scale](http://arxiv.org/abs/2508.10700v1)** | 2025-08-14 |  |
-| **[A Novel Study on Intelligent Methods and Explainable AI for Dynamic Malware Analysis](http://arxiv.org/abs/2508.10652v1)** | 2025-08-14 |  |
 
 ## Light Weight
 | **Title** | **Date** | **Comment** |
