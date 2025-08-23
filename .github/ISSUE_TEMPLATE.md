@@ -1,5 +1,5 @@
 ---
-title: Latest 50 Papers - August 23, 2025
+title: Latest 50 Papers - August 24, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/JiamingZang/DailyArxiv) page for a better reading experience and more papers.**
@@ -9,6 +9,7 @@ labels: documentation
 | --- | --- | --- |
 | **[Intern-S1: A Scientific Multimodal Foundation Model](http://arxiv.org/abs/2508.15763v1)** | 2025-08-21 |  |
 | **[Fine-grained Multi-class Nuclei Segmentation with Molecular-empowered All-in-SAM Model](http://arxiv.org/abs/2508.15751v1)** | 2025-08-21 | <details><summary>25 pa...</summary><p>25 pages, 3 figures, accepted by Journal of Medical Imaging</p></details> |
+| **[Learning Protein-Ligand Binding in Hyperbolic Space](http://arxiv.org/abs/2508.15480v1)** | 2025-08-21 |  |
 
 ## Molecular Generation
 | **Title** | **Date** | **Comment** |
