@@ -1,5 +1,5 @@
 ---
-title: Latest 50 Papers - August 24, 2025
+title: Latest 50 Papers - August 25, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/JiamingZang/DailyArxiv) page for a better reading experience and more papers.**
@@ -18,14 +18,6 @@ labels: documentation
 | **[NovoMolGen: Rethinking Molecular Language Model Pretraining](http://arxiv.org/abs/2508.13408v1)** | 2025-08-19 |  |
 | **[FlowMol3: Flow Matching for 3D De Novo Small-Molecule Generation](http://arxiv.org/abs/2508.12629v1)** | 2025-08-18 |  |
 | **[Controlled Generation with Equivariant Variational Flow Matching](http://arxiv.org/abs/2506.18340v2)** | 2025-08-15 |  |
-| **[Variational Flow Matching for Graph Generation](http://arxiv.org/abs/2406.04843v2)** | 2025-08-15 |  |
-| **[IBEX: Information-Bottleneck-EXplored Coarse-to-Fine Molecular Generation under Limited Data](http://arxiv.org/abs/2508.10775v1)** | 2025-08-14 | 10 pages, 8 figures |
-| **[Chem3DLLM: 3D Multimodal Large Language Models for Chemistry](http://arxiv.org/abs/2508.10696v1)** | 2025-08-14 | 15 pages, 9 figures |
-| **[$\text{M}^{2}$LLM: Multi-view Molecular Representation Learning with Large Language Models](http://arxiv.org/abs/2508.08657v1)** | 2025-08-12 | IJCAI 2025 |
-| **[A DNN Biophysics Model with Topological and Electrostatic Features](http://arxiv.org/abs/2409.03658v2)** | 2025-08-12 |  |
-| **[MolSnap: Snap-Fast Molecular Generation with Latent Variational Mean Flow](http://arxiv.org/abs/2508.05411v1)** | 2025-08-07 |  |
-| **[One Small Step with Fingerprints, One Giant Leap for De Novo Molecule Generation from Mass Spectra](http://arxiv.org/abs/2508.04180v2)** | 2025-08-07 |  |
-| **[Potential Score Matching: Debiasing Molecular Structure Sampling with Potential Energy Guidance](http://arxiv.org/abs/2503.14569v2)** | 2025-08-05 |  |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
