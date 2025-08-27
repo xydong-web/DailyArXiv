@@ -1,5 +1,5 @@
 ---
-title: Latest 50 Papers - August 27, 2025
+title: Latest 50 Papers - August 28, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/JiamingZang/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,13 +7,17 @@ labels: documentation
 ## Molecular
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Amortized Sampling with Transferable Normalizing Flows](http://arxiv.org/abs/2508.18175v1)** | 2025-08-25 |  |
-| **[Realizing Reduced and Sparse Biochemical Reaction Networks from Dynamics](http://arxiv.org/abs/2508.18096v1)** | 2025-08-25 | <details><summary>Accep...</summary><p>Accepted to IEEE CDC 2025. Author-accepted version; supplementary material in appendix file</p></details> |
-| **[Weisfeiler-Lehman meets Events: An Expressivity Analysis for Continuous-Time Dynamic Graph Neural Networks](http://arxiv.org/abs/2508.18052v1)** | 2025-08-25 |  |
+| **[Identification over Affine Poisson Channels: Application to Molecular Mixture Communication Systems](http://arxiv.org/abs/2410.11569v4)** | 2025-08-26 | <details><summary>11 Pa...</summary><p>11 Pages. A preliminary version of this research has been accepted for presentation at the IEEE Information Theory Workshop (ITW) 2025</p></details> |
+| **[Energy-Based Flow Matching for Generating 3D Molecular Structure](http://arxiv.org/abs/2508.18949v1)** | 2025-08-26 | <details><summary>Accep...</summary><p>Accepted to the International Conference on Machine Learning (2025)</p></details> |
+| **[Instruction-Based Molecular Graph Generation with Unified Text-Graph Diffusion Model](http://arxiv.org/abs/2408.09896v2)** | 2025-08-26 | ECAI 2025 |
+| **[Realizing Reduced and Sparse Biochemical Reaction Networks from Dynamics](http://arxiv.org/abs/2508.18096v2)** | 2025-08-26 | <details><summary>Accep...</summary><p>Accepted to IEEE CDC 2025. Author-accepted version; supplementary material in ancillary files (In this version, supplementary PDF is moved to ancillary files; no content changes to main article)</p></details> |
 
 ## Molecular Generation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Energy-Based Flow Matching for Generating 3D Molecular Structure](http://arxiv.org/abs/2508.18949v1)** | 2025-08-26 | <details><summary>Accep...</summary><p>Accepted to the International Conference on Machine Learning (2025)</p></details> |
+| **[Instruction-Based Molecular Graph Generation with Unified Text-Graph Diffusion Model](http://arxiv.org/abs/2408.09896v2)** | 2025-08-26 | ECAI 2025 |
+| **[Enhancing Chemical Explainability Through Counterfactual Masking](http://arxiv.org/abs/2508.18561v1)** | 2025-08-25 |  |
 | **[Guiding Diffusion Models with Reinforcement Learning for Stable Molecule Generation](http://arxiv.org/abs/2508.16521v1)** | 2025-08-22 |  |
 | **[NovoMolGen: Rethinking Molecular Language Model Pretraining](http://arxiv.org/abs/2508.13408v2)** | 2025-08-22 |  |
 | **[Cross-Modality Controlled Molecule Generation with Diffusion Language Model](http://arxiv.org/abs/2508.14748v1)** | 2025-08-20 |  |
@@ -23,45 +27,44 @@ labels: documentation
 | **[IBEX: Information-Bottleneck-EXplored Coarse-to-Fine Molecular Generation under Limited Data](http://arxiv.org/abs/2508.10775v1)** | 2025-08-14 | 10 pages, 8 figures |
 | **[Chem3DLLM: 3D Multimodal Large Language Models for Chemistry](http://arxiv.org/abs/2508.10696v1)** | 2025-08-14 | 15 pages, 9 figures |
 | **[$\text{M}^{2}$LLM: Multi-view Molecular Representation Learning with Large Language Models](http://arxiv.org/abs/2508.08657v1)** | 2025-08-12 | IJCAI 2025 |
-| **[A DNN Biophysics Model with Topological and Electrostatic Features](http://arxiv.org/abs/2409.03658v2)** | 2025-08-12 |  |
-| **[MolSnap: Snap-Fast Molecular Generation with Latent Variational Mean Flow](http://arxiv.org/abs/2508.05411v1)** | 2025-08-07 |  |
-| **[One Small Step with Fingerprints, One Giant Leap for De Novo Molecule Generation from Mass Spectra](http://arxiv.org/abs/2508.04180v2)** | 2025-08-07 |  |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Quantum Graph Attention Network: A Novel Quantum Multi-Head Attention Mechanism for Graph Learning](http://arxiv.org/abs/2508.17630v2)** | 2025-08-26 |  |
+| **[Graph Neural Network-Based Topology Optimization for Self-Supporting Structures in Additive Manufacturing](http://arxiv.org/abs/2508.19169v1)** | 2025-08-26 |  |
+| **[Leveraging Multi-facet Paths for Heterogeneous Graph Representation Learning](http://arxiv.org/abs/2407.20648v3)** | 2025-08-26 |  |
+| **[MCI-GRU: Stock Prediction Model Based on Multi-Head Cross-Attention and Improved GRU](http://arxiv.org/abs/2410.20679v3)** | 2025-08-26 |  |
+| **[Dynamic Triangulation-Based Graph Rewiring for Graph Neural Networks](http://arxiv.org/abs/2508.19071v1)** | 2025-08-26 | <details><summary>Accep...</summary><p>Accepted to CIKM 2025</p></details> |
+| **[Automated discovery of finite volume schemes using Graph Neural Networks](http://arxiv.org/abs/2508.19052v1)** | 2025-08-26 |  |
+| **[VISION: Robust and Interpretable Code Vulnerability Detection Leveraging Counterfactual Augmentation](http://arxiv.org/abs/2508.18933v1)** | 2025-08-26 |  |
+| **[Generalization, Expressivity, and Universality of Graph Neural Networks on Attributed Graphs](http://arxiv.org/abs/2411.05464v3)** | 2025-08-26 |  |
+| **[Predicting Drug-Drug Interactions Using Heterogeneous Graph Neural Networks: HGNN-DDI](http://arxiv.org/abs/2508.18766v1)** | 2025-08-26 | <details><summary>12 pa...</summary><p>12 pages, 5 figures. Published in Applied and Computational Engineering, Vol. 79, pp. 77-89, July 25, 2024. Licensed under CC BY 4.0</p></details> |
+| **[Can Large Language Models Act as Ensembler for Multi-GNNs?](http://arxiv.org/abs/2410.16822v4)** | 2025-08-26 |  |
+| **[A Note on Graphon-Signal Analysis of Graph Neural Networks](http://arxiv.org/abs/2508.18564v1)** | 2025-08-25 |  |
+| **[Graph Neural Network Based Action Ranking for Planning](http://arxiv.org/abs/2412.04752v3)** | 2025-08-25 | <details><summary>6 Pag...</summary><p>6 Pages, 1 figure. Updated acknowledgments</p></details> |
+| **[ParticleFormer: A 3D Point Cloud World Model for Multi-Object, Multi-Material Robotic Manipulation](http://arxiv.org/abs/2506.23126v4)** | 2025-08-25 |  |
 | **[Weisfeiler-Lehman meets Events: An Expressivity Analysis for Continuous-Time Dynamic Graph Neural Networks](http://arxiv.org/abs/2508.18052v1)** | 2025-08-25 |  |
 | **[Training Transformers for Mesh-Based Simulations](http://arxiv.org/abs/2508.18051v1)** | 2025-08-25 |  |
 | **[Neural Algorithmic Reasoners informed Large Language Model for Multi-Agent Path Finding](http://arxiv.org/abs/2508.17971v1)** | 2025-08-25 | <details><summary>Accep...</summary><p>Accepted by IJCNN 2025</p></details> |
 | **[Geometry-Aware Spiking Graph Neural Network](http://arxiv.org/abs/2508.06793v2)** | 2025-08-25 |  |
-| **[Can Large Language Models Act as Ensembler for Multi-GNNs?](http://arxiv.org/abs/2410.16822v3)** | 2025-08-25 |  |
-| **[Quantum Graph Attention Network: A Novel Quantum Multi-Head Attention Mechanism for Graph Learning](http://arxiv.org/abs/2508.17630v1)** | 2025-08-25 |  |
 | **[Bridging Graph and State-Space Modeling for Intensive Care Unit Length of Stay Prediction](http://arxiv.org/abs/2508.17554v1)** | 2025-08-24 |  |
-| **[GraphMMP: A Graph Neural Network Model with Mutual Information and Global Fusion for Multimodal Medical Prognosis](http://arxiv.org/abs/2508.17478v1)** | 2025-08-24 |  |
-| **[Graph-R1: Incentivizing the Zero-Shot Graph Learning Capability in LLMs via Explicit Reasoning](http://arxiv.org/abs/2508.17387v1)** | 2025-08-24 |  |
-| **[Multi-Level Fusion Graph Neural Network for Molecule Property Prediction](http://arxiv.org/abs/2507.03430v2)** | 2025-08-24 | <details><summary>42 pa...</summary><p>42 pages, 11 figures, 6 tables</p></details> |
-| **[Graph-oriented Instruction Tuning of Large Language Models for Generic Graph Mining](http://arxiv.org/abs/2403.04780v3)** | 2025-08-24 | <details><summary>Accep...</summary><p>Accepted by TPAMI 2025</p></details> |
-| **[HMAE: Self-Supervised Few-Shot Learning for Quantum Spin Systems](http://arxiv.org/abs/2505.03140v2)** | 2025-08-24 |  |
-| **[Equivariant Spherical Transformer for Efficient Molecular Modeling](http://arxiv.org/abs/2505.23086v2)** | 2025-08-24 | 24 pages, 3 figures |
-| **[Scaling Graph Transformers: A Comparative Study of Sparse and Dense Attention](http://arxiv.org/abs/2508.17175v1)** | 2025-08-24 |  |
-| **[Two Birds with One Stone: Enhancing Uncertainty Quantification and Interpretability with Graph Functional Neural Process](http://arxiv.org/abs/2508.17097v1)** | 2025-08-23 | AISTATS'25 |
-| **[Score Matching on Large Geometric Graphs for Cosmology Generation](http://arxiv.org/abs/2508.16990v1)** | 2025-08-23 |  |
-| **[Quadratic Binary Optimization with Graph Neural Networks](http://arxiv.org/abs/2404.04874v2)** | 2025-08-23 | ECAI 2025 |
-| **[Physics-Inspired Spatial Temporal Graph Neural Networks for Predicting Industrial Chain Resilience](http://arxiv.org/abs/2508.16836v1)** | 2025-08-22 |  |
 
 ## Diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[CoMPaSS: Enhancing Spatial Understanding in Text-to-Image Diffusion Models](http://arxiv.org/abs/2412.13195v2)** | 2025-08-25 | <details><summary>21 pa...</summary><p>21 pages, 12 figures. Accepted to ICCV 2025</p></details> |
-| **[ObjFiller-3D: Consistent Multi-view 3D Inpainting via Video Diffusion Models](http://arxiv.org/abs/2508.18271v1)** | 2025-08-25 | <details><summary>Proje...</summary><p>Project page: https://objfiller3d.github.io/ Code: https://github.com/objfiller3d/ObjFiller-3D</p></details> |
-| **[SafeBimanual: Diffusion-based Trajectory Optimization for Safe Bimanual Manipulation](http://arxiv.org/abs/2508.18268v1)** | 2025-08-25 | <details><summary>Proje...</summary><p>Project website is at: https://denghaoyuan123.github.io/SafeBimanip/</p></details> |
-| **[Follow My Hold: Hand-Object Interaction Reconstruction through Geometric Guidance](http://arxiv.org/abs/2508.18213v1)** | 2025-08-25 | <details><summary>Proje...</summary><p>Project page: https://aidilayce.github.io/FollowMyHold-page/</p></details> |
-| **[Vivid-VR: Distilling Concepts from Text-to-Video Diffusion Transformer for Photorealistic Video Restoration](http://arxiv.org/abs/2508.14483v2)** | 2025-08-25 |  |
-| **[Supervising 3D Talking Head Avatars with Analysis-by-Audio-Synthesis](http://arxiv.org/abs/2504.13386v3)** | 2025-08-25 |  |
-| **[SpotEdit: Evaluating Visually-Guided Image Editing Methods](http://arxiv.org/abs/2508.18159v1)** | 2025-08-25 |  |
-| **[Incorporating Pre-trained Diffusion Models in Solving the Schrödinger Bridge Problem](http://arxiv.org/abs/2508.18095v1)** | 2025-08-25 |  |
-| **[V2X-R: Cooperative LiDAR-4D Radar Fusion with Denoising Diffusion for 3D Object Detection](http://arxiv.org/abs/2411.08402v5)** | 2025-08-25 | Accepted by CVPR2025 |
-| **[Objective and Subjective Evaluation of Diffusion-Based Speech Enhancement for Dysarthric Speech](http://arxiv.org/abs/2508.17980v1)** | 2025-08-25 | <details><summary>Accep...</summary><p>Accepted to Interspeech 2025</p></details> |
+| **[MemoryVLA: Perceptual-Cognitive Memory in Vision-Language-Action Models for Robotic Manipulation](http://arxiv.org/abs/2508.19236v1)** | 2025-08-26 | <details><summary>The p...</summary><p>The project is available at https://shihao1895.github.io/MemoryVLA</p></details> |
+| **[VibeVoice Technical Report](http://arxiv.org/abs/2508.19205v1)** | 2025-08-26 |  |
+| **[LSD-3D: Large-Scale 3D Driving Scene Generation with Geometry Grounding](http://arxiv.org/abs/2508.19204v1)** | 2025-08-26 | <details><summary>Proje...</summary><p>Project webpage: https://light.princeton.edu/LSD-3D</p></details> |
+| **[Planning-Query-Guided Model Generation for Model-Based Deformable Object Manipulation](http://arxiv.org/abs/2508.19199v1)** | 2025-08-26 | 9 pages, 7 figures |
+| **[All-in-One Slider for Attribute Manipulation in Diffusion Models](http://arxiv.org/abs/2508.19195v1)** | 2025-08-26 |  |
+| **[MDD: a Mask Diffusion Detector to Protect Speaker Verification Systems from Adversarial Perturbations](http://arxiv.org/abs/2508.19180v1)** | 2025-08-26 | <details><summary>Accep...</summary><p>Accepted by APSIPA ASC 2025</p></details> |
+| **[Stoch-IDENT: New Method and Mathematical Analysis for Identifying SPDEs from Data](http://arxiv.org/abs/2508.19177v1)** | 2025-08-26 |  |
+| **[RDDM: Practicing RAW Domain Diffusion Model for Real-world Image Restoration](http://arxiv.org/abs/2508.19154v1)** | 2025-08-26 |  |
+| **[Saddle Hierarchy in Dense Associative Memory](http://arxiv.org/abs/2508.19151v1)** | 2025-08-26 | 55 pages, 10 figures |
+| **[Generative Data Augmentation for Object Point Cloud Segmentation](http://arxiv.org/abs/2505.17783v2)** | 2025-08-26 | <details><summary>Accep...</summary><p>Accepted by BMVC 2025</p></details> |
+| **[Composition and Alignment of Diffusion Models using Constrained Learning](http://arxiv.org/abs/2508.19104v1)** | 2025-08-26 |  |
+| **[Steerable Scene Generation with Post Training and Inference-Time Search](http://arxiv.org/abs/2505.04831v2)** | 2025-08-26 | <details><summary>Proje...</summary><p>Project website: https://steerable-scene-generation.github.io/</p></details> |
 
 ## Object Counting
 | **Title** | **Date** | **Comment** |
@@ -89,6 +92,9 @@ labels: documentation
 ## Image Caption
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[OpenEvents V1: Large-Scale Benchmark Dataset for Multimodal Event Grounding](http://arxiv.org/abs/2506.18372v2)** | 2025-08-26 | ACM Multimedia 2025 |
+| **[Event-Enriched Image Analysis Grand Challenge at ACM Multimedia 2025](http://arxiv.org/abs/2508.18904v1)** | 2025-08-26 | ACM Multimedia 2025 |
+| **[Dense Retrievers Can Fail on Simple Queries: Revealing The Granularity Dilemma of Embeddings](http://arxiv.org/abs/2506.08592v2)** | 2025-08-26 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2025 Findings</p></details> |
 | **[One Framework to Rule Them All: Unifying Multimodal Tasks with LLM Neural-Tuning](http://arxiv.org/abs/2408.03001v3)** | 2025-08-25 |  |
 | **[From Global to Local: Social Bias Transfer in CLIP](http://arxiv.org/abs/2508.17750v1)** | 2025-08-25 |  |
 | **[Dynamic Embedding of Hierarchical Visual Features for Efficient Vision-Language Fine-Tuning](http://arxiv.org/abs/2508.17638v1)** | 2025-08-25 |  |
@@ -106,21 +112,18 @@ labels: documentation
 | **[Enhancing Targeted Adversarial Attacks on Large Vision-Language Models through Intermediate Projector Guidance](http://arxiv.org/abs/2508.13739v1)** | 2025-08-19 |  |
 | **[A Comparative Study of Decoding Strategies in Medical Text Generation](http://arxiv.org/abs/2508.13580v1)** | 2025-08-19 |  |
 | **[DermINO: Hybrid Pretraining for a Versatile Dermatology Foundation Model](http://arxiv.org/abs/2508.12190v1)** | 2025-08-17 |  |
-| **[Adaptively Clustering Neighbor Elements for Image-Text Generation](http://arxiv.org/abs/2301.01955v4)** | 2025-08-16 | <details><summary>This ...</summary><p>This work has been accepted by IEEE Transactions on Multimedia</p></details> |
-| **[Controlling Multimodal LLMs via Reward-guided Decoding](http://arxiv.org/abs/2508.11616v1)** | 2025-08-15 | <details><summary>Publi...</summary><p>Published at ICCV 2025</p></details> |
-| **[Are Large Pre-trained Vision Language Models Effective Construction Safety Inspectors?](http://arxiv.org/abs/2508.11011v1)** | 2025-08-14 |  |
 
 ## Describe
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Hermes 4 Technical Report](http://arxiv.org/abs/2508.18255v1)** | 2025-08-25 |  |
-| **[Efficient Computation of Blackwell Optimal Policies using Rational Functions](http://arxiv.org/abs/2508.18252v1)** | 2025-08-25 |  |
-| **[Clinical characteristics, complications and outcomes of critically ill patients with Dengue in Brazil, 2012-2024: a nationwide, multicentre cohort study](http://arxiv.org/abs/2508.18207v1)** | 2025-08-25 |  |
-| **[Reconsidering Fairness Through Unawareness From the Perspective of Model Multiplicity](http://arxiv.org/abs/2505.16638v2)** | 2025-08-25 |  |
+| **[Beyond flattening: a geometrically principled positional encoding for vision transformers with Weierstrass elliptic functions](http://arxiv.org/abs/2508.19167v1)** | 2025-08-26 |  |
+| **[Large Language Model Aided QoS Prediction for Service Recommendation](http://arxiv.org/abs/2408.02223v3)** | 2025-08-26 |  |
+| **[Network inference via approximate Bayesian computation. Illustration on a stochastic multi-population neural mass model](http://arxiv.org/abs/2306.15787v4)** | 2025-08-26 | 37 pages, 22 figures |
 
 ## Light Weight
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[An LLM-powered Natural-to-Robotic Language Translation Framework with Correctness Guarantees](http://arxiv.org/abs/2508.19074v1)** | 2025-08-26 |  |
 | **[Adaptive Routing of Text-to-Image Generation Requests Between Large Cloud Model and Light-Weight Edge Model](http://arxiv.org/abs/2411.13787v2)** | 2025-08-21 | <details><summary>Accep...</summary><p>Accepted by ICCV 2025</p></details> |
 | **[Extending Foundational Monocular Depth Estimators to Fisheye Cameras with Calibration Tokens](http://arxiv.org/abs/2508.04928v3)** | 2025-08-20 |  |
 | **[Unlocking the Potential of MLLMs in Referring Expression Segmentation via a Light-weight Mask Decoder](http://arxiv.org/abs/2508.04107v3)** | 2025-08-19 | 9 pages, 4 figures |
@@ -138,8 +141,6 @@ labels: documentation
 | **[Dynaword: From One-shot to Continuously Developed Datasets](http://arxiv.org/abs/2508.02271v2)** | 2025-08-05 |  |
 | **[Context-aware Risk Assessment and Its Application in Autonomous Driving](http://arxiv.org/abs/2508.02919v1)** | 2025-08-04 | ITSC 2025, 7 pages |
 | **[MCTS-SQL: Light-Weight LLMs can Master the Text-to-SQL through Monte Carlo Tree Search](http://arxiv.org/abs/2501.16607v2)** | 2025-08-03 | 15 pages, 6 figures |
-| **[NeuFlow v2: Push High-Efficiency Optical Flow To the Limit](http://arxiv.org/abs/2408.10161v3)** | 2025-08-03 |  |
-| **[$\textit{Revelio}$: Interpreting and leveraging semantic information in diffusion models](http://arxiv.org/abs/2411.16725v3)** | 2025-08-02 | ICCV 2025 |
 
 ## Class Incremental
 | **Title** | **Date** | **Comment** |
