@@ -1,5 +1,5 @@
 ---
-title: Latest 50 Papers - August 30, 2025
+title: Latest 50 Papers - August 31, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/JiamingZang/DailyArxiv) page for a better reading experience and more papers.**
@@ -61,10 +61,6 @@ labels: documentation
 | **[POSE: Phased One-Step Adversarial Equilibrium for Video Diffusion Models](http://arxiv.org/abs/2508.21019v1)** | 2025-08-28 | <details><summary>Proje...</summary><p>Project Page: https://pose-paper.github.io</p></details> |
 | **[DanceGRPO: Unleashing GRPO on Visual Generation](http://arxiv.org/abs/2505.07818v4)** | 2025-08-28 | <details><summary>Proje...</summary><p>Project Page: https://dancegrpo.github.io/</p></details> |
 | **[Inference-Time Alignment Control for Diffusion Models with Reinforcement Learning Guidance](http://arxiv.org/abs/2508.21016v1)** | 2025-08-28 |  |
-| **[Train-Once Plan-Anywhere Kinodynamic Motion Planning via Diffusion Trees](http://arxiv.org/abs/2508.21001v1)** | 2025-08-28 | <details><summary>Accep...</summary><p>Accepted to CoRL 2025. Project page: https://sites.google.com/view/ditree</p></details> |
-| **[LGDE: Local Graph-based Dictionary Expansion](http://arxiv.org/abs/2405.07764v4)** | 2025-08-28 | <details><summary>Pytho...</summary><p>Python code available at: https://github.com/barahona-research-group/LGDE</p></details> |
-| **[FFHFlow: Diverse and Uncertainty-Aware Dexterous Grasp Generation via Flow Variational Inference](http://arxiv.org/abs/2407.15161v3)** | 2025-08-28 | <details><summary>First...</summary><p>First two authors contributed equally, whose ordering decided via coin-tossing. Accepted for CoRL 2025</p></details> |
-| **[Lattice Random Walk Discretisations of Stochastic Differential Equations](http://arxiv.org/abs/2508.20883v1)** | 2025-08-28 | 16 pages, 6 figures |
 
 ## Object Counting
 | **Title** | **Date** | **Comment** |
