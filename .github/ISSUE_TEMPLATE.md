@@ -1,5 +1,5 @@
 ---
-title: Latest 50 Papers - September 02, 2025
+title: Latest 50 Papers - September 03, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/JiamingZang/DailyArxiv) page for a better reading experience and more papers.**
@@ -128,6 +128,23 @@ labels: documentation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
 | **[Neural Visibility Cache for Real-Time Light Sampling](http://arxiv.org/abs/2506.05930v2)** | 2025-08-29 |  |
+| **[DVM-SLAM: Decentralized Visual Monocular Simultaneous Localization and Mapping for Multi-Agent Systems](http://arxiv.org/abs/2503.04126v2)** | 2025-08-26 | <details><summary>Accep...</summary><p>Accepted to 2025 IEEE International Conference on Robotics and Automation, pp. 15814-15820</p></details> |
+| **[An LLM-powered Natural-to-Robotic Language Translation Framework with Correctness Guarantees](http://arxiv.org/abs/2508.19074v1)** | 2025-08-26 |  |
+| **[Adaptive Routing of Text-to-Image Generation Requests Between Large Cloud Model and Light-Weight Edge Model](http://arxiv.org/abs/2411.13787v2)** | 2025-08-21 | <details><summary>Accep...</summary><p>Accepted by ICCV 2025</p></details> |
+| **[Extending Foundational Monocular Depth Estimators to Fisheye Cameras with Calibration Tokens](http://arxiv.org/abs/2508.04928v3)** | 2025-08-20 |  |
+| **[Unlocking the Potential of MLLMs in Referring Expression Segmentation via a Light-weight Mask Decoder](http://arxiv.org/abs/2508.04107v3)** | 2025-08-19 | 9 pages, 4 figures |
+| **[GTool: Graph Enhanced Tool Planning with Large Language Model](http://arxiv.org/abs/2508.12725v1)** | 2025-08-18 | 16 pages, 9 figures |
+| **[Cosmic Strings-induced CMB anisotropies in light of Weighted Morphology](http://arxiv.org/abs/2503.00758v3)** | 2025-08-17 | <details><summary>20 pa...</summary><p>20 pages, 10 figures and 3 tables, comments are welcome, V2: added some references, V3: matched to the published version</p></details> |
+| **[ForensicsSAM: Toward Robust and Unified Image Forgery Detection and Localization Resisting to Adversarial Attack](http://arxiv.org/abs/2508.07402v2)** | 2025-08-17 |  |
+| **[Transferable Model-agnostic Vision-Language Model Adaptation for Efficient Weak-to-Strong Generalization](http://arxiv.org/abs/2508.08604v2)** | 2025-08-13 |  |
+| **[An (m,k)-firm Elevation Policy to Increase the Robustness of Time-Driven Schedules in 5G Time-Sensitive Networks](http://arxiv.org/abs/2508.09769v1)** | 2025-08-13 | 23 pages, 10 figures |
+| **[Cross-BCI, A Cross-BCI-Paradigm Classifica-tion Model Towards Universal BCI Applications](http://arxiv.org/abs/2508.09242v1)** | 2025-08-12 |  |
+| **[The ReQAP System for Question Answering over Personal Information](http://arxiv.org/abs/2508.06880v1)** | 2025-08-09 | <details><summary>Accep...</summary><p>Accepted at CIKM 2025 (demonstration paper)</p></details> |
+| **[Automated Privacy Information Annotation in Large Language Model Interactions](http://arxiv.org/abs/2505.20910v2)** | 2025-08-08 | 8 content pages |
+| **[Differentially Private Federated Clustering with Random Rebalancing](http://arxiv.org/abs/2508.06183v1)** | 2025-08-08 | 21 pages |
+| **[VISTAR:A User-Centric and Role-Driven Benchmark for Text-to-Image Evaluation](http://arxiv.org/abs/2508.06152v1)** | 2025-08-08 | 17 pages,8 figures |
+| **[QuMAB: Query-based Multi-Annotator Behavior Modeling with Reliability under Sparse Labels](http://arxiv.org/abs/2507.17653v2)** | 2025-08-07 | <details><summary>12 pa...</summary><p>12 pages. arXiv admin note: substantial text overlap with arXiv:2503.15237</p></details> |
+| **[Dynaword: From One-shot to Continuously Developed Datasets](http://arxiv.org/abs/2508.02271v2)** | 2025-08-05 |  |
 
 ## Class Incremental
 | **Title** | **Date** | **Comment** |
