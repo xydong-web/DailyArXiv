@@ -1,5 +1,5 @@
 ---
-title: Latest 50 Papers - September 06, 2025
+title: Latest 50 Papers - September 07, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/JiamingZang/DailyArxiv) page for a better reading experience and more papers.**
