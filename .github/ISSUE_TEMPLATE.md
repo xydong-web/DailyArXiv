@@ -1,5 +1,5 @@
 ---
-title: Latest 50 Papers - September 13, 2025
+title: Latest 50 Papers - September 14, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/JiamingZang/DailyArxiv) page for a better reading experience and more papers.**
@@ -43,15 +43,6 @@ labels: documentation
 | **[Deep Reinforcement Learning for Inventory Networks: Toward Reliable Policy Optimization](http://arxiv.org/abs/2306.11246v3)** | 2025-09-10 |  |
 | **[Robust Belief-State Policy Learning for Quantum Network Routing Under Decoherence and Time-Varying Conditions](http://arxiv.org/abs/2509.08654v1)** | 2025-09-10 |  |
 | **[Second-Order Tensorial Partial Differential Equations on Graphs](http://arxiv.org/abs/2509.02015v2)** | 2025-09-10 | 10 pages, 1 figure |
-| **[Facet: highly efficient E(3)-equivariant networks for interatomic potentials](http://arxiv.org/abs/2509.08418v1)** | 2025-09-10 |  |
-| **[Adversarial Robustness of Link Sign Prediction in Signed Graphs](http://arxiv.org/abs/2401.10590v3)** | 2025-09-09 |  |
-| **[MSRFormer: Road Network Representation Learning using Multi-scale Feature Fusion of Heterogeneous Spatial Interactions](http://arxiv.org/abs/2509.05685v2)** | 2025-09-09 |  |
-| **[A Survey of Graph Neural Networks for Drug Discovery: Recent Developments and Challenges](http://arxiv.org/abs/2509.07887v1)** | 2025-09-09 | 16 pages, 1 figure |
-| **[Safeguarding Graph Neural Networks against Topology Inference Attacks](http://arxiv.org/abs/2509.05429v2)** | 2025-09-09 | <details><summary>Accte...</summary><p>Acctepted by ACM CCS'25</p></details> |
-| **[IBN: An Interpretable Bidirectional-Modeling Network for Multivariate Time Series Forecasting with Variable Missing](http://arxiv.org/abs/2509.07725v1)** | 2025-09-09 |  |
-| **[VariSAC: V2X Assured Connectivity in RIS-Aided ISAC via GNN-Augmented Reinforcement Learning](http://arxiv.org/abs/2509.06763v2)** | 2025-09-09 |  |
-| **[DeepGraphLog for Layered Neurosymbolic AI](http://arxiv.org/abs/2509.07665v1)** | 2025-09-09 |  |
-| **[Graph-based Integrated Gradients for Explaining Graph Neural Networks](http://arxiv.org/abs/2509.07648v1)** | 2025-09-09 | <details><summary>Accep...</summary><p>Accepted at the Australasian Joint Conference on Artificial Intelligence (AJCAI) 2025</p></details> |
 
 ## Diffusion
 | **Title** | **Date** | **Comment** |
