@@ -1,5 +1,5 @@
 ---
-title: Latest 50 Papers - September 14, 2025
+title: Latest 50 Papers - September 15, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/JiamingZang/DailyArxiv) page for a better reading experience and more papers.**
@@ -38,11 +38,6 @@ labels: documentation
 | **[MoSE: Unveiling Structural Patterns in Graphs via Mixture of Subgraph Experts](http://arxiv.org/abs/2509.09337v1)** | 2025-09-11 | 16 pages, 11 figures |
 | **[Vejde: A Framework for Inductive Deep Reinforcement Learning Based on Factor Graph Color Refinement](http://arxiv.org/abs/2509.09219v1)** | 2025-09-11 |  |
 | **[Diffusion Graph Neural Networks for Robustness in Olfaction Sensors and Datasets](http://arxiv.org/abs/2506.00455v3)** | 2025-09-11 |  |
-| **[CryptGNN: Enabling Secure Inference for Graph Neural Networks](http://arxiv.org/abs/2509.09107v1)** | 2025-09-11 |  |
-| **[Improvement of Human-Object Interaction Action Recognition Using Scene Information and Multi-Task Learning Approach](http://arxiv.org/abs/2509.09067v1)** | 2025-09-11 |  |
-| **[Deep Reinforcement Learning for Inventory Networks: Toward Reliable Policy Optimization](http://arxiv.org/abs/2306.11246v3)** | 2025-09-10 |  |
-| **[Robust Belief-State Policy Learning for Quantum Network Routing Under Decoherence and Time-Varying Conditions](http://arxiv.org/abs/2509.08654v1)** | 2025-09-10 |  |
-| **[Second-Order Tensorial Partial Differential Equations on Graphs](http://arxiv.org/abs/2509.02015v2)** | 2025-09-10 | 10 pages, 1 figure |
 
 ## Diffusion
 | **Title** | **Date** | **Comment** |
