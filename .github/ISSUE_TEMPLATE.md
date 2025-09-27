@@ -1,5 +1,5 @@
 ---
-title: Latest 50 Papers - September 27, 2025
+title: Latest 50 Papers - September 28, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/JiamingZang/DailyArxiv) page for a better reading experience and more papers.**
@@ -10,7 +10,7 @@ labels: documentation
 | **[CryoSplat: Gaussian Splatting for Cryo-EM Homogeneous Reconstruction](http://arxiv.org/abs/2508.04929v3)** | 2025-09-25 |  |
 | **[Training-Free Stein Diffusion Guidance: Posterior Correction for Sampling Beyond High-Density Regions](http://arxiv.org/abs/2507.05482v2)** | 2025-09-25 | <details><summary>Revis...</summary><p>Revised version with additional results</p></details> |
 | **[ExMolRL: Phenotype-Target Joint Generation of De Novo Molecules via Multi-Objective Reinforcement Learning](http://arxiv.org/abs/2509.21010v1)** | 2025-09-25 |  |
-| **[MolPILE - large-scale, diverse dataset for molecular representation learning](http://arxiv.org/abs/2509.18353v2)** | 2025-09-25 |  |
+| **[MolPILE -- large-scale, diverse dataset for molecular representation learning](http://arxiv.org/abs/2509.18353v2)** | 2025-09-25 |  |
 | **[AOT*: Efficient Synthesis Planning via LLM-Empowered AND-OR Tree Search](http://arxiv.org/abs/2509.20988v1)** | 2025-09-25 | 34 pages, 21 figures |
 | **[GEDAN: Learning the Edit Costs for Graph Edit Distance](http://arxiv.org/abs/2508.03111v2)** | 2025-09-25 |  |
 | **[Deterministic Frequency--Domain Inference of Network Topology and Hidden Components via Structure--Behavior Scaling](http://arxiv.org/abs/2509.19857v2)** | 2025-09-25 | <details><summary>This ...</summary><p>This work has been submitted to the Communications Physics for possible publication</p></details> |
