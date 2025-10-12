@@ -1,5 +1,5 @@
 ---
-title: Latest 50 Papers - October 12, 2025
+title: Latest 50 Papers - October 13, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/JiamingZang/DailyArxiv) page for a better reading experience and more papers.**
@@ -13,19 +13,6 @@ labels: documentation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
 | **[An Inertial Langevin Algorithm](http://arxiv.org/abs/2510.06723v1)** | 2025-10-08 |  |
-| **[HOG-Diff: Higher-Order Guided Diffusion for Graph Generation](http://arxiv.org/abs/2502.04308v2)** | 2025-10-07 |  |
-| **[Flow-Matching Based Refiner for Molecular Conformer Generation](http://arxiv.org/abs/2510.04878v1)** | 2025-10-06 |  |
-| **[Frame-based Equivariant Diffusion Models for 3D Molecular Generation](http://arxiv.org/abs/2509.19506v2)** | 2025-10-06 |  |
-| **[Predictive Feature Caching for Training-free Acceleration of Molecular Geometry Generation](http://arxiv.org/abs/2510.04646v1)** | 2025-10-06 | <details><summary>Accep...</summary><p>Accepted at the AI for Science Workshop @ NeurIPS 2025</p></details> |
-| **[Controlled Generation with Equivariant Variational Flow Matching](http://arxiv.org/abs/2506.18340v3)** | 2025-10-03 |  |
-| **[MolLangBench: A Comprehensive Benchmark for Language-Prompted Molecular Structure Recognition, Editing, and Generation](http://arxiv.org/abs/2505.15054v2)** | 2025-10-02 |  |
-| **[Template-Guided 3D Molecular Pose Generation via Flow Matching and Differentiable Optimization](http://arxiv.org/abs/2506.06305v2)** | 2025-10-02 |  |
-| **[Mol-LLaMA: Towards General Understanding of Molecules in Large Molecular Language Model](http://arxiv.org/abs/2502.13449v5)** | 2025-10-02 | NeurIPS 2025 |
-| **[Constrained Adaptive Rejection Sampling](http://arxiv.org/abs/2510.01902v1)** | 2025-10-02 |  |
-| **[Guiding Evolutionary Molecular Design: Adding Reinforcement Learning for Mutation Selection](http://arxiv.org/abs/2510.00802v1)** | 2025-10-01 | <details><summary>8 pag...</summary><p>8 pages, 3 figures, Accepted for publication in the proceedings of ICTAI 2025</p></details> |
-| **[MarS-FM: Generative Modeling of Molecular Dynamics via Markov State Models](http://arxiv.org/abs/2509.24779v2)** | 2025-09-30 |  |
-| **[Feature-aware Hypergraph Generation via Next-Scale Prediction](http://arxiv.org/abs/2506.01467v2)** | 2025-09-30 |  |
-| **[Exact Solutions to the Quantum Schrödinger Bridge Problem](http://arxiv.org/abs/2509.25980v1)** | 2025-09-30 |  |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
