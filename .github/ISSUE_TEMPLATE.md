@@ -1,5 +1,5 @@
 ---
-title: Latest 50 Papers - November 01, 2025
+title: Latest 50 Papers - November 02, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/JiamingZang/DailyArxiv) page for a better reading experience and more papers.**
@@ -25,6 +25,12 @@ labels: documentation
 | **[Diffusion Generative Modeling on Lie Group Representations](http://arxiv.org/abs/2502.02513v2)** | 2025-10-27 | <details><summary>29 pa...</summary><p>29 pages. Accepted as a spotlight paper at NeurIPS 2025</p></details> |
 | **[Uncertainty-Aware Multi-Objective Reinforcement Learning-Guided Diffusion Models for 3D De Novo Molecular Design](http://arxiv.org/abs/2510.21153v1)** | 2025-10-24 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025</p></details> |
 | **[KnowMol: Advancing Molecular Large Language Models with Multi-Level Chemical Knowledge](http://arxiv.org/abs/2510.19484v1)** | 2025-10-22 |  |
+| **[HyperDiffusionFields (HyDiF): Diffusion-Guided Hypernetworks for Learning Implicit Molecular Neural Fields](http://arxiv.org/abs/2510.18122v1)** | 2025-10-20 |  |
+| **[Atom-anchored LLMs speak Chemistry: A Retrosynthesis Demonstration](http://arxiv.org/abs/2510.16590v1)** | 2025-10-18 | <details><summary>Alan ...</summary><p>Alan Kai Hassen and Andrius Bernatavicius contributed equally to this work</p></details> |
+| **[Copy-Augmented Representation for Structure Invariant Template-Free Retrosynthesis](http://arxiv.org/abs/2510.16588v1)** | 2025-10-18 |  |
+| **[Rao-Blackwell Gradient Estimators for Equivariant Denoising Diffusion](http://arxiv.org/abs/2502.09890v4)** | 2025-10-18 |  |
+| **[VALID-Mol: a Systematic Framework for Validated LLM-Assisted Molecular Design](http://arxiv.org/abs/2506.23339v2)** | 2025-10-16 | <details><summary>6 pag...</summary><p>6 pages, 1 figure, 1 algorithm, 5 tables, to be published in ISPACS 2025, unabridged version exists as arXiv:2506.23339v1</p></details> |
+| **[Superior Molecular Representations from Intermediate Encoder Layers](http://arxiv.org/abs/2506.06443v3)** | 2025-10-15 |  |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
@@ -56,6 +62,15 @@ labels: documentation
 | **[The Quest for Generalizable Motion Generation: Data, Model, and Evaluation](http://arxiv.org/abs/2510.26794v1)** | 2025-10-30 |  |
 | **[Locality in Image Diffusion Models Emerges from Data Statistics](http://arxiv.org/abs/2509.09672v2)** | 2025-10-30 | <details><summary>31 pa...</summary><p>31 pages, 20 figures, 7 tables</p></details> |
 | **[ScoreAdv: Score-based Targeted Generation of Natural Adversarial Examples via Diffusion Models](http://arxiv.org/abs/2507.06078v2)** | 2025-10-30 |  |
+| **[Advancing Local Clustering on Graphs via Compressive Sensing: Semi-supervised and Unsupervised Methods](http://arxiv.org/abs/2504.19419v2)** | 2025-10-30 |  |
+| **[Hybrid Consistency Policy: Decoupling Multi-Modal Diversity and Real-Time Efficiency in Robotic Manipulation](http://arxiv.org/abs/2510.26670v1)** | 2025-10-30 |  |
+| **[Fit for Purpose? Deepfake Detection in the Real World](http://arxiv.org/abs/2510.16556v2)** | 2025-10-30 |  |
+| **[Emu3.5: Native Multimodal Models are World Learners](http://arxiv.org/abs/2510.26583v1)** | 2025-10-30 | <details><summary>proje...</summary><p>project page: https://emu.world</p></details> |
+| **[LinearSR: Unlocking Linear Attention for Stable and Efficient Image Super-Resolution](http://arxiv.org/abs/2510.08771v2)** | 2025-10-30 | <details><summary>19 pa...</summary><p>19 pages, 9 figures, 6 tables</p></details> |
+| **[Enhancing ECG Classification Robustness with Lightweight Unsupervised Anomaly Detection Filters](http://arxiv.org/abs/2510.26501v1)** | 2025-10-30 | <details><summary>Submi...</summary><p>Submitted to the 24th International Conference on Pervasive Computing and Communications (PerCom 2026)</p></details> |
+| **[StyleGuard: Preventing Text-to-Image-Model-based Style Mimicry Attacks by Style Perturbations](http://arxiv.org/abs/2505.18766v2)** | 2025-10-30 | Accepted by NIPS2025 |
+| **[Diffusion-Aided Bandwidth-Efficient Semantic Communication with Adaptive Requests](http://arxiv.org/abs/2510.26442v1)** | 2025-10-30 | <details><summary>Submi...</summary><p>Submitted to IEEE ICC 2026</p></details> |
+| **[The evolving surface morphochemical reaction-diffusion system for battery modeling](http://arxiv.org/abs/2510.26437v1)** | 2025-10-30 | 25 pages, 14 figures |
 
 ## Object Counting
 | **Title** | **Date** | **Comment** |
@@ -125,15 +140,6 @@ labels: documentation
 | **[InstanceAssemble: Layout-Aware Image Generation via Instance Assembling Attention](http://arxiv.org/abs/2509.16691v2)** | 2025-10-28 | <details><summary>Accep...</summary><p>Accepted in NeurIPS 2025</p></details> |
 | **[A Poisson-Guided Decomposition Network for Extreme Low-Light Image Enhancement](http://arxiv.org/abs/2506.04470v2)** | 2025-10-25 | <details><summary>8 pag...</summary><p>8 pages, 3 figures and 1 table</p></details> |
 | **[Approximate Light Spanners in Planar Graphs](http://arxiv.org/abs/2505.24825v2)** | 2025-10-22 | <details><summary>SODA ...</summary><p>SODA 2026, abstract shortened to meet arXiv limit</p></details> |
-| **[Justitia: Fair and Efficient Scheduling for LLM Applications](http://arxiv.org/abs/2510.17015v1)** | 2025-10-19 |  |
-| **[Privacy-Preserving Visual Localization with Event Cameras](http://arxiv.org/abs/2212.03177v3)** | 2025-10-18 | <details><summary>Publi...</summary><p>Published in IEEE Transactions on Image Processing (TIP)</p></details> |
-| **[JND-Guided Light-Weight Neural Pre-Filter for Perceptual Image Coding](http://arxiv.org/abs/2510.10648v2)** | 2025-10-18 | 5 pages, 4 figures |
-| **[MGTS-Net: Exploring Graph-Enhanced Multimodal Fusion for Augmented Time Series Forecasting](http://arxiv.org/abs/2510.16350v1)** | 2025-10-18 |  |
-| **[Light-Weight Diffusion Multiplier and Uncertainty Quantification for Fourier Neural Operators](http://arxiv.org/abs/2508.00643v2)** | 2025-10-17 |  |
-| **[VRS-UIE: Value-Driven Reordering Scanning for Underwater Image Enhancement](http://arxiv.org/abs/2505.01224v2)** | 2025-10-15 |  |
-| **[OmniLens: Towards Universal Lens Aberration Correction via LensLib-to-Specific Domain Adaptation](http://arxiv.org/abs/2409.05809v2)** | 2025-10-14 | <details><summary>The c...</summary><p>The code and data will be available at https://github.com/zju-jiangqi/OmniLens</p></details> |
-| **[Gaussian Semantic Field for One-shot LiDAR Global Localization](http://arxiv.org/abs/2510.12101v1)** | 2025-10-14 |  |
-| **[Bridging Semantics & Structure for Software Vulnerability Detection using Hybrid Network Models](http://arxiv.org/abs/2510.10321v1)** | 2025-10-11 | <details><summary>13 pa...</summary><p>13 pages, 3 figures, 5 tables, 14 equations, accepted at the 14th International Conference on Complex Networks and Their Applications (COMPLEX NETWORKS 2025) and the conference proceedings will be published by Springer in the Studies in Computational Intelligence series</p></details> |
 
 ## Class Incremental
 | **Title** | **Date** | **Comment** |
