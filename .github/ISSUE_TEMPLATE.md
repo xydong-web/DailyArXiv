@@ -1,5 +1,5 @@
 ---
-title: Latest 50 Papers - November 02, 2025
+title: Latest 50 Papers - November 03, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/JiamingZang/DailyArxiv) page for a better reading experience and more papers.**
@@ -128,7 +128,6 @@ labels: documentation
 | **[Bijections Between Smirnov Words and Hamiltonian Cycles in Complete Multipartite Graphs](http://arxiv.org/abs/2510.26597v1)** | 2025-10-30 |  |
 | **[Tackling the Challenges of Adding Pulse-level Support to a Heterogeneous HPCQC Software Stack: MQSS Pulse](http://arxiv.org/abs/2510.26565v1)** | 2025-10-30 | <details><summary>11 pa...</summary><p>11 pages, 3 figures, 3 listings, SC'25 conference</p></details> |
 | **[On Measuring Localization of Shortcuts in Deep Networks](http://arxiv.org/abs/2510.26560v1)** | 2025-10-30 |  |
-| **[On the number of non-degenerate canalizing Boolean functions](http://arxiv.org/abs/2510.26556v1)** | 2025-10-30 | 11 pages, 3 figures |
 
 ## Light Weight
 | **Title** | **Date** | **Comment** |
@@ -140,6 +139,15 @@ labels: documentation
 | **[InstanceAssemble: Layout-Aware Image Generation via Instance Assembling Attention](http://arxiv.org/abs/2509.16691v2)** | 2025-10-28 | <details><summary>Accep...</summary><p>Accepted in NeurIPS 2025</p></details> |
 | **[A Poisson-Guided Decomposition Network for Extreme Low-Light Image Enhancement](http://arxiv.org/abs/2506.04470v2)** | 2025-10-25 | <details><summary>8 pag...</summary><p>8 pages, 3 figures and 1 table</p></details> |
 | **[Approximate Light Spanners in Planar Graphs](http://arxiv.org/abs/2505.24825v2)** | 2025-10-22 | <details><summary>SODA ...</summary><p>SODA 2026, abstract shortened to meet arXiv limit</p></details> |
+| **[Justitia: Fair and Efficient Scheduling for LLM Applications](http://arxiv.org/abs/2510.17015v1)** | 2025-10-19 |  |
+| **[Privacy-Preserving Visual Localization with Event Cameras](http://arxiv.org/abs/2212.03177v3)** | 2025-10-18 | <details><summary>Publi...</summary><p>Published in IEEE Transactions on Image Processing (TIP)</p></details> |
+| **[JND-Guided Light-Weight Neural Pre-Filter for Perceptual Image Coding](http://arxiv.org/abs/2510.10648v2)** | 2025-10-18 | 5 pages, 4 figures |
+| **[MGTS-Net: Exploring Graph-Enhanced Multimodal Fusion for Augmented Time Series Forecasting](http://arxiv.org/abs/2510.16350v1)** | 2025-10-18 |  |
+| **[Light-Weight Diffusion Multiplier and Uncertainty Quantification for Fourier Neural Operators](http://arxiv.org/abs/2508.00643v2)** | 2025-10-17 |  |
+| **[VRS-UIE: Value-Driven Reordering Scanning for Underwater Image Enhancement](http://arxiv.org/abs/2505.01224v2)** | 2025-10-15 |  |
+| **[OmniLens: Towards Universal Lens Aberration Correction via LensLib-to-Specific Domain Adaptation](http://arxiv.org/abs/2409.05809v2)** | 2025-10-14 | <details><summary>The c...</summary><p>The code and data will be available at https://github.com/zju-jiangqi/OmniLens</p></details> |
+| **[Gaussian Semantic Field for One-shot LiDAR Global Localization](http://arxiv.org/abs/2510.12101v1)** | 2025-10-14 |  |
+| **[Bridging Semantics & Structure for Software Vulnerability Detection using Hybrid Network Models](http://arxiv.org/abs/2510.10321v1)** | 2025-10-11 | <details><summary>13 pa...</summary><p>13 pages, 3 figures, 5 tables, 14 equations, accepted at the 14th International Conference on Complex Networks and Their Applications (COMPLEX NETWORKS 2025) and the conference proceedings will be published by Springer in the Studies in Computational Intelligence series</p></details> |
 
 ## Class Incremental
 | **Title** | **Date** | **Comment** |
