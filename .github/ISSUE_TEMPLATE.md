@@ -1,5 +1,5 @@
 ---
-title: Latest 50 Papers - November 13, 2025
+title: Latest 50 Papers - November 14, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/JiamingZang/DailyArxiv) page for a better reading experience and more papers.**
@@ -60,8 +60,8 @@ labels: documentation
 | **[Smooth Diffusion: Crafting Smooth Latent Spaces in Diffusion Models](https://arxiv.org/pdf/2312.04410v1)** | 2023-12-08 | <details><summary>GitHu...</summary><p>GitHub: https://github.com/SHI-Labs/Smooth-Diffusion</p></details> |
 | **[Diffusion Forcing: Next-token Prediction Meets Full-Sequence Diffusion](https://arxiv.org/pdf/2407.01392v4)** | 2024-12-11 | <details><summary>Proje...</summary><p>Project website: https://boyuan.space/diffusion-forcing</p></details> |
 | **[Diffusion Beats Autoregressive in Data-Constrained Settings](https://arxiv.org/pdf/2507.15857v7)** | 2025-10-28 | <details><summary>Proje...</summary><p>Project Webpage: https://diffusion-scaling.github.io</p></details> |
-| **[Fuzzy-Conditioned Diffusion and Diffusion Projection Attention Applied to Facial Image Correction](https://arxiv.org/pdf/2306.14891v2)** | 2023-07-04 | <details><summary>Code ...</summary><p>Code available on https://github.com/majedelhelou/FC-Diffusion</p></details> |
 | **[Q-Diffusion: Quantizing Diffusion Models](https://arxiv.org/pdf/2302.04304v3)** | 2023-06-09 | <details><summary>The c...</summary><p>The code is available at https://github.com/Xiuyu-Li/q-diffusion</p></details> |
+| **[Fuzzy-Conditioned Diffusion and Diffusion Projection Attention Applied to Facial Image Correction](https://arxiv.org/pdf/2306.14891v2)** | 2023-07-04 | <details><summary>Code ...</summary><p>Code available on https://github.com/majedelhelou/FC-Diffusion</p></details> |
 | **[Erasing Undesirable Influence in Diffusion Models](https://arxiv.org/pdf/2401.05779v4)** | 2024-11-21 | <details><summary>Diffu...</summary><p>Diffusion Model, Machine Unlearning</p></details> |
 | **[Your Diffusion Model is Secretly a Zero-Shot Classifier](https://arxiv.org/pdf/2303.16203v3)** | 2023-09-14 | <details><summary>In IC...</summary><p>In ICCV 2023. Website at https://diffusion-classifier.github.io/</p></details> |
 | **[Diffusion Dataset Condensation: Training Your Diffusion Model Faster with Less Data](https://arxiv.org/pdf/2507.05914v2)** | 2025-07-15 | <details><summary>Iintr...</summary><p>Iintroduces D2C: a novel framework for diffusion dataset condensation</p></details> |
@@ -86,8 +86,8 @@ labels: documentation
 | **[Open-World Object Counting in Videos](https://arxiv.org/pdf/2506.15368v1)** | 2025-06-19 |  |
 | **[A Statistical Method for Object Counting](https://arxiv.org/pdf/1807.08335v1)** | 2018-07-24 |  |
 | **[Training-free Object Counting with Prompts](https://arxiv.org/pdf/2307.00038v2)** | 2023-09-01 | WACV 2024 |
-| **[Object Counting and Instance Segmentation with Image-level Supervision](https://arxiv.org/pdf/1903.02494v2)** | 2019-05-14 | <details><summary>The f...</summary><p>The first two authors have equal contribution. To appear in CVPR 2019</p></details> |
 | **[Counting Objects in a Robotic Hand](https://arxiv.org/pdf/2404.06631v1)** | 2024-04-11 |  |
+| **[Object Counting and Instance Segmentation with Image-level Supervision](https://arxiv.org/pdf/1903.02494v2)** | 2019-05-14 | <details><summary>The f...</summary><p>The first two authors have equal contribution. To appear in CVPR 2019</p></details> |
 | **[A Unified Object Counting Network with Object Occupation Prior](https://arxiv.org/pdf/2212.14193v3)** | 2023-07-03 | <details><summary>Accep...</summary><p>Accepted by IEEE TRANSACTIONS ON CIRCUITS AND SYSTEMS FOR VIDEO TECHNOLOGY; The dataset and code are available at: https://github.com/Tanyjiang/EOCO</p></details> |
 
 ## Image Caption
@@ -153,7 +153,7 @@ labels: documentation
 | **[Online Hyperparameter Optimization for Class-Incremental Learning](https://arxiv.org/pdf/2301.05032v2)** | 2023-06-30 | <details><summary>AAAI ...</summary><p>AAAI 2023 Oral. Code is available at https://class-il.mpi-inf.mpg.de/online/code/</p></details> |
 | **[Class-incremental Novel Class Discovery](https://arxiv.org/pdf/2207.08605v1)** | 2022-07-19 | ECCV 2022 |
 | **[Incremental Prototype Tuning for Class Incremental Learning](https://arxiv.org/pdf/2204.03410v7)** | 2023-02-10 |  |
-| **[Inductive Graph Few-shot Class Incremental Learning](https://arxiv.org/pdf/2411.06634v1)** | 2024-11-12 |  |
 | **[Class Impression for Data-free Incremental Learning](https://arxiv.org/pdf/2207.00005v2)** | 2022-07-05 | <details><summary>To be...</summary><p>To be appeared in MICCAI 2022</p></details> |
+| **[Inductive Graph Few-shot Class Incremental Learning](https://arxiv.org/pdf/2411.06634v1)** | 2024-11-12 |  |
 | **[Exemplar-Free Class Incremental Learning via Incremental Representation](https://arxiv.org/pdf/2403.16221v1)** | 2024-03-26 |  |
 
