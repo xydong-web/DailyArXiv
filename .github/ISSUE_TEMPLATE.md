@@ -1,5 +1,5 @@
 ---
-title: Latest 50 Papers - November 25, 2025
+title: Latest 50 Papers - November 26, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/JiamingZang/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,92 +7,88 @@ labels: documentation
 ## Molecular
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Masked-and-Reordered Self-Supervision for Reinforcement Learning from Verifiable Rewards](https://arxiv.org/abs/2511.17473v1)** | 2025-11-21 |  |
-| **[Automated Interpretable 2D Video Extraction from 3D Echocardiography](https://arxiv.org/abs/2511.15946v2)** | 2025-11-21 | 12 pages, 5 figures |
-| **[Extending the Accelerated Failure Conditionals Model to Location-Scale Families](https://arxiv.org/abs/2511.17463v1)** | 2025-11-21 | <details><summary>17 pa...</summary><p>17 pages, 3 figures, 5 tables</p></details> |
-| **[Multidimensional constructs and moderated linear and nonlinear factor analysis](https://arxiv.org/abs/2509.05443v2)** | 2025-11-21 | 22 pages, 2 figures |
-| **[Frobenius Revivals in Laplacian Cellular Automata: Chaos, Replication, and Reversible Encoding](https://arxiv.org/abs/2511.17389v1)** | 2025-11-21 | 15 pages, 5 figures |
-| **[IndustryNav: Exploring Spatial Reasoning of Embodied Agents in Dynamic Industrial Navigation](https://arxiv.org/abs/2511.17384v1)** | 2025-11-21 |  |
+| **[Cloud4D](https://arxiv.org/abs/2511.19431v1)** | 2025-11-24 | <details><summary>NeurI...</summary><p>NeurIPS 2025 Spotlight, project page: https://cloud4d.jacob-lin.com/</p></details> |
+| **[UISearch: Graph-Based Embeddings for Multimodal Enterprise UI Screenshots Retrieval](https://arxiv.org/abs/2511.19380v1)** | 2025-11-24 | <details><summary>12 pa...</summary><p>12 pages, 2 figures, 3 algorithms, 4 tables</p></details> |
+| **[Bridging LLM Planning Agents and Formal Methods: A Case Study in Plan Verification](https://arxiv.org/abs/2510.03469v2)** | 2025-11-24 | <details><summary>Accep...</summary><p>Accepted to AgenticSE Workshop at ASE 2025</p></details> |
+| **[Node Preservation and its Effect on Crossover in Cartesian Genetic Programming](https://arxiv.org/abs/2511.00634v2)** | 2025-11-24 | <details><summary>Draft...</summary><p>Draft to cite in another paper before both papers are peer-reviewed for the evo*2026 conference, 21 pages, 5 figures</p></details> |
+| **[Learning Protein-Ligand Binding in Hyperbolic Space](https://arxiv.org/abs/2508.15480v2)** | 2025-11-24 |  |
 
 ## Molecular Generation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Masked-and-Reordered Self-Supervision for Reinforcement Learning from Verifiable Rewards](https://arxiv.org/abs/2511.17473v1)** | 2025-11-21 |  |
-| **[Automated Interpretable 2D Video Extraction from 3D Echocardiography](https://arxiv.org/abs/2511.15946v2)** | 2025-11-21 | 12 pages, 5 figures |
-| **[Extending the Accelerated Failure Conditionals Model to Location-Scale Families](https://arxiv.org/abs/2511.17463v1)** | 2025-11-21 | <details><summary>17 pa...</summary><p>17 pages, 3 figures, 5 tables</p></details> |
-| **[Multidimensional constructs and moderated linear and nonlinear factor analysis](https://arxiv.org/abs/2509.05443v2)** | 2025-11-21 | 22 pages, 2 figures |
-| **[Frobenius Revivals in Laplacian Cellular Automata: Chaos, Replication, and Reversible Encoding](https://arxiv.org/abs/2511.17389v1)** | 2025-11-21 | 15 pages, 5 figures |
-| **[IndustryNav: Exploring Spatial Reasoning of Embodied Agents in Dynamic Industrial Navigation](https://arxiv.org/abs/2511.17384v1)** | 2025-11-21 |  |
+| **[Cloud4D](https://arxiv.org/abs/2511.19431v1)** | 2025-11-24 | <details><summary>NeurI...</summary><p>NeurIPS 2025 Spotlight, project page: https://cloud4d.jacob-lin.com/</p></details> |
+| **[UISearch: Graph-Based Embeddings for Multimodal Enterprise UI Screenshots Retrieval](https://arxiv.org/abs/2511.19380v1)** | 2025-11-24 | <details><summary>12 pa...</summary><p>12 pages, 2 figures, 3 algorithms, 4 tables</p></details> |
+| **[Bridging LLM Planning Agents and Formal Methods: A Case Study in Plan Verification](https://arxiv.org/abs/2510.03469v2)** | 2025-11-24 | <details><summary>Accep...</summary><p>Accepted to AgenticSE Workshop at ASE 2025</p></details> |
+| **[Node Preservation and its Effect on Crossover in Cartesian Genetic Programming](https://arxiv.org/abs/2511.00634v2)** | 2025-11-24 | <details><summary>Draft...</summary><p>Draft to cite in another paper before both papers are peer-reviewed for the evo*2026 conference, 21 pages, 5 figures</p></details> |
+| **[Interpreting GFlowNets for Drug Discovery: Extracting Actionable Insights for Medicinal Chemistry](https://arxiv.org/abs/2511.19264v1)** | 2025-11-24 | <details><summary>13 pa...</summary><p>13 pages, 7 figures. Accepted for presentation at NeurIPS 2025 WiML Workshop and Molecular Machine Learning Conference (MoML) 2025</p></details> |
+| **[Adversarial Patch Attacks on Vision-Based Cargo Occupancy Estimation via Differentiable 3D Simulation](https://arxiv.org/abs/2511.19254v1)** | 2025-11-24 | <details><summary>9 pag...</summary><p>9 pages, 5 figures, 1 algorithm</p></details> |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Masked-and-Reordered Self-Supervision for Reinforcement Learning from Verifiable Rewards](https://arxiv.org/abs/2511.17473v1)** | 2025-11-21 |  |
-| **[Automated Interpretable 2D Video Extraction from 3D Echocardiography](https://arxiv.org/abs/2511.15946v2)** | 2025-11-21 | 12 pages, 5 figures |
-| **[Extending the Accelerated Failure Conditionals Model to Location-Scale Families](https://arxiv.org/abs/2511.17463v1)** | 2025-11-21 | <details><summary>17 pa...</summary><p>17 pages, 3 figures, 5 tables</p></details> |
-| **[Multidimensional constructs and moderated linear and nonlinear factor analysis](https://arxiv.org/abs/2509.05443v2)** | 2025-11-21 | 22 pages, 2 figures |
-| **[Frobenius Revivals in Laplacian Cellular Automata: Chaos, Replication, and Reversible Encoding](https://arxiv.org/abs/2511.17389v1)** | 2025-11-21 | 15 pages, 5 figures |
-| **[IndustryNav: Exploring Spatial Reasoning of Embodied Agents in Dynamic Industrial Navigation](https://arxiv.org/abs/2511.17384v1)** | 2025-11-21 |  |
-| **[R2PS: Worst-Case Robust Real-Time Pursuit Strategies under Partial Observability](https://arxiv.org/abs/2511.17367v1)** | 2025-11-21 |  |
+| **[Cloud4D](https://arxiv.org/abs/2511.19431v1)** | 2025-11-24 | <details><summary>NeurI...</summary><p>NeurIPS 2025 Spotlight, project page: https://cloud4d.jacob-lin.com/</p></details> |
+| **[UISearch: Graph-Based Embeddings for Multimodal Enterprise UI Screenshots Retrieval](https://arxiv.org/abs/2511.19380v1)** | 2025-11-24 | <details><summary>12 pa...</summary><p>12 pages, 2 figures, 3 algorithms, 4 tables</p></details> |
+| **[Bridging LLM Planning Agents and Formal Methods: A Case Study in Plan Verification](https://arxiv.org/abs/2510.03469v2)** | 2025-11-24 | <details><summary>Accep...</summary><p>Accepted to AgenticSE Workshop at ASE 2025</p></details> |
+| **[Node Preservation and its Effect on Crossover in Cartesian Genetic Programming](https://arxiv.org/abs/2511.00634v2)** | 2025-11-24 | <details><summary>Draft...</summary><p>Draft to cite in another paper before both papers are peer-reviewed for the evo*2026 conference, 21 pages, 5 figures</p></details> |
+| **[Sentence Smith: Controllable Edits for Evaluating Text Embeddings](https://arxiv.org/abs/2502.14734v4)** | 2025-11-24 | <details><summary>EMNLP...</summary><p>EMNLP 2025 (main), this version fixes a subscript typo in Eq 1</p></details> |
+| **[Interpreting Graph Inference with Skyline Explanations](https://arxiv.org/abs/2505.07635v4)** | 2025-11-24 | <details><summary>Accep...</summary><p>Accepted at ICDE 2026</p></details> |
+| **[Leveraging Spatiotemporal Graph Neural Networks for Multi-Store Sales Forecasting](https://arxiv.org/abs/2511.19267v1)** | 2025-11-24 | <details><summary>6 pag...</summary><p>6 pages, 4 figures, 1 table</p></details> |
 
 ## Diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[MDG: Masked Denoising Generation for Multi-Agent Behavior Modeling in Traffic Environments](https://arxiv.org/abs/2511.17496v1)** | 2025-11-21 |  |
-| **[EvDiff: High Quality Video with an Event Camera](https://arxiv.org/abs/2511.17492v1)** | 2025-11-21 |  |
-| **[Radar2Shape: 3D Shape Reconstruction from High-Frequency Radar using Multiresolution Signed Distance Functions](https://arxiv.org/abs/2511.17484v1)** | 2025-11-21 |  |
-| **[Counterfactual World Models via Digital Twin-conditioned Video Diffusion](https://arxiv.org/abs/2511.17481v1)** | 2025-11-21 |  |
-| **[Masked-and-Reordered Self-Supervision for Reinforcement Learning from Verifiable Rewards](https://arxiv.org/abs/2511.17473v1)** | 2025-11-21 |  |
-| **[Automated Interpretable 2D Video Extraction from 3D Echocardiography](https://arxiv.org/abs/2511.15946v2)** | 2025-11-21 | 12 pages, 5 figures |
-| **[Extending the Accelerated Failure Conditionals Model to Location-Scale Families](https://arxiv.org/abs/2511.17463v1)** | 2025-11-21 | <details><summary>17 pa...</summary><p>17 pages, 3 figures, 5 tables</p></details> |
-| **[Planning with Sketch-Guided Verification for Physics-Aware Video Generation](https://arxiv.org/abs/2511.17450v1)** | 2025-11-21 | <details><summary>websi...</summary><p>website: https://sketchverify.github.io/</p></details> |
+| **[Are Image-to-Video Models Good Zero-Shot Image Editors?](https://arxiv.org/abs/2511.19435v1)** | 2025-11-24 | technical report |
+| **[Breaking the Likelihood-Quality Trade-off in Diffusion Models by Merging Pretrained Experts](https://arxiv.org/abs/2511.19434v1)** | 2025-11-24 | <details><summary>ICLR ...</summary><p>ICLR 2025 DeLTa workshop</p></details> |
+| **[Cloud4D](https://arxiv.org/abs/2511.19431v1)** | 2025-11-24 | <details><summary>NeurI...</summary><p>NeurIPS 2025 Spotlight, project page: https://cloud4d.jacob-lin.com/</p></details> |
+| **[Predicting partially observable dynamical systems via diffusion models with a multiscale inference scheme](https://arxiv.org/abs/2511.19390v1)** | 2025-11-24 |  |
+| **[UISearch: Graph-Based Embeddings for Multimodal Enterprise UI Screenshots Retrieval](https://arxiv.org/abs/2511.19380v1)** | 2025-11-24 | <details><summary>12 pa...</summary><p>12 pages, 2 figures, 3 algorithms, 4 tables</p></details> |
+| **[Efficiency vs. Fidelity: A Comparative Analysis of Diffusion Probabilistic Models and Flow Matching on Low-Resource Hardware](https://arxiv.org/abs/2511.19379v1)** | 2025-11-24 |  |
+| **[Bridging LLM Planning Agents and Formal Methods: A Case Study in Plan Verification](https://arxiv.org/abs/2510.03469v2)** | 2025-11-24 | <details><summary>Accep...</summary><p>Accepted to AgenticSE Workshop at ASE 2025</p></details> |
+| **[SketchDeco: Training-Free Latent Composition for Precise Sketch Colourisation](https://arxiv.org/abs/2405.18716v2)** | 2025-11-24 | <details><summary>Proje...</summary><p>Project Page: \url{https://chaitron.github.io/SketchDeco/}</p></details> |
+| **[DeCo: Frequency-Decoupled Pixel Diffusion for End-to-End Image Generation](https://arxiv.org/abs/2511.19365v1)** | 2025-11-24 | <details><summary>Proje...</summary><p>Project Page: https://zehong-ma.github.io/DeCo. Code Repository: https://github.com/Zehong-Ma/DeCo</p></details> |
 
 ## Object Counting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Masked-and-Reordered Self-Supervision for Reinforcement Learning from Verifiable Rewards](https://arxiv.org/abs/2511.17473v1)** | 2025-11-21 |  |
-| **[Automated Interpretable 2D Video Extraction from 3D Echocardiography](https://arxiv.org/abs/2511.15946v2)** | 2025-11-21 | 12 pages, 5 figures |
-| **[Extending the Accelerated Failure Conditionals Model to Location-Scale Families](https://arxiv.org/abs/2511.17463v1)** | 2025-11-21 | <details><summary>17 pa...</summary><p>17 pages, 3 figures, 5 tables</p></details> |
-| **[Multidimensional constructs and moderated linear and nonlinear factor analysis](https://arxiv.org/abs/2509.05443v2)** | 2025-11-21 | 22 pages, 2 figures |
-| **[Frobenius Revivals in Laplacian Cellular Automata: Chaos, Replication, and Reversible Encoding](https://arxiv.org/abs/2511.17389v1)** | 2025-11-21 | 15 pages, 5 figures |
-| **[IndustryNav: Exploring Spatial Reasoning of Embodied Agents in Dynamic Industrial Navigation](https://arxiv.org/abs/2511.17384v1)** | 2025-11-21 |  |
+| **[Cloud4D](https://arxiv.org/abs/2511.19431v1)** | 2025-11-24 | <details><summary>NeurI...</summary><p>NeurIPS 2025 Spotlight, project page: https://cloud4d.jacob-lin.com/</p></details> |
+| **[UISearch: Graph-Based Embeddings for Multimodal Enterprise UI Screenshots Retrieval](https://arxiv.org/abs/2511.19380v1)** | 2025-11-24 | <details><summary>12 pa...</summary><p>12 pages, 2 figures, 3 algorithms, 4 tables</p></details> |
+| **[Bridging LLM Planning Agents and Formal Methods: A Case Study in Plan Verification](https://arxiv.org/abs/2510.03469v2)** | 2025-11-24 | <details><summary>Accep...</summary><p>Accepted to AgenticSE Workshop at ASE 2025</p></details> |
+| **[Node Preservation and its Effect on Crossover in Cartesian Genetic Programming](https://arxiv.org/abs/2511.00634v2)** | 2025-11-24 | <details><summary>Draft...</summary><p>Draft to cite in another paper before both papers are peer-reviewed for the evo*2026 conference, 21 pages, 5 figures</p></details> |
+| **[Adversarial Patch Attacks on Vision-Based Cargo Occupancy Estimation via Differentiable 3D Simulation](https://arxiv.org/abs/2511.19254v1)** | 2025-11-24 | <details><summary>9 pag...</summary><p>9 pages, 5 figures, 1 algorithm</p></details> |
 
 ## Image Caption
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Masked-and-Reordered Self-Supervision for Reinforcement Learning from Verifiable Rewards](https://arxiv.org/abs/2511.17473v1)** | 2025-11-21 |  |
-| **[Automated Interpretable 2D Video Extraction from 3D Echocardiography](https://arxiv.org/abs/2511.15946v2)** | 2025-11-21 | 12 pages, 5 figures |
-| **[Extending the Accelerated Failure Conditionals Model to Location-Scale Families](https://arxiv.org/abs/2511.17463v1)** | 2025-11-21 | <details><summary>17 pa...</summary><p>17 pages, 3 figures, 5 tables</p></details> |
-| **[Multidimensional constructs and moderated linear and nonlinear factor analysis](https://arxiv.org/abs/2509.05443v2)** | 2025-11-21 | 22 pages, 2 figures |
-| **[Frobenius Revivals in Laplacian Cellular Automata: Chaos, Replication, and Reversible Encoding](https://arxiv.org/abs/2511.17389v1)** | 2025-11-21 | 15 pages, 5 figures |
-| **[IndustryNav: Exploring Spatial Reasoning of Embodied Agents in Dynamic Industrial Navigation](https://arxiv.org/abs/2511.17384v1)** | 2025-11-21 |  |
+| **[Cloud4D](https://arxiv.org/abs/2511.19431v1)** | 2025-11-24 | <details><summary>NeurI...</summary><p>NeurIPS 2025 Spotlight, project page: https://cloud4d.jacob-lin.com/</p></details> |
+| **[UISearch: Graph-Based Embeddings for Multimodal Enterprise UI Screenshots Retrieval](https://arxiv.org/abs/2511.19380v1)** | 2025-11-24 | <details><summary>12 pa...</summary><p>12 pages, 2 figures, 3 algorithms, 4 tables</p></details> |
+| **[Bridging LLM Planning Agents and Formal Methods: A Case Study in Plan Verification](https://arxiv.org/abs/2510.03469v2)** | 2025-11-24 | <details><summary>Accep...</summary><p>Accepted to AgenticSE Workshop at ASE 2025</p></details> |
+| **[Node Preservation and its Effect on Crossover in Cartesian Genetic Programming](https://arxiv.org/abs/2511.00634v2)** | 2025-11-24 | <details><summary>Draft...</summary><p>Draft to cite in another paper before both papers are peer-reviewed for the evo*2026 conference, 21 pages, 5 figures</p></details> |
+| **[Adversarial Patch Attacks on Vision-Based Cargo Occupancy Estimation via Differentiable 3D Simulation](https://arxiv.org/abs/2511.19254v1)** | 2025-11-24 | <details><summary>9 pag...</summary><p>9 pages, 5 figures, 1 algorithm</p></details> |
 
 ## Describe
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Masked-and-Reordered Self-Supervision for Reinforcement Learning from Verifiable Rewards](https://arxiv.org/abs/2511.17473v1)** | 2025-11-21 |  |
-| **[Automated Interpretable 2D Video Extraction from 3D Echocardiography](https://arxiv.org/abs/2511.15946v2)** | 2025-11-21 | 12 pages, 5 figures |
-| **[Extending the Accelerated Failure Conditionals Model to Location-Scale Families](https://arxiv.org/abs/2511.17463v1)** | 2025-11-21 | <details><summary>17 pa...</summary><p>17 pages, 3 figures, 5 tables</p></details> |
-| **[GRAPHIC--Guidelines for Reviewing Algorithmic Practices in Human-centred Design and Interaction for Creativity](https://arxiv.org/abs/2511.17443v1)** | 2025-11-21 | 20 pages, 16 figures |
+| **[Cloud4D](https://arxiv.org/abs/2511.19431v1)** | 2025-11-24 | <details><summary>NeurI...</summary><p>NeurIPS 2025 Spotlight, project page: https://cloud4d.jacob-lin.com/</p></details> |
+| **[UISearch: Graph-Based Embeddings for Multimodal Enterprise UI Screenshots Retrieval](https://arxiv.org/abs/2511.19380v1)** | 2025-11-24 | <details><summary>12 pa...</summary><p>12 pages, 2 figures, 3 algorithms, 4 tables</p></details> |
+| **[Bridging LLM Planning Agents and Formal Methods: A Case Study in Plan Verification](https://arxiv.org/abs/2510.03469v2)** | 2025-11-24 | <details><summary>Accep...</summary><p>Accepted to AgenticSE Workshop at ASE 2025</p></details> |
+| **[Node Preservation and its Effect on Crossover in Cartesian Genetic Programming](https://arxiv.org/abs/2511.00634v2)** | 2025-11-24 | <details><summary>Draft...</summary><p>Draft to cite in another paper before both papers are peer-reviewed for the evo*2026 conference, 21 pages, 5 figures</p></details> |
 
 ## Light Weight
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Masked-and-Reordered Self-Supervision for Reinforcement Learning from Verifiable Rewards](https://arxiv.org/abs/2511.17473v1)** | 2025-11-21 |  |
-| **[Automated Interpretable 2D Video Extraction from 3D Echocardiography](https://arxiv.org/abs/2511.15946v2)** | 2025-11-21 | 12 pages, 5 figures |
-| **[Extending the Accelerated Failure Conditionals Model to Location-Scale Families](https://arxiv.org/abs/2511.17463v1)** | 2025-11-21 | <details><summary>17 pa...</summary><p>17 pages, 3 figures, 5 tables</p></details> |
-| **[Multidimensional constructs and moderated linear and nonlinear factor analysis](https://arxiv.org/abs/2509.05443v2)** | 2025-11-21 | 22 pages, 2 figures |
-| **[Frobenius Revivals in Laplacian Cellular Automata: Chaos, Replication, and Reversible Encoding](https://arxiv.org/abs/2511.17389v1)** | 2025-11-21 | 15 pages, 5 figures |
-| **[IndustryNav: Exploring Spatial Reasoning of Embodied Agents in Dynamic Industrial Navigation](https://arxiv.org/abs/2511.17384v1)** | 2025-11-21 |  |
+| **[Cloud4D](https://arxiv.org/abs/2511.19431v1)** | 2025-11-24 | <details><summary>NeurI...</summary><p>NeurIPS 2025 Spotlight, project page: https://cloud4d.jacob-lin.com/</p></details> |
+| **[UISearch: Graph-Based Embeddings for Multimodal Enterprise UI Screenshots Retrieval](https://arxiv.org/abs/2511.19380v1)** | 2025-11-24 | <details><summary>12 pa...</summary><p>12 pages, 2 figures, 3 algorithms, 4 tables</p></details> |
+| **[Bridging LLM Planning Agents and Formal Methods: A Case Study in Plan Verification](https://arxiv.org/abs/2510.03469v2)** | 2025-11-24 | <details><summary>Accep...</summary><p>Accepted to AgenticSE Workshop at ASE 2025</p></details> |
+| **[Node Preservation and its Effect on Crossover in Cartesian Genetic Programming](https://arxiv.org/abs/2511.00634v2)** | 2025-11-24 | <details><summary>Draft...</summary><p>Draft to cite in another paper before both papers are peer-reviewed for the evo*2026 conference, 21 pages, 5 figures</p></details> |
+| **[Adversarial Patch Attacks on Vision-Based Cargo Occupancy Estimation via Differentiable 3D Simulation](https://arxiv.org/abs/2511.19254v1)** | 2025-11-24 | <details><summary>9 pag...</summary><p>9 pages, 5 figures, 1 algorithm</p></details> |
 
 ## Class Incremental
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Masked-and-Reordered Self-Supervision for Reinforcement Learning from Verifiable Rewards](https://arxiv.org/abs/2511.17473v1)** | 2025-11-21 |  |
-| **[Automated Interpretable 2D Video Extraction from 3D Echocardiography](https://arxiv.org/abs/2511.15946v2)** | 2025-11-21 | 12 pages, 5 figures |
-| **[Extending the Accelerated Failure Conditionals Model to Location-Scale Families](https://arxiv.org/abs/2511.17463v1)** | 2025-11-21 | <details><summary>17 pa...</summary><p>17 pages, 3 figures, 5 tables</p></details> |
-| **[InTAct: Interval-based Task Activation Consolidation for Continual Learning](https://arxiv.org/abs/2511.17439v1)** | 2025-11-21 |  |
-| **[Multidimensional constructs and moderated linear and nonlinear factor analysis](https://arxiv.org/abs/2509.05443v2)** | 2025-11-21 | 22 pages, 2 figures |
-| **[Frobenius Revivals in Laplacian Cellular Automata: Chaos, Replication, and Reversible Encoding](https://arxiv.org/abs/2511.17389v1)** | 2025-11-21 | 15 pages, 5 figures |
-| **[IndustryNav: Exploring Spatial Reasoning of Embodied Agents in Dynamic Industrial Navigation](https://arxiv.org/abs/2511.17384v1)** | 2025-11-21 |  |
+| **[Cloud4D](https://arxiv.org/abs/2511.19431v1)** | 2025-11-24 | <details><summary>NeurI...</summary><p>NeurIPS 2025 Spotlight, project page: https://cloud4d.jacob-lin.com/</p></details> |
+| **[UISearch: Graph-Based Embeddings for Multimodal Enterprise UI Screenshots Retrieval](https://arxiv.org/abs/2511.19380v1)** | 2025-11-24 | <details><summary>12 pa...</summary><p>12 pages, 2 figures, 3 algorithms, 4 tables</p></details> |
+| **[Bridging LLM Planning Agents and Formal Methods: A Case Study in Plan Verification](https://arxiv.org/abs/2510.03469v2)** | 2025-11-24 | <details><summary>Accep...</summary><p>Accepted to AgenticSE Workshop at ASE 2025</p></details> |
+| **[Node Preservation and its Effect on Crossover in Cartesian Genetic Programming](https://arxiv.org/abs/2511.00634v2)** | 2025-11-24 | <details><summary>Draft...</summary><p>Draft to cite in another paper before both papers are peer-reviewed for the evo*2026 conference, 21 pages, 5 figures</p></details> |
+| **[Annotation-Free Class-Incremental Learning](https://arxiv.org/abs/2511.19344v1)** | 2025-11-24 | 18 pages, 6 figures |
+| **[Adversarial Patch Attacks on Vision-Based Cargo Occupancy Estimation via Differentiable 3D Simulation](https://arxiv.org/abs/2511.19254v1)** | 2025-11-24 | <details><summary>9 pag...</summary><p>9 pages, 5 figures, 1 algorithm</p></details> |
 
