@@ -1,5 +1,5 @@
 ---
-title: Latest 50 Papers - December 01, 2025
+title: Latest 50 Papers - December 02, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/JiamingZang/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,144 +7,87 @@ labels: documentation
 ## Molecular
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[ToolOrchestra: Elevating Intelligence via Efficient Model and Tool Orchestration](https://arxiv.org/abs/2511.21689v1)** | 2025-11-26 | 21 pages, 6 figures |
-| **[Simulated Self-Assessment in Large Language Models: A Psychometric Approach to AI Self-Efficacy](https://arxiv.org/abs/2511.19872v2)** | 2025-11-26 | <details><summary>25 pa...</summary><p>25 pages,5 tables, 3 figures</p></details> |
-| **[EvilGenie: A Reward Hacking Benchmark](https://arxiv.org/abs/2511.21654v1)** | 2025-11-26 |  |
-| **[Mechanisms of Non-Monotonic Scaling in Vision Transformers](https://arxiv.org/abs/2511.21635v1)** | 2025-11-26 | <details><summary>16 pa...</summary><p>16 pages total (11 pages main text, 1 pages references, 4 pages appendix), 5 figures, 11 tables. Code available at https://github.com/AnanthaPadmanaban-KrishnaKumar/Cliff-Plateau-Climb</p></details> |
-| **[Leveraging Test Driven Development with Large Language Models for Reliable and Verifiable Spreadsheet Code Generation: A Research Framework](https://arxiv.org/abs/2510.15585v2)** | 2025-11-26 | 16 pages |
-| **[Diagonal Scaling: A Multi-Dimensional Resource Model and Optimization Framework for Distributed Databases](https://arxiv.org/abs/2511.21612v1)** | 2025-11-26 |  |
-| **[Diffusion Models at the Drug Discovery Frontier: A Review on Generating Small Molecules versus Therapeutic Peptides](https://arxiv.org/abs/2511.00209v2)** | 2025-11-26 | Published in Biology |
-| **[LCB-CV-UNet: Enhanced Detector for High Dynamic Range Radar Signals](https://arxiv.org/abs/2505.23454v2)** | 2025-11-26 | <details><summary>5 pag...</summary><p>5 pages, 4 figures. Accepted to IEEE IGARSS 2025</p></details> |
-| **[Machine Learning Approaches to Clinical Risk Prediction: Multi-Scale Temporal Alignment in Electronic Health Records](https://arxiv.org/abs/2511.21561v1)** | 2025-11-26 | 5 pages, 3 figures |
-| **[TinyChemVL: Advancing Chemical Vision-Language Models via Efficient Visual Token Reduction and Complex Reaction Tasks](https://arxiv.org/abs/2511.06283v2)** | 2025-11-26 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026</p></details> |
-| **[MMA: A Momentum Mamba Architecture for Human Activity Recognition with Inertial Sensors](https://arxiv.org/abs/2511.21550v1)** | 2025-11-26 | 14 pages, 5 pages |
-| **[Alignment of large language models with constrained learning](https://arxiv.org/abs/2505.19387v2)** | 2025-11-26 | <details><summary>51 pa...</summary><p>51 pages, 5 figures, 11 tables; Accepted to NeurIPS 2025</p></details> |
+| **[The Price of Progress: Algorithmic Efficiency and the Falling Cost of AI Inference](https://arxiv.org/abs/2511.23455v1)** | 2025-11-28 |  |
+| **[Quantized-Tinyllava: a new multimodal foundation model enables efficient split learning](https://arxiv.org/abs/2511.23402v1)** | 2025-11-28 | 14pages, 5 figures |
+| **[MegaChat: A Synthetic Persian Q&A Dataset for High-Quality Sales Chatbot Evaluation](https://arxiv.org/abs/2511.23397v1)** | 2025-11-28 | <details><summary>6 pag...</summary><p>6 pages, 11 figures, 2 tables</p></details> |
+| **[Material-informed Gaussian Splatting for 3D World Reconstruction in a Digital Twin](https://arxiv.org/abs/2511.20348v2)** | 2025-11-28 | <details><summary>8 pag...</summary><p>8 pages, 5 figures. Submitted to IEEE Intelligent Vehicles Symposium (IV) 2026 for possible publication. Revised version (v2) to correct author order</p></details> |
 
 ## Molecular Generation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[ToolOrchestra: Elevating Intelligence via Efficient Model and Tool Orchestration](https://arxiv.org/abs/2511.21689v1)** | 2025-11-26 | 21 pages, 6 figures |
-| **[Simulated Self-Assessment in Large Language Models: A Psychometric Approach to AI Self-Efficacy](https://arxiv.org/abs/2511.19872v2)** | 2025-11-26 | <details><summary>25 pa...</summary><p>25 pages,5 tables, 3 figures</p></details> |
-| **[EvilGenie: A Reward Hacking Benchmark](https://arxiv.org/abs/2511.21654v1)** | 2025-11-26 |  |
-| **[Mechanisms of Non-Monotonic Scaling in Vision Transformers](https://arxiv.org/abs/2511.21635v1)** | 2025-11-26 | <details><summary>16 pa...</summary><p>16 pages total (11 pages main text, 1 pages references, 4 pages appendix), 5 figures, 11 tables. Code available at https://github.com/AnanthaPadmanaban-KrishnaKumar/Cliff-Plateau-Climb</p></details> |
-| **[Leveraging Test Driven Development with Large Language Models for Reliable and Verifiable Spreadsheet Code Generation: A Research Framework](https://arxiv.org/abs/2510.15585v2)** | 2025-11-26 | 16 pages |
-| **[Diagonal Scaling: A Multi-Dimensional Resource Model and Optimization Framework for Distributed Databases](https://arxiv.org/abs/2511.21612v1)** | 2025-11-26 |  |
-| **[Diffusion Models at the Drug Discovery Frontier: A Review on Generating Small Molecules versus Therapeutic Peptides](https://arxiv.org/abs/2511.00209v2)** | 2025-11-26 | Published in Biology |
-| **[LCB-CV-UNet: Enhanced Detector for High Dynamic Range Radar Signals](https://arxiv.org/abs/2505.23454v2)** | 2025-11-26 | <details><summary>5 pag...</summary><p>5 pages, 4 figures. Accepted to IEEE IGARSS 2025</p></details> |
-| **[Machine Learning Approaches to Clinical Risk Prediction: Multi-Scale Temporal Alignment in Electronic Health Records](https://arxiv.org/abs/2511.21561v1)** | 2025-11-26 | 5 pages, 3 figures |
-| **[TinyChemVL: Advancing Chemical Vision-Language Models via Efficient Visual Token Reduction and Complex Reaction Tasks](https://arxiv.org/abs/2511.06283v2)** | 2025-11-26 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026</p></details> |
-| **[MMA: A Momentum Mamba Architecture for Human Activity Recognition with Inertial Sensors](https://arxiv.org/abs/2511.21550v1)** | 2025-11-26 | 14 pages, 5 pages |
-| **[Alignment of large language models with constrained learning](https://arxiv.org/abs/2505.19387v2)** | 2025-11-26 | <details><summary>51 pa...</summary><p>51 pages, 5 figures, 11 tables; Accepted to NeurIPS 2025</p></details> |
-| **[Amalgamations in a hierarchy as a way of variable selection in compositional data analysis](https://arxiv.org/abs/2511.14622v2)** | 2025-11-26 | <details><summary>14 pa...</summary><p>14 pages 5 figures, 2 tables</p></details> |
+| **[The Price of Progress: Algorithmic Efficiency and the Falling Cost of AI Inference](https://arxiv.org/abs/2511.23455v1)** | 2025-11-28 |  |
+| **[Quantized-Tinyllava: a new multimodal foundation model enables efficient split learning](https://arxiv.org/abs/2511.23402v1)** | 2025-11-28 | 14pages, 5 figures |
+| **[MegaChat: A Synthetic Persian Q&A Dataset for High-Quality Sales Chatbot Evaluation](https://arxiv.org/abs/2511.23397v1)** | 2025-11-28 | <details><summary>6 pag...</summary><p>6 pages, 11 figures, 2 tables</p></details> |
+| **[Material-informed Gaussian Splatting for 3D World Reconstruction in a Digital Twin](https://arxiv.org/abs/2511.20348v2)** | 2025-11-28 | <details><summary>8 pag...</summary><p>8 pages, 5 figures. Submitted to IEEE Intelligent Vehicles Symposium (IV) 2026 for possible publication. Revised version (v2) to correct author order</p></details> |
+| **[Beyond 2-Edge-Connectivity: Algorithms and Impossibility for Content-Oblivious Leader Election](https://arxiv.org/abs/2511.23297v1)** | 2025-11-28 |  |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[ToolOrchestra: Elevating Intelligence via Efficient Model and Tool Orchestration](https://arxiv.org/abs/2511.21689v1)** | 2025-11-26 | 21 pages, 6 figures |
-| **[Simulated Self-Assessment in Large Language Models: A Psychometric Approach to AI Self-Efficacy](https://arxiv.org/abs/2511.19872v2)** | 2025-11-26 | <details><summary>25 pa...</summary><p>25 pages,5 tables, 3 figures</p></details> |
-| **[EvilGenie: A Reward Hacking Benchmark](https://arxiv.org/abs/2511.21654v1)** | 2025-11-26 |  |
-| **[Mechanisms of Non-Monotonic Scaling in Vision Transformers](https://arxiv.org/abs/2511.21635v1)** | 2025-11-26 | <details><summary>16 pa...</summary><p>16 pages total (11 pages main text, 1 pages references, 4 pages appendix), 5 figures, 11 tables. Code available at https://github.com/AnanthaPadmanaban-KrishnaKumar/Cliff-Plateau-Climb</p></details> |
-| **[Leveraging Test Driven Development with Large Language Models for Reliable and Verifiable Spreadsheet Code Generation: A Research Framework](https://arxiv.org/abs/2510.15585v2)** | 2025-11-26 | 16 pages |
-| **[Diagonal Scaling: A Multi-Dimensional Resource Model and Optimization Framework for Distributed Databases](https://arxiv.org/abs/2511.21612v1)** | 2025-11-26 |  |
-| **[LCB-CV-UNet: Enhanced Detector for High Dynamic Range Radar Signals](https://arxiv.org/abs/2505.23454v2)** | 2025-11-26 | <details><summary>5 pag...</summary><p>5 pages, 4 figures. Accepted to IEEE IGARSS 2025</p></details> |
-| **[Machine Learning Approaches to Clinical Risk Prediction: Multi-Scale Temporal Alignment in Electronic Health Records](https://arxiv.org/abs/2511.21561v1)** | 2025-11-26 | 5 pages, 3 figures |
-| **[MMA: A Momentum Mamba Architecture for Human Activity Recognition with Inertial Sensors](https://arxiv.org/abs/2511.21550v1)** | 2025-11-26 | 14 pages, 5 pages |
-| **[Alignment of large language models with constrained learning](https://arxiv.org/abs/2505.19387v2)** | 2025-11-26 | <details><summary>51 pa...</summary><p>51 pages, 5 figures, 11 tables; Accepted to NeurIPS 2025</p></details> |
-| **[Amalgamations in a hierarchy as a way of variable selection in compositional data analysis](https://arxiv.org/abs/2511.14622v2)** | 2025-11-26 | <details><summary>14 pa...</summary><p>14 pages 5 figures, 2 tables</p></details> |
-| **[Ensemble Performance Through the Lens of Linear Independence of Classifier Votes in Data Streams](https://arxiv.org/abs/2511.21465v1)** | 2025-11-26 | <details><summary>14 pa...</summary><p>14 pages, 3 figures, 5 tables</p></details> |
+| **[The Price of Progress: Algorithmic Efficiency and the Falling Cost of AI Inference](https://arxiv.org/abs/2511.23455v1)** | 2025-11-28 |  |
+| **[Quantized-Tinyllava: a new multimodal foundation model enables efficient split learning](https://arxiv.org/abs/2511.23402v1)** | 2025-11-28 | 14pages, 5 figures |
+| **[MegaChat: A Synthetic Persian Q&A Dataset for High-Quality Sales Chatbot Evaluation](https://arxiv.org/abs/2511.23397v1)** | 2025-11-28 | <details><summary>6 pag...</summary><p>6 pages, 11 figures, 2 tables</p></details> |
+| **[Material-informed Gaussian Splatting for 3D World Reconstruction in a Digital Twin](https://arxiv.org/abs/2511.20348v2)** | 2025-11-28 | <details><summary>8 pag...</summary><p>8 pages, 5 figures. Submitted to IEEE Intelligent Vehicles Symposium (IV) 2026 for possible publication. Revised version (v2) to correct author order</p></details> |
+| **[Beyond 2-Edge-Connectivity: Algorithms and Impossibility for Content-Oblivious Leader Election](https://arxiv.org/abs/2511.23297v1)** | 2025-11-28 |  |
 
 ## Diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Canvas-to-Image: Compositional Image Generation with Multimodal Controls](https://arxiv.org/abs/2511.21691v1)** | 2025-11-26 | <details><summary>24 pa...</summary><p>24 pages; webpage: https://snap-research.github.io/canvas-to-image/</p></details> |
-| **[ToolOrchestra: Elevating Intelligence via Efficient Model and Tool Orchestration](https://arxiv.org/abs/2511.21689v1)** | 2025-11-26 | 21 pages, 6 figures |
-| **[Simulated Self-Assessment in Large Language Models: A Psychometric Approach to AI Self-Efficacy](https://arxiv.org/abs/2511.19872v2)** | 2025-11-26 | <details><summary>25 pa...</summary><p>25 pages,5 tables, 3 figures</p></details> |
-| **[EvilGenie: A Reward Hacking Benchmark](https://arxiv.org/abs/2511.21654v1)** | 2025-11-26 |  |
-| **[Mechanisms of Non-Monotonic Scaling in Vision Transformers](https://arxiv.org/abs/2511.21635v1)** | 2025-11-26 | <details><summary>16 pa...</summary><p>16 pages total (11 pages main text, 1 pages references, 4 pages appendix), 5 figures, 11 tables. Code available at https://github.com/AnanthaPadmanaban-KrishnaKumar/Cliff-Plateau-Climb</p></details> |
-| **[Two behavioural pseudometrics for continuous-time Markov processes](https://arxiv.org/abs/2511.21621v1)** | 2025-11-26 | <details><summary>arXiv...</summary><p>arXiv admin note: substantial text overlap with arXiv:2312.16729</p></details> |
-| **[Leveraging Test Driven Development with Large Language Models for Reliable and Verifiable Spreadsheet Code Generation: A Research Framework](https://arxiv.org/abs/2510.15585v2)** | 2025-11-26 | 16 pages |
-| **[Diagonal Scaling: A Multi-Dimensional Resource Model and Optimization Framework for Distributed Databases](https://arxiv.org/abs/2511.21612v1)** | 2025-11-26 |  |
-| **[Diffusion Models at the Drug Discovery Frontier: A Review on Generating Small Molecules versus Therapeutic Peptides](https://arxiv.org/abs/2511.00209v2)** | 2025-11-26 | Published in Biology |
-| **[TAB-DRW: A DFT-based Robust Watermark for Generative Tabular Data](https://arxiv.org/abs/2511.21600v1)** | 2025-11-26 |  |
-| **[MoGAN: Improving Motion Quality in Video Diffusion via Few-Step Motion Adversarial Post-Training](https://arxiv.org/abs/2511.21592v1)** | 2025-11-26 |  |
-| **[Model-Based Policy Adaptation for Closed-Loop End-to-End Autonomous Driving](https://arxiv.org/abs/2511.21584v1)** | 2025-11-26 | <details><summary>Publi...</summary><p>Published at NeurIPS 2025: https://openreview.net/forum?id=4OLbpaTKJe</p></details> |
-| **[LCB-CV-UNet: Enhanced Detector for High Dynamic Range Radar Signals](https://arxiv.org/abs/2505.23454v2)** | 2025-11-26 | <details><summary>5 pag...</summary><p>5 pages, 4 figures. Accepted to IEEE IGARSS 2025</p></details> |
-| **[Harmony: Harmonizing Audio and Video Generation through Cross-Task Synergy](https://arxiv.org/abs/2511.21579v1)** | 2025-11-26 |  |
+| **[AnyTalker: Scaling Multi-Person Talking Video Generation with Interactivity Refinement](https://arxiv.org/abs/2511.23475v1)** | 2025-11-28 | <details><summary>Homep...</summary><p>Homepage: https://hkust-c4g.github.io/AnyTalker-homepage</p></details> |
+| **[Visual Generation Tuning](https://arxiv.org/abs/2511.23469v1)** | 2025-11-28 |  |
+| **[SmallWorlds: Assessing Dynamics Understanding of World Models in Isolated Environments](https://arxiv.org/abs/2511.23465v1)** | 2025-11-28 |  |
+| **[The Price of Progress: Algorithmic Efficiency and the Falling Cost of AI Inference](https://arxiv.org/abs/2511.23455v1)** | 2025-11-28 |  |
+| **[Convergence rates of self-repellent random walks, their local time and Event Chain Monte Carlo](https://arxiv.org/abs/2511.23453v1)** | 2025-11-28 | 19 pages |
+| **[Object-Centric Data Synthesis for Category-level Object Detection](https://arxiv.org/abs/2511.23450v1)** | 2025-11-28 | 10 pages, 10 figures |
+| **[Physics-Informed Neural Networks for Thermophysical Property Retrieval](https://arxiv.org/abs/2511.23449v1)** | 2025-11-28 | <details><summary>26 pa...</summary><p>26 pages, 4 figures, 3 tables</p></details> |
+| **[Towards Continuous Intelligence Growth: Self-Training, Continual Learning, and Dual-Scale Memory in SuperIntelliAgent](https://arxiv.org/abs/2511.23436v1)** | 2025-11-28 | 15 pages, 4 figures |
+| **[CzechLynx: A Dataset for Individual Identification and Pose Estimation of the Eurasian Lynx](https://arxiv.org/abs/2506.04931v2)** | 2025-11-28 |  |
+| **[Quantized-Tinyllava: a new multimodal foundation model enables efficient split learning](https://arxiv.org/abs/2511.23402v1)** | 2025-11-28 | 14pages, 5 figures |
+| **[MegaChat: A Synthetic Persian Q&A Dataset for High-Quality Sales Chatbot Evaluation](https://arxiv.org/abs/2511.23397v1)** | 2025-11-28 | <details><summary>6 pag...</summary><p>6 pages, 11 figures, 2 tables</p></details> |
+| **[DEAL-300K: Diffusion-based Editing Area Localization with a 300K-Scale Dataset and Frequency-Prompted Baseline](https://arxiv.org/abs/2511.23377v1)** | 2025-11-28 | 13pages,12 figures |
 
 ## Object Counting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[ToolOrchestra: Elevating Intelligence via Efficient Model and Tool Orchestration](https://arxiv.org/abs/2511.21689v1)** | 2025-11-26 | 21 pages, 6 figures |
-| **[Simulated Self-Assessment in Large Language Models: A Psychometric Approach to AI Self-Efficacy](https://arxiv.org/abs/2511.19872v2)** | 2025-11-26 | <details><summary>25 pa...</summary><p>25 pages,5 tables, 3 figures</p></details> |
-| **[EvilGenie: A Reward Hacking Benchmark](https://arxiv.org/abs/2511.21654v1)** | 2025-11-26 |  |
-| **[Mechanisms of Non-Monotonic Scaling in Vision Transformers](https://arxiv.org/abs/2511.21635v1)** | 2025-11-26 | <details><summary>16 pa...</summary><p>16 pages total (11 pages main text, 1 pages references, 4 pages appendix), 5 figures, 11 tables. Code available at https://github.com/AnanthaPadmanaban-KrishnaKumar/Cliff-Plateau-Climb</p></details> |
-| **[Leveraging Test Driven Development with Large Language Models for Reliable and Verifiable Spreadsheet Code Generation: A Research Framework](https://arxiv.org/abs/2510.15585v2)** | 2025-11-26 | 16 pages |
-| **[Diagonal Scaling: A Multi-Dimensional Resource Model and Optimization Framework for Distributed Databases](https://arxiv.org/abs/2511.21612v1)** | 2025-11-26 |  |
-| **[LCB-CV-UNet: Enhanced Detector for High Dynamic Range Radar Signals](https://arxiv.org/abs/2505.23454v2)** | 2025-11-26 | <details><summary>5 pag...</summary><p>5 pages, 4 figures. Accepted to IEEE IGARSS 2025</p></details> |
-| **[Machine Learning Approaches to Clinical Risk Prediction: Multi-Scale Temporal Alignment in Electronic Health Records](https://arxiv.org/abs/2511.21561v1)** | 2025-11-26 | 5 pages, 3 figures |
-| **[MMA: A Momentum Mamba Architecture for Human Activity Recognition with Inertial Sensors](https://arxiv.org/abs/2511.21550v1)** | 2025-11-26 | 14 pages, 5 pages |
-| **[Alignment of large language models with constrained learning](https://arxiv.org/abs/2505.19387v2)** | 2025-11-26 | <details><summary>51 pa...</summary><p>51 pages, 5 figures, 11 tables; Accepted to NeurIPS 2025</p></details> |
-| **[Amalgamations in a hierarchy as a way of variable selection in compositional data analysis](https://arxiv.org/abs/2511.14622v2)** | 2025-11-26 | <details><summary>14 pa...</summary><p>14 pages 5 figures, 2 tables</p></details> |
-| **[Ensemble Performance Through the Lens of Linear Independence of Classifier Votes in Data Streams](https://arxiv.org/abs/2511.21465v1)** | 2025-11-26 | <details><summary>14 pa...</summary><p>14 pages, 3 figures, 5 tables</p></details> |
+| **[The Price of Progress: Algorithmic Efficiency and the Falling Cost of AI Inference](https://arxiv.org/abs/2511.23455v1)** | 2025-11-28 |  |
+| **[Quantized-Tinyllava: a new multimodal foundation model enables efficient split learning](https://arxiv.org/abs/2511.23402v1)** | 2025-11-28 | 14pages, 5 figures |
+| **[MegaChat: A Synthetic Persian Q&A Dataset for High-Quality Sales Chatbot Evaluation](https://arxiv.org/abs/2511.23397v1)** | 2025-11-28 | <details><summary>6 pag...</summary><p>6 pages, 11 figures, 2 tables</p></details> |
+| **[Material-informed Gaussian Splatting for 3D World Reconstruction in a Digital Twin](https://arxiv.org/abs/2511.20348v2)** | 2025-11-28 | <details><summary>8 pag...</summary><p>8 pages, 5 figures. Submitted to IEEE Intelligent Vehicles Symposium (IV) 2026 for possible publication. Revised version (v2) to correct author order</p></details> |
+| **[Beyond 2-Edge-Connectivity: Algorithms and Impossibility for Content-Oblivious Leader Election](https://arxiv.org/abs/2511.23297v1)** | 2025-11-28 |  |
 
 ## Image Caption
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[ToolOrchestra: Elevating Intelligence via Efficient Model and Tool Orchestration](https://arxiv.org/abs/2511.21689v1)** | 2025-11-26 | 21 pages, 6 figures |
-| **[Simulated Self-Assessment in Large Language Models: A Psychometric Approach to AI Self-Efficacy](https://arxiv.org/abs/2511.19872v2)** | 2025-11-26 | <details><summary>25 pa...</summary><p>25 pages,5 tables, 3 figures</p></details> |
-| **[EvilGenie: A Reward Hacking Benchmark](https://arxiv.org/abs/2511.21654v1)** | 2025-11-26 |  |
-| **[Mechanisms of Non-Monotonic Scaling in Vision Transformers](https://arxiv.org/abs/2511.21635v1)** | 2025-11-26 | <details><summary>16 pa...</summary><p>16 pages total (11 pages main text, 1 pages references, 4 pages appendix), 5 figures, 11 tables. Code available at https://github.com/AnanthaPadmanaban-KrishnaKumar/Cliff-Plateau-Climb</p></details> |
-| **[Leveraging Test Driven Development with Large Language Models for Reliable and Verifiable Spreadsheet Code Generation: A Research Framework](https://arxiv.org/abs/2510.15585v2)** | 2025-11-26 | 16 pages |
-| **[Diagonal Scaling: A Multi-Dimensional Resource Model and Optimization Framework for Distributed Databases](https://arxiv.org/abs/2511.21612v1)** | 2025-11-26 |  |
-| **[LCB-CV-UNet: Enhanced Detector for High Dynamic Range Radar Signals](https://arxiv.org/abs/2505.23454v2)** | 2025-11-26 | <details><summary>5 pag...</summary><p>5 pages, 4 figures. Accepted to IEEE IGARSS 2025</p></details> |
-| **[Machine Learning Approaches to Clinical Risk Prediction: Multi-Scale Temporal Alignment in Electronic Health Records](https://arxiv.org/abs/2511.21561v1)** | 2025-11-26 | 5 pages, 3 figures |
-| **[MMA: A Momentum Mamba Architecture for Human Activity Recognition with Inertial Sensors](https://arxiv.org/abs/2511.21550v1)** | 2025-11-26 | 14 pages, 5 pages |
-| **[Alignment of large language models with constrained learning](https://arxiv.org/abs/2505.19387v2)** | 2025-11-26 | <details><summary>51 pa...</summary><p>51 pages, 5 figures, 11 tables; Accepted to NeurIPS 2025</p></details> |
-| **[Connecting the Dots: Training-Free Visual Grounding via Agentic Reasoning](https://arxiv.org/abs/2511.19516v2)** | 2025-11-26 | AAAI 2026 |
-| **[Amalgamations in a hierarchy as a way of variable selection in compositional data analysis](https://arxiv.org/abs/2511.14622v2)** | 2025-11-26 | <details><summary>14 pa...</summary><p>14 pages 5 figures, 2 tables</p></details> |
+| **[The Price of Progress: Algorithmic Efficiency and the Falling Cost of AI Inference](https://arxiv.org/abs/2511.23455v1)** | 2025-11-28 |  |
+| **[Quantized-Tinyllava: a new multimodal foundation model enables efficient split learning](https://arxiv.org/abs/2511.23402v1)** | 2025-11-28 | 14pages, 5 figures |
+| **[MegaChat: A Synthetic Persian Q&A Dataset for High-Quality Sales Chatbot Evaluation](https://arxiv.org/abs/2511.23397v1)** | 2025-11-28 | <details><summary>6 pag...</summary><p>6 pages, 11 figures, 2 tables</p></details> |
+| **[Optimizing Multimodal Language Models through Attention-based Interpretability](https://arxiv.org/abs/2511.23375v1)** | 2025-11-28 | <details><summary>Accep...</summary><p>Accepted for ICAI-2025 conference</p></details> |
+| **[Material-informed Gaussian Splatting for 3D World Reconstruction in a Digital Twin](https://arxiv.org/abs/2511.20348v2)** | 2025-11-28 | <details><summary>8 pag...</summary><p>8 pages, 5 figures. Submitted to IEEE Intelligent Vehicles Symposium (IV) 2026 for possible publication. Revised version (v2) to correct author order</p></details> |
+| **[Beyond 2-Edge-Connectivity: Algorithms and Impossibility for Content-Oblivious Leader Election](https://arxiv.org/abs/2511.23297v1)** | 2025-11-28 |  |
 
 ## Describe
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[ToolOrchestra: Elevating Intelligence via Efficient Model and Tool Orchestration](https://arxiv.org/abs/2511.21689v1)** | 2025-11-26 | 21 pages, 6 figures |
-| **[Simulated Self-Assessment in Large Language Models: A Psychometric Approach to AI Self-Efficacy](https://arxiv.org/abs/2511.19872v2)** | 2025-11-26 | <details><summary>25 pa...</summary><p>25 pages,5 tables, 3 figures</p></details> |
-| **[EvilGenie: A Reward Hacking Benchmark](https://arxiv.org/abs/2511.21654v1)** | 2025-11-26 |  |
-| **[State Complexity of Multiple Concatenation](https://arxiv.org/abs/2511.03814v2)** | 2025-11-26 | 28 pages, 17 figures |
-| **[Mechanisms of Non-Monotonic Scaling in Vision Transformers](https://arxiv.org/abs/2511.21635v1)** | 2025-11-26 | <details><summary>16 pa...</summary><p>16 pages total (11 pages main text, 1 pages references, 4 pages appendix), 5 figures, 11 tables. Code available at https://github.com/AnanthaPadmanaban-KrishnaKumar/Cliff-Plateau-Climb</p></details> |
-| **[Cryptomite: A versatile and user-friendly library of randomness extractors](https://arxiv.org/abs/2402.09481v3)** | 2025-11-26 | <details><summary>Corre...</summary><p>Corrected the proof of Theorem 9 and several minor typos. 26+12 pages (9 figures)</p></details> |
-| **[Leveraging Test Driven Development with Large Language Models for Reliable and Verifiable Spreadsheet Code Generation: A Research Framework](https://arxiv.org/abs/2510.15585v2)** | 2025-11-26 | 16 pages |
-| **[Diagonal Scaling: A Multi-Dimensional Resource Model and Optimization Framework for Distributed Databases](https://arxiv.org/abs/2511.21612v1)** | 2025-11-26 |  |
-| **[LCB-CV-UNet: Enhanced Detector for High Dynamic Range Radar Signals](https://arxiv.org/abs/2505.23454v2)** | 2025-11-26 | <details><summary>5 pag...</summary><p>5 pages, 4 figures. Accepted to IEEE IGARSS 2025</p></details> |
+| **[The Price of Progress: Algorithmic Efficiency and the Falling Cost of AI Inference](https://arxiv.org/abs/2511.23455v1)** | 2025-11-28 |  |
+| **[DisMo: Disentangled Motion Representations for Open-World Motion Transfer](https://arxiv.org/abs/2511.23428v1)** | 2025-11-28 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025</p></details> |
+| **[Quantized-Tinyllava: a new multimodal foundation model enables efficient split learning](https://arxiv.org/abs/2511.23402v1)** | 2025-11-28 | 14pages, 5 figures |
+| **[MegaChat: A Synthetic Persian Q&A Dataset for High-Quality Sales Chatbot Evaluation](https://arxiv.org/abs/2511.23397v1)** | 2025-11-28 | <details><summary>6 pag...</summary><p>6 pages, 11 figures, 2 tables</p></details> |
 
 ## Light Weight
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[ToolOrchestra: Elevating Intelligence via Efficient Model and Tool Orchestration](https://arxiv.org/abs/2511.21689v1)** | 2025-11-26 | 21 pages, 6 figures |
-| **[Simulated Self-Assessment in Large Language Models: A Psychometric Approach to AI Self-Efficacy](https://arxiv.org/abs/2511.19872v2)** | 2025-11-26 | <details><summary>25 pa...</summary><p>25 pages,5 tables, 3 figures</p></details> |
-| **[EvilGenie: A Reward Hacking Benchmark](https://arxiv.org/abs/2511.21654v1)** | 2025-11-26 |  |
-| **[Mechanisms of Non-Monotonic Scaling in Vision Transformers](https://arxiv.org/abs/2511.21635v1)** | 2025-11-26 | <details><summary>16 pa...</summary><p>16 pages total (11 pages main text, 1 pages references, 4 pages appendix), 5 figures, 11 tables. Code available at https://github.com/AnanthaPadmanaban-KrishnaKumar/Cliff-Plateau-Climb</p></details> |
-| **[Leveraging Test Driven Development with Large Language Models for Reliable and Verifiable Spreadsheet Code Generation: A Research Framework](https://arxiv.org/abs/2510.15585v2)** | 2025-11-26 | 16 pages |
-| **[Diagonal Scaling: A Multi-Dimensional Resource Model and Optimization Framework for Distributed Databases](https://arxiv.org/abs/2511.21612v1)** | 2025-11-26 |  |
-| **[LCB-CV-UNet: Enhanced Detector for High Dynamic Range Radar Signals](https://arxiv.org/abs/2505.23454v2)** | 2025-11-26 | <details><summary>5 pag...</summary><p>5 pages, 4 figures. Accepted to IEEE IGARSS 2025</p></details> |
-| **[Machine Learning Approaches to Clinical Risk Prediction: Multi-Scale Temporal Alignment in Electronic Health Records](https://arxiv.org/abs/2511.21561v1)** | 2025-11-26 | 5 pages, 3 figures |
-| **[MMA: A Momentum Mamba Architecture for Human Activity Recognition with Inertial Sensors](https://arxiv.org/abs/2511.21550v1)** | 2025-11-26 | 14 pages, 5 pages |
-| **[Alignment of large language models with constrained learning](https://arxiv.org/abs/2505.19387v2)** | 2025-11-26 | <details><summary>51 pa...</summary><p>51 pages, 5 figures, 11 tables; Accepted to NeurIPS 2025</p></details> |
-| **[Amalgamations in a hierarchy as a way of variable selection in compositional data analysis](https://arxiv.org/abs/2511.14622v2)** | 2025-11-26 | <details><summary>14 pa...</summary><p>14 pages 5 figures, 2 tables</p></details> |
-| **[Ensemble Performance Through the Lens of Linear Independence of Classifier Votes in Data Streams](https://arxiv.org/abs/2511.21465v1)** | 2025-11-26 | <details><summary>14 pa...</summary><p>14 pages, 3 figures, 5 tables</p></details> |
+| **[The Price of Progress: Algorithmic Efficiency and the Falling Cost of AI Inference](https://arxiv.org/abs/2511.23455v1)** | 2025-11-28 |  |
+| **[Quantized-Tinyllava: a new multimodal foundation model enables efficient split learning](https://arxiv.org/abs/2511.23402v1)** | 2025-11-28 | 14pages, 5 figures |
+| **[MegaChat: A Synthetic Persian Q&A Dataset for High-Quality Sales Chatbot Evaluation](https://arxiv.org/abs/2511.23397v1)** | 2025-11-28 | <details><summary>6 pag...</summary><p>6 pages, 11 figures, 2 tables</p></details> |
+| **[Material-informed Gaussian Splatting for 3D World Reconstruction in a Digital Twin](https://arxiv.org/abs/2511.20348v2)** | 2025-11-28 | <details><summary>8 pag...</summary><p>8 pages, 5 figures. Submitted to IEEE Intelligent Vehicles Symposium (IV) 2026 for possible publication. Revised version (v2) to correct author order</p></details> |
+| **[Beyond 2-Edge-Connectivity: Algorithms and Impossibility for Content-Oblivious Leader Election](https://arxiv.org/abs/2511.23297v1)** | 2025-11-28 |  |
 
 ## Class Incremental
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[ToolOrchestra: Elevating Intelligence via Efficient Model and Tool Orchestration](https://arxiv.org/abs/2511.21689v1)** | 2025-11-26 | 21 pages, 6 figures |
-| **[Simulated Self-Assessment in Large Language Models: A Psychometric Approach to AI Self-Efficacy](https://arxiv.org/abs/2511.19872v2)** | 2025-11-26 | <details><summary>25 pa...</summary><p>25 pages,5 tables, 3 figures</p></details> |
-| **[EvilGenie: A Reward Hacking Benchmark](https://arxiv.org/abs/2511.21654v1)** | 2025-11-26 |  |
-| **[Mechanisms of Non-Monotonic Scaling in Vision Transformers](https://arxiv.org/abs/2511.21635v1)** | 2025-11-26 | <details><summary>16 pa...</summary><p>16 pages total (11 pages main text, 1 pages references, 4 pages appendix), 5 figures, 11 tables. Code available at https://github.com/AnanthaPadmanaban-KrishnaKumar/Cliff-Plateau-Climb</p></details> |
-| **[Leveraging Test Driven Development with Large Language Models for Reliable and Verifiable Spreadsheet Code Generation: A Research Framework](https://arxiv.org/abs/2510.15585v2)** | 2025-11-26 | 16 pages |
-| **[Diagonal Scaling: A Multi-Dimensional Resource Model and Optimization Framework for Distributed Databases](https://arxiv.org/abs/2511.21612v1)** | 2025-11-26 |  |
-| **[LCB-CV-UNet: Enhanced Detector for High Dynamic Range Radar Signals](https://arxiv.org/abs/2505.23454v2)** | 2025-11-26 | <details><summary>5 pag...</summary><p>5 pages, 4 figures. Accepted to IEEE IGARSS 2025</p></details> |
-| **[Machine Learning Approaches to Clinical Risk Prediction: Multi-Scale Temporal Alignment in Electronic Health Records](https://arxiv.org/abs/2511.21561v1)** | 2025-11-26 | 5 pages, 3 figures |
-| **[MMA: A Momentum Mamba Architecture for Human Activity Recognition with Inertial Sensors](https://arxiv.org/abs/2511.21550v1)** | 2025-11-26 | 14 pages, 5 pages |
-| **[Alignment of large language models with constrained learning](https://arxiv.org/abs/2505.19387v2)** | 2025-11-26 | <details><summary>51 pa...</summary><p>51 pages, 5 figures, 11 tables; Accepted to NeurIPS 2025</p></details> |
-| **[Merge and Bound: Direct Manipulations on Weights for Class Incremental Learning](https://arxiv.org/abs/2511.21490v1)** | 2025-11-26 |  |
-| **[Amalgamations in a hierarchy as a way of variable selection in compositional data analysis](https://arxiv.org/abs/2511.14622v2)** | 2025-11-26 | <details><summary>14 pa...</summary><p>14 pages 5 figures, 2 tables</p></details> |
+| **[The Price of Progress: Algorithmic Efficiency and the Falling Cost of AI Inference](https://arxiv.org/abs/2511.23455v1)** | 2025-11-28 |  |
+| **[Quantized-Tinyllava: a new multimodal foundation model enables efficient split learning](https://arxiv.org/abs/2511.23402v1)** | 2025-11-28 | 14pages, 5 figures |
+| **[MegaChat: A Synthetic Persian Q&A Dataset for High-Quality Sales Chatbot Evaluation](https://arxiv.org/abs/2511.23397v1)** | 2025-11-28 | <details><summary>6 pag...</summary><p>6 pages, 11 figures, 2 tables</p></details> |
+| **[Material-informed Gaussian Splatting for 3D World Reconstruction in a Digital Twin](https://arxiv.org/abs/2511.20348v2)** | 2025-11-28 | <details><summary>8 pag...</summary><p>8 pages, 5 figures. Submitted to IEEE Intelligent Vehicles Symposium (IV) 2026 for possible publication. Revised version (v2) to correct author order</p></details> |
+| **[Beyond 2-Edge-Connectivity: Algorithms and Impossibility for Content-Oblivious Leader Election](https://arxiv.org/abs/2511.23297v1)** | 2025-11-28 |  |
 
