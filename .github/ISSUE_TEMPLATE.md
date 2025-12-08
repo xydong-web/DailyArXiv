@@ -1,5 +1,5 @@
 ---
-title: Latest 50 Papers - December 08, 2025
+title: Latest 50 Papers - December 09, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/JiamingZang/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,66 +7,86 @@ labels: documentation
 ## Molecular
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[OMTRA: A Multi-Task Generative Model for Structure-Based Drug Design](https://arxiv.org/abs/2512.05080v1)** | 2025-12-04 | <details><summary>Prese...</summary><p>Presented at the Machine Learning for Structural Biology Workshop, 2025</p></details> |
-| **[Multi-LLM Collaboration for Medication Recommendation](https://arxiv.org/abs/2512.05066v1)** | 2025-12-04 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, 1 table</p></details> |
-| **[Near Real-time Adaptive Isotropic and Anisotropic Image-to-mesh Conversion for Numerical Simulations Involving Cerebral Aneurysms](https://arxiv.org/abs/2412.13222v3)** | 2025-12-04 | <details><summary>58 pa...</summary><p>58 pages, 16 figures, 13 tables, presented at the 18th U.S. National Congress on Computational Mechanics conference</p></details> |
+| **[A Comparative Study on Synthetic Facial Data Generation Techniques for Face Recognition](https://arxiv.org/abs/2512.05928v1)** | 2025-12-05 | 18 pages, 17 figures |
+| **[To Err Is Human: Systematic Quantification of Errors in Published AI Papers via LLM Analysis](https://arxiv.org/abs/2512.05925v1)** | 2025-12-05 |  |
+| **[Computational Design of Low-Volatility Lubricants for Space Using Interpretable Machine Learning](https://arxiv.org/abs/2512.05870v1)** | 2025-12-05 |  |
+| **[Predicting Price Movements in High-Frequency Financial Data with Spiking Neural Networks](https://arxiv.org/abs/2512.05868v1)** | 2025-12-05 | <details><summary>9 pag...</summary><p>9 pages, 5 figures, 8 tables</p></details> |
+| **[NEAT: Neighborhood-Guided, Efficient, Autoregressive Set Transformer for 3D Molecular Generation](https://arxiv.org/abs/2512.05844v1)** | 2025-12-05 |  |
+| **[Wasserstein Evolution : Evolutionary Optimization as Phase Transition](https://arxiv.org/abs/2512.05837v1)** | 2025-12-05 | 19 pages, 5 figures |
 
 ## Molecular Generation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[OMTRA: A Multi-Task Generative Model for Structure-Based Drug Design](https://arxiv.org/abs/2512.05080v1)** | 2025-12-04 | <details><summary>Prese...</summary><p>Presented at the Machine Learning for Structural Biology Workshop, 2025</p></details> |
-| **[Multi-LLM Collaboration for Medication Recommendation](https://arxiv.org/abs/2512.05066v1)** | 2025-12-04 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, 1 table</p></details> |
-| **[Near Real-time Adaptive Isotropic and Anisotropic Image-to-mesh Conversion for Numerical Simulations Involving Cerebral Aneurysms](https://arxiv.org/abs/2412.13222v3)** | 2025-12-04 | <details><summary>58 pa...</summary><p>58 pages, 16 figures, 13 tables, presented at the 18th U.S. National Congress on Computational Mechanics conference</p></details> |
+| **[A Comparative Study on Synthetic Facial Data Generation Techniques for Face Recognition](https://arxiv.org/abs/2512.05928v1)** | 2025-12-05 | 18 pages, 17 figures |
+| **[To Err Is Human: Systematic Quantification of Errors in Published AI Papers via LLM Analysis](https://arxiv.org/abs/2512.05925v1)** | 2025-12-05 |  |
+| **[Predicting Price Movements in High-Frequency Financial Data with Spiking Neural Networks](https://arxiv.org/abs/2512.05868v1)** | 2025-12-05 | <details><summary>9 pag...</summary><p>9 pages, 5 figures, 8 tables</p></details> |
+| **[NEAT: Neighborhood-Guided, Efficient, Autoregressive Set Transformer for 3D Molecular Generation](https://arxiv.org/abs/2512.05844v1)** | 2025-12-05 |  |
+| **[Wasserstein Evolution : Evolutionary Optimization as Phase Transition](https://arxiv.org/abs/2512.05837v1)** | 2025-12-05 | 19 pages, 5 figures |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Multi-LLM Collaboration for Medication Recommendation](https://arxiv.org/abs/2512.05066v1)** | 2025-12-04 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, 1 table</p></details> |
-| **[Near Real-time Adaptive Isotropic and Anisotropic Image-to-mesh Conversion for Numerical Simulations Involving Cerebral Aneurysms](https://arxiv.org/abs/2412.13222v3)** | 2025-12-04 | <details><summary>58 pa...</summary><p>58 pages, 16 figures, 13 tables, presented at the 18th U.S. National Congress on Computational Mechanics conference</p></details> |
-| **[Improving Graph Neural Network Training, Defense, and Hypergraph Partitioning via Adversarial Robustness Evaluation](https://arxiv.org/abs/2412.14738v7)** | 2025-12-04 |  |
+| **[A Comparative Study on Synthetic Facial Data Generation Techniques for Face Recognition](https://arxiv.org/abs/2512.05928v1)** | 2025-12-05 | 18 pages, 17 figures |
+| **[To Err Is Human: Systematic Quantification of Errors in Published AI Papers via LLM Analysis](https://arxiv.org/abs/2512.05925v1)** | 2025-12-05 |  |
+| **[Predicting Price Movements in High-Frequency Financial Data with Spiking Neural Networks](https://arxiv.org/abs/2512.05868v1)** | 2025-12-05 | <details><summary>9 pag...</summary><p>9 pages, 5 figures, 8 tables</p></details> |
+| **[Wasserstein Evolution : Evolutionary Optimization as Phase Transition](https://arxiv.org/abs/2512.05837v1)** | 2025-12-05 | 19 pages, 5 figures |
+| **[Morphling: Fast, Fused, and Flexible GNN Training at Scale](https://arxiv.org/abs/2512.01678v3)** | 2025-12-05 |  |
+| **[SAGE: Saliency-Guided Contrastive Embeddings](https://arxiv.org/abs/2511.12744v2)** | 2025-12-05 | <details><summary>11 pa...</summary><p>11 pages, 2 figures, 5 tables</p></details> |
 
 ## Diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Value Gradient Guidance for Flow Matching Alignment](https://arxiv.org/abs/2512.05116v1)** | 2025-12-04 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025; 26 pages, 20 figures</p></details> |
-| **[NeuralRemaster: Phase-Preserving Diffusion for Structure-Aligned Generation](https://arxiv.org/abs/2512.05106v1)** | 2025-12-04 |  |
-| **[Foundations of Diffusion Models in General State Spaces: A Self-Contained Introduction](https://arxiv.org/abs/2512.05092v1)** | 2025-12-04 |  |
-| **[Deep Forcing: Training-Free Long Video Generation with Deep Sink and Participative Compression](https://arxiv.org/abs/2512.05081v1)** | 2025-12-04 | <details><summary>Proje...</summary><p>Project Page: https://cvlab-kaist.github.io/DeepForcing/</p></details> |
-| **[BulletTime: Decoupled Control of Time and Camera Pose for Video Generation](https://arxiv.org/abs/2512.05076v1)** | 2025-12-04 | <details><summary>Proje...</summary><p>Project Page: https://19reborn.github.io/Bullet4D/</p></details> |
-| **[Control Consistency Losses for Diffusion Bridges](https://arxiv.org/abs/2512.05070v1)** | 2025-12-04 | <details><summary>Front...</summary><p>Frontiers in Probabilistic Inference: Sampling Meets Learning Workshop at NeurIPS 2025 (Oral)</p></details> |
-| **[Multi-LLM Collaboration for Medication Recommendation](https://arxiv.org/abs/2512.05066v1)** | 2025-12-04 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, 1 table</p></details> |
-| **[Near Real-time Adaptive Isotropic and Anisotropic Image-to-mesh Conversion for Numerical Simulations Involving Cerebral Aneurysms](https://arxiv.org/abs/2412.13222v3)** | 2025-12-04 | <details><summary>58 pa...</summary><p>58 pages, 16 figures, 13 tables, presented at the 18th U.S. National Congress on Computational Mechanics conference</p></details> |
+| **[SustainDiffusion: Optimising the Social and Environmental Sustainability of Stable Diffusion Models](https://arxiv.org/abs/2507.15663v2)** | 2025-12-05 |  |
+| **[A Comparative Study on Synthetic Facial Data Generation Techniques for Face Recognition](https://arxiv.org/abs/2512.05928v1)** | 2025-12-05 | 18 pages, 17 figures |
+| **[To Err Is Human: Systematic Quantification of Errors in Published AI Papers via LLM Analysis](https://arxiv.org/abs/2512.05925v1)** | 2025-12-05 |  |
+| **[A Discontinuous Galerkin Consistent Splitting Method for the Incompressible Navier-Stokes Equations](https://arxiv.org/abs/2512.05919v1)** | 2025-12-05 | <details><summary>22 pa...</summary><p>22 pages, 6 figures, submitted to CMAME</p></details> |
+| **[SCAIL: Towards Studio-Grade Character Animation via In-Context Learning of 3D-Consistent Pose Representations](https://arxiv.org/abs/2512.05905v1)** | 2025-12-05 |  |
+| **[Predicting Price Movements in High-Frequency Financial Data with Spiking Neural Networks](https://arxiv.org/abs/2512.05868v1)** | 2025-12-05 | <details><summary>9 pag...</summary><p>9 pages, 5 figures, 8 tables</p></details> |
 
 ## Object Counting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Multi-LLM Collaboration for Medication Recommendation](https://arxiv.org/abs/2512.05066v1)** | 2025-12-04 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, 1 table</p></details> |
-| **[Near Real-time Adaptive Isotropic and Anisotropic Image-to-mesh Conversion for Numerical Simulations Involving Cerebral Aneurysms](https://arxiv.org/abs/2412.13222v3)** | 2025-12-04 | <details><summary>58 pa...</summary><p>58 pages, 16 figures, 13 tables, presented at the 18th U.S. National Congress on Computational Mechanics conference</p></details> |
+| **[A Comparative Study on Synthetic Facial Data Generation Techniques for Face Recognition](https://arxiv.org/abs/2512.05928v1)** | 2025-12-05 | 18 pages, 17 figures |
+| **[To Err Is Human: Systematic Quantification of Errors in Published AI Papers via LLM Analysis](https://arxiv.org/abs/2512.05925v1)** | 2025-12-05 |  |
+| **[Predicting Price Movements in High-Frequency Financial Data with Spiking Neural Networks](https://arxiv.org/abs/2512.05868v1)** | 2025-12-05 | <details><summary>9 pag...</summary><p>9 pages, 5 figures, 8 tables</p></details> |
+| **[Wasserstein Evolution : Evolutionary Optimization as Phase Transition](https://arxiv.org/abs/2512.05837v1)** | 2025-12-05 | 19 pages, 5 figures |
+| **[SAGE: Saliency-Guided Contrastive Embeddings](https://arxiv.org/abs/2511.12744v2)** | 2025-12-05 | <details><summary>11 pa...</summary><p>11 pages, 2 figures, 5 tables</p></details> |
+| **[KNARsack: Teaching Neural Algorithmic Reasoners to Solve Pseudo-Polynomial Problems](https://arxiv.org/abs/2509.15239v2)** | 2025-12-05 | <details><summary>16 pa...</summary><p>16 pages, 10 figures, 5 tables, 3 listings</p></details> |
 
 ## Image Caption
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Multi-LLM Collaboration for Medication Recommendation](https://arxiv.org/abs/2512.05066v1)** | 2025-12-04 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, 1 table</p></details> |
-| **[Near Real-time Adaptive Isotropic and Anisotropic Image-to-mesh Conversion for Numerical Simulations Involving Cerebral Aneurysms](https://arxiv.org/abs/2412.13222v3)** | 2025-12-04 | <details><summary>58 pa...</summary><p>58 pages, 16 figures, 13 tables, presented at the 18th U.S. National Congress on Computational Mechanics conference</p></details> |
+| **[A Comparative Study on Synthetic Facial Data Generation Techniques for Face Recognition](https://arxiv.org/abs/2512.05928v1)** | 2025-12-05 | 18 pages, 17 figures |
+| **[To Err Is Human: Systematic Quantification of Errors in Published AI Papers via LLM Analysis](https://arxiv.org/abs/2512.05925v1)** | 2025-12-05 |  |
+| **[Open-PMC-18M: A High-Fidelity Large Scale Medical Dataset for Multimodal Representation Learning](https://arxiv.org/abs/2506.02738v3)** | 2025-12-05 | 21 pages |
+| **[Predicting Price Movements in High-Frequency Financial Data with Spiking Neural Networks](https://arxiv.org/abs/2512.05868v1)** | 2025-12-05 | <details><summary>9 pag...</summary><p>9 pages, 5 figures, 8 tables</p></details> |
+| **[Wasserstein Evolution : Evolutionary Optimization as Phase Transition](https://arxiv.org/abs/2512.05837v1)** | 2025-12-05 | 19 pages, 5 figures |
+| **[SAGE: Saliency-Guided Contrastive Embeddings](https://arxiv.org/abs/2511.12744v2)** | 2025-12-05 | <details><summary>11 pa...</summary><p>11 pages, 2 figures, 5 tables</p></details> |
 
 ## Describe
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Deep infant brain segmentation from multi-contrast MRI](https://arxiv.org/abs/2512.05114v1)** | 2025-12-04 | <details><summary>8 pag...</summary><p>8 pages, 8 figures, 1 table, website at https://w3id.org/babyseg, presented at the 2025 IEEE Asilomar Conference on Signals, Systems, and Computers</p></details> |
-| **[AudAgent: Automated Auditing of Privacy Policy Compliance in AI Agents](https://arxiv.org/abs/2511.07441v3)** | 2025-12-04 | <details><summary>Submi...</summary><p>Submitted to PETS'26 Issue 3</p></details> |
-| **[Multi-LLM Collaboration for Medication Recommendation](https://arxiv.org/abs/2512.05066v1)** | 2025-12-04 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, 1 table</p></details> |
-| **[Near Real-time Adaptive Isotropic and Anisotropic Image-to-mesh Conversion for Numerical Simulations Involving Cerebral Aneurysms](https://arxiv.org/abs/2412.13222v3)** | 2025-12-04 | <details><summary>58 pa...</summary><p>58 pages, 16 figures, 13 tables, presented at the 18th U.S. National Congress on Computational Mechanics conference</p></details> |
-| **[Coinductive proof search for polarized logic with applications to full intuitionistic propositional logic](https://arxiv.org/abs/2007.16161v3)** | 2025-12-04 | <details><summary>57 pa...</summary><p>57 pages incl. appendices (v2 has 22 pages incl. appendices and corresponds to DOI 10.4230/LIPIcs.TYPES.2020.4); besides adding running and meta-theoretic examples, the previous version is extended threefold: (1) from proof terms to co-proof terms as objects of study, (2) LJQ is used as source system besides LJT, (3) there is an entire scheme for the properties being studied</p></details> |
+| **[Developing synthetic microdata through machine learning for firm-level business surveys](https://arxiv.org/abs/2512.05948v1)** | 2025-12-05 | <details><summary>17 pa...</summary><p>17 pages, 4 figures, 6 tables</p></details> |
+| **[A Comparative Study on Synthetic Facial Data Generation Techniques for Face Recognition](https://arxiv.org/abs/2512.05928v1)** | 2025-12-05 | 18 pages, 17 figures |
+| **[To Err Is Human: Systematic Quantification of Errors in Published AI Papers via LLM Analysis](https://arxiv.org/abs/2512.05925v1)** | 2025-12-05 |  |
 
 ## Light Weight
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Multi-LLM Collaboration for Medication Recommendation](https://arxiv.org/abs/2512.05066v1)** | 2025-12-04 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, 1 table</p></details> |
-| **[Near Real-time Adaptive Isotropic and Anisotropic Image-to-mesh Conversion for Numerical Simulations Involving Cerebral Aneurysms](https://arxiv.org/abs/2412.13222v3)** | 2025-12-04 | <details><summary>58 pa...</summary><p>58 pages, 16 figures, 13 tables, presented at the 18th U.S. National Congress on Computational Mechanics conference</p></details> |
+| **[A Comparative Study on Synthetic Facial Data Generation Techniques for Face Recognition](https://arxiv.org/abs/2512.05928v1)** | 2025-12-05 | 18 pages, 17 figures |
+| **[To Err Is Human: Systematic Quantification of Errors in Published AI Papers via LLM Analysis](https://arxiv.org/abs/2512.05925v1)** | 2025-12-05 |  |
+| **[Predicting Price Movements in High-Frequency Financial Data with Spiking Neural Networks](https://arxiv.org/abs/2512.05868v1)** | 2025-12-05 | <details><summary>9 pag...</summary><p>9 pages, 5 figures, 8 tables</p></details> |
+| **[Wasserstein Evolution : Evolutionary Optimization as Phase Transition](https://arxiv.org/abs/2512.05837v1)** | 2025-12-05 | 19 pages, 5 figures |
+| **[SAGE: Saliency-Guided Contrastive Embeddings](https://arxiv.org/abs/2511.12744v2)** | 2025-12-05 | <details><summary>11 pa...</summary><p>11 pages, 2 figures, 5 tables</p></details> |
+| **[KNARsack: Teaching Neural Algorithmic Reasoners to Solve Pseudo-Polynomial Problems](https://arxiv.org/abs/2509.15239v2)** | 2025-12-05 | <details><summary>16 pa...</summary><p>16 pages, 10 figures, 5 tables, 3 listings</p></details> |
 
 ## Class Incremental
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Multi-LLM Collaboration for Medication Recommendation](https://arxiv.org/abs/2512.05066v1)** | 2025-12-04 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, 1 table</p></details> |
-| **[Near Real-time Adaptive Isotropic and Anisotropic Image-to-mesh Conversion for Numerical Simulations Involving Cerebral Aneurysms](https://arxiv.org/abs/2412.13222v3)** | 2025-12-04 | <details><summary>58 pa...</summary><p>58 pages, 16 figures, 13 tables, presented at the 18th U.S. National Congress on Computational Mechanics conference</p></details> |
+| **[A Comparative Study on Synthetic Facial Data Generation Techniques for Face Recognition](https://arxiv.org/abs/2512.05928v1)** | 2025-12-05 | 18 pages, 17 figures |
+| **[To Err Is Human: Systematic Quantification of Errors in Published AI Papers via LLM Analysis](https://arxiv.org/abs/2512.05925v1)** | 2025-12-05 |  |
+| **[Predicting Price Movements in High-Frequency Financial Data with Spiking Neural Networks](https://arxiv.org/abs/2512.05868v1)** | 2025-12-05 | <details><summary>9 pag...</summary><p>9 pages, 5 figures, 8 tables</p></details> |
+| **[Wasserstein Evolution : Evolutionary Optimization as Phase Transition](https://arxiv.org/abs/2512.05837v1)** | 2025-12-05 | 19 pages, 5 figures |
+| **[SAGE: Saliency-Guided Contrastive Embeddings](https://arxiv.org/abs/2511.12744v2)** | 2025-12-05 | <details><summary>11 pa...</summary><p>11 pages, 2 figures, 5 tables</p></details> |
+| **[KNARsack: Teaching Neural Algorithmic Reasoners to Solve Pseudo-Polynomial Problems](https://arxiv.org/abs/2509.15239v2)** | 2025-12-05 | <details><summary>16 pa...</summary><p>16 pages, 10 figures, 5 tables, 3 listings</p></details> |
 
