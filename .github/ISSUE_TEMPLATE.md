@@ -1,5 +1,5 @@
 ---
-title: Latest 50 Papers - December 09, 2025
+title: Latest 50 Papers - December 10, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/JiamingZang/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,86 +7,67 @@ labels: documentation
 ## Molecular
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[A Comparative Study on Synthetic Facial Data Generation Techniques for Face Recognition](https://arxiv.org/abs/2512.05928v1)** | 2025-12-05 | 18 pages, 17 figures |
-| **[To Err Is Human: Systematic Quantification of Errors in Published AI Papers via LLM Analysis](https://arxiv.org/abs/2512.05925v1)** | 2025-12-05 |  |
-| **[Computational Design of Low-Volatility Lubricants for Space Using Interpretable Machine Learning](https://arxiv.org/abs/2512.05870v1)** | 2025-12-05 |  |
-| **[Predicting Price Movements in High-Frequency Financial Data with Spiking Neural Networks](https://arxiv.org/abs/2512.05868v1)** | 2025-12-05 | <details><summary>9 pag...</summary><p>9 pages, 5 figures, 8 tables</p></details> |
-| **[NEAT: Neighborhood-Guided, Efficient, Autoregressive Set Transformer for 3D Molecular Generation](https://arxiv.org/abs/2512.05844v1)** | 2025-12-05 |  |
-| **[Wasserstein Evolution : Evolutionary Optimization as Phase Transition](https://arxiv.org/abs/2512.05837v1)** | 2025-12-05 | 19 pages, 5 figures |
+| **[Provable Long-Range Benefits of Next-Token Prediction](https://arxiv.org/abs/2512.07818v1)** | 2025-12-08 | 66 pages, 5 figures |
+| **[Toward Seamless Physical Human-Humanoid Interaction: Insights from Control, Intent, and Modeling with a Vision for What Comes Next](https://arxiv.org/abs/2512.07765v1)** | 2025-12-08 | <details><summary>60 pa...</summary><p>60 pages, 5 figures, 3 tables</p></details> |
 
 ## Molecular Generation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[A Comparative Study on Synthetic Facial Data Generation Techniques for Face Recognition](https://arxiv.org/abs/2512.05928v1)** | 2025-12-05 | 18 pages, 17 figures |
-| **[To Err Is Human: Systematic Quantification of Errors in Published AI Papers via LLM Analysis](https://arxiv.org/abs/2512.05925v1)** | 2025-12-05 |  |
-| **[Predicting Price Movements in High-Frequency Financial Data with Spiking Neural Networks](https://arxiv.org/abs/2512.05868v1)** | 2025-12-05 | <details><summary>9 pag...</summary><p>9 pages, 5 figures, 8 tables</p></details> |
-| **[NEAT: Neighborhood-Guided, Efficient, Autoregressive Set Transformer for 3D Molecular Generation](https://arxiv.org/abs/2512.05844v1)** | 2025-12-05 |  |
-| **[Wasserstein Evolution : Evolutionary Optimization as Phase Transition](https://arxiv.org/abs/2512.05837v1)** | 2025-12-05 | 19 pages, 5 figures |
+| **[Provable Long-Range Benefits of Next-Token Prediction](https://arxiv.org/abs/2512.07818v1)** | 2025-12-08 | 66 pages, 5 figures |
+| **[Toward Seamless Physical Human-Humanoid Interaction: Insights from Control, Intent, and Modeling with a Vision for What Comes Next](https://arxiv.org/abs/2512.07765v1)** | 2025-12-08 | <details><summary>60 pa...</summary><p>60 pages, 5 figures, 3 tables</p></details> |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[A Comparative Study on Synthetic Facial Data Generation Techniques for Face Recognition](https://arxiv.org/abs/2512.05928v1)** | 2025-12-05 | 18 pages, 17 figures |
-| **[To Err Is Human: Systematic Quantification of Errors in Published AI Papers via LLM Analysis](https://arxiv.org/abs/2512.05925v1)** | 2025-12-05 |  |
-| **[Predicting Price Movements in High-Frequency Financial Data with Spiking Neural Networks](https://arxiv.org/abs/2512.05868v1)** | 2025-12-05 | <details><summary>9 pag...</summary><p>9 pages, 5 figures, 8 tables</p></details> |
-| **[Wasserstein Evolution : Evolutionary Optimization as Phase Transition](https://arxiv.org/abs/2512.05837v1)** | 2025-12-05 | 19 pages, 5 figures |
-| **[Morphling: Fast, Fused, and Flexible GNN Training at Scale](https://arxiv.org/abs/2512.01678v3)** | 2025-12-05 |  |
-| **[SAGE: Saliency-Guided Contrastive Embeddings](https://arxiv.org/abs/2511.12744v2)** | 2025-12-05 | <details><summary>11 pa...</summary><p>11 pages, 2 figures, 5 tables</p></details> |
+| **[Provable Long-Range Benefits of Next-Token Prediction](https://arxiv.org/abs/2512.07818v1)** | 2025-12-08 | 66 pages, 5 figures |
+| **[Toward Seamless Physical Human-Humanoid Interaction: Insights from Control, Intent, and Modeling with a Vision for What Comes Next](https://arxiv.org/abs/2512.07765v1)** | 2025-12-08 | <details><summary>60 pa...</summary><p>60 pages, 5 figures, 3 tables</p></details> |
+| **[When Large Language Models Do Not Work: Online Incivility Prediction through Graph Neural Networks](https://arxiv.org/abs/2512.07684v1)** | 2025-12-08 | 10 pages |
 
 ## Diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[SustainDiffusion: Optimising the Social and Environmental Sustainability of Stable Diffusion Models](https://arxiv.org/abs/2507.15663v2)** | 2025-12-05 |  |
-| **[A Comparative Study on Synthetic Facial Data Generation Techniques for Face Recognition](https://arxiv.org/abs/2512.05928v1)** | 2025-12-05 | 18 pages, 17 figures |
-| **[To Err Is Human: Systematic Quantification of Errors in Published AI Papers via LLM Analysis](https://arxiv.org/abs/2512.05925v1)** | 2025-12-05 |  |
-| **[A Discontinuous Galerkin Consistent Splitting Method for the Incompressible Navier-Stokes Equations](https://arxiv.org/abs/2512.05919v1)** | 2025-12-05 | <details><summary>22 pa...</summary><p>22 pages, 6 figures, submitted to CMAME</p></details> |
-| **[SCAIL: Towards Studio-Grade Character Animation via In-Context Learning of 3D-Consistent Pose Representations](https://arxiv.org/abs/2512.05905v1)** | 2025-12-05 |  |
-| **[Predicting Price Movements in High-Frequency Financial Data with Spiking Neural Networks](https://arxiv.org/abs/2512.05868v1)** | 2025-12-05 | <details><summary>9 pag...</summary><p>9 pages, 5 figures, 8 tables</p></details> |
+| **[One Layer Is Enough: Adapting Pretrained Visual Encoders for Image Generation](https://arxiv.org/abs/2512.07829v1)** | 2025-12-08 |  |
+| **[The Adoption and Usage of AI Agents: Early Evidence from Perplexity](https://arxiv.org/abs/2512.07828v1)** | 2025-12-08 |  |
+| **[Provable Long-Range Benefits of Next-Token Prediction](https://arxiv.org/abs/2512.07818v1)** | 2025-12-08 | 66 pages, 5 figures |
+| **[Distribution Matching Variational AutoEncoder](https://arxiv.org/abs/2512.07778v1)** | 2025-12-08 |  |
+| **[Toward Seamless Physical Human-Humanoid Interaction: Insights from Control, Intent, and Modeling with a Vision for What Comes Next](https://arxiv.org/abs/2512.07765v1)** | 2025-12-08 | <details><summary>60 pa...</summary><p>60 pages, 5 figures, 3 tables</p></details> |
+| **[Physics-Informed Neural Networks for Source Inversion and Parameters Estimation in Atmospheric Dispersion](https://arxiv.org/abs/2512.07755v1)** | 2025-12-08 |  |
+| **[Diffusion Models for Image Restoration and Enhancement: A Comprehensive Survey](https://arxiv.org/abs/2308.09388v3)** | 2025-12-08 | <details><summary>Accep...</summary><p>Accepted by IJCV 2025</p></details> |
+| **[DiffusionDriveV2: Reinforcement Learning-Constrained Truncated Diffusion Modeling in End-to-End Autonomous Driving](https://arxiv.org/abs/2512.07745v1)** | 2025-12-08 |  |
+| **[ViSA: 3D-Aware Video Shading for Real-Time Upper-Body Avatar Creation](https://arxiv.org/abs/2512.07720v1)** | 2025-12-08 |  |
 
 ## Object Counting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[A Comparative Study on Synthetic Facial Data Generation Techniques for Face Recognition](https://arxiv.org/abs/2512.05928v1)** | 2025-12-05 | 18 pages, 17 figures |
-| **[To Err Is Human: Systematic Quantification of Errors in Published AI Papers via LLM Analysis](https://arxiv.org/abs/2512.05925v1)** | 2025-12-05 |  |
-| **[Predicting Price Movements in High-Frequency Financial Data with Spiking Neural Networks](https://arxiv.org/abs/2512.05868v1)** | 2025-12-05 | <details><summary>9 pag...</summary><p>9 pages, 5 figures, 8 tables</p></details> |
-| **[Wasserstein Evolution : Evolutionary Optimization as Phase Transition](https://arxiv.org/abs/2512.05837v1)** | 2025-12-05 | 19 pages, 5 figures |
-| **[SAGE: Saliency-Guided Contrastive Embeddings](https://arxiv.org/abs/2511.12744v2)** | 2025-12-05 | <details><summary>11 pa...</summary><p>11 pages, 2 figures, 5 tables</p></details> |
-| **[KNARsack: Teaching Neural Algorithmic Reasoners to Solve Pseudo-Polynomial Problems](https://arxiv.org/abs/2509.15239v2)** | 2025-12-05 | <details><summary>16 pa...</summary><p>16 pages, 10 figures, 5 tables, 3 listings</p></details> |
+| **[Provable Long-Range Benefits of Next-Token Prediction](https://arxiv.org/abs/2512.07818v1)** | 2025-12-08 | 66 pages, 5 figures |
+| **[Toward Seamless Physical Human-Humanoid Interaction: Insights from Control, Intent, and Modeling with a Vision for What Comes Next](https://arxiv.org/abs/2512.07765v1)** | 2025-12-08 | <details><summary>60 pa...</summary><p>60 pages, 5 figures, 3 tables</p></details> |
 
 ## Image Caption
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[A Comparative Study on Synthetic Facial Data Generation Techniques for Face Recognition](https://arxiv.org/abs/2512.05928v1)** | 2025-12-05 | 18 pages, 17 figures |
-| **[To Err Is Human: Systematic Quantification of Errors in Published AI Papers via LLM Analysis](https://arxiv.org/abs/2512.05925v1)** | 2025-12-05 |  |
-| **[Open-PMC-18M: A High-Fidelity Large Scale Medical Dataset for Multimodal Representation Learning](https://arxiv.org/abs/2506.02738v3)** | 2025-12-05 | 21 pages |
-| **[Predicting Price Movements in High-Frequency Financial Data with Spiking Neural Networks](https://arxiv.org/abs/2512.05868v1)** | 2025-12-05 | <details><summary>9 pag...</summary><p>9 pages, 5 figures, 8 tables</p></details> |
-| **[Wasserstein Evolution : Evolutionary Optimization as Phase Transition](https://arxiv.org/abs/2512.05837v1)** | 2025-12-05 | 19 pages, 5 figures |
-| **[SAGE: Saliency-Guided Contrastive Embeddings](https://arxiv.org/abs/2511.12744v2)** | 2025-12-05 | <details><summary>11 pa...</summary><p>11 pages, 2 figures, 5 tables</p></details> |
+| **[Relational Visual Similarity](https://arxiv.org/abs/2512.07833v1)** | 2025-12-08 | <details><summary>Proje...</summary><p>Project page, data, and code: https://thaoshibe.github.io/relsim</p></details> |
+| **[Provable Long-Range Benefits of Next-Token Prediction](https://arxiv.org/abs/2512.07818v1)** | 2025-12-08 | 66 pages, 5 figures |
+| **[Toward Seamless Physical Human-Humanoid Interaction: Insights from Control, Intent, and Modeling with a Vision for What Comes Next](https://arxiv.org/abs/2512.07765v1)** | 2025-12-08 | <details><summary>60 pa...</summary><p>60 pages, 5 figures, 3 tables</p></details> |
 
 ## Describe
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Developing synthetic microdata through machine learning for firm-level business surveys](https://arxiv.org/abs/2512.05948v1)** | 2025-12-05 | <details><summary>17 pa...</summary><p>17 pages, 4 figures, 6 tables</p></details> |
-| **[A Comparative Study on Synthetic Facial Data Generation Techniques for Face Recognition](https://arxiv.org/abs/2512.05928v1)** | 2025-12-05 | 18 pages, 17 figures |
-| **[To Err Is Human: Systematic Quantification of Errors in Published AI Papers via LLM Analysis](https://arxiv.org/abs/2512.05925v1)** | 2025-12-05 |  |
+| **[Relational Visual Similarity](https://arxiv.org/abs/2512.07833v1)** | 2025-12-08 | <details><summary>Proje...</summary><p>Project page, data, and code: https://thaoshibe.github.io/relsim</p></details> |
+| **[Provable Long-Range Benefits of Next-Token Prediction](https://arxiv.org/abs/2512.07818v1)** | 2025-12-08 | 66 pages, 5 figures |
+| **[Large Causal Models from Large Language Models](https://arxiv.org/abs/2512.07796v1)** | 2025-12-08 | 29 pages |
+| **[Toward Seamless Physical Human-Humanoid Interaction: Insights from Control, Intent, and Modeling with a Vision for What Comes Next](https://arxiv.org/abs/2512.07765v1)** | 2025-12-08 | <details><summary>60 pa...</summary><p>60 pages, 5 figures, 3 tables</p></details> |
+| **[Unifying Graded Linear Logic and Differential Operators](https://arxiv.org/abs/2402.09138v4)** | 2025-12-08 | <details><summary>Submi...</summary><p>Submitted to Logical Methods in Computer Science</p></details> |
+| **[Symmetric Vaccine Efficacy](https://arxiv.org/abs/2512.07739v1)** | 2025-12-08 |  |
 
 ## Light Weight
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[A Comparative Study on Synthetic Facial Data Generation Techniques for Face Recognition](https://arxiv.org/abs/2512.05928v1)** | 2025-12-05 | 18 pages, 17 figures |
-| **[To Err Is Human: Systematic Quantification of Errors in Published AI Papers via LLM Analysis](https://arxiv.org/abs/2512.05925v1)** | 2025-12-05 |  |
-| **[Predicting Price Movements in High-Frequency Financial Data with Spiking Neural Networks](https://arxiv.org/abs/2512.05868v1)** | 2025-12-05 | <details><summary>9 pag...</summary><p>9 pages, 5 figures, 8 tables</p></details> |
-| **[Wasserstein Evolution : Evolutionary Optimization as Phase Transition](https://arxiv.org/abs/2512.05837v1)** | 2025-12-05 | 19 pages, 5 figures |
-| **[SAGE: Saliency-Guided Contrastive Embeddings](https://arxiv.org/abs/2511.12744v2)** | 2025-12-05 | <details><summary>11 pa...</summary><p>11 pages, 2 figures, 5 tables</p></details> |
-| **[KNARsack: Teaching Neural Algorithmic Reasoners to Solve Pseudo-Polynomial Problems](https://arxiv.org/abs/2509.15239v2)** | 2025-12-05 | <details><summary>16 pa...</summary><p>16 pages, 10 figures, 5 tables, 3 listings</p></details> |
+| **[Provable Long-Range Benefits of Next-Token Prediction](https://arxiv.org/abs/2512.07818v1)** | 2025-12-08 | 66 pages, 5 figures |
+| **[Toward Seamless Physical Human-Humanoid Interaction: Insights from Control, Intent, and Modeling with a Vision for What Comes Next](https://arxiv.org/abs/2512.07765v1)** | 2025-12-08 | <details><summary>60 pa...</summary><p>60 pages, 5 figures, 3 tables</p></details> |
 
 ## Class Incremental
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[A Comparative Study on Synthetic Facial Data Generation Techniques for Face Recognition](https://arxiv.org/abs/2512.05928v1)** | 2025-12-05 | 18 pages, 17 figures |
-| **[To Err Is Human: Systematic Quantification of Errors in Published AI Papers via LLM Analysis](https://arxiv.org/abs/2512.05925v1)** | 2025-12-05 |  |
-| **[Predicting Price Movements in High-Frequency Financial Data with Spiking Neural Networks](https://arxiv.org/abs/2512.05868v1)** | 2025-12-05 | <details><summary>9 pag...</summary><p>9 pages, 5 figures, 8 tables</p></details> |
-| **[Wasserstein Evolution : Evolutionary Optimization as Phase Transition](https://arxiv.org/abs/2512.05837v1)** | 2025-12-05 | 19 pages, 5 figures |
-| **[SAGE: Saliency-Guided Contrastive Embeddings](https://arxiv.org/abs/2511.12744v2)** | 2025-12-05 | <details><summary>11 pa...</summary><p>11 pages, 2 figures, 5 tables</p></details> |
-| **[KNARsack: Teaching Neural Algorithmic Reasoners to Solve Pseudo-Polynomial Problems](https://arxiv.org/abs/2509.15239v2)** | 2025-12-05 | <details><summary>16 pa...</summary><p>16 pages, 10 figures, 5 tables, 3 listings</p></details> |
+| **[Provable Long-Range Benefits of Next-Token Prediction](https://arxiv.org/abs/2512.07818v1)** | 2025-12-08 | 66 pages, 5 figures |
+| **[Toward Seamless Physical Human-Humanoid Interaction: Insights from Control, Intent, and Modeling with a Vision for What Comes Next](https://arxiv.org/abs/2512.07765v1)** | 2025-12-08 | <details><summary>60 pa...</summary><p>60 pages, 5 figures, 3 tables</p></details> |
 
