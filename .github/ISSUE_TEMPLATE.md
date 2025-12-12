@@ -1,5 +1,5 @@
 ---
-title: Latest 50 Papers - December 12, 2025
+title: Latest 50 Papers - December 13, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/JiamingZang/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,130 +7,81 @@ labels: documentation
 ## Molecular
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Token Expand-Merge: Training-Free Token Compression for Vision-Language-Action Models](https://arxiv.org/abs/2512.09927v1)** | 2025-12-10 | 8 pages, 5 figures |
-| **[FALCON: Few-step Accurate Likelihoods for Continuous Flows](https://arxiv.org/abs/2512.09914v1)** | 2025-12-10 | <details><summary>Prepr...</summary><p>Preprint; NeurIPS 2025 MLSB</p></details> |
-| **[Imitative Membership Inference Attack](https://arxiv.org/abs/2509.06796v2)** | 2025-12-10 | <details><summary>Code ...</summary><p>Code is available at: https://github.com/zealscott/IMIA</p></details> |
-| **[Link-Sharing Backpressure Routing In Wireless Multi-Hop Networks](https://arxiv.org/abs/2512.09902v1)** | 2025-12-10 | <details><summary>5 pag...</summary><p>5 pages, 5 figures, submitted to IEEE ICASSP 2026</p></details> |
-| **[FlipLLM: Efficient Bit-Flip Attacks on Multimodal LLMs using Reinforcement Learning](https://arxiv.org/abs/2512.09872v1)** | 2025-12-10 | <details><summary>Accep...</summary><p>Accepted in IEEE HOST 2026</p></details> |
-| **[True Random Number Generators on IQM Spark](https://arxiv.org/abs/2512.09862v1)** | 2025-12-10 |  |
-| **[Colouring Graphs Without a Subdivided H-Graph: A Full Complexity Classification](https://arxiv.org/abs/2512.09859v1)** | 2025-12-10 |  |
-| **[Modality-Specific Enhancement and Complementary Fusion for Semi-Supervised Multi-Modal Brain Tumor Segmentation](https://arxiv.org/abs/2512.09801v1)** | 2025-12-10 | 9 pages, 3 figures |
+| **[Multi-Granular Node Pruning for Circuit Discovery](https://arxiv.org/abs/2512.10903v1)** | 2025-12-11 |  |
+| **[A Differentiable Digital Twin of Distributed Link Scheduling for Contention-Aware Networking](https://arxiv.org/abs/2512.10874v1)** | 2025-12-11 | <details><summary>5 pag...</summary><p>5 pages, 8 figures, presented in Asilomar Conference on Signals, Systems, and Computers 2025</p></details> |
+| **[From Macro to Micro: Benchmarking Microscopic Spatial Intelligence on Molecules via Vision-Language Models](https://arxiv.org/abs/2512.10867v1)** | 2025-12-11 |  |
+| **[Better Language Model Inversion by Compactly Representing Next-Token Distributions](https://arxiv.org/abs/2506.17090v3)** | 2025-12-11 |  |
 
 ## Molecular Generation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Token Expand-Merge: Training-Free Token Compression for Vision-Language-Action Models](https://arxiv.org/abs/2512.09927v1)** | 2025-12-10 | 8 pages, 5 figures |
-| **[Imitative Membership Inference Attack](https://arxiv.org/abs/2509.06796v2)** | 2025-12-10 | <details><summary>Code ...</summary><p>Code is available at: https://github.com/zealscott/IMIA</p></details> |
-| **[Link-Sharing Backpressure Routing In Wireless Multi-Hop Networks](https://arxiv.org/abs/2512.09902v1)** | 2025-12-10 | <details><summary>5 pag...</summary><p>5 pages, 5 figures, submitted to IEEE ICASSP 2026</p></details> |
-| **[FlipLLM: Efficient Bit-Flip Attacks on Multimodal LLMs using Reinforcement Learning](https://arxiv.org/abs/2512.09872v1)** | 2025-12-10 | <details><summary>Accep...</summary><p>Accepted in IEEE HOST 2026</p></details> |
-| **[True Random Number Generators on IQM Spark](https://arxiv.org/abs/2512.09862v1)** | 2025-12-10 |  |
-| **[Colouring Graphs Without a Subdivided H-Graph: A Full Complexity Classification](https://arxiv.org/abs/2512.09859v1)** | 2025-12-10 |  |
-| **[Modality-Specific Enhancement and Complementary Fusion for Semi-Supervised Multi-Modal Brain Tumor Segmentation](https://arxiv.org/abs/2512.09801v1)** | 2025-12-10 | 9 pages, 3 figures |
-| **[EthVault: A Secure and Resource-Conscious FPGA-Based Ethereum Cold Wallet](https://arxiv.org/abs/2510.23847v2)** | 2025-12-10 | <details><summary>Publi...</summary><p>Published at IET Blockchain</p></details> |
-| **[Physics-Aware Heterogeneous GNN Architecture for Real-Time BESS Optimization in Unbalanced Distribution Systems](https://arxiv.org/abs/2512.09780v1)** | 2025-12-10 | <details><summary>5 pag...</summary><p>5 pages, 2 figures, 3 tables</p></details> |
-| **[Enhancing Reasoning Skills in Small Persian Medical Language Models Can Outperform Large-Scale Data Training](https://arxiv.org/abs/2510.20059v4)** | 2025-12-10 | 7 pages, 5 figures |
-| **[DeepSeek's WEIRD Behavior: The cultural alignment of Large Language Models and the effects of prompt language and cultural prompting](https://arxiv.org/abs/2512.09772v1)** | 2025-12-10 |  |
+| **[Multi-Granular Node Pruning for Circuit Discovery](https://arxiv.org/abs/2512.10903v1)** | 2025-12-11 |  |
+| **[A Differentiable Digital Twin of Distributed Link Scheduling for Contention-Aware Networking](https://arxiv.org/abs/2512.10874v1)** | 2025-12-11 | <details><summary>5 pag...</summary><p>5 pages, 8 figures, presented in Asilomar Conference on Signals, Systems, and Computers 2025</p></details> |
+| **[Better Language Model Inversion by Compactly Representing Next-Token Distributions](https://arxiv.org/abs/2506.17090v3)** | 2025-12-11 |  |
+| **[T-SHRED: Symbolic Regression for Regularization and Model Discovery with Transformer Shallow Recurrent Decoders](https://arxiv.org/abs/2506.15881v3)** | 2025-12-11 | <details><summary>17 pa...</summary><p>17 pages, 5 figures, submitted to Transactions of the Royal Society (Symbolic Regression in the Physical Sciences)</p></details> |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Token Expand-Merge: Training-Free Token Compression for Vision-Language-Action Models](https://arxiv.org/abs/2512.09927v1)** | 2025-12-10 | 8 pages, 5 figures |
-| **[Imitative Membership Inference Attack](https://arxiv.org/abs/2509.06796v2)** | 2025-12-10 | <details><summary>Code ...</summary><p>Code is available at: https://github.com/zealscott/IMIA</p></details> |
-| **[Link-Sharing Backpressure Routing In Wireless Multi-Hop Networks](https://arxiv.org/abs/2512.09902v1)** | 2025-12-10 | <details><summary>5 pag...</summary><p>5 pages, 5 figures, submitted to IEEE ICASSP 2026</p></details> |
-| **[FlipLLM: Efficient Bit-Flip Attacks on Multimodal LLMs using Reinforcement Learning](https://arxiv.org/abs/2512.09872v1)** | 2025-12-10 | <details><summary>Accep...</summary><p>Accepted in IEEE HOST 2026</p></details> |
-| **[True Random Number Generators on IQM Spark](https://arxiv.org/abs/2512.09862v1)** | 2025-12-10 |  |
-| **[Colouring Graphs Without a Subdivided H-Graph: A Full Complexity Classification](https://arxiv.org/abs/2512.09859v1)** | 2025-12-10 |  |
-| **[Improving Graph Neural Network Training, Defense, Hypergraph Partitioning and Spectral Clustering via Adversarial Robustness Evaluation](https://arxiv.org/abs/2412.14738v8)** | 2025-12-10 |  |
-| **[Modality-Specific Enhancement and Complementary Fusion for Semi-Supervised Multi-Modal Brain Tumor Segmentation](https://arxiv.org/abs/2512.09801v1)** | 2025-12-10 | 9 pages, 3 figures |
-| **[M3Net: A Multi-Metric Mixture of Experts Network Digital Twin with Graph Neural Networks](https://arxiv.org/abs/2512.09797v1)** | 2025-12-10 |  |
-| **[EthVault: A Secure and Resource-Conscious FPGA-Based Ethereum Cold Wallet](https://arxiv.org/abs/2510.23847v2)** | 2025-12-10 | <details><summary>Publi...</summary><p>Published at IET Blockchain</p></details> |
-| **[Physics-Aware Heterogeneous GNN Architecture for Real-Time BESS Optimization in Unbalanced Distribution Systems](https://arxiv.org/abs/2512.09780v1)** | 2025-12-10 | <details><summary>5 pag...</summary><p>5 pages, 2 figures, 3 tables</p></details> |
-| **[Enhancing Reasoning Skills in Small Persian Medical Language Models Can Outperform Large-Scale Data Training](https://arxiv.org/abs/2510.20059v4)** | 2025-12-10 | 7 pages, 5 figures |
+| **[Multi-Granular Node Pruning for Circuit Discovery](https://arxiv.org/abs/2512.10903v1)** | 2025-12-11 |  |
+| **[A Differentiable Digital Twin of Distributed Link Scheduling for Contention-Aware Networking](https://arxiv.org/abs/2512.10874v1)** | 2025-12-11 | <details><summary>5 pag...</summary><p>5 pages, 8 figures, presented in Asilomar Conference on Signals, Systems, and Computers 2025</p></details> |
+| **[Better Language Model Inversion by Compactly Representing Next-Token Distributions](https://arxiv.org/abs/2506.17090v3)** | 2025-12-11 |  |
+| **[T-SHRED: Symbolic Regression for Regularization and Model Discovery with Transformer Shallow Recurrent Decoders](https://arxiv.org/abs/2506.15881v3)** | 2025-12-11 | <details><summary>17 pa...</summary><p>17 pages, 5 figures, submitted to Transactions of the Royal Society (Symbolic Regression in the Physical Sciences)</p></details> |
 
 ## Diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Token Expand-Merge: Training-Free Token Compression for Vision-Language-Action Models](https://arxiv.org/abs/2512.09927v1)** | 2025-12-10 | 8 pages, 5 figures |
-| **[GAINS: Gaussian-based Inverse Rendering from Sparse Multi-View Captures](https://arxiv.org/abs/2512.09925v1)** | 2025-12-10 | 23 pages, 18 figures |
-| **[Splatent: Splatting Diffusion Latents for Novel View Synthesis](https://arxiv.org/abs/2512.09923v1)** | 2025-12-10 |  |
-| **[Imitative Membership Inference Attack](https://arxiv.org/abs/2509.06796v2)** | 2025-12-10 | <details><summary>Code ...</summary><p>Code is available at: https://github.com/zealscott/IMIA</p></details> |
-| **[Link-Sharing Backpressure Routing In Wireless Multi-Hop Networks](https://arxiv.org/abs/2512.09902v1)** | 2025-12-10 | <details><summary>5 pag...</summary><p>5 pages, 5 figures, submitted to IEEE ICASSP 2026</p></details> |
-| **[FlipLLM: Efficient Bit-Flip Attacks on Multimodal LLMs using Reinforcement Learning](https://arxiv.org/abs/2512.09872v1)** | 2025-12-10 | <details><summary>Accep...</summary><p>Accepted in IEEE HOST 2026</p></details> |
-| **[Diffusion Posterior Sampler for Hyperspectral Unmixing with Spectral Variability Modeling](https://arxiv.org/abs/2512.09871v1)** | 2025-12-10 |  |
-| **[Constrained Discrete Diffusion](https://arxiv.org/abs/2503.09790v3)** | 2025-12-10 | <details><summary>Publi...</summary><p>Published at the 39th Conference on Neural Information Processing Systems (NeurIPS 2025)</p></details> |
-| **[True Random Number Generators on IQM Spark](https://arxiv.org/abs/2512.09862v1)** | 2025-12-10 |  |
-| **[Colouring Graphs Without a Subdivided H-Graph: A Full Complexity Classification](https://arxiv.org/abs/2512.09859v1)** | 2025-12-10 |  |
-| **[Simultaneous Tactile-Visual Perception for Learning Multimodal Robot Manipulation](https://arxiv.org/abs/2512.09851v1)** | 2025-12-10 |  |
-| **[Matrix-game 2.0: An open-source real-time and streaming interactive world model](https://arxiv.org/abs/2508.13009v3)** | 2025-12-10 | <details><summary>Proje...</summary><p>Project Page: https://matrix-game-v2.github.io</p></details> |
+| **[StereoSpace: Depth-Free Synthesis of Stereo Geometry via End-to-End Diffusion in a Canonical Space](https://arxiv.org/abs/2512.10959v1)** | 2025-12-11 | <details><summary>Proje...</summary><p>Project page: https://hf.co/spaces/prs-eth/stereospace_web</p></details> |
+| **[Group Diffusion: Enhancing Image Generation by Unlocking Cross-Sample Collaboration](https://arxiv.org/abs/2512.10954v1)** | 2025-12-11 | <details><summary>Proje...</summary><p>Project Page: https://sichengmo.github.io/GroupDiff/</p></details> |
+| **[ImplicitRDP: An End-to-End Visual-Force Diffusion Policy with Structural Slow-Fast Learning](https://arxiv.org/abs/2512.10946v1)** | 2025-12-11 | <details><summary>Proje...</summary><p>Project page: https://implicit-rdp.github.io</p></details> |
+| **[AlcheMinT: Fine-grained Temporal Control for Multi-Reference Consistent Video Generation](https://arxiv.org/abs/2512.10943v1)** | 2025-12-11 | <details><summary>Proje...</summary><p>Project page: https://snap-research.github.io/Video-AlcheMinT/snap-research.github.io/Video-AlcheMinT</p></details> |
+| **[OmniView: An All-Seeing Diffusion Model for 3D and 4D View Synthesis](https://arxiv.org/abs/2512.10940v1)** | 2025-12-11 | <details><summary>Proje...</summary><p>Project page: https://snap-research.github.io/OmniView/</p></details> |
+| **[GaussianHeadTalk: Wobble-Free 3D Talking Heads with Audio Driven Gaussian Splatting](https://arxiv.org/abs/2512.10939v1)** | 2025-12-11 | <details><summary>IEEE/...</summary><p>IEEE/CVF Winter Conference on Applications of Computer Vision 2026</p></details> |
+| **[If generative AI is the answer, what is the question?](https://arxiv.org/abs/2509.06120v2)** | 2025-12-11 | <details><summary>To ap...</summary><p>To appear as a book chapter in a Springer book titled "Statistical Foundations and Applications of Artificial Intelligence, Machine Learning and Deep Learning" and edited by S. Ejaz Ahmed, Pierre Alquier, Yi Li, Shuangge Ma</p></details> |
+| **[Multi-Granular Node Pruning for Circuit Discovery](https://arxiv.org/abs/2512.10903v1)** | 2025-12-11 |  |
+| **[Iterative Compositional Data Generation for Robot Control](https://arxiv.org/abs/2512.10891v1)** | 2025-12-11 |  |
+| **[Guided Transfer Learning for Discrete Diffusion Models](https://arxiv.org/abs/2512.10877v1)** | 2025-12-11 | <details><summary>7 pag...</summary><p>7 pages (main text) + appendix</p></details> |
+| **[A Differentiable Digital Twin of Distributed Link Scheduling for Contention-Aware Networking](https://arxiv.org/abs/2512.10874v1)** | 2025-12-11 | <details><summary>5 pag...</summary><p>5 pages, 8 figures, presented in Asilomar Conference on Signals, Systems, and Computers 2025</p></details> |
 
 ## Object Counting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Token Expand-Merge: Training-Free Token Compression for Vision-Language-Action Models](https://arxiv.org/abs/2512.09927v1)** | 2025-12-10 | 8 pages, 5 figures |
-| **[Imitative Membership Inference Attack](https://arxiv.org/abs/2509.06796v2)** | 2025-12-10 | <details><summary>Code ...</summary><p>Code is available at: https://github.com/zealscott/IMIA</p></details> |
-| **[Link-Sharing Backpressure Routing In Wireless Multi-Hop Networks](https://arxiv.org/abs/2512.09902v1)** | 2025-12-10 | <details><summary>5 pag...</summary><p>5 pages, 5 figures, submitted to IEEE ICASSP 2026</p></details> |
-| **[FlipLLM: Efficient Bit-Flip Attacks on Multimodal LLMs using Reinforcement Learning](https://arxiv.org/abs/2512.09872v1)** | 2025-12-10 | <details><summary>Accep...</summary><p>Accepted in IEEE HOST 2026</p></details> |
-| **[True Random Number Generators on IQM Spark](https://arxiv.org/abs/2512.09862v1)** | 2025-12-10 |  |
-| **[Colouring Graphs Without a Subdivided H-Graph: A Full Complexity Classification](https://arxiv.org/abs/2512.09859v1)** | 2025-12-10 |  |
-| **[Modality-Specific Enhancement and Complementary Fusion for Semi-Supervised Multi-Modal Brain Tumor Segmentation](https://arxiv.org/abs/2512.09801v1)** | 2025-12-10 | 9 pages, 3 figures |
-| **[EthVault: A Secure and Resource-Conscious FPGA-Based Ethereum Cold Wallet](https://arxiv.org/abs/2510.23847v2)** | 2025-12-10 | <details><summary>Publi...</summary><p>Published at IET Blockchain</p></details> |
-| **[Physics-Aware Heterogeneous GNN Architecture for Real-Time BESS Optimization in Unbalanced Distribution Systems](https://arxiv.org/abs/2512.09780v1)** | 2025-12-10 | <details><summary>5 pag...</summary><p>5 pages, 2 figures, 3 tables</p></details> |
-| **[Enhancing Reasoning Skills in Small Persian Medical Language Models Can Outperform Large-Scale Data Training](https://arxiv.org/abs/2510.20059v4)** | 2025-12-10 | 7 pages, 5 figures |
-| **[DeepSeek's WEIRD Behavior: The cultural alignment of Large Language Models and the effects of prompt language and cultural prompting](https://arxiv.org/abs/2512.09772v1)** | 2025-12-10 |  |
+| **[Multi-Granular Node Pruning for Circuit Discovery](https://arxiv.org/abs/2512.10903v1)** | 2025-12-11 |  |
+| **[A Differentiable Digital Twin of Distributed Link Scheduling for Contention-Aware Networking](https://arxiv.org/abs/2512.10874v1)** | 2025-12-11 | <details><summary>5 pag...</summary><p>5 pages, 8 figures, presented in Asilomar Conference on Signals, Systems, and Computers 2025</p></details> |
+| **[Better Language Model Inversion by Compactly Representing Next-Token Distributions](https://arxiv.org/abs/2506.17090v3)** | 2025-12-11 |  |
+| **[T-SHRED: Symbolic Regression for Regularization and Model Discovery with Transformer Shallow Recurrent Decoders](https://arxiv.org/abs/2506.15881v3)** | 2025-12-11 | <details><summary>17 pa...</summary><p>17 pages, 5 figures, submitted to Transactions of the Royal Society (Symbolic Regression in the Physical Sciences)</p></details> |
 
 ## Image Caption
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Token Expand-Merge: Training-Free Token Compression for Vision-Language-Action Models](https://arxiv.org/abs/2512.09927v1)** | 2025-12-10 | 8 pages, 5 figures |
-| **[Imitative Membership Inference Attack](https://arxiv.org/abs/2509.06796v2)** | 2025-12-10 | <details><summary>Code ...</summary><p>Code is available at: https://github.com/zealscott/IMIA</p></details> |
-| **[Link-Sharing Backpressure Routing In Wireless Multi-Hop Networks](https://arxiv.org/abs/2512.09902v1)** | 2025-12-10 | <details><summary>5 pag...</summary><p>5 pages, 5 figures, submitted to IEEE ICASSP 2026</p></details> |
-| **[FlipLLM: Efficient Bit-Flip Attacks on Multimodal LLMs using Reinforcement Learning](https://arxiv.org/abs/2512.09872v1)** | 2025-12-10 | <details><summary>Accep...</summary><p>Accepted in IEEE HOST 2026</p></details> |
-| **[True Random Number Generators on IQM Spark](https://arxiv.org/abs/2512.09862v1)** | 2025-12-10 |  |
-| **[Colouring Graphs Without a Subdivided H-Graph: A Full Complexity Classification](https://arxiv.org/abs/2512.09859v1)** | 2025-12-10 |  |
-| **[Modality-Specific Enhancement and Complementary Fusion for Semi-Supervised Multi-Modal Brain Tumor Segmentation](https://arxiv.org/abs/2512.09801v1)** | 2025-12-10 | 9 pages, 3 figures |
-| **[EthVault: A Secure and Resource-Conscious FPGA-Based Ethereum Cold Wallet](https://arxiv.org/abs/2510.23847v2)** | 2025-12-10 | <details><summary>Publi...</summary><p>Published at IET Blockchain</p></details> |
-| **[Physics-Aware Heterogeneous GNN Architecture for Real-Time BESS Optimization in Unbalanced Distribution Systems](https://arxiv.org/abs/2512.09780v1)** | 2025-12-10 | <details><summary>5 pag...</summary><p>5 pages, 2 figures, 3 tables</p></details> |
-| **[Enhancing Reasoning Skills in Small Persian Medical Language Models Can Outperform Large-Scale Data Training](https://arxiv.org/abs/2510.20059v4)** | 2025-12-10 | 7 pages, 5 figures |
-| **[DeepSeek's WEIRD Behavior: The cultural alignment of Large Language Models and the effects of prompt language and cultural prompting](https://arxiv.org/abs/2512.09772v1)** | 2025-12-10 |  |
+| **[Multi-Granular Node Pruning for Circuit Discovery](https://arxiv.org/abs/2512.10903v1)** | 2025-12-11 |  |
+| **[A Differentiable Digital Twin of Distributed Link Scheduling for Contention-Aware Networking](https://arxiv.org/abs/2512.10874v1)** | 2025-12-11 | <details><summary>5 pag...</summary><p>5 pages, 8 figures, presented in Asilomar Conference on Signals, Systems, and Computers 2025</p></details> |
+| **[Better Language Model Inversion by Compactly Representing Next-Token Distributions](https://arxiv.org/abs/2506.17090v3)** | 2025-12-11 |  |
+| **[T-SHRED: Symbolic Regression for Regularization and Model Discovery with Transformer Shallow Recurrent Decoders](https://arxiv.org/abs/2506.15881v3)** | 2025-12-11 | <details><summary>17 pa...</summary><p>17 pages, 5 figures, submitted to Transactions of the Royal Society (Symbolic Regression in the Physical Sciences)</p></details> |
 
 ## Describe
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Token Expand-Merge: Training-Free Token Compression for Vision-Language-Action Models](https://arxiv.org/abs/2512.09927v1)** | 2025-12-10 | 8 pages, 5 figures |
-| **[Imitative Membership Inference Attack](https://arxiv.org/abs/2509.06796v2)** | 2025-12-10 | <details><summary>Code ...</summary><p>Code is available at: https://github.com/zealscott/IMIA</p></details> |
-| **[VisualActBench: Can VLMs See and Act like a Human?](https://arxiv.org/abs/2512.09907v1)** | 2025-12-10 |  |
-| **[Link-Sharing Backpressure Routing In Wireless Multi-Hop Networks](https://arxiv.org/abs/2512.09902v1)** | 2025-12-10 | <details><summary>5 pag...</summary><p>5 pages, 5 figures, submitted to IEEE ICASSP 2026</p></details> |
-| **[FlipLLM: Efficient Bit-Flip Attacks on Multimodal LLMs using Reinforcement Learning](https://arxiv.org/abs/2512.09872v1)** | 2025-12-10 | <details><summary>Accep...</summary><p>Accepted in IEEE HOST 2026</p></details> |
-| **[True Random Number Generators on IQM Spark](https://arxiv.org/abs/2512.09862v1)** | 2025-12-10 |  |
-| **[Colouring Graphs Without a Subdivided H-Graph: A Full Complexity Classification](https://arxiv.org/abs/2512.09859v1)** | 2025-12-10 |  |
+| **[Multi-Granular Node Pruning for Circuit Discovery](https://arxiv.org/abs/2512.10903v1)** | 2025-12-11 |  |
+| **[A Differentiable Digital Twin of Distributed Link Scheduling for Contention-Aware Networking](https://arxiv.org/abs/2512.10874v1)** | 2025-12-11 | <details><summary>5 pag...</summary><p>5 pages, 8 figures, presented in Asilomar Conference on Signals, Systems, and Computers 2025</p></details> |
+| **[Better Language Model Inversion by Compactly Representing Next-Token Distributions](https://arxiv.org/abs/2506.17090v3)** | 2025-12-11 |  |
+| **[T-SHRED: Symbolic Regression for Regularization and Model Discovery with Transformer Shallow Recurrent Decoders](https://arxiv.org/abs/2506.15881v3)** | 2025-12-11 | <details><summary>17 pa...</summary><p>17 pages, 5 figures, submitted to Transactions of the Royal Society (Symbolic Regression in the Physical Sciences)</p></details> |
+| **[dtreg: Describing Data Analysis in Machine-Readable Format in Python and R](https://arxiv.org/abs/2512.10836v1)** | 2025-12-11 |  |
+| **[Luxical: High-Speed Lexical-Dense Text Embeddings](https://arxiv.org/abs/2512.09015v2)** | 2025-12-11 | <details><summary>9 pag...</summary><p>9 pages, 6 figures (v2 fixes typos only)</p></details> |
 
 ## Light Weight
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Token Expand-Merge: Training-Free Token Compression for Vision-Language-Action Models](https://arxiv.org/abs/2512.09927v1)** | 2025-12-10 | 8 pages, 5 figures |
-| **[Imitative Membership Inference Attack](https://arxiv.org/abs/2509.06796v2)** | 2025-12-10 | <details><summary>Code ...</summary><p>Code is available at: https://github.com/zealscott/IMIA</p></details> |
-| **[Link-Sharing Backpressure Routing In Wireless Multi-Hop Networks](https://arxiv.org/abs/2512.09902v1)** | 2025-12-10 | <details><summary>5 pag...</summary><p>5 pages, 5 figures, submitted to IEEE ICASSP 2026</p></details> |
-| **[FlipLLM: Efficient Bit-Flip Attacks on Multimodal LLMs using Reinforcement Learning](https://arxiv.org/abs/2512.09872v1)** | 2025-12-10 | <details><summary>Accep...</summary><p>Accepted in IEEE HOST 2026</p></details> |
-| **[True Random Number Generators on IQM Spark](https://arxiv.org/abs/2512.09862v1)** | 2025-12-10 |  |
-| **[Colouring Graphs Without a Subdivided H-Graph: A Full Complexity Classification](https://arxiv.org/abs/2512.09859v1)** | 2025-12-10 |  |
-| **[Modality-Specific Enhancement and Complementary Fusion for Semi-Supervised Multi-Modal Brain Tumor Segmentation](https://arxiv.org/abs/2512.09801v1)** | 2025-12-10 | 9 pages, 3 figures |
-| **[EthVault: A Secure and Resource-Conscious FPGA-Based Ethereum Cold Wallet](https://arxiv.org/abs/2510.23847v2)** | 2025-12-10 | <details><summary>Publi...</summary><p>Published at IET Blockchain</p></details> |
-| **[Physics-Aware Heterogeneous GNN Architecture for Real-Time BESS Optimization in Unbalanced Distribution Systems](https://arxiv.org/abs/2512.09780v1)** | 2025-12-10 | <details><summary>5 pag...</summary><p>5 pages, 2 figures, 3 tables</p></details> |
-| **[Enhancing Reasoning Skills in Small Persian Medical Language Models Can Outperform Large-Scale Data Training](https://arxiv.org/abs/2510.20059v4)** | 2025-12-10 | 7 pages, 5 figures |
-| **[DeepSeek's WEIRD Behavior: The cultural alignment of Large Language Models and the effects of prompt language and cultural prompting](https://arxiv.org/abs/2512.09772v1)** | 2025-12-10 |  |
+| **[Multi-Granular Node Pruning for Circuit Discovery](https://arxiv.org/abs/2512.10903v1)** | 2025-12-11 |  |
+| **[A Differentiable Digital Twin of Distributed Link Scheduling for Contention-Aware Networking](https://arxiv.org/abs/2512.10874v1)** | 2025-12-11 | <details><summary>5 pag...</summary><p>5 pages, 8 figures, presented in Asilomar Conference on Signals, Systems, and Computers 2025</p></details> |
+| **[Better Language Model Inversion by Compactly Representing Next-Token Distributions](https://arxiv.org/abs/2506.17090v3)** | 2025-12-11 |  |
+| **[T-SHRED: Symbolic Regression for Regularization and Model Discovery with Transformer Shallow Recurrent Decoders](https://arxiv.org/abs/2506.15881v3)** | 2025-12-11 | <details><summary>17 pa...</summary><p>17 pages, 5 figures, submitted to Transactions of the Royal Society (Symbolic Regression in the Physical Sciences)</p></details> |
 
 ## Class Incremental
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Token Expand-Merge: Training-Free Token Compression for Vision-Language-Action Models](https://arxiv.org/abs/2512.09927v1)** | 2025-12-10 | 8 pages, 5 figures |
-| **[Imitative Membership Inference Attack](https://arxiv.org/abs/2509.06796v2)** | 2025-12-10 | <details><summary>Code ...</summary><p>Code is available at: https://github.com/zealscott/IMIA</p></details> |
-| **[Link-Sharing Backpressure Routing In Wireless Multi-Hop Networks](https://arxiv.org/abs/2512.09902v1)** | 2025-12-10 | <details><summary>5 pag...</summary><p>5 pages, 5 figures, submitted to IEEE ICASSP 2026</p></details> |
-| **[FlipLLM: Efficient Bit-Flip Attacks on Multimodal LLMs using Reinforcement Learning](https://arxiv.org/abs/2512.09872v1)** | 2025-12-10 | <details><summary>Accep...</summary><p>Accepted in IEEE HOST 2026</p></details> |
-| **[True Random Number Generators on IQM Spark](https://arxiv.org/abs/2512.09862v1)** | 2025-12-10 |  |
-| **[Colouring Graphs Without a Subdivided H-Graph: A Full Complexity Classification](https://arxiv.org/abs/2512.09859v1)** | 2025-12-10 |  |
-| **[Modality-Specific Enhancement and Complementary Fusion for Semi-Supervised Multi-Modal Brain Tumor Segmentation](https://arxiv.org/abs/2512.09801v1)** | 2025-12-10 | 9 pages, 3 figures |
-| **[EthVault: A Secure and Resource-Conscious FPGA-Based Ethereum Cold Wallet](https://arxiv.org/abs/2510.23847v2)** | 2025-12-10 | <details><summary>Publi...</summary><p>Published at IET Blockchain</p></details> |
-| **[Physics-Aware Heterogeneous GNN Architecture for Real-Time BESS Optimization in Unbalanced Distribution Systems](https://arxiv.org/abs/2512.09780v1)** | 2025-12-10 | <details><summary>5 pag...</summary><p>5 pages, 2 figures, 3 tables</p></details> |
-| **[Enhancing Reasoning Skills in Small Persian Medical Language Models Can Outperform Large-Scale Data Training](https://arxiv.org/abs/2510.20059v4)** | 2025-12-10 | 7 pages, 5 figures |
-| **[DeepSeek's WEIRD Behavior: The cultural alignment of Large Language Models and the effects of prompt language and cultural prompting](https://arxiv.org/abs/2512.09772v1)** | 2025-12-10 |  |
+| **[Multi-Granular Node Pruning for Circuit Discovery](https://arxiv.org/abs/2512.10903v1)** | 2025-12-11 |  |
+| **[A Differentiable Digital Twin of Distributed Link Scheduling for Contention-Aware Networking](https://arxiv.org/abs/2512.10874v1)** | 2025-12-11 | <details><summary>5 pag...</summary><p>5 pages, 8 figures, presented in Asilomar Conference on Signals, Systems, and Computers 2025</p></details> |
+| **[Better Language Model Inversion by Compactly Representing Next-Token Distributions](https://arxiv.org/abs/2506.17090v3)** | 2025-12-11 |  |
+| **[T-SHRED: Symbolic Regression for Regularization and Model Discovery with Transformer Shallow Recurrent Decoders](https://arxiv.org/abs/2506.15881v3)** | 2025-12-11 | <details><summary>17 pa...</summary><p>17 pages, 5 figures, submitted to Transactions of the Royal Society (Symbolic Regression in the Physical Sciences)</p></details> |
 
