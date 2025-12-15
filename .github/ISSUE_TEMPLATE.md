@@ -1,5 +1,5 @@
 ---
-title: Latest 50 Papers - December 15, 2025
+title: Latest 50 Papers - December 16, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/JiamingZang/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,81 +7,115 @@ labels: documentation
 ## Molecular
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Multi-Granular Node Pruning for Circuit Discovery](https://arxiv.org/abs/2512.10903v1)** | 2025-12-11 |  |
-| **[A Differentiable Digital Twin of Distributed Link Scheduling for Contention-Aware Networking](https://arxiv.org/abs/2512.10874v1)** | 2025-12-11 | <details><summary>5 pag...</summary><p>5 pages, 8 figures, presented in Asilomar Conference on Signals, Systems, and Computers 2025</p></details> |
-| **[From Macro to Micro: Benchmarking Microscopic Spatial Intelligence on Molecules via Vision-Language Models](https://arxiv.org/abs/2512.10867v1)** | 2025-12-11 |  |
-| **[Better Language Model Inversion by Compactly Representing Next-Token Distributions](https://arxiv.org/abs/2506.17090v3)** | 2025-12-11 |  |
+| **[Super Suffixes: Bypassing Text Generation Alignment and Guard Models Simultaneously](https://arxiv.org/abs/2512.11783v1)** | 2025-12-12 | 13 pages, 5 Figures |
+| **[ProbeMDE: Uncertainty-Guided Active Proprioception for Monocular Depth Estimation in Surgical Robotics](https://arxiv.org/abs/2512.11773v1)** | 2025-12-12 | 9 pages, 5 figures |
+| **[A Family of LZ78-based Universal Sequential Probability Assignments](https://arxiv.org/abs/2410.06589v2)** | 2025-12-12 | <details><summary>40 pa...</summary><p>40 pages, 5 figures, to appear in IEEE Transactions on Information Theory</p></details> |
+| **[mViSE: A Visual Search Engine for Analyzing Multiplex IHC Brain Tissue Images](https://arxiv.org/abs/2512.11745v1)** | 2025-12-12 |  |
+| **[DeepSeek's WEIRD Behavior: The cultural alignment of Large Language Models and the effects of prompt language and cultural prompting](https://arxiv.org/abs/2512.09772v2)** | 2025-12-12 |  |
+| **[Efficient Exploration of Chemical Kinetics](https://arxiv.org/abs/2510.21368v2)** | 2025-12-12 | <details><summary>Docto...</summary><p>Doctoral dissertation, 121 pages, ISBN: 978-9935-9826-5-0. By design, all text and figures within this thesis are original and do not appear in the associated papers</p></details> |
+| **[Data as Voters: Core Set Selection Using Approval-Based Multi-Winner Voting](https://arxiv.org/abs/2304.09995v3)** | 2025-12-12 | <details><summary>46 pa...</summary><p>46 pages, 5 figures and 32 tables</p></details> |
 
 ## Molecular Generation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Multi-Granular Node Pruning for Circuit Discovery](https://arxiv.org/abs/2512.10903v1)** | 2025-12-11 |  |
-| **[A Differentiable Digital Twin of Distributed Link Scheduling for Contention-Aware Networking](https://arxiv.org/abs/2512.10874v1)** | 2025-12-11 | <details><summary>5 pag...</summary><p>5 pages, 8 figures, presented in Asilomar Conference on Signals, Systems, and Computers 2025</p></details> |
-| **[Better Language Model Inversion by Compactly Representing Next-Token Distributions](https://arxiv.org/abs/2506.17090v3)** | 2025-12-11 |  |
-| **[T-SHRED: Symbolic Regression for Regularization and Model Discovery with Transformer Shallow Recurrent Decoders](https://arxiv.org/abs/2506.15881v3)** | 2025-12-11 | <details><summary>17 pa...</summary><p>17 pages, 5 figures, submitted to Transactions of the Royal Society (Symbolic Regression in the Physical Sciences)</p></details> |
+| **[Super Suffixes: Bypassing Text Generation Alignment and Guard Models Simultaneously](https://arxiv.org/abs/2512.11783v1)** | 2025-12-12 | 13 pages, 5 Figures |
+| **[ProbeMDE: Uncertainty-Guided Active Proprioception for Monocular Depth Estimation in Surgical Robotics](https://arxiv.org/abs/2512.11773v1)** | 2025-12-12 | 9 pages, 5 figures |
+| **[A Family of LZ78-based Universal Sequential Probability Assignments](https://arxiv.org/abs/2410.06589v2)** | 2025-12-12 | <details><summary>40 pa...</summary><p>40 pages, 5 figures, to appear in IEEE Transactions on Information Theory</p></details> |
+| **[DeepSeek's WEIRD Behavior: The cultural alignment of Large Language Models and the effects of prompt language and cultural prompting](https://arxiv.org/abs/2512.09772v2)** | 2025-12-12 |  |
+| **[Efficient Exploration of Chemical Kinetics](https://arxiv.org/abs/2510.21368v2)** | 2025-12-12 | <details><summary>Docto...</summary><p>Doctoral dissertation, 121 pages, ISBN: 978-9935-9826-5-0. By design, all text and figures within this thesis are original and do not appear in the associated papers</p></details> |
+| **[Data as Voters: Core Set Selection Using Approval-Based Multi-Winner Voting](https://arxiv.org/abs/2304.09995v3)** | 2025-12-12 | <details><summary>46 pa...</summary><p>46 pages, 5 figures and 32 tables</p></details> |
+| **[Stable spectral neural operator for learning stiff PDE systems from limited data](https://arxiv.org/abs/2512.11686v1)** | 2025-12-12 |  |
+| **[Cross-modal Context-aware Learning for Visual Prompt Guided Multimodal Image Understanding in Remote Sensing](https://arxiv.org/abs/2512.11680v1)** | 2025-12-12 | 12 pages, 5 figures |
+| **[Toward Scalable VR-Cloud Gaming: An Attention-aware Adaptive Resource Allocation Framework for 6G Networks](https://arxiv.org/abs/2512.11667v1)** | 2025-12-12 |  |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Multi-Granular Node Pruning for Circuit Discovery](https://arxiv.org/abs/2512.10903v1)** | 2025-12-11 |  |
-| **[A Differentiable Digital Twin of Distributed Link Scheduling for Contention-Aware Networking](https://arxiv.org/abs/2512.10874v1)** | 2025-12-11 | <details><summary>5 pag...</summary><p>5 pages, 8 figures, presented in Asilomar Conference on Signals, Systems, and Computers 2025</p></details> |
-| **[Better Language Model Inversion by Compactly Representing Next-Token Distributions](https://arxiv.org/abs/2506.17090v3)** | 2025-12-11 |  |
-| **[T-SHRED: Symbolic Regression for Regularization and Model Discovery with Transformer Shallow Recurrent Decoders](https://arxiv.org/abs/2506.15881v3)** | 2025-12-11 | <details><summary>17 pa...</summary><p>17 pages, 5 figures, submitted to Transactions of the Royal Society (Symbolic Regression in the Physical Sciences)</p></details> |
+| **[Super Suffixes: Bypassing Text Generation Alignment and Guard Models Simultaneously](https://arxiv.org/abs/2512.11783v1)** | 2025-12-12 | 13 pages, 5 Figures |
+| **[ProbeMDE: Uncertainty-Guided Active Proprioception for Monocular Depth Estimation in Surgical Robotics](https://arxiv.org/abs/2512.11773v1)** | 2025-12-12 | 9 pages, 5 figures |
+| **[A Family of LZ78-based Universal Sequential Probability Assignments](https://arxiv.org/abs/2410.06589v2)** | 2025-12-12 | <details><summary>40 pa...</summary><p>40 pages, 5 figures, to appear in IEEE Transactions on Information Theory</p></details> |
+| **[DeepSeek's WEIRD Behavior: The cultural alignment of Large Language Models and the effects of prompt language and cultural prompting](https://arxiv.org/abs/2512.09772v2)** | 2025-12-12 |  |
+| **[Efficient Exploration of Chemical Kinetics](https://arxiv.org/abs/2510.21368v2)** | 2025-12-12 | <details><summary>Docto...</summary><p>Doctoral dissertation, 121 pages, ISBN: 978-9935-9826-5-0. By design, all text and figures within this thesis are original and do not appear in the associated papers</p></details> |
+| **[Data as Voters: Core Set Selection Using Approval-Based Multi-Winner Voting](https://arxiv.org/abs/2304.09995v3)** | 2025-12-12 | <details><summary>46 pa...</summary><p>46 pages, 5 figures and 32 tables</p></details> |
+| **[Text2Graph: Combining Lightweight LLMs and GNNs for Efficient Text Classification in Label-Scarce Scenarios](https://arxiv.org/abs/2512.10061v2)** | 2025-12-12 |  |
+| **[Stable spectral neural operator for learning stiff PDE systems from limited data](https://arxiv.org/abs/2512.11686v1)** | 2025-12-12 |  |
+| **[Cross-modal Context-aware Learning for Visual Prompt Guided Multimodal Image Understanding in Remote Sensing](https://arxiv.org/abs/2512.11680v1)** | 2025-12-12 | 12 pages, 5 figures |
+| **[Toward Scalable VR-Cloud Gaming: An Attention-aware Adaptive Resource Allocation Framework for 6G Networks](https://arxiv.org/abs/2512.11667v1)** | 2025-12-12 |  |
 
 ## Diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[StereoSpace: Depth-Free Synthesis of Stereo Geometry via End-to-End Diffusion in a Canonical Space](https://arxiv.org/abs/2512.10959v1)** | 2025-12-11 | <details><summary>Proje...</summary><p>Project page: https://hf.co/spaces/prs-eth/stereospace_web</p></details> |
-| **[Group Diffusion: Enhancing Image Generation by Unlocking Cross-Sample Collaboration](https://arxiv.org/abs/2512.10954v1)** | 2025-12-11 | <details><summary>Proje...</summary><p>Project Page: https://sichengmo.github.io/GroupDiff/</p></details> |
-| **[ImplicitRDP: An End-to-End Visual-Force Diffusion Policy with Structural Slow-Fast Learning](https://arxiv.org/abs/2512.10946v1)** | 2025-12-11 | <details><summary>Proje...</summary><p>Project page: https://implicit-rdp.github.io</p></details> |
-| **[AlcheMinT: Fine-grained Temporal Control for Multi-Reference Consistent Video Generation](https://arxiv.org/abs/2512.10943v1)** | 2025-12-11 | <details><summary>Proje...</summary><p>Project page: https://snap-research.github.io/Video-AlcheMinT/snap-research.github.io/Video-AlcheMinT</p></details> |
-| **[OmniView: An All-Seeing Diffusion Model for 3D and 4D View Synthesis](https://arxiv.org/abs/2512.10940v1)** | 2025-12-11 | <details><summary>Proje...</summary><p>Project page: https://snap-research.github.io/OmniView/</p></details> |
-| **[GaussianHeadTalk: Wobble-Free 3D Talking Heads with Audio Driven Gaussian Splatting](https://arxiv.org/abs/2512.10939v1)** | 2025-12-11 | <details><summary>IEEE/...</summary><p>IEEE/CVF Winter Conference on Applications of Computer Vision 2026</p></details> |
-| **[If generative AI is the answer, what is the question?](https://arxiv.org/abs/2509.06120v2)** | 2025-12-11 | <details><summary>To ap...</summary><p>To appear as a book chapter in a Springer book titled "Statistical Foundations and Applications of Artificial Intelligence, Machine Learning and Deep Learning" and edited by S. Ejaz Ahmed, Pierre Alquier, Yi Li, Shuangge Ma</p></details> |
-| **[Multi-Granular Node Pruning for Circuit Discovery](https://arxiv.org/abs/2512.10903v1)** | 2025-12-11 |  |
-| **[Iterative Compositional Data Generation for Robot Control](https://arxiv.org/abs/2512.10891v1)** | 2025-12-11 |  |
-| **[Guided Transfer Learning for Discrete Diffusion Models](https://arxiv.org/abs/2512.10877v1)** | 2025-12-11 | <details><summary>7 pag...</summary><p>7 pages (main text) + appendix</p></details> |
-| **[A Differentiable Digital Twin of Distributed Link Scheduling for Contention-Aware Networking](https://arxiv.org/abs/2512.10874v1)** | 2025-12-11 | <details><summary>5 pag...</summary><p>5 pages, 8 figures, presented in Asilomar Conference on Signals, Systems, and Computers 2025</p></details> |
+| **[AnchorDream: Repurposing Video Diffusion for Embodiment-Aware Robot Data Synthesis](https://arxiv.org/abs/2512.11797v1)** | 2025-12-12 | <details><summary>Proje...</summary><p>Project page: https://jay-ye.github.io/AnchorDream/</p></details> |
+| **[Structure From Tracking: Distilling Structure-Preserving Motion for Video Generation](https://arxiv.org/abs/2512.11792v1)** | 2025-12-12 | <details><summary>Proje...</summary><p>Project Website: https://sam2videox.github.io/</p></details> |
+| **[Super Suffixes: Bypassing Text Generation Alignment and Guard Models Simultaneously](https://arxiv.org/abs/2512.11783v1)** | 2025-12-12 | 13 pages, 5 Figures |
+| **[ProbeMDE: Uncertainty-Guided Active Proprioception for Monocular Depth Estimation in Surgical Robotics](https://arxiv.org/abs/2512.11773v1)** | 2025-12-12 | 9 pages, 5 figures |
+| **[A Family of LZ78-based Universal Sequential Probability Assignments](https://arxiv.org/abs/2410.06589v2)** | 2025-12-12 | <details><summary>40 pa...</summary><p>40 pages, 5 figures, to appear in IEEE Transactions on Information Theory</p></details> |
+| **[Reducing Domain Gap with Diffusion-Based Domain Adaptation for Cell Counting](https://arxiv.org/abs/2512.11763v1)** | 2025-12-12 | <details><summary>Accep...</summary><p>Accepted at ICMLA 2025</p></details> |
+| **[Advancing physiological time series reconstruction and imputation via mixture of receptive fields and experts fusion](https://arxiv.org/abs/2512.07873v3)** | 2025-12-12 |  |
+| **[SVG-T2I: Scaling Up Text-to-Image Latent Diffusion Model Without Variational Autoencoder](https://arxiv.org/abs/2512.11749v1)** | 2025-12-12 | <details><summary>Code ...</summary><p>Code Repository: https://github.com/KlingTeam/SVG-T2I; Model Weights: https://huggingface.co/KlingTeam/SVG-T2I</p></details> |
+| **[DeepSeek's WEIRD Behavior: The cultural alignment of Large Language Models and the effects of prompt language and cultural prompting](https://arxiv.org/abs/2512.09772v2)** | 2025-12-12 |  |
+| **[Efficient Exploration of Chemical Kinetics](https://arxiv.org/abs/2510.21368v2)** | 2025-12-12 | <details><summary>Docto...</summary><p>Doctoral dissertation, 121 pages, ISBN: 978-9935-9826-5-0. By design, all text and figures within this thesis are original and do not appear in the associated papers</p></details> |
+| **[Data as Voters: Core Set Selection Using Approval-Based Multi-Winner Voting](https://arxiv.org/abs/2304.09995v3)** | 2025-12-12 | <details><summary>46 pa...</summary><p>46 pages, 5 figures and 32 tables</p></details> |
 
 ## Object Counting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Multi-Granular Node Pruning for Circuit Discovery](https://arxiv.org/abs/2512.10903v1)** | 2025-12-11 |  |
-| **[A Differentiable Digital Twin of Distributed Link Scheduling for Contention-Aware Networking](https://arxiv.org/abs/2512.10874v1)** | 2025-12-11 | <details><summary>5 pag...</summary><p>5 pages, 8 figures, presented in Asilomar Conference on Signals, Systems, and Computers 2025</p></details> |
-| **[Better Language Model Inversion by Compactly Representing Next-Token Distributions](https://arxiv.org/abs/2506.17090v3)** | 2025-12-11 |  |
-| **[T-SHRED: Symbolic Regression for Regularization and Model Discovery with Transformer Shallow Recurrent Decoders](https://arxiv.org/abs/2506.15881v3)** | 2025-12-11 | <details><summary>17 pa...</summary><p>17 pages, 5 figures, submitted to Transactions of the Royal Society (Symbolic Regression in the Physical Sciences)</p></details> |
+| **[Super Suffixes: Bypassing Text Generation Alignment and Guard Models Simultaneously](https://arxiv.org/abs/2512.11783v1)** | 2025-12-12 | 13 pages, 5 Figures |
+| **[ProbeMDE: Uncertainty-Guided Active Proprioception for Monocular Depth Estimation in Surgical Robotics](https://arxiv.org/abs/2512.11773v1)** | 2025-12-12 | 9 pages, 5 figures |
+| **[A Family of LZ78-based Universal Sequential Probability Assignments](https://arxiv.org/abs/2410.06589v2)** | 2025-12-12 | <details><summary>40 pa...</summary><p>40 pages, 5 figures, to appear in IEEE Transactions on Information Theory</p></details> |
+| **[DeepSeek's WEIRD Behavior: The cultural alignment of Large Language Models and the effects of prompt language and cultural prompting](https://arxiv.org/abs/2512.09772v2)** | 2025-12-12 |  |
+| **[Efficient Exploration of Chemical Kinetics](https://arxiv.org/abs/2510.21368v2)** | 2025-12-12 | <details><summary>Docto...</summary><p>Doctoral dissertation, 121 pages, ISBN: 978-9935-9826-5-0. By design, all text and figures within this thesis are original and do not appear in the associated papers</p></details> |
+| **[Data as Voters: Core Set Selection Using Approval-Based Multi-Winner Voting](https://arxiv.org/abs/2304.09995v3)** | 2025-12-12 | <details><summary>46 pa...</summary><p>46 pages, 5 figures and 32 tables</p></details> |
+| **[Stable spectral neural operator for learning stiff PDE systems from limited data](https://arxiv.org/abs/2512.11686v1)** | 2025-12-12 |  |
+| **[Cross-modal Context-aware Learning for Visual Prompt Guided Multimodal Image Understanding in Remote Sensing](https://arxiv.org/abs/2512.11680v1)** | 2025-12-12 | 12 pages, 5 figures |
+| **[Toward Scalable VR-Cloud Gaming: An Attention-aware Adaptive Resource Allocation Framework for 6G Networks](https://arxiv.org/abs/2512.11667v1)** | 2025-12-12 |  |
 
 ## Image Caption
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Multi-Granular Node Pruning for Circuit Discovery](https://arxiv.org/abs/2512.10903v1)** | 2025-12-11 |  |
-| **[A Differentiable Digital Twin of Distributed Link Scheduling for Contention-Aware Networking](https://arxiv.org/abs/2512.10874v1)** | 2025-12-11 | <details><summary>5 pag...</summary><p>5 pages, 8 figures, presented in Asilomar Conference on Signals, Systems, and Computers 2025</p></details> |
-| **[Better Language Model Inversion by Compactly Representing Next-Token Distributions](https://arxiv.org/abs/2506.17090v3)** | 2025-12-11 |  |
-| **[T-SHRED: Symbolic Regression for Regularization and Model Discovery with Transformer Shallow Recurrent Decoders](https://arxiv.org/abs/2506.15881v3)** | 2025-12-11 | <details><summary>17 pa...</summary><p>17 pages, 5 figures, submitted to Transactions of the Royal Society (Symbolic Regression in the Physical Sciences)</p></details> |
+| **[Super Suffixes: Bypassing Text Generation Alignment and Guard Models Simultaneously](https://arxiv.org/abs/2512.11783v1)** | 2025-12-12 | 13 pages, 5 Figures |
+| **[ProbeMDE: Uncertainty-Guided Active Proprioception for Monocular Depth Estimation in Surgical Robotics](https://arxiv.org/abs/2512.11773v1)** | 2025-12-12 | 9 pages, 5 figures |
+| **[A Family of LZ78-based Universal Sequential Probability Assignments](https://arxiv.org/abs/2410.06589v2)** | 2025-12-12 | <details><summary>40 pa...</summary><p>40 pages, 5 figures, to appear in IEEE Transactions on Information Theory</p></details> |
+| **[DeepSeek's WEIRD Behavior: The cultural alignment of Large Language Models and the effects of prompt language and cultural prompting](https://arxiv.org/abs/2512.09772v2)** | 2025-12-12 |  |
+| **[Efficient Exploration of Chemical Kinetics](https://arxiv.org/abs/2510.21368v2)** | 2025-12-12 | <details><summary>Docto...</summary><p>Doctoral dissertation, 121 pages, ISBN: 978-9935-9826-5-0. By design, all text and figures within this thesis are original and do not appear in the associated papers</p></details> |
+| **[Data as Voters: Core Set Selection Using Approval-Based Multi-Winner Voting](https://arxiv.org/abs/2304.09995v3)** | 2025-12-12 | <details><summary>46 pa...</summary><p>46 pages, 5 figures and 32 tables</p></details> |
+| **[Stable spectral neural operator for learning stiff PDE systems from limited data](https://arxiv.org/abs/2512.11686v1)** | 2025-12-12 |  |
+| **[Cross-modal Context-aware Learning for Visual Prompt Guided Multimodal Image Understanding in Remote Sensing](https://arxiv.org/abs/2512.11680v1)** | 2025-12-12 | 12 pages, 5 figures |
+| **[Toward Scalable VR-Cloud Gaming: An Attention-aware Adaptive Resource Allocation Framework for 6G Networks](https://arxiv.org/abs/2512.11667v1)** | 2025-12-12 |  |
 
 ## Describe
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Multi-Granular Node Pruning for Circuit Discovery](https://arxiv.org/abs/2512.10903v1)** | 2025-12-11 |  |
-| **[A Differentiable Digital Twin of Distributed Link Scheduling for Contention-Aware Networking](https://arxiv.org/abs/2512.10874v1)** | 2025-12-11 | <details><summary>5 pag...</summary><p>5 pages, 8 figures, presented in Asilomar Conference on Signals, Systems, and Computers 2025</p></details> |
-| **[Better Language Model Inversion by Compactly Representing Next-Token Distributions](https://arxiv.org/abs/2506.17090v3)** | 2025-12-11 |  |
-| **[T-SHRED: Symbolic Regression for Regularization and Model Discovery with Transformer Shallow Recurrent Decoders](https://arxiv.org/abs/2506.15881v3)** | 2025-12-11 | <details><summary>17 pa...</summary><p>17 pages, 5 figures, submitted to Transactions of the Royal Society (Symbolic Regression in the Physical Sciences)</p></details> |
-| **[dtreg: Describing Data Analysis in Machine-Readable Format in Python and R](https://arxiv.org/abs/2512.10836v1)** | 2025-12-11 |  |
-| **[Luxical: High-Speed Lexical-Dense Text Embeddings](https://arxiv.org/abs/2512.09015v2)** | 2025-12-11 | <details><summary>9 pag...</summary><p>9 pages, 6 figures (v2 fixes typos only)</p></details> |
+| **[Super Suffixes: Bypassing Text Generation Alignment and Guard Models Simultaneously](https://arxiv.org/abs/2512.11783v1)** | 2025-12-12 | 13 pages, 5 Figures |
+| **[ProbeMDE: Uncertainty-Guided Active Proprioception for Monocular Depth Estimation in Surgical Robotics](https://arxiv.org/abs/2512.11773v1)** | 2025-12-12 | 9 pages, 5 figures |
+| **[A Family of LZ78-based Universal Sequential Probability Assignments](https://arxiv.org/abs/2410.06589v2)** | 2025-12-12 | <details><summary>40 pa...</summary><p>40 pages, 5 figures, to appear in IEEE Transactions on Information Theory</p></details> |
+| **[DeepSeek's WEIRD Behavior: The cultural alignment of Large Language Models and the effects of prompt language and cultural prompting](https://arxiv.org/abs/2512.09772v2)** | 2025-12-12 |  |
+| **[Efficient Exploration of Chemical Kinetics](https://arxiv.org/abs/2510.21368v2)** | 2025-12-12 | <details><summary>Docto...</summary><p>Doctoral dissertation, 121 pages, ISBN: 978-9935-9826-5-0. By design, all text and figures within this thesis are original and do not appear in the associated papers</p></details> |
+| **[Data as Voters: Core Set Selection Using Approval-Based Multi-Winner Voting](https://arxiv.org/abs/2304.09995v3)** | 2025-12-12 | <details><summary>46 pa...</summary><p>46 pages, 5 figures and 32 tables</p></details> |
 
 ## Light Weight
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Multi-Granular Node Pruning for Circuit Discovery](https://arxiv.org/abs/2512.10903v1)** | 2025-12-11 |  |
-| **[A Differentiable Digital Twin of Distributed Link Scheduling for Contention-Aware Networking](https://arxiv.org/abs/2512.10874v1)** | 2025-12-11 | <details><summary>5 pag...</summary><p>5 pages, 8 figures, presented in Asilomar Conference on Signals, Systems, and Computers 2025</p></details> |
-| **[Better Language Model Inversion by Compactly Representing Next-Token Distributions](https://arxiv.org/abs/2506.17090v3)** | 2025-12-11 |  |
-| **[T-SHRED: Symbolic Regression for Regularization and Model Discovery with Transformer Shallow Recurrent Decoders](https://arxiv.org/abs/2506.15881v3)** | 2025-12-11 | <details><summary>17 pa...</summary><p>17 pages, 5 figures, submitted to Transactions of the Royal Society (Symbolic Regression in the Physical Sciences)</p></details> |
+| **[Super Suffixes: Bypassing Text Generation Alignment and Guard Models Simultaneously](https://arxiv.org/abs/2512.11783v1)** | 2025-12-12 | 13 pages, 5 Figures |
+| **[ProbeMDE: Uncertainty-Guided Active Proprioception for Monocular Depth Estimation in Surgical Robotics](https://arxiv.org/abs/2512.11773v1)** | 2025-12-12 | 9 pages, 5 figures |
+| **[A Family of LZ78-based Universal Sequential Probability Assignments](https://arxiv.org/abs/2410.06589v2)** | 2025-12-12 | <details><summary>40 pa...</summary><p>40 pages, 5 figures, to appear in IEEE Transactions on Information Theory</p></details> |
+| **[DeepSeek's WEIRD Behavior: The cultural alignment of Large Language Models and the effects of prompt language and cultural prompting](https://arxiv.org/abs/2512.09772v2)** | 2025-12-12 |  |
+| **[Efficient Exploration of Chemical Kinetics](https://arxiv.org/abs/2510.21368v2)** | 2025-12-12 | <details><summary>Docto...</summary><p>Doctoral dissertation, 121 pages, ISBN: 978-9935-9826-5-0. By design, all text and figures within this thesis are original and do not appear in the associated papers</p></details> |
+| **[Data as Voters: Core Set Selection Using Approval-Based Multi-Winner Voting](https://arxiv.org/abs/2304.09995v3)** | 2025-12-12 | <details><summary>46 pa...</summary><p>46 pages, 5 figures and 32 tables</p></details> |
+| **[Stable spectral neural operator for learning stiff PDE systems from limited data](https://arxiv.org/abs/2512.11686v1)** | 2025-12-12 |  |
+| **[Cross-modal Context-aware Learning for Visual Prompt Guided Multimodal Image Understanding in Remote Sensing](https://arxiv.org/abs/2512.11680v1)** | 2025-12-12 | 12 pages, 5 figures |
+| **[Toward Scalable VR-Cloud Gaming: An Attention-aware Adaptive Resource Allocation Framework for 6G Networks](https://arxiv.org/abs/2512.11667v1)** | 2025-12-12 |  |
 
 ## Class Incremental
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Multi-Granular Node Pruning for Circuit Discovery](https://arxiv.org/abs/2512.10903v1)** | 2025-12-11 |  |
-| **[A Differentiable Digital Twin of Distributed Link Scheduling for Contention-Aware Networking](https://arxiv.org/abs/2512.10874v1)** | 2025-12-11 | <details><summary>5 pag...</summary><p>5 pages, 8 figures, presented in Asilomar Conference on Signals, Systems, and Computers 2025</p></details> |
-| **[Better Language Model Inversion by Compactly Representing Next-Token Distributions](https://arxiv.org/abs/2506.17090v3)** | 2025-12-11 |  |
-| **[T-SHRED: Symbolic Regression for Regularization and Model Discovery with Transformer Shallow Recurrent Decoders](https://arxiv.org/abs/2506.15881v3)** | 2025-12-11 | <details><summary>17 pa...</summary><p>17 pages, 5 figures, submitted to Transactions of the Royal Society (Symbolic Regression in the Physical Sciences)</p></details> |
+| **[Super Suffixes: Bypassing Text Generation Alignment and Guard Models Simultaneously](https://arxiv.org/abs/2512.11783v1)** | 2025-12-12 | 13 pages, 5 Figures |
+| **[ProbeMDE: Uncertainty-Guided Active Proprioception for Monocular Depth Estimation in Surgical Robotics](https://arxiv.org/abs/2512.11773v1)** | 2025-12-12 | 9 pages, 5 figures |
+| **[A Family of LZ78-based Universal Sequential Probability Assignments](https://arxiv.org/abs/2410.06589v2)** | 2025-12-12 | <details><summary>40 pa...</summary><p>40 pages, 5 figures, to appear in IEEE Transactions on Information Theory</p></details> |
+| **[DeepSeek's WEIRD Behavior: The cultural alignment of Large Language Models and the effects of prompt language and cultural prompting](https://arxiv.org/abs/2512.09772v2)** | 2025-12-12 |  |
+| **[Efficient Exploration of Chemical Kinetics](https://arxiv.org/abs/2510.21368v2)** | 2025-12-12 | <details><summary>Docto...</summary><p>Doctoral dissertation, 121 pages, ISBN: 978-9935-9826-5-0. By design, all text and figures within this thesis are original and do not appear in the associated papers</p></details> |
+| **[Data as Voters: Core Set Selection Using Approval-Based Multi-Winner Voting](https://arxiv.org/abs/2304.09995v3)** | 2025-12-12 | <details><summary>46 pa...</summary><p>46 pages, 5 figures and 32 tables</p></details> |
+| **[Stable spectral neural operator for learning stiff PDE systems from limited data](https://arxiv.org/abs/2512.11686v1)** | 2025-12-12 |  |
+| **[Cross-modal Context-aware Learning for Visual Prompt Guided Multimodal Image Understanding in Remote Sensing](https://arxiv.org/abs/2512.11680v1)** | 2025-12-12 | 12 pages, 5 figures |
+| **[Toward Scalable VR-Cloud Gaming: An Attention-aware Adaptive Resource Allocation Framework for 6G Networks](https://arxiv.org/abs/2512.11667v1)** | 2025-12-12 |  |
 
