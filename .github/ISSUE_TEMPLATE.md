@@ -1,5 +1,5 @@
 ---
-title: Latest 50 Papers - December 30, 2025
+title: Latest 50 Papers - December 31, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/JiamingZang/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,105 +7,101 @@ labels: documentation
 ## Molecular
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Schwarz Information Criterion Aided Multi-Armed Bandit for Decentralized Resource Allocation in Dynamic LoRa Networks](https://arxiv.org/abs/2512.22089v1)** | 2025-12-26 | 6 pages, 5 figures |
-| **[Random state comonads encode cellular automata evaluation](https://arxiv.org/abs/2512.22067v1)** | 2025-12-26 | 5 pages, 5 figures |
-| **[M2RU: Memristive Minion Recurrent Unit for On-Chip Continual Learning at the Edge](https://arxiv.org/abs/2512.17299v2)** | 2025-12-26 |  |
-| **[Backdoor Attacks on Prompt-Driven Video Segmentation Foundation Models](https://arxiv.org/abs/2512.22046v1)** | 2025-12-26 |  |
-| **[From In Silico to In Vitro: Evaluating Molecule Generative Models for Hit Generation](https://arxiv.org/abs/2512.22031v1)** | 2025-12-26 |  |
-| **[Direction Finding with Sparse Arrays Based on Variable Window Size Spatial Smoothing](https://arxiv.org/abs/2512.22024v1)** | 2025-12-26 | 2 figures, 5 pages |
+| **[Unlocking WebRTC for End User Driven Innovation](https://arxiv.org/abs/2512.23688v1)** | 2025-12-29 | <details><summary>13 pa...</summary><p>13 pages (8 main, 5 appendix), 12 figures, 2 tables</p></details> |
+| **[Generative Lecture: Making Lecture Videos Interactive with LLMs and AI Clone Instructors](https://arxiv.org/abs/2512.21796v2)** | 2025-12-29 | 14 pages, 16 figures |
+| **[A note on the depth of optimal fanout-bounded prefix circuits](https://arxiv.org/abs/2512.23657v1)** | 2025-12-29 | <details><summary>5 pag...</summary><p>5 pages (in English); 5 pages (in Russian)</p></details> |
+| **[The N-5 Scaling Law: Topological Dimensionality Reduction in the Optimal Design of Fully-actuated Multirotors](https://arxiv.org/abs/2512.23619v1)** | 2025-12-29 |  |
+| **[Research Directions in Quantum Computer Cybersecurity](https://arxiv.org/abs/2512.23607v1)** | 2025-12-29 | 5 pages |
+| **[Can AI Recognize Its Own Reflection? Self-Detection Performance of LLMs in Computing Education](https://arxiv.org/abs/2512.23587v1)** | 2025-12-29 | <details><summary>10 pa...</summary><p>10 pages, 5 tables. Accepted for publication at the 59th Hawaii International Conference on System Sciences</p></details> |
 
 ## Molecular Generation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Schwarz Information Criterion Aided Multi-Armed Bandit for Decentralized Resource Allocation in Dynamic LoRa Networks](https://arxiv.org/abs/2512.22089v1)** | 2025-12-26 | 6 pages, 5 figures |
-| **[Random state comonads encode cellular automata evaluation](https://arxiv.org/abs/2512.22067v1)** | 2025-12-26 | 5 pages, 5 figures |
-| **[M2RU: Memristive Minion Recurrent Unit for On-Chip Continual Learning at the Edge](https://arxiv.org/abs/2512.17299v2)** | 2025-12-26 |  |
-| **[Backdoor Attacks on Prompt-Driven Video Segmentation Foundation Models](https://arxiv.org/abs/2512.22046v1)** | 2025-12-26 |  |
-| **[Direction Finding with Sparse Arrays Based on Variable Window Size Spatial Smoothing](https://arxiv.org/abs/2512.22024v1)** | 2025-12-26 | 2 figures, 5 pages |
-| **[Non-Resolution Reasoning (NRR): A Computational Framework for Contextual Identity and Ambiguity Preservation](https://arxiv.org/abs/2512.13478v5)** | 2025-12-26 | <details><summary>v5: M...</summary><p>v5: Major revision to Section 5. Replaced accuracy-based OOD evaluation with entropy-based functional verification (proof-of-concept). Clarified scope as architectural demonstration rather than comparative benchmark</p></details> |
-| **[Research on a hybrid LSTM-CNN-Attention model for text-based web content classification](https://arxiv.org/abs/2512.18475v2)** | 2025-12-26 | <details><summary>10 pa...</summary><p>10 pages, 5 figures, 2 tables. Published by Radio Electronics Computer Science Control 2025</p></details> |
-| **[Super-LIO: A Robust and Efficient LiDAR-Inertial Odometry System with a Compact Mapping Strategy](https://arxiv.org/abs/2509.05723v2)** | 2025-12-26 | 8 pages, 5 figures |
+| **[Unlocking WebRTC for End User Driven Innovation](https://arxiv.org/abs/2512.23688v1)** | 2025-12-29 | <details><summary>13 pa...</summary><p>13 pages (8 main, 5 appendix), 12 figures, 2 tables</p></details> |
+| **[Generative Lecture: Making Lecture Videos Interactive with LLMs and AI Clone Instructors](https://arxiv.org/abs/2512.21796v2)** | 2025-12-29 | 14 pages, 16 figures |
+| **[A note on the depth of optimal fanout-bounded prefix circuits](https://arxiv.org/abs/2512.23657v1)** | 2025-12-29 | <details><summary>5 pag...</summary><p>5 pages (in English); 5 pages (in Russian)</p></details> |
+| **[The N-5 Scaling Law: Topological Dimensionality Reduction in the Optimal Design of Fully-actuated Multirotors](https://arxiv.org/abs/2512.23619v1)** | 2025-12-29 |  |
+| **[Research Directions in Quantum Computer Cybersecurity](https://arxiv.org/abs/2512.23607v1)** | 2025-12-29 | 5 pages |
+| **[Can AI Recognize Its Own Reflection? Self-Detection Performance of LLMs in Computing Education](https://arxiv.org/abs/2512.23587v1)** | 2025-12-29 | <details><summary>10 pa...</summary><p>10 pages, 5 tables. Accepted for publication at the 59th Hawaii International Conference on System Sciences</p></details> |
+| **[Scaling Laws for Energy Efficiency of Local LLMs](https://arxiv.org/abs/2512.16531v4)** | 2025-12-29 |  |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Schwarz Information Criterion Aided Multi-Armed Bandit for Decentralized Resource Allocation in Dynamic LoRa Networks](https://arxiv.org/abs/2512.22089v1)** | 2025-12-26 | 6 pages, 5 figures |
-| **[Random state comonads encode cellular automata evaluation](https://arxiv.org/abs/2512.22067v1)** | 2025-12-26 | 5 pages, 5 figures |
-| **[M2RU: Memristive Minion Recurrent Unit for On-Chip Continual Learning at the Edge](https://arxiv.org/abs/2512.17299v2)** | 2025-12-26 |  |
-| **[Backdoor Attacks on Prompt-Driven Video Segmentation Foundation Models](https://arxiv.org/abs/2512.22046v1)** | 2025-12-26 |  |
-| **[Direction Finding with Sparse Arrays Based on Variable Window Size Spatial Smoothing](https://arxiv.org/abs/2512.22024v1)** | 2025-12-26 | 2 figures, 5 pages |
-| **[Efficient Curvature-aware Graph Network](https://arxiv.org/abs/2511.01443v2)** | 2025-12-26 |  |
-| **[Non-Resolution Reasoning (NRR): A Computational Framework for Contextual Identity and Ambiguity Preservation](https://arxiv.org/abs/2512.13478v5)** | 2025-12-26 | <details><summary>v5: M...</summary><p>v5: Major revision to Section 5. Replaced accuracy-based OOD evaluation with entropy-based functional verification (proof-of-concept). Clarified scope as architectural demonstration rather than comparative benchmark</p></details> |
-| **[HWL-HIN: A Hypergraph-Level Hypergraph Isomorphism Network as Powerful as the Hypergraph Weisfeiler-Lehman Test with Application to Higher-Order Network Robustness](https://arxiv.org/abs/2512.22014v1)** | 2025-12-26 |  |
+| **[Unlocking WebRTC for End User Driven Innovation](https://arxiv.org/abs/2512.23688v1)** | 2025-12-29 | <details><summary>13 pa...</summary><p>13 pages (8 main, 5 appendix), 12 figures, 2 tables</p></details> |
+| **[Generative Lecture: Making Lecture Videos Interactive with LLMs and AI Clone Instructors](https://arxiv.org/abs/2512.21796v2)** | 2025-12-29 | 14 pages, 16 figures |
+| **[A note on the depth of optimal fanout-bounded prefix circuits](https://arxiv.org/abs/2512.23657v1)** | 2025-12-29 | <details><summary>5 pag...</summary><p>5 pages (in English); 5 pages (in Russian)</p></details> |
+| **[Information is localized in growing network models](https://arxiv.org/abs/2512.23622v1)** | 2025-12-29 | <details><summary>7 pag...</summary><p>7 pages, 2 figures, 1 table</p></details> |
+| **[The N-5 Scaling Law: Topological Dimensionality Reduction in the Optimal Design of Fully-actuated Multirotors](https://arxiv.org/abs/2512.23619v1)** | 2025-12-29 |  |
+| **[Research Directions in Quantum Computer Cybersecurity](https://arxiv.org/abs/2512.23607v1)** | 2025-12-29 | 5 pages |
+| **[Can AI Recognize Its Own Reflection? Self-Detection Performance of LLMs in Computing Education](https://arxiv.org/abs/2512.23587v1)** | 2025-12-29 | <details><summary>10 pa...</summary><p>10 pages, 5 tables. Accepted for publication at the 59th Hawaii International Conference on System Sciences</p></details> |
+| **[Scaling Laws for Energy Efficiency of Local LLMs](https://arxiv.org/abs/2512.16531v4)** | 2025-12-29 |  |
 
 ## Diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Exact inference via quasi-conjugacy in two-parameter Poisson-Dirichlet hidden Markov models](https://arxiv.org/abs/2512.22098v1)** | 2025-12-26 |  |
-| **[Yume-1.5: A Text-Controlled Interactive World Generation Model](https://arxiv.org/abs/2512.22096v1)** | 2025-12-26 |  |
-| **[Accelerating Diffusion Planners in Offline RL via Reward-Aware Consistency Trajectory Distillation](https://arxiv.org/abs/2506.07822v2)** | 2025-12-26 |  |
-| **[Schwarz Information Criterion Aided Multi-Armed Bandit for Decentralized Resource Allocation in Dynamic LoRa Networks](https://arxiv.org/abs/2512.22089v1)** | 2025-12-26 | 6 pages, 5 figures |
-| **[Random state comonads encode cellular automata evaluation](https://arxiv.org/abs/2512.22067v1)** | 2025-12-26 | 5 pages, 5 figures |
-| **[StreamAvatar: Streaming Diffusion Models for Real-Time Interactive Human Avatars](https://arxiv.org/abs/2512.22065v1)** | 2025-12-26 | <details><summary>Proje...</summary><p>Project page: https://streamavatar.github.io</p></details> |
-| **[Real-Time Streamable Generative Speech Restoration with Flow Matching](https://arxiv.org/abs/2512.19442v2)** | 2025-12-26 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
-| **[M2RU: Memristive Minion Recurrent Unit for On-Chip Continual Learning at the Edge](https://arxiv.org/abs/2512.17299v2)** | 2025-12-26 |  |
-| **[Backdoor Attacks on Prompt-Driven Video Segmentation Foundation Models](https://arxiv.org/abs/2512.22046v1)** | 2025-12-26 |  |
+| **[Stream-DiffVSR: Low-Latency Streamable Video Super-Resolution via Auto-Regressive Diffusion](https://arxiv.org/abs/2512.23709v1)** | 2025-12-29 | <details><summary>Proje...</summary><p>Project page: https://jamichss.github.io/stream-diffvsr-project-page/</p></details> |
+| **[Diffusion Knows Transparency: Repurposing Video Diffusion for Transparent Object Depth and Normal Estimation](https://arxiv.org/abs/2512.23705v1)** | 2025-12-29 | <details><summary>Proje...</summary><p>Project Page: https://daniellli.github.io/projects/DKT/; Code: https://github.com/Daniellli/DKT; Dataset: https://huggingface.co/datasets/Daniellesry/TransPhy3D</p></details> |
+| **[Improving Reasoning for Diffusion Language Models via Group Diffusion Policy Optimization](https://arxiv.org/abs/2510.08554v2)** | 2025-12-29 |  |
+| **[OpenPBR: Novel Features and Implementation Details](https://arxiv.org/abs/2512.23696v1)** | 2025-12-29 | <details><summary>Part ...</summary><p>Part of Physically Based Shading in Theory and Practice, SIGGRAPH 2025 Course</p></details> |
+| **[Unlocking WebRTC for End User Driven Innovation](https://arxiv.org/abs/2512.23688v1)** | 2025-12-29 | <details><summary>13 pa...</summary><p>13 pages (8 main, 5 appendix), 12 figures, 2 tables</p></details> |
+| **[IDT: A Physically Grounded Transformer for Feed-Forward Multi-View Intrinsic Decomposition](https://arxiv.org/abs/2512.23667v1)** | 2025-12-29 | 10 pages 4 figures |
+| **[Generative Lecture: Making Lecture Videos Interactive with LLMs and AI Clone Instructors](https://arxiv.org/abs/2512.21796v2)** | 2025-12-29 | 14 pages, 16 figures |
+| **[A note on the depth of optimal fanout-bounded prefix circuits](https://arxiv.org/abs/2512.23657v1)** | 2025-12-29 | <details><summary>5 pag...</summary><p>5 pages (in English); 5 pages (in Russian)</p></details> |
+| **[Do You Have Freestyle? Expressive Humanoid Locomotion via Audio Control](https://arxiv.org/abs/2512.23650v1)** | 2025-12-29 |  |
+| **[RoboMirror: Understand Before You Imitate for Video to Humanoid Locomotion](https://arxiv.org/abs/2512.23649v1)** | 2025-12-29 |  |
 
 ## Object Counting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Schwarz Information Criterion Aided Multi-Armed Bandit for Decentralized Resource Allocation in Dynamic LoRa Networks](https://arxiv.org/abs/2512.22089v1)** | 2025-12-26 | 6 pages, 5 figures |
-| **[Random state comonads encode cellular automata evaluation](https://arxiv.org/abs/2512.22067v1)** | 2025-12-26 | 5 pages, 5 figures |
-| **[M2RU: Memristive Minion Recurrent Unit for On-Chip Continual Learning at the Edge](https://arxiv.org/abs/2512.17299v2)** | 2025-12-26 |  |
-| **[Backdoor Attacks on Prompt-Driven Video Segmentation Foundation Models](https://arxiv.org/abs/2512.22046v1)** | 2025-12-26 |  |
-| **[Direction Finding with Sparse Arrays Based on Variable Window Size Spatial Smoothing](https://arxiv.org/abs/2512.22024v1)** | 2025-12-26 | 2 figures, 5 pages |
-| **[Non-Resolution Reasoning (NRR): A Computational Framework for Contextual Identity and Ambiguity Preservation](https://arxiv.org/abs/2512.13478v5)** | 2025-12-26 | <details><summary>v5: M...</summary><p>v5: Major revision to Section 5. Replaced accuracy-based OOD evaluation with entropy-based functional verification (proof-of-concept). Clarified scope as architectural demonstration rather than comparative benchmark</p></details> |
-| **[Research on a hybrid LSTM-CNN-Attention model for text-based web content classification](https://arxiv.org/abs/2512.18475v2)** | 2025-12-26 | <details><summary>10 pa...</summary><p>10 pages, 5 figures, 2 tables. Published by Radio Electronics Computer Science Control 2025</p></details> |
-| **[Super-LIO: A Robust and Efficient LiDAR-Inertial Odometry System with a Compact Mapping Strategy](https://arxiv.org/abs/2509.05723v2)** | 2025-12-26 | 8 pages, 5 figures |
+| **[Unlocking WebRTC for End User Driven Innovation](https://arxiv.org/abs/2512.23688v1)** | 2025-12-29 | <details><summary>13 pa...</summary><p>13 pages (8 main, 5 appendix), 12 figures, 2 tables</p></details> |
+| **[Generative Lecture: Making Lecture Videos Interactive with LLMs and AI Clone Instructors](https://arxiv.org/abs/2512.21796v2)** | 2025-12-29 | 14 pages, 16 figures |
+| **[A note on the depth of optimal fanout-bounded prefix circuits](https://arxiv.org/abs/2512.23657v1)** | 2025-12-29 | <details><summary>5 pag...</summary><p>5 pages (in English); 5 pages (in Russian)</p></details> |
+| **[The N-5 Scaling Law: Topological Dimensionality Reduction in the Optimal Design of Fully-actuated Multirotors](https://arxiv.org/abs/2512.23619v1)** | 2025-12-29 |  |
+| **[Research Directions in Quantum Computer Cybersecurity](https://arxiv.org/abs/2512.23607v1)** | 2025-12-29 | 5 pages |
+| **[Can AI Recognize Its Own Reflection? Self-Detection Performance of LLMs in Computing Education](https://arxiv.org/abs/2512.23587v1)** | 2025-12-29 | <details><summary>10 pa...</summary><p>10 pages, 5 tables. Accepted for publication at the 59th Hawaii International Conference on System Sciences</p></details> |
+| **[Scaling Laws for Energy Efficiency of Local LLMs](https://arxiv.org/abs/2512.16531v4)** | 2025-12-29 |  |
 
 ## Image Caption
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Schwarz Information Criterion Aided Multi-Armed Bandit for Decentralized Resource Allocation in Dynamic LoRa Networks](https://arxiv.org/abs/2512.22089v1)** | 2025-12-26 | 6 pages, 5 figures |
-| **[Random state comonads encode cellular automata evaluation](https://arxiv.org/abs/2512.22067v1)** | 2025-12-26 | 5 pages, 5 figures |
-| **[M2RU: Memristive Minion Recurrent Unit for On-Chip Continual Learning at the Edge](https://arxiv.org/abs/2512.17299v2)** | 2025-12-26 |  |
-| **[Backdoor Attacks on Prompt-Driven Video Segmentation Foundation Models](https://arxiv.org/abs/2512.22046v1)** | 2025-12-26 |  |
-| **[Direction Finding with Sparse Arrays Based on Variable Window Size Spatial Smoothing](https://arxiv.org/abs/2512.22024v1)** | 2025-12-26 | 2 figures, 5 pages |
-| **[Non-Resolution Reasoning (NRR): A Computational Framework for Contextual Identity and Ambiguity Preservation](https://arxiv.org/abs/2512.13478v5)** | 2025-12-26 | <details><summary>v5: M...</summary><p>v5: Major revision to Section 5. Replaced accuracy-based OOD evaluation with entropy-based functional verification (proof-of-concept). Clarified scope as architectural demonstration rather than comparative benchmark</p></details> |
-| **[Research on a hybrid LSTM-CNN-Attention model for text-based web content classification](https://arxiv.org/abs/2512.18475v2)** | 2025-12-26 | <details><summary>10 pa...</summary><p>10 pages, 5 figures, 2 tables. Published by Radio Electronics Computer Science Control 2025</p></details> |
-| **[Super-LIO: A Robust and Efficient LiDAR-Inertial Odometry System with a Compact Mapping Strategy](https://arxiv.org/abs/2509.05723v2)** | 2025-12-26 | 8 pages, 5 figures |
+| **[Unlocking WebRTC for End User Driven Innovation](https://arxiv.org/abs/2512.23688v1)** | 2025-12-29 | <details><summary>13 pa...</summary><p>13 pages (8 main, 5 appendix), 12 figures, 2 tables</p></details> |
+| **[Generative Lecture: Making Lecture Videos Interactive with LLMs and AI Clone Instructors](https://arxiv.org/abs/2512.21796v2)** | 2025-12-29 | 14 pages, 16 figures |
+| **[A note on the depth of optimal fanout-bounded prefix circuits](https://arxiv.org/abs/2512.23657v1)** | 2025-12-29 | <details><summary>5 pag...</summary><p>5 pages (in English); 5 pages (in Russian)</p></details> |
+| **[The N-5 Scaling Law: Topological Dimensionality Reduction in the Optimal Design of Fully-actuated Multirotors](https://arxiv.org/abs/2512.23619v1)** | 2025-12-29 |  |
+| **[Research Directions in Quantum Computer Cybersecurity](https://arxiv.org/abs/2512.23607v1)** | 2025-12-29 | 5 pages |
+| **[Can AI Recognize Its Own Reflection? Self-Detection Performance of LLMs in Computing Education](https://arxiv.org/abs/2512.23587v1)** | 2025-12-29 | <details><summary>10 pa...</summary><p>10 pages, 5 tables. Accepted for publication at the 59th Hawaii International Conference on System Sciences</p></details> |
+| **[Scaling Laws for Energy Efficiency of Local LLMs](https://arxiv.org/abs/2512.16531v4)** | 2025-12-29 |  |
 
 ## Describe
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Abstraction of Trusted Execution Environments as the Missing Layer for Broad Confidential Computing Adoption: A Systematization of Knowledge](https://arxiv.org/abs/2512.22090v1)** | 2025-12-26 |  |
-| **[Schwarz Information Criterion Aided Multi-Armed Bandit for Decentralized Resource Allocation in Dynamic LoRa Networks](https://arxiv.org/abs/2512.22089v1)** | 2025-12-26 | 6 pages, 5 figures |
-| **[fMRI-LM: Towards a Universal Foundation Model for Language-Aligned fMRI Understanding](https://arxiv.org/abs/2511.21760v2)** | 2025-12-26 | <details><summary>Code ...</summary><p>Code are available: https://github.com/yuxiangwei0808/fMRI-LM</p></details> |
-| **[Random state comonads encode cellular automata evaluation](https://arxiv.org/abs/2512.22067v1)** | 2025-12-26 | 5 pages, 5 figures |
-| **[M2RU: Memristive Minion Recurrent Unit for On-Chip Continual Learning at the Edge](https://arxiv.org/abs/2512.17299v2)** | 2025-12-26 |  |
-| **[Backdoor Attacks on Prompt-Driven Video Segmentation Foundation Models](https://arxiv.org/abs/2512.22046v1)** | 2025-12-26 |  |
+| **[OpenPBR: Novel Features and Implementation Details](https://arxiv.org/abs/2512.23696v1)** | 2025-12-29 | <details><summary>Part ...</summary><p>Part of Physically Based Shading in Theory and Practice, SIGGRAPH 2025 Course</p></details> |
+| **[Unlocking WebRTC for End User Driven Innovation](https://arxiv.org/abs/2512.23688v1)** | 2025-12-29 | <details><summary>13 pa...</summary><p>13 pages (8 main, 5 appendix), 12 figures, 2 tables</p></details> |
+| **[Investigation of the Impact of Synthetic Training Data in the Industrial Application of Terminal Strip Object Detection](https://arxiv.org/abs/2403.04809v2)** | 2025-12-29 |  |
+| **[Generative Lecture: Making Lecture Videos Interactive with LLMs and AI Clone Instructors](https://arxiv.org/abs/2512.21796v2)** | 2025-12-29 | 14 pages, 16 figures |
+| **[A note on the depth of optimal fanout-bounded prefix circuits](https://arxiv.org/abs/2512.23657v1)** | 2025-12-29 | <details><summary>5 pag...</summary><p>5 pages (in English); 5 pages (in Russian)</p></details> |
+| **[Application-Driven Innovation in Machine Learning](https://arxiv.org/abs/2403.17381v2)** | 2025-12-29 | 12 pages, 3 figures |
 
 ## Light Weight
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Schwarz Information Criterion Aided Multi-Armed Bandit for Decentralized Resource Allocation in Dynamic LoRa Networks](https://arxiv.org/abs/2512.22089v1)** | 2025-12-26 | 6 pages, 5 figures |
-| **[Random state comonads encode cellular automata evaluation](https://arxiv.org/abs/2512.22067v1)** | 2025-12-26 | 5 pages, 5 figures |
-| **[M2RU: Memristive Minion Recurrent Unit for On-Chip Continual Learning at the Edge](https://arxiv.org/abs/2512.17299v2)** | 2025-12-26 |  |
-| **[Backdoor Attacks on Prompt-Driven Video Segmentation Foundation Models](https://arxiv.org/abs/2512.22046v1)** | 2025-12-26 |  |
-| **[Direction Finding with Sparse Arrays Based on Variable Window Size Spatial Smoothing](https://arxiv.org/abs/2512.22024v1)** | 2025-12-26 | 2 figures, 5 pages |
-| **[Non-Resolution Reasoning (NRR): A Computational Framework for Contextual Identity and Ambiguity Preservation](https://arxiv.org/abs/2512.13478v5)** | 2025-12-26 | <details><summary>v5: M...</summary><p>v5: Major revision to Section 5. Replaced accuracy-based OOD evaluation with entropy-based functional verification (proof-of-concept). Clarified scope as architectural demonstration rather than comparative benchmark</p></details> |
-| **[Research on a hybrid LSTM-CNN-Attention model for text-based web content classification](https://arxiv.org/abs/2512.18475v2)** | 2025-12-26 | <details><summary>10 pa...</summary><p>10 pages, 5 figures, 2 tables. Published by Radio Electronics Computer Science Control 2025</p></details> |
-| **[Super-LIO: A Robust and Efficient LiDAR-Inertial Odometry System with a Compact Mapping Strategy](https://arxiv.org/abs/2509.05723v2)** | 2025-12-26 | 8 pages, 5 figures |
+| **[Unlocking WebRTC for End User Driven Innovation](https://arxiv.org/abs/2512.23688v1)** | 2025-12-29 | <details><summary>13 pa...</summary><p>13 pages (8 main, 5 appendix), 12 figures, 2 tables</p></details> |
+| **[Generative Lecture: Making Lecture Videos Interactive with LLMs and AI Clone Instructors](https://arxiv.org/abs/2512.21796v2)** | 2025-12-29 | 14 pages, 16 figures |
+| **[A note on the depth of optimal fanout-bounded prefix circuits](https://arxiv.org/abs/2512.23657v1)** | 2025-12-29 | <details><summary>5 pag...</summary><p>5 pages (in English); 5 pages (in Russian)</p></details> |
+| **[The N-5 Scaling Law: Topological Dimensionality Reduction in the Optimal Design of Fully-actuated Multirotors](https://arxiv.org/abs/2512.23619v1)** | 2025-12-29 |  |
+| **[Research Directions in Quantum Computer Cybersecurity](https://arxiv.org/abs/2512.23607v1)** | 2025-12-29 | 5 pages |
+| **[Can AI Recognize Its Own Reflection? Self-Detection Performance of LLMs in Computing Education](https://arxiv.org/abs/2512.23587v1)** | 2025-12-29 | <details><summary>10 pa...</summary><p>10 pages, 5 tables. Accepted for publication at the 59th Hawaii International Conference on System Sciences</p></details> |
+| **[Scaling Laws for Energy Efficiency of Local LLMs](https://arxiv.org/abs/2512.16531v4)** | 2025-12-29 |  |
 
 ## Class Incremental
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Schwarz Information Criterion Aided Multi-Armed Bandit for Decentralized Resource Allocation in Dynamic LoRa Networks](https://arxiv.org/abs/2512.22089v1)** | 2025-12-26 | 6 pages, 5 figures |
-| **[Random state comonads encode cellular automata evaluation](https://arxiv.org/abs/2512.22067v1)** | 2025-12-26 | 5 pages, 5 figures |
-| **[M2RU: Memristive Minion Recurrent Unit for On-Chip Continual Learning at the Edge](https://arxiv.org/abs/2512.17299v2)** | 2025-12-26 |  |
-| **[Backdoor Attacks on Prompt-Driven Video Segmentation Foundation Models](https://arxiv.org/abs/2512.22046v1)** | 2025-12-26 |  |
-| **[Direction Finding with Sparse Arrays Based on Variable Window Size Spatial Smoothing](https://arxiv.org/abs/2512.22024v1)** | 2025-12-26 | 2 figures, 5 pages |
-| **[Non-Resolution Reasoning (NRR): A Computational Framework for Contextual Identity and Ambiguity Preservation](https://arxiv.org/abs/2512.13478v5)** | 2025-12-26 | <details><summary>v5: M...</summary><p>v5: Major revision to Section 5. Replaced accuracy-based OOD evaluation with entropy-based functional verification (proof-of-concept). Clarified scope as architectural demonstration rather than comparative benchmark</p></details> |
-| **[Research on a hybrid LSTM-CNN-Attention model for text-based web content classification](https://arxiv.org/abs/2512.18475v2)** | 2025-12-26 | <details><summary>10 pa...</summary><p>10 pages, 5 figures, 2 tables. Published by Radio Electronics Computer Science Control 2025</p></details> |
-| **[Super-LIO: A Robust and Efficient LiDAR-Inertial Odometry System with a Compact Mapping Strategy](https://arxiv.org/abs/2509.05723v2)** | 2025-12-26 | 8 pages, 5 figures |
+| **[Unlocking WebRTC for End User Driven Innovation](https://arxiv.org/abs/2512.23688v1)** | 2025-12-29 | <details><summary>13 pa...</summary><p>13 pages (8 main, 5 appendix), 12 figures, 2 tables</p></details> |
+| **[Generative Lecture: Making Lecture Videos Interactive with LLMs and AI Clone Instructors](https://arxiv.org/abs/2512.21796v2)** | 2025-12-29 | 14 pages, 16 figures |
+| **[A note on the depth of optimal fanout-bounded prefix circuits](https://arxiv.org/abs/2512.23657v1)** | 2025-12-29 | <details><summary>5 pag...</summary><p>5 pages (in English); 5 pages (in Russian)</p></details> |
+| **[The N-5 Scaling Law: Topological Dimensionality Reduction in the Optimal Design of Fully-actuated Multirotors](https://arxiv.org/abs/2512.23619v1)** | 2025-12-29 |  |
+| **[Research Directions in Quantum Computer Cybersecurity](https://arxiv.org/abs/2512.23607v1)** | 2025-12-29 | 5 pages |
+| **[Can AI Recognize Its Own Reflection? Self-Detection Performance of LLMs in Computing Education](https://arxiv.org/abs/2512.23587v1)** | 2025-12-29 | <details><summary>10 pa...</summary><p>10 pages, 5 tables. Accepted for publication at the 59th Hawaii International Conference on System Sciences</p></details> |
+| **[Scaling Laws for Energy Efficiency of Local LLMs](https://arxiv.org/abs/2512.16531v4)** | 2025-12-29 |  |
 
