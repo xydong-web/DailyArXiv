@@ -1,5 +1,5 @@
 ---
-title: Latest 50 Papers - January 06, 2026
+title: Latest 50 Papers - January 07, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/JiamingZang/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,103 +7,106 @@ labels: documentation
 ## Molecular
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Distributed Sparse Linear Regression under Communication Constraints](https://arxiv.org/abs/2301.04022v2)** | 2026-01-02 | 50 pages, 5 figures |
-| **[Two Deep Learning Approaches for Automated Segmentation of Left Ventricle in Cine Cardiac MRI](https://arxiv.org/abs/2601.00794v1)** | 2026-01-02 | <details><summary>7 pag...</summary><p>7 pages, 5 figures, published in ICBBB 2022</p></details> |
-| **[Brain network science modelling of sparse neural networks enables Transformers and LLMs to perform as fully connected](https://arxiv.org/abs/2501.19107v3)** | 2026-01-02 |  |
-| **[Early-Stage Prediction of Review Effort in AI-Generated Pull Requests](https://arxiv.org/abs/2601.00753v1)** | 2026-01-02 | <details><summary>Prepr...</summary><p>Preprint. Under anonymous peer review. 5 pages, 5 figures</p></details> |
-| **[Grading Handwritten Engineering Exams with Multimodal Large Language Models](https://arxiv.org/abs/2601.00730v1)** | 2026-01-02 | <details><summary>10 pa...</summary><p>10 pages, 5 figures, 2 tables. Supplementary material available at https://lmi.fe.uni-lj.si/en/janez-pers-2/supplementary-material/</p></details> |
-| **[Considerate Ramp Secret Sharing](https://arxiv.org/abs/2412.17987v4)** | 2026-01-02 |  |
-| **[Efficient Deep Demosaicing with Spatially Downsampled Isotropic Networks](https://arxiv.org/abs/2601.00703v1)** | 2026-01-02 | <details><summary>9 pag...</summary><p>9 pages, 5 figures. To be published at WVAQ Workshop at WACV</p></details> |
+| **[Question Answering for Multi-Release Systems: A Case Study at Ciena](https://arxiv.org/abs/2601.02345v1)** | 2026-01-05 | <details><summary>Accep...</summary><p>Accepted for publication in SANER 2026</p></details> |
+| **[Fusion2Print: Deep Flash-Non-Flash Fusion for Contactless Fingerprint Matching](https://arxiv.org/abs/2601.02318v1)** | 2026-01-05 | <details><summary>15 pa...</summary><p>15 pages, 8 figures, 5 tables. Submitted to ICPR 2026</p></details> |
+| **[Tales of the 2025 Los Angeles Fire: Hotwash for Public Health Concerns in Reddit via LLM-Enhanced Topic Modeling](https://arxiv.org/abs/2505.09665v3)** | 2026-01-05 | <details><summary>Fix t...</summary><p>Fix typos in Method Section. Add data/code availability</p></details> |
+| **[Temporal Kolmogorov-Arnold Networks (T-KAN) for High-Frequency Limit Order Book Forecasting: Efficiency, Interpretability, and Alpha Decay](https://arxiv.org/abs/2601.02310v1)** | 2026-01-05 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, Proposes T-KAN architecture for HFT. Achieves 19.1% F1-score improvement on FI-2010 and 132.48% return in cost-adjusted backtests.Proposes T-KAN architecture for HFT. Achieves 19.1% F1-score improvement on FI-2010 and 132.48% return in cost-adjusted backtests</p></details> |
+| **[Classifying several dialectal Nawatl varieties](https://arxiv.org/abs/2601.02303v1)** | 2026-01-05 | <details><summary>9 pag...</summary><p>9 pages, 5 figures, 4 tables</p></details> |
+| **[Generative Site-Specific Beamforming for Next-Generation Spatial Intelligence](https://arxiv.org/abs/2601.02301v1)** | 2026-01-05 | 7 pages, 5 figures |
+| **[An Automatic Pipeline for the Integration of Python-Based Tools into the Galaxy Platform: Application to the anvi'o Framework](https://arxiv.org/abs/2601.02283v1)** | 2026-01-05 | 26 pages, 5 figures |
 
 ## Molecular Generation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Distributed Sparse Linear Regression under Communication Constraints](https://arxiv.org/abs/2301.04022v2)** | 2026-01-02 | 50 pages, 5 figures |
-| **[Two Deep Learning Approaches for Automated Segmentation of Left Ventricle in Cine Cardiac MRI](https://arxiv.org/abs/2601.00794v1)** | 2026-01-02 | <details><summary>7 pag...</summary><p>7 pages, 5 figures, published in ICBBB 2022</p></details> |
-| **[Brain network science modelling of sparse neural networks enables Transformers and LLMs to perform as fully connected](https://arxiv.org/abs/2501.19107v3)** | 2026-01-02 |  |
-| **[Early-Stage Prediction of Review Effort in AI-Generated Pull Requests](https://arxiv.org/abs/2601.00753v1)** | 2026-01-02 | <details><summary>Prepr...</summary><p>Preprint. Under anonymous peer review. 5 pages, 5 figures</p></details> |
-| **[Grading Handwritten Engineering Exams with Multimodal Large Language Models](https://arxiv.org/abs/2601.00730v1)** | 2026-01-02 | <details><summary>10 pa...</summary><p>10 pages, 5 figures, 2 tables. Supplementary material available at https://lmi.fe.uni-lj.si/en/janez-pers-2/supplementary-material/</p></details> |
-| **[Considerate Ramp Secret Sharing](https://arxiv.org/abs/2412.17987v4)** | 2026-01-02 |  |
-| **[Efficient Deep Demosaicing with Spatially Downsampled Isotropic Networks](https://arxiv.org/abs/2601.00703v1)** | 2026-01-02 | <details><summary>9 pag...</summary><p>9 pages, 5 figures. To be published at WVAQ Workshop at WACV</p></details> |
+| **[Question Answering for Multi-Release Systems: A Case Study at Ciena](https://arxiv.org/abs/2601.02345v1)** | 2026-01-05 | <details><summary>Accep...</summary><p>Accepted for publication in SANER 2026</p></details> |
+| **[Fusion2Print: Deep Flash-Non-Flash Fusion for Contactless Fingerprint Matching](https://arxiv.org/abs/2601.02318v1)** | 2026-01-05 | <details><summary>15 pa...</summary><p>15 pages, 8 figures, 5 tables. Submitted to ICPR 2026</p></details> |
+| **[Tales of the 2025 Los Angeles Fire: Hotwash for Public Health Concerns in Reddit via LLM-Enhanced Topic Modeling](https://arxiv.org/abs/2505.09665v3)** | 2026-01-05 | <details><summary>Fix t...</summary><p>Fix typos in Method Section. Add data/code availability</p></details> |
+| **[Temporal Kolmogorov-Arnold Networks (T-KAN) for High-Frequency Limit Order Book Forecasting: Efficiency, Interpretability, and Alpha Decay](https://arxiv.org/abs/2601.02310v1)** | 2026-01-05 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, Proposes T-KAN architecture for HFT. Achieves 19.1% F1-score improvement on FI-2010 and 132.48% return in cost-adjusted backtests.Proposes T-KAN architecture for HFT. Achieves 19.1% F1-score improvement on FI-2010 and 132.48% return in cost-adjusted backtests</p></details> |
+| **[Classifying several dialectal Nawatl varieties](https://arxiv.org/abs/2601.02303v1)** | 2026-01-05 | <details><summary>9 pag...</summary><p>9 pages, 5 figures, 4 tables</p></details> |
+| **[Generative Site-Specific Beamforming for Next-Generation Spatial Intelligence](https://arxiv.org/abs/2601.02301v1)** | 2026-01-05 | 7 pages, 5 figures |
+| **[An Automatic Pipeline for the Integration of Python-Based Tools into the Galaxy Platform: Application to the anvi'o Framework](https://arxiv.org/abs/2601.02283v1)** | 2026-01-05 | 26 pages, 5 figures |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Distributed Sparse Linear Regression under Communication Constraints](https://arxiv.org/abs/2301.04022v2)** | 2026-01-02 | 50 pages, 5 figures |
-| **[Two Deep Learning Approaches for Automated Segmentation of Left Ventricle in Cine Cardiac MRI](https://arxiv.org/abs/2601.00794v1)** | 2026-01-02 | <details><summary>7 pag...</summary><p>7 pages, 5 figures, published in ICBBB 2022</p></details> |
-| **[Brain network science modelling of sparse neural networks enables Transformers and LLMs to perform as fully connected](https://arxiv.org/abs/2501.19107v3)** | 2026-01-02 |  |
-| **[Early-Stage Prediction of Review Effort in AI-Generated Pull Requests](https://arxiv.org/abs/2601.00753v1)** | 2026-01-02 | <details><summary>Prepr...</summary><p>Preprint. Under anonymous peer review. 5 pages, 5 figures</p></details> |
-| **[Grading Handwritten Engineering Exams with Multimodal Large Language Models](https://arxiv.org/abs/2601.00730v1)** | 2026-01-02 | <details><summary>10 pa...</summary><p>10 pages, 5 figures, 2 tables. Supplementary material available at https://lmi.fe.uni-lj.si/en/janez-pers-2/supplementary-material/</p></details> |
-| **[Considerate Ramp Secret Sharing](https://arxiv.org/abs/2412.17987v4)** | 2026-01-02 |  |
-| **[Efficient Deep Demosaicing with Spatially Downsampled Isotropic Networks](https://arxiv.org/abs/2601.00703v1)** | 2026-01-02 | <details><summary>9 pag...</summary><p>9 pages, 5 figures. To be published at WVAQ Workshop at WACV</p></details> |
-| **[Frequent subgraph-based persistent homology for graph classification](https://arxiv.org/abs/2512.24917v2)** | 2026-01-02 | <details><summary>v2: A...</summary><p>v2: Author list updated to include previously omitted co-authors</p></details> |
+| **[Question Answering for Multi-Release Systems: A Case Study at Ciena](https://arxiv.org/abs/2601.02345v1)** | 2026-01-05 | <details><summary>Accep...</summary><p>Accepted for publication in SANER 2026</p></details> |
+| **[Fusion2Print: Deep Flash-Non-Flash Fusion for Contactless Fingerprint Matching](https://arxiv.org/abs/2601.02318v1)** | 2026-01-05 | <details><summary>15 pa...</summary><p>15 pages, 8 figures, 5 tables. Submitted to ICPR 2026</p></details> |
+| **[Tales of the 2025 Los Angeles Fire: Hotwash for Public Health Concerns in Reddit via LLM-Enhanced Topic Modeling](https://arxiv.org/abs/2505.09665v3)** | 2026-01-05 | <details><summary>Fix t...</summary><p>Fix typos in Method Section. Add data/code availability</p></details> |
+| **[Temporal Kolmogorov-Arnold Networks (T-KAN) for High-Frequency Limit Order Book Forecasting: Efficiency, Interpretability, and Alpha Decay](https://arxiv.org/abs/2601.02310v1)** | 2026-01-05 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, Proposes T-KAN architecture for HFT. Achieves 19.1% F1-score improvement on FI-2010 and 132.48% return in cost-adjusted backtests.Proposes T-KAN architecture for HFT. Achieves 19.1% F1-score improvement on FI-2010 and 132.48% return in cost-adjusted backtests</p></details> |
+| **[Classifying several dialectal Nawatl varieties](https://arxiv.org/abs/2601.02303v1)** | 2026-01-05 | <details><summary>9 pag...</summary><p>9 pages, 5 figures, 4 tables</p></details> |
+| **[Generative Site-Specific Beamforming for Next-Generation Spatial Intelligence](https://arxiv.org/abs/2601.02301v1)** | 2026-01-05 | 7 pages, 5 figures |
+| **[An Automatic Pipeline for the Integration of Python-Based Tools into the Galaxy Platform: Application to the anvi'o Framework](https://arxiv.org/abs/2601.02283v1)** | 2026-01-05 | 26 pages, 5 figures |
 
 ## Diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Distributed Sparse Linear Regression under Communication Constraints](https://arxiv.org/abs/2301.04022v2)** | 2026-01-02 | 50 pages, 5 figures |
-| **[Two Deep Learning Approaches for Automated Segmentation of Left Ventricle in Cine Cardiac MRI](https://arxiv.org/abs/2601.00794v1)** | 2026-01-02 | <details><summary>7 pag...</summary><p>7 pages, 5 figures, published in ICBBB 2022</p></details> |
-| **[Categorical Reparameterization with Denoising Diffusion models](https://arxiv.org/abs/2601.00781v1)** | 2026-01-02 | working paper |
-| **[Brain network science modelling of sparse neural networks enables Transformers and LLMs to perform as fully connected](https://arxiv.org/abs/2501.19107v3)** | 2026-01-02 |  |
-| **[Clustering by Denoising: Latent plug-and-play diffusion for single-cell data](https://arxiv.org/abs/2510.22835v2)** | 2026-01-02 |  |
-| **[Early-Stage Prediction of Review Effort in AI-Generated Pull Requests](https://arxiv.org/abs/2601.00753v1)** | 2026-01-02 | <details><summary>Prepr...</summary><p>Preprint. Under anonymous peer review. 5 pages, 5 figures</p></details> |
-| **[Grading Handwritten Engineering Exams with Multimodal Large Language Models](https://arxiv.org/abs/2601.00730v1)** | 2026-01-02 | <details><summary>10 pa...</summary><p>10 pages, 5 figures, 2 tables. Supplementary material available at https://lmi.fe.uni-lj.si/en/janez-pers-2/supplementary-material/</p></details> |
-| **[Considerate Ramp Secret Sharing](https://arxiv.org/abs/2412.17987v4)** | 2026-01-02 |  |
-| **[Efficient Deep Demosaicing with Spatially Downsampled Isotropic Networks](https://arxiv.org/abs/2601.00703v1)** | 2026-01-02 | <details><summary>9 pag...</summary><p>9 pages, 5 figures. To be published at WVAQ Workshop at WACV</p></details> |
+| **[ExposeAnyone: Personalized Audio-to-Expression Diffusion Models Are Robust Zero-Shot Face Forgery Detectors](https://arxiv.org/abs/2601.02359v1)** | 2026-01-05 | <details><summary>17 pa...</summary><p>17 pages, 8 figures, 11 tables; project page: https://mapooon.github.io/ExposeAnyonePage/</p></details> |
+| **[VINO: A Unified Visual Generator with Interleaved OmniModal Context](https://arxiv.org/abs/2601.02358v1)** | 2026-01-05 | <details><summary>Proje...</summary><p>Project page: https://sotamak1r.github.io/VINO-web/</p></details> |
+| **[Talk2Move: Reinforcement Learning for Text-Instructed Object-Level Geometric Transformation in Scenes](https://arxiv.org/abs/2601.02356v1)** | 2026-01-05 | <details><summary>Proje...</summary><p>Project page: https://sparkstj.github.io/talk2move</p></details> |
+| **[Question Answering for Multi-Release Systems: A Case Study at Ciena](https://arxiv.org/abs/2601.02345v1)** | 2026-01-05 | <details><summary>Accep...</summary><p>Accepted for publication in SANER 2026</p></details> |
+| **[Fusion2Print: Deep Flash-Non-Flash Fusion for Contactless Fingerprint Matching](https://arxiv.org/abs/2601.02318v1)** | 2026-01-05 | <details><summary>15 pa...</summary><p>15 pages, 8 figures, 5 tables. Submitted to ICPR 2026</p></details> |
+| **[Tales of the 2025 Los Angeles Fire: Hotwash for Public Health Concerns in Reddit via LLM-Enhanced Topic Modeling](https://arxiv.org/abs/2505.09665v3)** | 2026-01-05 | <details><summary>Fix t...</summary><p>Fix typos in Method Section. Add data/code availability</p></details> |
+| **[Temporal Kolmogorov-Arnold Networks (T-KAN) for High-Frequency Limit Order Book Forecasting: Efficiency, Interpretability, and Alpha Decay](https://arxiv.org/abs/2601.02310v1)** | 2026-01-05 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, Proposes T-KAN architecture for HFT. Achieves 19.1% F1-score improvement on FI-2010 and 132.48% return in cost-adjusted backtests.Proposes T-KAN architecture for HFT. Achieves 19.1% F1-score improvement on FI-2010 and 132.48% return in cost-adjusted backtests</p></details> |
+| **[Classifying several dialectal Nawatl varieties](https://arxiv.org/abs/2601.02303v1)** | 2026-01-05 | <details><summary>9 pag...</summary><p>9 pages, 5 figures, 4 tables</p></details> |
+| **[Generative Site-Specific Beamforming for Next-Generation Spatial Intelligence](https://arxiv.org/abs/2601.02301v1)** | 2026-01-05 | 7 pages, 5 figures |
+| **[Vectorized Parallel in Time methods for low-order discretizations with application to Porous Media problems](https://arxiv.org/abs/2504.02117v2)** | 2026-01-05 |  |
+| **[An Automatic Pipeline for the Integration of Python-Based Tools into the Galaxy Platform: Application to the anvi'o Framework](https://arxiv.org/abs/2601.02283v1)** | 2026-01-05 | 26 pages, 5 figures |
 
 ## Object Counting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Distributed Sparse Linear Regression under Communication Constraints](https://arxiv.org/abs/2301.04022v2)** | 2026-01-02 | 50 pages, 5 figures |
-| **[Two Deep Learning Approaches for Automated Segmentation of Left Ventricle in Cine Cardiac MRI](https://arxiv.org/abs/2601.00794v1)** | 2026-01-02 | <details><summary>7 pag...</summary><p>7 pages, 5 figures, published in ICBBB 2022</p></details> |
-| **[Brain network science modelling of sparse neural networks enables Transformers and LLMs to perform as fully connected](https://arxiv.org/abs/2501.19107v3)** | 2026-01-02 |  |
-| **[Early-Stage Prediction of Review Effort in AI-Generated Pull Requests](https://arxiv.org/abs/2601.00753v1)** | 2026-01-02 | <details><summary>Prepr...</summary><p>Preprint. Under anonymous peer review. 5 pages, 5 figures</p></details> |
-| **[Grading Handwritten Engineering Exams with Multimodal Large Language Models](https://arxiv.org/abs/2601.00730v1)** | 2026-01-02 | <details><summary>10 pa...</summary><p>10 pages, 5 figures, 2 tables. Supplementary material available at https://lmi.fe.uni-lj.si/en/janez-pers-2/supplementary-material/</p></details> |
-| **[Considerate Ramp Secret Sharing](https://arxiv.org/abs/2412.17987v4)** | 2026-01-02 |  |
-| **[Efficient Deep Demosaicing with Spatially Downsampled Isotropic Networks](https://arxiv.org/abs/2601.00703v1)** | 2026-01-02 | <details><summary>9 pag...</summary><p>9 pages, 5 figures. To be published at WVAQ Workshop at WACV</p></details> |
+| **[Question Answering for Multi-Release Systems: A Case Study at Ciena](https://arxiv.org/abs/2601.02345v1)** | 2026-01-05 | <details><summary>Accep...</summary><p>Accepted for publication in SANER 2026</p></details> |
+| **[Fusion2Print: Deep Flash-Non-Flash Fusion for Contactless Fingerprint Matching](https://arxiv.org/abs/2601.02318v1)** | 2026-01-05 | <details><summary>15 pa...</summary><p>15 pages, 8 figures, 5 tables. Submitted to ICPR 2026</p></details> |
+| **[Tales of the 2025 Los Angeles Fire: Hotwash for Public Health Concerns in Reddit via LLM-Enhanced Topic Modeling](https://arxiv.org/abs/2505.09665v3)** | 2026-01-05 | <details><summary>Fix t...</summary><p>Fix typos in Method Section. Add data/code availability</p></details> |
+| **[Temporal Kolmogorov-Arnold Networks (T-KAN) for High-Frequency Limit Order Book Forecasting: Efficiency, Interpretability, and Alpha Decay](https://arxiv.org/abs/2601.02310v1)** | 2026-01-05 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, Proposes T-KAN architecture for HFT. Achieves 19.1% F1-score improvement on FI-2010 and 132.48% return in cost-adjusted backtests.Proposes T-KAN architecture for HFT. Achieves 19.1% F1-score improvement on FI-2010 and 132.48% return in cost-adjusted backtests</p></details> |
+| **[Classifying several dialectal Nawatl varieties](https://arxiv.org/abs/2601.02303v1)** | 2026-01-05 | <details><summary>9 pag...</summary><p>9 pages, 5 figures, 4 tables</p></details> |
+| **[Generative Site-Specific Beamforming for Next-Generation Spatial Intelligence](https://arxiv.org/abs/2601.02301v1)** | 2026-01-05 | 7 pages, 5 figures |
+| **[SortWaste: A Densely Annotated Dataset for Object Detection in Industrial Waste Sorting](https://arxiv.org/abs/2601.02299v1)** | 2026-01-05 | 9 pages |
+| **[An Automatic Pipeline for the Integration of Python-Based Tools into the Galaxy Platform: Application to the anvi'o Framework](https://arxiv.org/abs/2601.02283v1)** | 2026-01-05 | 26 pages, 5 figures |
 
 ## Image Caption
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Distributed Sparse Linear Regression under Communication Constraints](https://arxiv.org/abs/2301.04022v2)** | 2026-01-02 | 50 pages, 5 figures |
-| **[Two Deep Learning Approaches for Automated Segmentation of Left Ventricle in Cine Cardiac MRI](https://arxiv.org/abs/2601.00794v1)** | 2026-01-02 | <details><summary>7 pag...</summary><p>7 pages, 5 figures, published in ICBBB 2022</p></details> |
-| **[Brain network science modelling of sparse neural networks enables Transformers and LLMs to perform as fully connected](https://arxiv.org/abs/2501.19107v3)** | 2026-01-02 |  |
-| **[Early-Stage Prediction of Review Effort in AI-Generated Pull Requests](https://arxiv.org/abs/2601.00753v1)** | 2026-01-02 | <details><summary>Prepr...</summary><p>Preprint. Under anonymous peer review. 5 pages, 5 figures</p></details> |
-| **[Grading Handwritten Engineering Exams with Multimodal Large Language Models](https://arxiv.org/abs/2601.00730v1)** | 2026-01-02 | <details><summary>10 pa...</summary><p>10 pages, 5 figures, 2 tables. Supplementary material available at https://lmi.fe.uni-lj.si/en/janez-pers-2/supplementary-material/</p></details> |
-| **[Considerate Ramp Secret Sharing](https://arxiv.org/abs/2412.17987v4)** | 2026-01-02 |  |
-| **[Efficient Deep Demosaicing with Spatially Downsampled Isotropic Networks](https://arxiv.org/abs/2601.00703v1)** | 2026-01-02 | <details><summary>9 pag...</summary><p>9 pages, 5 figures. To be published at WVAQ Workshop at WACV</p></details> |
+| **[Question Answering for Multi-Release Systems: A Case Study at Ciena](https://arxiv.org/abs/2601.02345v1)** | 2026-01-05 | <details><summary>Accep...</summary><p>Accepted for publication in SANER 2026</p></details> |
+| **[Fusion2Print: Deep Flash-Non-Flash Fusion for Contactless Fingerprint Matching](https://arxiv.org/abs/2601.02318v1)** | 2026-01-05 | <details><summary>15 pa...</summary><p>15 pages, 8 figures, 5 tables. Submitted to ICPR 2026</p></details> |
+| **[Tales of the 2025 Los Angeles Fire: Hotwash for Public Health Concerns in Reddit via LLM-Enhanced Topic Modeling](https://arxiv.org/abs/2505.09665v3)** | 2026-01-05 | <details><summary>Fix t...</summary><p>Fix typos in Method Section. Add data/code availability</p></details> |
+| **[Temporal Kolmogorov-Arnold Networks (T-KAN) for High-Frequency Limit Order Book Forecasting: Efficiency, Interpretability, and Alpha Decay](https://arxiv.org/abs/2601.02310v1)** | 2026-01-05 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, Proposes T-KAN architecture for HFT. Achieves 19.1% F1-score improvement on FI-2010 and 132.48% return in cost-adjusted backtests.Proposes T-KAN architecture for HFT. Achieves 19.1% F1-score improvement on FI-2010 and 132.48% return in cost-adjusted backtests</p></details> |
+| **[Classifying several dialectal Nawatl varieties](https://arxiv.org/abs/2601.02303v1)** | 2026-01-05 | <details><summary>9 pag...</summary><p>9 pages, 5 figures, 4 tables</p></details> |
+| **[Generative Site-Specific Beamforming for Next-Generation Spatial Intelligence](https://arxiv.org/abs/2601.02301v1)** | 2026-01-05 | 7 pages, 5 figures |
+| **[An Automatic Pipeline for the Integration of Python-Based Tools into the Galaxy Platform: Application to the anvi'o Framework](https://arxiv.org/abs/2601.02283v1)** | 2026-01-05 | 26 pages, 5 figures |
 
 ## Describe
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Distributed Sparse Linear Regression under Communication Constraints](https://arxiv.org/abs/2301.04022v2)** | 2026-01-02 | 50 pages, 5 figures |
-| **[Two Deep Learning Approaches for Automated Segmentation of Left Ventricle in Cine Cardiac MRI](https://arxiv.org/abs/2601.00794v1)** | 2026-01-02 | <details><summary>7 pag...</summary><p>7 pages, 5 figures, published in ICBBB 2022</p></details> |
-| **[Brain network science modelling of sparse neural networks enables Transformers and LLMs to perform as fully connected](https://arxiv.org/abs/2501.19107v3)** | 2026-01-02 |  |
-| **[Early-Stage Prediction of Review Effort in AI-Generated Pull Requests](https://arxiv.org/abs/2601.00753v1)** | 2026-01-02 | <details><summary>Prepr...</summary><p>Preprint. Under anonymous peer review. 5 pages, 5 figures</p></details> |
-| **[The Reasoning-Creativity Trade-off: Toward Creativity-Driven Problem Solving](https://arxiv.org/abs/2601.00747v1)** | 2026-01-02 | <details><summary>56 pa...</summary><p>56 pages, 9 figures, submitted to Twenty-Ninth Annual Conference on Artificial Intelligence and Statistics</p></details> |
-| **[Grading Handwritten Engineering Exams with Multimodal Large Language Models](https://arxiv.org/abs/2601.00730v1)** | 2026-01-02 | <details><summary>10 pa...</summary><p>10 pages, 5 figures, 2 tables. Supplementary material available at https://lmi.fe.uni-lj.si/en/janez-pers-2/supplementary-material/</p></details> |
-| **[Considerate Ramp Secret Sharing](https://arxiv.org/abs/2412.17987v4)** | 2026-01-02 |  |
+| **[PRIMAD-LID: A Developed Framework for Computational Reproducibility](https://arxiv.org/abs/2601.02349v1)** | 2026-01-05 |  |
+| **[Question Answering for Multi-Release Systems: A Case Study at Ciena](https://arxiv.org/abs/2601.02345v1)** | 2026-01-05 | <details><summary>Accep...</summary><p>Accepted for publication in SANER 2026</p></details> |
+| **[Fusion2Print: Deep Flash-Non-Flash Fusion for Contactless Fingerprint Matching](https://arxiv.org/abs/2601.02318v1)** | 2026-01-05 | <details><summary>15 pa...</summary><p>15 pages, 8 figures, 5 tables. Submitted to ICPR 2026</p></details> |
+| **[Tales of the 2025 Los Angeles Fire: Hotwash for Public Health Concerns in Reddit via LLM-Enhanced Topic Modeling](https://arxiv.org/abs/2505.09665v3)** | 2026-01-05 | <details><summary>Fix t...</summary><p>Fix typos in Method Section. Add data/code availability</p></details> |
+| **[Temporal Kolmogorov-Arnold Networks (T-KAN) for High-Frequency Limit Order Book Forecasting: Efficiency, Interpretability, and Alpha Decay](https://arxiv.org/abs/2601.02310v1)** | 2026-01-05 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, Proposes T-KAN architecture for HFT. Achieves 19.1% F1-score improvement on FI-2010 and 132.48% return in cost-adjusted backtests.Proposes T-KAN architecture for HFT. Achieves 19.1% F1-score improvement on FI-2010 and 132.48% return in cost-adjusted backtests</p></details> |
+| **[Classifying several dialectal Nawatl varieties](https://arxiv.org/abs/2601.02303v1)** | 2026-01-05 | <details><summary>9 pag...</summary><p>9 pages, 5 figures, 4 tables</p></details> |
+| **[Generative Site-Specific Beamforming for Next-Generation Spatial Intelligence](https://arxiv.org/abs/2601.02301v1)** | 2026-01-05 | 7 pages, 5 figures |
+| **[An Automatic Pipeline for the Integration of Python-Based Tools into the Galaxy Platform: Application to the anvi'o Framework](https://arxiv.org/abs/2601.02283v1)** | 2026-01-05 | 26 pages, 5 figures |
+| **[Schwarz maps with symmetry](https://arxiv.org/abs/2601.02282v1)** | 2026-01-05 | 38 pages, 2 figures |
 
 ## Light Weight
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Distributed Sparse Linear Regression under Communication Constraints](https://arxiv.org/abs/2301.04022v2)** | 2026-01-02 | 50 pages, 5 figures |
-| **[Two Deep Learning Approaches for Automated Segmentation of Left Ventricle in Cine Cardiac MRI](https://arxiv.org/abs/2601.00794v1)** | 2026-01-02 | <details><summary>7 pag...</summary><p>7 pages, 5 figures, published in ICBBB 2022</p></details> |
-| **[Brain network science modelling of sparse neural networks enables Transformers and LLMs to perform as fully connected](https://arxiv.org/abs/2501.19107v3)** | 2026-01-02 |  |
-| **[Early-Stage Prediction of Review Effort in AI-Generated Pull Requests](https://arxiv.org/abs/2601.00753v1)** | 2026-01-02 | <details><summary>Prepr...</summary><p>Preprint. Under anonymous peer review. 5 pages, 5 figures</p></details> |
-| **[Med-2D SegNet: A Light Weight Deep Neural Network for Medical 2D Image Segmentation](https://arxiv.org/abs/2504.14715v2)** | 2026-01-02 |  |
-| **[Grading Handwritten Engineering Exams with Multimodal Large Language Models](https://arxiv.org/abs/2601.00730v1)** | 2026-01-02 | <details><summary>10 pa...</summary><p>10 pages, 5 figures, 2 tables. Supplementary material available at https://lmi.fe.uni-lj.si/en/janez-pers-2/supplementary-material/</p></details> |
-| **[Considerate Ramp Secret Sharing](https://arxiv.org/abs/2412.17987v4)** | 2026-01-02 |  |
-| **[Efficient Deep Demosaicing with Spatially Downsampled Isotropic Networks](https://arxiv.org/abs/2601.00703v1)** | 2026-01-02 | <details><summary>9 pag...</summary><p>9 pages, 5 figures. To be published at WVAQ Workshop at WACV</p></details> |
+| **[Question Answering for Multi-Release Systems: A Case Study at Ciena](https://arxiv.org/abs/2601.02345v1)** | 2026-01-05 | <details><summary>Accep...</summary><p>Accepted for publication in SANER 2026</p></details> |
+| **[Fusion2Print: Deep Flash-Non-Flash Fusion for Contactless Fingerprint Matching](https://arxiv.org/abs/2601.02318v1)** | 2026-01-05 | <details><summary>15 pa...</summary><p>15 pages, 8 figures, 5 tables. Submitted to ICPR 2026</p></details> |
+| **[Tales of the 2025 Los Angeles Fire: Hotwash for Public Health Concerns in Reddit via LLM-Enhanced Topic Modeling](https://arxiv.org/abs/2505.09665v3)** | 2026-01-05 | <details><summary>Fix t...</summary><p>Fix typos in Method Section. Add data/code availability</p></details> |
+| **[Temporal Kolmogorov-Arnold Networks (T-KAN) for High-Frequency Limit Order Book Forecasting: Efficiency, Interpretability, and Alpha Decay](https://arxiv.org/abs/2601.02310v1)** | 2026-01-05 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, Proposes T-KAN architecture for HFT. Achieves 19.1% F1-score improvement on FI-2010 and 132.48% return in cost-adjusted backtests.Proposes T-KAN architecture for HFT. Achieves 19.1% F1-score improvement on FI-2010 and 132.48% return in cost-adjusted backtests</p></details> |
+| **[Classifying several dialectal Nawatl varieties](https://arxiv.org/abs/2601.02303v1)** | 2026-01-05 | <details><summary>9 pag...</summary><p>9 pages, 5 figures, 4 tables</p></details> |
+| **[Generative Site-Specific Beamforming for Next-Generation Spatial Intelligence](https://arxiv.org/abs/2601.02301v1)** | 2026-01-05 | 7 pages, 5 figures |
+| **[An Automatic Pipeline for the Integration of Python-Based Tools into the Galaxy Platform: Application to the anvi'o Framework](https://arxiv.org/abs/2601.02283v1)** | 2026-01-05 | 26 pages, 5 figures |
 
 ## Class Incremental
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Distributed Sparse Linear Regression under Communication Constraints](https://arxiv.org/abs/2301.04022v2)** | 2026-01-02 | 50 pages, 5 figures |
-| **[Two Deep Learning Approaches for Automated Segmentation of Left Ventricle in Cine Cardiac MRI](https://arxiv.org/abs/2601.00794v1)** | 2026-01-02 | <details><summary>7 pag...</summary><p>7 pages, 5 figures, published in ICBBB 2022</p></details> |
-| **[Brain network science modelling of sparse neural networks enables Transformers and LLMs to perform as fully connected](https://arxiv.org/abs/2501.19107v3)** | 2026-01-02 |  |
-| **[Early-Stage Prediction of Review Effort in AI-Generated Pull Requests](https://arxiv.org/abs/2601.00753v1)** | 2026-01-02 | <details><summary>Prepr...</summary><p>Preprint. Under anonymous peer review. 5 pages, 5 figures</p></details> |
-| **[Grading Handwritten Engineering Exams with Multimodal Large Language Models](https://arxiv.org/abs/2601.00730v1)** | 2026-01-02 | <details><summary>10 pa...</summary><p>10 pages, 5 figures, 2 tables. Supplementary material available at https://lmi.fe.uni-lj.si/en/janez-pers-2/supplementary-material/</p></details> |
-| **[Considerate Ramp Secret Sharing](https://arxiv.org/abs/2412.17987v4)** | 2026-01-02 |  |
-| **[Efficient Deep Demosaicing with Spatially Downsampled Isotropic Networks](https://arxiv.org/abs/2601.00703v1)** | 2026-01-02 | <details><summary>9 pag...</summary><p>9 pages, 5 figures. To be published at WVAQ Workshop at WACV</p></details> |
+| **[Question Answering for Multi-Release Systems: A Case Study at Ciena](https://arxiv.org/abs/2601.02345v1)** | 2026-01-05 | <details><summary>Accep...</summary><p>Accepted for publication in SANER 2026</p></details> |
+| **[Fusion2Print: Deep Flash-Non-Flash Fusion for Contactless Fingerprint Matching](https://arxiv.org/abs/2601.02318v1)** | 2026-01-05 | <details><summary>15 pa...</summary><p>15 pages, 8 figures, 5 tables. Submitted to ICPR 2026</p></details> |
+| **[Tales of the 2025 Los Angeles Fire: Hotwash for Public Health Concerns in Reddit via LLM-Enhanced Topic Modeling](https://arxiv.org/abs/2505.09665v3)** | 2026-01-05 | <details><summary>Fix t...</summary><p>Fix typos in Method Section. Add data/code availability</p></details> |
+| **[Temporal Kolmogorov-Arnold Networks (T-KAN) for High-Frequency Limit Order Book Forecasting: Efficiency, Interpretability, and Alpha Decay](https://arxiv.org/abs/2601.02310v1)** | 2026-01-05 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, Proposes T-KAN architecture for HFT. Achieves 19.1% F1-score improvement on FI-2010 and 132.48% return in cost-adjusted backtests.Proposes T-KAN architecture for HFT. Achieves 19.1% F1-score improvement on FI-2010 and 132.48% return in cost-adjusted backtests</p></details> |
+| **[Classifying several dialectal Nawatl varieties](https://arxiv.org/abs/2601.02303v1)** | 2026-01-05 | <details><summary>9 pag...</summary><p>9 pages, 5 figures, 4 tables</p></details> |
+| **[Generative Site-Specific Beamforming for Next-Generation Spatial Intelligence](https://arxiv.org/abs/2601.02301v1)** | 2026-01-05 | 7 pages, 5 figures |
+| **[An Automatic Pipeline for the Integration of Python-Based Tools into the Galaxy Platform: Application to the anvi'o Framework](https://arxiv.org/abs/2601.02283v1)** | 2026-01-05 | 26 pages, 5 figures |
 
