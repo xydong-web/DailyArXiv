@@ -1,5 +1,5 @@
 ---
-title: Latest 50 Papers - January 14, 2026
+title: Latest 50 Papers - January 15, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/JiamingZang/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,98 +7,123 @@ labels: documentation
 ## Molecular
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Tensor Algebra Processing Primitives (TAPP): Towards a Standard for Tensor Operations](https://arxiv.org/abs/2601.07827v1)** | 2026-01-12 | 45 pages, 5 figures |
-| **[Empirical Quantum Advantage in Constrained Optimization from Encoded Unitary Designs](https://arxiv.org/abs/2511.14296v2)** | 2026-01-12 | <details><summary>33 Pa...</summary><p>33 Pages, 5 figures, 2 tables</p></details> |
-| **[Non-Convex Portfolio Optimization via Energy-Based Models: A Comparative Analysis Using the Thermodynamic HypergRaphical Model Library (THRML) for Index Tracking](https://arxiv.org/abs/2601.07792v1)** | 2026-01-12 | <details><summary>10 pa...</summary><p>10 pages, 5 figures. GPU-accelerated energy-based models for cardinality-constrained index tracking</p></details> |
-| **[Benchmarking Small Language Models and Small Reasoning Language Models on System Log Severity Classification](https://arxiv.org/abs/2601.07790v1)** | 2026-01-12 | <details><summary>28 pa...</summary><p>28 pages, 5 figures, 7 tables</p></details> |
-| **[LangHOPS: Language Grounded Hierarchical Open-Vocabulary Part Segmentation](https://arxiv.org/abs/2510.25263v3)** | 2026-01-12 | <details><summary>10 pa...</summary><p>10 pages, 5 figures, 14 tables, Neurips 2025</p></details> |
-| **[Learning to bin: differentiable and Bayesian optimization for multi-dimensional discriminants in high-energy physics](https://arxiv.org/abs/2601.07756v1)** | 2026-01-12 | 13 pages, 5 figures |
+| **[SemiETPicker: Fast and Label-Efficient Particle Picking for CryoET Tomography Using Semi-Supervised Learning](https://arxiv.org/abs/2510.22454v2)** | 2026-01-13 | <details><summary>IEEE ...</summary><p>IEEE International Symposium on Biomedical Imaging (ISBI) 2026</p></details> |
+| **[S3-CLIP: Video Super Resolution for Person-ReID](https://arxiv.org/abs/2601.08807v1)** | 2026-01-13 | <details><summary>Accep...</summary><p>Accepted to the 2026 IEEE/CVF Winter Conference on Applications of Computer Vision Workshops (WACVW), VReID-XFD Challenge</p></details> |
+| **[Hybrid Oscillator-Qudit Quantum Processors: stabilizer states, stabilizer codes, symplectic operations, and non-commutative geometry](https://arxiv.org/abs/2508.04819v2)** | 2026-01-13 | <details><summary>21 pa...</summary><p>21 pages + appendices, 5 figures</p></details> |
+| **[The Molecular Structure of Thought: Mapping the Topology of Long Chain-of-Thought Reasoning](https://arxiv.org/abs/2601.06002v2)** | 2026-01-13 | Preprint |
+| **[LWM-Spectro: A Foundation Model for Wireless Baseband Signal Spectrograms](https://arxiv.org/abs/2601.08780v1)** | 2026-01-13 | 6 pages, 5 figures |
+| **[Pervasive Annotation Errors Break Text-to-SQL Benchmarks and Leaderboards](https://arxiv.org/abs/2601.08778v1)** | 2026-01-13 | <details><summary>18 pa...</summary><p>18 pages, 14 figures, 9 tables</p></details> |
+| **[Translating Light-Sheet Microscopy Images to Virtual H&E Using CycleGAN](https://arxiv.org/abs/2601.08776v1)** | 2026-01-13 | 5 pages, 4 figures |
+| **[FusID: Modality-Fused Semantic IDs for Generative Music Recommendation](https://arxiv.org/abs/2601.08764v1)** | 2026-01-13 |  |
+| **[From Rows to Reasoning: A Retrieval-Augmented Multimodal Framework for Spreadsheet Understanding](https://arxiv.org/abs/2601.08741v1)** | 2026-01-13 |  |
 
 ## Molecular Generation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Tensor Algebra Processing Primitives (TAPP): Towards a Standard for Tensor Operations](https://arxiv.org/abs/2601.07827v1)** | 2026-01-12 | 45 pages, 5 figures |
-| **[Empirical Quantum Advantage in Constrained Optimization from Encoded Unitary Designs](https://arxiv.org/abs/2511.14296v2)** | 2026-01-12 | <details><summary>33 Pa...</summary><p>33 Pages, 5 figures, 2 tables</p></details> |
-| **[Non-Convex Portfolio Optimization via Energy-Based Models: A Comparative Analysis Using the Thermodynamic HypergRaphical Model Library (THRML) for Index Tracking](https://arxiv.org/abs/2601.07792v1)** | 2026-01-12 | <details><summary>10 pa...</summary><p>10 pages, 5 figures. GPU-accelerated energy-based models for cardinality-constrained index tracking</p></details> |
-| **[Benchmarking Small Language Models and Small Reasoning Language Models on System Log Severity Classification](https://arxiv.org/abs/2601.07790v1)** | 2026-01-12 | <details><summary>28 pa...</summary><p>28 pages, 5 figures, 7 tables</p></details> |
-| **[LangHOPS: Language Grounded Hierarchical Open-Vocabulary Part Segmentation](https://arxiv.org/abs/2510.25263v3)** | 2026-01-12 | <details><summary>10 pa...</summary><p>10 pages, 5 figures, 14 tables, Neurips 2025</p></details> |
-| **[Learning to bin: differentiable and Bayesian optimization for multi-dimensional discriminants in high-energy physics](https://arxiv.org/abs/2601.07756v1)** | 2026-01-12 | 13 pages, 5 figures |
-| **[Backward Reconstruction of the Chafee--Infante Equation via Physics-Informed WGAN-GP](https://arxiv.org/abs/2601.07733v1)** | 2026-01-12 | 5 pages, 9 figures |
+| **[S3-CLIP: Video Super Resolution for Person-ReID](https://arxiv.org/abs/2601.08807v1)** | 2026-01-13 | <details><summary>Accep...</summary><p>Accepted to the 2026 IEEE/CVF Winter Conference on Applications of Computer Vision Workshops (WACVW), VReID-XFD Challenge</p></details> |
+| **[Hybrid Oscillator-Qudit Quantum Processors: stabilizer states, stabilizer codes, symplectic operations, and non-commutative geometry](https://arxiv.org/abs/2508.04819v2)** | 2026-01-13 | <details><summary>21 pa...</summary><p>21 pages + appendices, 5 figures</p></details> |
+| **[LWM-Spectro: A Foundation Model for Wireless Baseband Signal Spectrograms](https://arxiv.org/abs/2601.08780v1)** | 2026-01-13 | 6 pages, 5 figures |
+| **[Pervasive Annotation Errors Break Text-to-SQL Benchmarks and Leaderboards](https://arxiv.org/abs/2601.08778v1)** | 2026-01-13 | <details><summary>18 pa...</summary><p>18 pages, 14 figures, 9 tables</p></details> |
+| **[Translating Light-Sheet Microscopy Images to Virtual H&E Using CycleGAN](https://arxiv.org/abs/2601.08776v1)** | 2026-01-13 | 5 pages, 4 figures |
+| **[FusID: Modality-Fused Semantic IDs for Generative Music Recommendation](https://arxiv.org/abs/2601.08764v1)** | 2026-01-13 |  |
+| **[From Rows to Reasoning: A Retrieval-Augmented Multimodal Framework for Spreadsheet Understanding](https://arxiv.org/abs/2601.08741v1)** | 2026-01-13 |  |
+| **[Malware Detection based on API Calls: A Reproducibility Study](https://arxiv.org/abs/2601.08725v1)** | 2026-01-13 | <details><summary>3 fig...</summary><p>3 figures, 5 tables, reproducibility study</p></details> |
+| **[Kernel Learning for Regression via Quantum Annealing Based Spectral Sampling](https://arxiv.org/abs/2601.08724v1)** | 2026-01-13 | <details><summary>15pag...</summary><p>15pages, 5 figures, 4 tables</p></details> |
+| **[Clarifying identification and estimation of treatment effects in the Sequential Parallel Comparison Design](https://arxiv.org/abs/2511.19677v2)** | 2026-01-13 | <details><summary>21 pa...</summary><p>21 pages Update: Added discussion of Song et al. (2025) in Section 1 & 6. Added an illustrative example in Section 5</p></details> |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Tensor Algebra Processing Primitives (TAPP): Towards a Standard for Tensor Operations](https://arxiv.org/abs/2601.07827v1)** | 2026-01-12 | 45 pages, 5 figures |
-| **[Empirical Quantum Advantage in Constrained Optimization from Encoded Unitary Designs](https://arxiv.org/abs/2511.14296v2)** | 2026-01-12 | <details><summary>33 Pa...</summary><p>33 Pages, 5 figures, 2 tables</p></details> |
-| **[Non-Convex Portfolio Optimization via Energy-Based Models: A Comparative Analysis Using the Thermodynamic HypergRaphical Model Library (THRML) for Index Tracking](https://arxiv.org/abs/2601.07792v1)** | 2026-01-12 | <details><summary>10 pa...</summary><p>10 pages, 5 figures. GPU-accelerated energy-based models for cardinality-constrained index tracking</p></details> |
-| **[Benchmarking Small Language Models and Small Reasoning Language Models on System Log Severity Classification](https://arxiv.org/abs/2601.07790v1)** | 2026-01-12 | <details><summary>28 pa...</summary><p>28 pages, 5 figures, 7 tables</p></details> |
-| **[LangHOPS: Language Grounded Hierarchical Open-Vocabulary Part Segmentation](https://arxiv.org/abs/2510.25263v3)** | 2026-01-12 | <details><summary>10 pa...</summary><p>10 pages, 5 figures, 14 tables, Neurips 2025</p></details> |
-| **[Learning to bin: differentiable and Bayesian optimization for multi-dimensional discriminants in high-energy physics](https://arxiv.org/abs/2601.07756v1)** | 2026-01-12 | 13 pages, 5 figures |
-| **[Backward Reconstruction of the Chafee--Infante Equation via Physics-Informed WGAN-GP](https://arxiv.org/abs/2601.07733v1)** | 2026-01-12 | 5 pages, 9 figures |
+| **[S3-CLIP: Video Super Resolution for Person-ReID](https://arxiv.org/abs/2601.08807v1)** | 2026-01-13 | <details><summary>Accep...</summary><p>Accepted to the 2026 IEEE/CVF Winter Conference on Applications of Computer Vision Workshops (WACVW), VReID-XFD Challenge</p></details> |
+| **[Hybrid Oscillator-Qudit Quantum Processors: stabilizer states, stabilizer codes, symplectic operations, and non-commutative geometry](https://arxiv.org/abs/2508.04819v2)** | 2026-01-13 | <details><summary>21 pa...</summary><p>21 pages + appendices, 5 figures</p></details> |
+| **[LWM-Spectro: A Foundation Model for Wireless Baseband Signal Spectrograms](https://arxiv.org/abs/2601.08780v1)** | 2026-01-13 | 6 pages, 5 figures |
+| **[Pervasive Annotation Errors Break Text-to-SQL Benchmarks and Leaderboards](https://arxiv.org/abs/2601.08778v1)** | 2026-01-13 | <details><summary>18 pa...</summary><p>18 pages, 14 figures, 9 tables</p></details> |
+| **[Translating Light-Sheet Microscopy Images to Virtual H&E Using CycleGAN](https://arxiv.org/abs/2601.08776v1)** | 2026-01-13 | 5 pages, 4 figures |
+| **[FusID: Modality-Fused Semantic IDs for Generative Music Recommendation](https://arxiv.org/abs/2601.08764v1)** | 2026-01-13 |  |
+| **[From Rows to Reasoning: A Retrieval-Augmented Multimodal Framework for Spreadsheet Understanding](https://arxiv.org/abs/2601.08741v1)** | 2026-01-13 |  |
+| **[Malware Detection based on API Calls: A Reproducibility Study](https://arxiv.org/abs/2601.08725v1)** | 2026-01-13 | <details><summary>3 fig...</summary><p>3 figures, 5 tables, reproducibility study</p></details> |
+| **[Kernel Learning for Regression via Quantum Annealing Based Spectral Sampling](https://arxiv.org/abs/2601.08724v1)** | 2026-01-13 | <details><summary>15pag...</summary><p>15pages, 5 figures, 4 tables</p></details> |
+| **[Clarifying identification and estimation of treatment effects in the Sequential Parallel Comparison Design](https://arxiv.org/abs/2511.19677v2)** | 2026-01-13 | <details><summary>21 pa...</summary><p>21 pages Update: Added discussion of Song et al. (2025) in Section 1 & 6. Added an illustrative example in Section 5</p></details> |
 
 ## Diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[A Complete Decomposition of Stochastic Differential Equations](https://arxiv.org/abs/2601.07834v1)** | 2026-01-12 |  |
-| **[Tensor Algebra Processing Primitives (TAPP): Towards a Standard for Tensor Operations](https://arxiv.org/abs/2601.07827v1)** | 2026-01-12 | 45 pages, 5 figures |
-| **[Empirical Quantum Advantage in Constrained Optimization from Encoded Unitary Designs](https://arxiv.org/abs/2511.14296v2)** | 2026-01-12 | <details><summary>33 Pa...</summary><p>33 Pages, 5 figures, 2 tables</p></details> |
-| **[Non-Convex Portfolio Optimization via Energy-Based Models: A Comparative Analysis Using the Thermodynamic HypergRaphical Model Library (THRML) for Index Tracking](https://arxiv.org/abs/2601.07792v1)** | 2026-01-12 | <details><summary>10 pa...</summary><p>10 pages, 5 figures. GPU-accelerated energy-based models for cardinality-constrained index tracking</p></details> |
-| **[Benchmarking Small Language Models and Small Reasoning Language Models on System Log Severity Classification](https://arxiv.org/abs/2601.07790v1)** | 2026-01-12 | <details><summary>28 pa...</summary><p>28 pages, 5 figures, 7 tables</p></details> |
-| **[Beyond External Guidance: Unleashing the Semantic Richness Inside Diffusion Transformers for Improved Training](https://arxiv.org/abs/2601.07773v1)** | 2026-01-12 |  |
-| **[LangHOPS: Language Grounded Hierarchical Open-Vocabulary Part Segmentation](https://arxiv.org/abs/2510.25263v3)** | 2026-01-12 | <details><summary>10 pa...</summary><p>10 pages, 5 figures, 14 tables, Neurips 2025</p></details> |
+| **[RAVEN: Erasing Invisible Watermarks via Novel View Synthesis](https://arxiv.org/abs/2601.08832v1)** | 2026-01-13 | 13 pages |
+| **[S3-CLIP: Video Super Resolution for Person-ReID](https://arxiv.org/abs/2601.08807v1)** | 2026-01-13 | <details><summary>Accep...</summary><p>Accepted to the 2026 IEEE/CVF Winter Conference on Applications of Computer Vision Workshops (WACVW), VReID-XFD Challenge</p></details> |
+| **[DGAE: Diffusion-Guided Autoencoder for Efficient Latent Representation Learning](https://arxiv.org/abs/2506.09644v2)** | 2026-01-13 |  |
+| **[Hybrid Oscillator-Qudit Quantum Processors: stabilizer states, stabilizer codes, symplectic operations, and non-commutative geometry](https://arxiv.org/abs/2508.04819v2)** | 2026-01-13 | <details><summary>21 pa...</summary><p>21 pages + appendices, 5 figures</p></details> |
+| **[FastFLUX: Pruning FLUX with Block-wise Replacement and Sandwich Training](https://arxiv.org/abs/2506.10035v3)** | 2026-01-13 | 14 pages |
+| **[On the use of graph models to achieve individual and group fairness](https://arxiv.org/abs/2601.08784v1)** | 2026-01-13 | 75 pages, 46 figures |
+| **[LWM-Spectro: A Foundation Model for Wireless Baseband Signal Spectrograms](https://arxiv.org/abs/2601.08780v1)** | 2026-01-13 | 6 pages, 5 figures |
+| **[Pervasive Annotation Errors Break Text-to-SQL Benchmarks and Leaderboards](https://arxiv.org/abs/2601.08778v1)** | 2026-01-13 | <details><summary>18 pa...</summary><p>18 pages, 14 figures, 9 tables</p></details> |
+| **[Translating Light-Sheet Microscopy Images to Virtual H&E Using CycleGAN](https://arxiv.org/abs/2601.08776v1)** | 2026-01-13 | 5 pages, 4 figures |
+| **[FusID: Modality-Fused Semantic IDs for Generative Music Recommendation](https://arxiv.org/abs/2601.08764v1)** | 2026-01-13 |  |
+| **[From Rows to Reasoning: A Retrieval-Augmented Multimodal Framework for Spreadsheet Understanding](https://arxiv.org/abs/2601.08741v1)** | 2026-01-13 |  |
 
 ## Object Counting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Tensor Algebra Processing Primitives (TAPP): Towards a Standard for Tensor Operations](https://arxiv.org/abs/2601.07827v1)** | 2026-01-12 | 45 pages, 5 figures |
-| **[Empirical Quantum Advantage in Constrained Optimization from Encoded Unitary Designs](https://arxiv.org/abs/2511.14296v2)** | 2026-01-12 | <details><summary>33 Pa...</summary><p>33 Pages, 5 figures, 2 tables</p></details> |
-| **[Non-Convex Portfolio Optimization via Energy-Based Models: A Comparative Analysis Using the Thermodynamic HypergRaphical Model Library (THRML) for Index Tracking](https://arxiv.org/abs/2601.07792v1)** | 2026-01-12 | <details><summary>10 pa...</summary><p>10 pages, 5 figures. GPU-accelerated energy-based models for cardinality-constrained index tracking</p></details> |
-| **[Benchmarking Small Language Models and Small Reasoning Language Models on System Log Severity Classification](https://arxiv.org/abs/2601.07790v1)** | 2026-01-12 | <details><summary>28 pa...</summary><p>28 pages, 5 figures, 7 tables</p></details> |
-| **[LangHOPS: Language Grounded Hierarchical Open-Vocabulary Part Segmentation](https://arxiv.org/abs/2510.25263v3)** | 2026-01-12 | <details><summary>10 pa...</summary><p>10 pages, 5 figures, 14 tables, Neurips 2025</p></details> |
-| **[Learning to bin: differentiable and Bayesian optimization for multi-dimensional discriminants in high-energy physics](https://arxiv.org/abs/2601.07756v1)** | 2026-01-12 | 13 pages, 5 figures |
-| **[Backward Reconstruction of the Chafee--Infante Equation via Physics-Informed WGAN-GP](https://arxiv.org/abs/2601.07733v1)** | 2026-01-12 | 5 pages, 9 figures |
+| **[S3-CLIP: Video Super Resolution for Person-ReID](https://arxiv.org/abs/2601.08807v1)** | 2026-01-13 | <details><summary>Accep...</summary><p>Accepted to the 2026 IEEE/CVF Winter Conference on Applications of Computer Vision Workshops (WACVW), VReID-XFD Challenge</p></details> |
+| **[Hybrid Oscillator-Qudit Quantum Processors: stabilizer states, stabilizer codes, symplectic operations, and non-commutative geometry](https://arxiv.org/abs/2508.04819v2)** | 2026-01-13 | <details><summary>21 pa...</summary><p>21 pages + appendices, 5 figures</p></details> |
+| **[LWM-Spectro: A Foundation Model for Wireless Baseband Signal Spectrograms](https://arxiv.org/abs/2601.08780v1)** | 2026-01-13 | 6 pages, 5 figures |
+| **[Pervasive Annotation Errors Break Text-to-SQL Benchmarks and Leaderboards](https://arxiv.org/abs/2601.08778v1)** | 2026-01-13 | <details><summary>18 pa...</summary><p>18 pages, 14 figures, 9 tables</p></details> |
+| **[Translating Light-Sheet Microscopy Images to Virtual H&E Using CycleGAN](https://arxiv.org/abs/2601.08776v1)** | 2026-01-13 | 5 pages, 4 figures |
+| **[FusID: Modality-Fused Semantic IDs for Generative Music Recommendation](https://arxiv.org/abs/2601.08764v1)** | 2026-01-13 |  |
+| **[From Rows to Reasoning: A Retrieval-Augmented Multimodal Framework for Spreadsheet Understanding](https://arxiv.org/abs/2601.08741v1)** | 2026-01-13 |  |
+| **[Malware Detection based on API Calls: A Reproducibility Study](https://arxiv.org/abs/2601.08725v1)** | 2026-01-13 | <details><summary>3 fig...</summary><p>3 figures, 5 tables, reproducibility study</p></details> |
+| **[Kernel Learning for Regression via Quantum Annealing Based Spectral Sampling](https://arxiv.org/abs/2601.08724v1)** | 2026-01-13 | <details><summary>15pag...</summary><p>15pages, 5 figures, 4 tables</p></details> |
+| **[Clarifying identification and estimation of treatment effects in the Sequential Parallel Comparison Design](https://arxiv.org/abs/2511.19677v2)** | 2026-01-13 | <details><summary>21 pa...</summary><p>21 pages Update: Added discussion of Song et al. (2025) in Section 1 & 6. Added an illustrative example in Section 5</p></details> |
 
 ## Image Caption
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Tensor Algebra Processing Primitives (TAPP): Towards a Standard for Tensor Operations](https://arxiv.org/abs/2601.07827v1)** | 2026-01-12 | 45 pages, 5 figures |
-| **[Empirical Quantum Advantage in Constrained Optimization from Encoded Unitary Designs](https://arxiv.org/abs/2511.14296v2)** | 2026-01-12 | <details><summary>33 Pa...</summary><p>33 Pages, 5 figures, 2 tables</p></details> |
-| **[Non-Convex Portfolio Optimization via Energy-Based Models: A Comparative Analysis Using the Thermodynamic HypergRaphical Model Library (THRML) for Index Tracking](https://arxiv.org/abs/2601.07792v1)** | 2026-01-12 | <details><summary>10 pa...</summary><p>10 pages, 5 figures. GPU-accelerated energy-based models for cardinality-constrained index tracking</p></details> |
-| **[Benchmarking Small Language Models and Small Reasoning Language Models on System Log Severity Classification](https://arxiv.org/abs/2601.07790v1)** | 2026-01-12 | <details><summary>28 pa...</summary><p>28 pages, 5 figures, 7 tables</p></details> |
-| **[LangHOPS: Language Grounded Hierarchical Open-Vocabulary Part Segmentation](https://arxiv.org/abs/2510.25263v3)** | 2026-01-12 | <details><summary>10 pa...</summary><p>10 pages, 5 figures, 14 tables, Neurips 2025</p></details> |
-| **[Learning to bin: differentiable and Bayesian optimization for multi-dimensional discriminants in high-energy physics](https://arxiv.org/abs/2601.07756v1)** | 2026-01-12 | 13 pages, 5 figures |
-| **[Backward Reconstruction of the Chafee--Infante Equation via Physics-Informed WGAN-GP](https://arxiv.org/abs/2601.07733v1)** | 2026-01-12 | 5 pages, 9 figures |
+| **[S3-CLIP: Video Super Resolution for Person-ReID](https://arxiv.org/abs/2601.08807v1)** | 2026-01-13 | <details><summary>Accep...</summary><p>Accepted to the 2026 IEEE/CVF Winter Conference on Applications of Computer Vision Workshops (WACVW), VReID-XFD Challenge</p></details> |
+| **[Hybrid Oscillator-Qudit Quantum Processors: stabilizer states, stabilizer codes, symplectic operations, and non-commutative geometry](https://arxiv.org/abs/2508.04819v2)** | 2026-01-13 | <details><summary>21 pa...</summary><p>21 pages + appendices, 5 figures</p></details> |
+| **[LWM-Spectro: A Foundation Model for Wireless Baseband Signal Spectrograms](https://arxiv.org/abs/2601.08780v1)** | 2026-01-13 | 6 pages, 5 figures |
+| **[Pervasive Annotation Errors Break Text-to-SQL Benchmarks and Leaderboards](https://arxiv.org/abs/2601.08778v1)** | 2026-01-13 | <details><summary>18 pa...</summary><p>18 pages, 14 figures, 9 tables</p></details> |
+| **[Translating Light-Sheet Microscopy Images to Virtual H&E Using CycleGAN](https://arxiv.org/abs/2601.08776v1)** | 2026-01-13 | 5 pages, 4 figures |
+| **[FusID: Modality-Fused Semantic IDs for Generative Music Recommendation](https://arxiv.org/abs/2601.08764v1)** | 2026-01-13 |  |
+| **[From Rows to Reasoning: A Retrieval-Augmented Multimodal Framework for Spreadsheet Understanding](https://arxiv.org/abs/2601.08741v1)** | 2026-01-13 |  |
+| **[Malware Detection based on API Calls: A Reproducibility Study](https://arxiv.org/abs/2601.08725v1)** | 2026-01-13 | <details><summary>3 fig...</summary><p>3 figures, 5 tables, reproducibility study</p></details> |
+| **[Kernel Learning for Regression via Quantum Annealing Based Spectral Sampling](https://arxiv.org/abs/2601.08724v1)** | 2026-01-13 | <details><summary>15pag...</summary><p>15pages, 5 figures, 4 tables</p></details> |
+| **[Clarifying identification and estimation of treatment effects in the Sequential Parallel Comparison Design](https://arxiv.org/abs/2511.19677v2)** | 2026-01-13 | <details><summary>21 pa...</summary><p>21 pages Update: Added discussion of Song et al. (2025) in Section 1 & 6. Added an illustrative example in Section 5</p></details> |
 
 ## Describe
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Tuning-free Visual Effect Transfer across Videos](https://arxiv.org/abs/2601.07833v1)** | 2026-01-12 | <details><summary>Proje...</summary><p>Project Page: $\href{https://tuningfreevisualeffects-maker.github.io/Tuning-free-Visual-Effect-Transfer-across-Videos-Project-Page/}{this\ URL}$</p></details> |
-| **[Tensor Algebra Processing Primitives (TAPP): Towards a Standard for Tensor Operations](https://arxiv.org/abs/2601.07827v1)** | 2026-01-12 | 45 pages, 5 figures |
-| **[Video Generation Models in Robotics - Applications, Research Challenges, Future Directions](https://arxiv.org/abs/2601.07823v1)** | 2026-01-12 |  |
-| **[Empirical Quantum Advantage in Constrained Optimization from Encoded Unitary Designs](https://arxiv.org/abs/2511.14296v2)** | 2026-01-12 | <details><summary>33 Pa...</summary><p>33 Pages, 5 figures, 2 tables</p></details> |
-| **[Discovering Coordinated Joint Options via Inter-Agent Relative Dynamics](https://arxiv.org/abs/2512.24827v2)** | 2026-01-12 |  |
-| **[Non-Convex Portfolio Optimization via Energy-Based Models: A Comparative Analysis Using the Thermodynamic HypergRaphical Model Library (THRML) for Index Tracking](https://arxiv.org/abs/2601.07792v1)** | 2026-01-12 | <details><summary>10 pa...</summary><p>10 pages, 5 figures. GPU-accelerated energy-based models for cardinality-constrained index tracking</p></details> |
-| **[Benchmarking Small Language Models and Small Reasoning Language Models on System Log Severity Classification](https://arxiv.org/abs/2601.07790v1)** | 2026-01-12 | <details><summary>28 pa...</summary><p>28 pages, 5 figures, 7 tables</p></details> |
+| **[S3-CLIP: Video Super Resolution for Person-ReID](https://arxiv.org/abs/2601.08807v1)** | 2026-01-13 | <details><summary>Accep...</summary><p>Accepted to the 2026 IEEE/CVF Winter Conference on Applications of Computer Vision Workshops (WACVW), VReID-XFD Challenge</p></details> |
+| **[Hybrid Oscillator-Qudit Quantum Processors: stabilizer states, stabilizer codes, symplectic operations, and non-commutative geometry](https://arxiv.org/abs/2508.04819v2)** | 2026-01-13 | <details><summary>21 pa...</summary><p>21 pages + appendices, 5 figures</p></details> |
+| **[LWM-Spectro: A Foundation Model for Wireless Baseband Signal Spectrograms](https://arxiv.org/abs/2601.08780v1)** | 2026-01-13 | 6 pages, 5 figures |
+| **[Pervasive Annotation Errors Break Text-to-SQL Benchmarks and Leaderboards](https://arxiv.org/abs/2601.08778v1)** | 2026-01-13 | <details><summary>18 pa...</summary><p>18 pages, 14 figures, 9 tables</p></details> |
+| **[Translating Light-Sheet Microscopy Images to Virtual H&E Using CycleGAN](https://arxiv.org/abs/2601.08776v1)** | 2026-01-13 | 5 pages, 4 figures |
+| **[FusID: Modality-Fused Semantic IDs for Generative Music Recommendation](https://arxiv.org/abs/2601.08764v1)** | 2026-01-13 |  |
+| **[Spatial Context Improves the Integration of Text with Remote Sensing for Mapping Environmental Variables](https://arxiv.org/abs/2601.08750v1)** | 2026-01-13 | submitted |
 
 ## Light Weight
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Tensor Algebra Processing Primitives (TAPP): Towards a Standard for Tensor Operations](https://arxiv.org/abs/2601.07827v1)** | 2026-01-12 | 45 pages, 5 figures |
-| **[Empirical Quantum Advantage in Constrained Optimization from Encoded Unitary Designs](https://arxiv.org/abs/2511.14296v2)** | 2026-01-12 | <details><summary>33 Pa...</summary><p>33 Pages, 5 figures, 2 tables</p></details> |
-| **[Non-Convex Portfolio Optimization via Energy-Based Models: A Comparative Analysis Using the Thermodynamic HypergRaphical Model Library (THRML) for Index Tracking](https://arxiv.org/abs/2601.07792v1)** | 2026-01-12 | <details><summary>10 pa...</summary><p>10 pages, 5 figures. GPU-accelerated energy-based models for cardinality-constrained index tracking</p></details> |
-| **[Benchmarking Small Language Models and Small Reasoning Language Models on System Log Severity Classification](https://arxiv.org/abs/2601.07790v1)** | 2026-01-12 | <details><summary>28 pa...</summary><p>28 pages, 5 figures, 7 tables</p></details> |
-| **[LangHOPS: Language Grounded Hierarchical Open-Vocabulary Part Segmentation](https://arxiv.org/abs/2510.25263v3)** | 2026-01-12 | <details><summary>10 pa...</summary><p>10 pages, 5 figures, 14 tables, Neurips 2025</p></details> |
-| **[Learning to bin: differentiable and Bayesian optimization for multi-dimensional discriminants in high-energy physics](https://arxiv.org/abs/2601.07756v1)** | 2026-01-12 | 13 pages, 5 figures |
-| **[Backward Reconstruction of the Chafee--Infante Equation via Physics-Informed WGAN-GP](https://arxiv.org/abs/2601.07733v1)** | 2026-01-12 | 5 pages, 9 figures |
+| **[S3-CLIP: Video Super Resolution for Person-ReID](https://arxiv.org/abs/2601.08807v1)** | 2026-01-13 | <details><summary>Accep...</summary><p>Accepted to the 2026 IEEE/CVF Winter Conference on Applications of Computer Vision Workshops (WACVW), VReID-XFD Challenge</p></details> |
+| **[Hybrid Oscillator-Qudit Quantum Processors: stabilizer states, stabilizer codes, symplectic operations, and non-commutative geometry](https://arxiv.org/abs/2508.04819v2)** | 2026-01-13 | <details><summary>21 pa...</summary><p>21 pages + appendices, 5 figures</p></details> |
+| **[LWM-Spectro: A Foundation Model for Wireless Baseband Signal Spectrograms](https://arxiv.org/abs/2601.08780v1)** | 2026-01-13 | 6 pages, 5 figures |
+| **[Pervasive Annotation Errors Break Text-to-SQL Benchmarks and Leaderboards](https://arxiv.org/abs/2601.08778v1)** | 2026-01-13 | <details><summary>18 pa...</summary><p>18 pages, 14 figures, 9 tables</p></details> |
+| **[Translating Light-Sheet Microscopy Images to Virtual H&E Using CycleGAN](https://arxiv.org/abs/2601.08776v1)** | 2026-01-13 | 5 pages, 4 figures |
+| **[FusID: Modality-Fused Semantic IDs for Generative Music Recommendation](https://arxiv.org/abs/2601.08764v1)** | 2026-01-13 |  |
+| **[From Rows to Reasoning: A Retrieval-Augmented Multimodal Framework for Spreadsheet Understanding](https://arxiv.org/abs/2601.08741v1)** | 2026-01-13 |  |
+| **[Malware Detection based on API Calls: A Reproducibility Study](https://arxiv.org/abs/2601.08725v1)** | 2026-01-13 | <details><summary>3 fig...</summary><p>3 figures, 5 tables, reproducibility study</p></details> |
+| **[Kernel Learning for Regression via Quantum Annealing Based Spectral Sampling](https://arxiv.org/abs/2601.08724v1)** | 2026-01-13 | <details><summary>15pag...</summary><p>15pages, 5 figures, 4 tables</p></details> |
+| **[Clarifying identification and estimation of treatment effects in the Sequential Parallel Comparison Design](https://arxiv.org/abs/2511.19677v2)** | 2026-01-13 | <details><summary>21 pa...</summary><p>21 pages Update: Added discussion of Song et al. (2025) in Section 1 & 6. Added an illustrative example in Section 5</p></details> |
 
 ## Class Incremental
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Tensor Algebra Processing Primitives (TAPP): Towards a Standard for Tensor Operations](https://arxiv.org/abs/2601.07827v1)** | 2026-01-12 | 45 pages, 5 figures |
-| **[Empirical Quantum Advantage in Constrained Optimization from Encoded Unitary Designs](https://arxiv.org/abs/2511.14296v2)** | 2026-01-12 | <details><summary>33 Pa...</summary><p>33 Pages, 5 figures, 2 tables</p></details> |
-| **[Non-Convex Portfolio Optimization via Energy-Based Models: A Comparative Analysis Using the Thermodynamic HypergRaphical Model Library (THRML) for Index Tracking](https://arxiv.org/abs/2601.07792v1)** | 2026-01-12 | <details><summary>10 pa...</summary><p>10 pages, 5 figures. GPU-accelerated energy-based models for cardinality-constrained index tracking</p></details> |
-| **[Benchmarking Small Language Models and Small Reasoning Language Models on System Log Severity Classification](https://arxiv.org/abs/2601.07790v1)** | 2026-01-12 | <details><summary>28 pa...</summary><p>28 pages, 5 figures, 7 tables</p></details> |
-| **[LangHOPS: Language Grounded Hierarchical Open-Vocabulary Part Segmentation](https://arxiv.org/abs/2510.25263v3)** | 2026-01-12 | <details><summary>10 pa...</summary><p>10 pages, 5 figures, 14 tables, Neurips 2025</p></details> |
-| **[Learning to bin: differentiable and Bayesian optimization for multi-dimensional discriminants in high-energy physics](https://arxiv.org/abs/2601.07756v1)** | 2026-01-12 | 13 pages, 5 figures |
-| **[Backward Reconstruction of the Chafee--Infante Equation via Physics-Informed WGAN-GP](https://arxiv.org/abs/2601.07733v1)** | 2026-01-12 | 5 pages, 9 figures |
+| **[S3-CLIP: Video Super Resolution for Person-ReID](https://arxiv.org/abs/2601.08807v1)** | 2026-01-13 | <details><summary>Accep...</summary><p>Accepted to the 2026 IEEE/CVF Winter Conference on Applications of Computer Vision Workshops (WACVW), VReID-XFD Challenge</p></details> |
+| **[Hybrid Oscillator-Qudit Quantum Processors: stabilizer states, stabilizer codes, symplectic operations, and non-commutative geometry](https://arxiv.org/abs/2508.04819v2)** | 2026-01-13 | <details><summary>21 pa...</summary><p>21 pages + appendices, 5 figures</p></details> |
+| **[LWM-Spectro: A Foundation Model for Wireless Baseband Signal Spectrograms](https://arxiv.org/abs/2601.08780v1)** | 2026-01-13 | 6 pages, 5 figures |
+| **[Pervasive Annotation Errors Break Text-to-SQL Benchmarks and Leaderboards](https://arxiv.org/abs/2601.08778v1)** | 2026-01-13 | <details><summary>18 pa...</summary><p>18 pages, 14 figures, 9 tables</p></details> |
+| **[Translating Light-Sheet Microscopy Images to Virtual H&E Using CycleGAN](https://arxiv.org/abs/2601.08776v1)** | 2026-01-13 | 5 pages, 4 figures |
+| **[FusID: Modality-Fused Semantic IDs for Generative Music Recommendation](https://arxiv.org/abs/2601.08764v1)** | 2026-01-13 |  |
+| **[From Rows to Reasoning: A Retrieval-Augmented Multimodal Framework for Spreadsheet Understanding](https://arxiv.org/abs/2601.08741v1)** | 2026-01-13 |  |
+| **[Malware Detection based on API Calls: A Reproducibility Study](https://arxiv.org/abs/2601.08725v1)** | 2026-01-13 | <details><summary>3 fig...</summary><p>3 figures, 5 tables, reproducibility study</p></details> |
+| **[Kernel Learning for Regression via Quantum Annealing Based Spectral Sampling](https://arxiv.org/abs/2601.08724v1)** | 2026-01-13 | <details><summary>15pag...</summary><p>15pages, 5 figures, 4 tables</p></details> |
+| **[Clarifying identification and estimation of treatment effects in the Sequential Parallel Comparison Design](https://arxiv.org/abs/2511.19677v2)** | 2026-01-13 | <details><summary>21 pa...</summary><p>21 pages Update: Added discussion of Song et al. (2025) in Section 1 & 6. Added an illustrative example in Section 5</p></details> |
 
