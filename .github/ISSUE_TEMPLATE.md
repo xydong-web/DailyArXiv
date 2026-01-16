@@ -1,5 +1,5 @@
 ---
-title: Latest 50 Papers - January 16, 2026
+title: Latest 50 Papers - January 17, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/JiamingZang/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,87 +7,84 @@ labels: documentation
 ## Molecular
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[LARGE: A Locally Adaptive Regularization Approach for Estimating Gaussian Graphical Models](https://arxiv.org/abs/2601.09686v1)** | 2026-01-14 | <details><summary>21 pa...</summary><p>21 pages, 5 figures, 2 tables</p></details> |
-| **[Template-Based Probes Are Imperfect Lenses for Counterfactual Bias Evaluation in LLMs](https://arxiv.org/abs/2404.03471v5)** | 2026-01-14 | <details><summary>22 Pa...</summary><p>22 Pages, 6 Figures, 5 Tables</p></details> |
-| **[Representing Molecules with Algebraic Data Types: Beyond SMILES and SELFIES](https://arxiv.org/abs/2501.13633v4)** | 2026-01-14 | 3 Figures |
-| **[PersonalAlign: Hierarchical Implicit Intent Alignment for Personalized GUI Agent with Long-Term User-Centric Records](https://arxiv.org/abs/2601.09636v1)** | 2026-01-14 |  |
+| **[DInf-Grid: A Neural Differential Equation Solver with Differentiable Feature Grids](https://arxiv.org/abs/2601.10715v1)** | 2026-01-15 | <details><summary>25 pa...</summary><p>25 pages; 16 figures; project page: https://4dqv.mpi-inf.mpg.de/DInf-Grid/</p></details> |
+| **[Communication-Efficient and Privacy-Adaptable Mechanism -- a Federated Learning Scheme with Convergence Analysis](https://arxiv.org/abs/2601.10701v1)** | 2026-01-15 | <details><summary>19 pa...</summary><p>19 pages, 5 figures. This work is submitted in part to the 2026 IEEE International Symposium on Information Theory (ISIT). arXiv admin note: substantial text overlap with arXiv:2501.12046</p></details> |
+| **[A Framework of Distributed Source Encryption using Mutual Information Security Criterion and the Strong Converse Theorem](https://arxiv.org/abs/2507.13294v4)** | 2026-01-15 | <details><summary>29 pa...</summary><p>29 pages, 5 figures. This is an extended version of the paper accepted for presentation in ITW 2025, which will be held at Sydney form Sept. 29 to Oct. 3 in 2025. The conference accepted paper consists of 5 pages for the text and one page for the reference. arXiv admin note: text overlap with arXiv:2102.06363</p></details> |
+| **[Single-Stage Huffman Encoder for ML Compression](https://arxiv.org/abs/2601.10673v1)** | 2026-01-15 | 5 pages, 4 figures |
 
 ## Molecular Generation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[LARGE: A Locally Adaptive Regularization Approach for Estimating Gaussian Graphical Models](https://arxiv.org/abs/2601.09686v1)** | 2026-01-14 | <details><summary>21 pa...</summary><p>21 pages, 5 figures, 2 tables</p></details> |
-| **[Template-Based Probes Are Imperfect Lenses for Counterfactual Bias Evaluation in LLMs](https://arxiv.org/abs/2404.03471v5)** | 2026-01-14 | <details><summary>22 Pa...</summary><p>22 Pages, 6 Figures, 5 Tables</p></details> |
-| **[PersonalAlign: Hierarchical Implicit Intent Alignment for Personalized GUI Agent with Long-Term User-Centric Records](https://arxiv.org/abs/2601.09636v1)** | 2026-01-14 |  |
-| **[Exploiting Task Relationships in Continual Learning via Transferability-Aware Task Embeddings](https://arxiv.org/abs/2502.11609v4)** | 2026-01-14 | <details><summary>28 pa...</summary><p>28 pages, 5 figures, accepted by NeurIPS 2025</p></details> |
-| **[Multimodal Signal Processing For Thermo-Visible-Lidar Fusion In Real-time 3D Semantic Mapping](https://arxiv.org/abs/2601.09578v1)** | 2026-01-14 | <details><summary>5 pag...</summary><p>5 pages,7 figures. Under review</p></details> |
-| **[Hot-Start from Pixels: Low-Resolution Visual Tokens for Chinese Language Modeling](https://arxiv.org/abs/2601.09566v1)** | 2026-01-14 | <details><summary>15 pa...</summary><p>15 pages, 5 figures, submitted to ACL 2026</p></details> |
+| **[DInf-Grid: A Neural Differential Equation Solver with Differentiable Feature Grids](https://arxiv.org/abs/2601.10715v1)** | 2026-01-15 | <details><summary>25 pa...</summary><p>25 pages; 16 figures; project page: https://4dqv.mpi-inf.mpg.de/DInf-Grid/</p></details> |
+| **[Communication-Efficient and Privacy-Adaptable Mechanism -- a Federated Learning Scheme with Convergence Analysis](https://arxiv.org/abs/2601.10701v1)** | 2026-01-15 | <details><summary>19 pa...</summary><p>19 pages, 5 figures. This work is submitted in part to the 2026 IEEE International Symposium on Information Theory (ISIT). arXiv admin note: substantial text overlap with arXiv:2501.12046</p></details> |
+| **[A Framework of Distributed Source Encryption using Mutual Information Security Criterion and the Strong Converse Theorem](https://arxiv.org/abs/2507.13294v4)** | 2026-01-15 | <details><summary>29 pa...</summary><p>29 pages, 5 figures. This is an extended version of the paper accepted for presentation in ITW 2025, which will be held at Sydney form Sept. 29 to Oct. 3 in 2025. The conference accepted paper consists of 5 pages for the text and one page for the reference. arXiv admin note: text overlap with arXiv:2102.06363</p></details> |
+| **[Single-Stage Huffman Encoder for ML Compression](https://arxiv.org/abs/2601.10673v1)** | 2026-01-15 | 5 pages, 4 figures |
+| **[SiliconHealth: A Complete Low-Cost Blockchain Healthcare Infrastructure for Resource-Constrained Regions Using Repurposed Bitcoin Mining ASICs](https://arxiv.org/abs/2601.09557v2)** | 2026-01-15 | <details><summary>8 pag...</summary><p>8 pages, 9 tables, 2 figures, experimental validation with cross-device results, economic analysis</p></details> |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[LARGE: A Locally Adaptive Regularization Approach for Estimating Gaussian Graphical Models](https://arxiv.org/abs/2601.09686v1)** | 2026-01-14 | <details><summary>21 pa...</summary><p>21 pages, 5 figures, 2 tables</p></details> |
-| **[Template-Based Probes Are Imperfect Lenses for Counterfactual Bias Evaluation in LLMs](https://arxiv.org/abs/2404.03471v5)** | 2026-01-14 | <details><summary>22 Pa...</summary><p>22 Pages, 6 Figures, 5 Tables</p></details> |
-| **[PersonalAlign: Hierarchical Implicit Intent Alignment for Personalized GUI Agent with Long-Term User-Centric Records](https://arxiv.org/abs/2601.09636v1)** | 2026-01-14 |  |
-| **[Exploiting Task Relationships in Continual Learning via Transferability-Aware Task Embeddings](https://arxiv.org/abs/2502.11609v4)** | 2026-01-14 | <details><summary>28 pa...</summary><p>28 pages, 5 figures, accepted by NeurIPS 2025</p></details> |
-| **[Multimodal Signal Processing For Thermo-Visible-Lidar Fusion In Real-time 3D Semantic Mapping](https://arxiv.org/abs/2601.09578v1)** | 2026-01-14 | <details><summary>5 pag...</summary><p>5 pages,7 figures. Under review</p></details> |
-| **[Hot-Start from Pixels: Low-Resolution Visual Tokens for Chinese Language Modeling](https://arxiv.org/abs/2601.09566v1)** | 2026-01-14 | <details><summary>15 pa...</summary><p>15 pages, 5 figures, submitted to ACL 2026</p></details> |
+| **[DInf-Grid: A Neural Differential Equation Solver with Differentiable Feature Grids](https://arxiv.org/abs/2601.10715v1)** | 2026-01-15 | <details><summary>25 pa...</summary><p>25 pages; 16 figures; project page: https://4dqv.mpi-inf.mpg.de/DInf-Grid/</p></details> |
+| **[Communication-Efficient and Privacy-Adaptable Mechanism -- a Federated Learning Scheme with Convergence Analysis](https://arxiv.org/abs/2601.10701v1)** | 2026-01-15 | <details><summary>19 pa...</summary><p>19 pages, 5 figures. This work is submitted in part to the 2026 IEEE International Symposium on Information Theory (ISIT). arXiv admin note: substantial text overlap with arXiv:2501.12046</p></details> |
+| **[A Framework of Distributed Source Encryption using Mutual Information Security Criterion and the Strong Converse Theorem](https://arxiv.org/abs/2507.13294v4)** | 2026-01-15 | <details><summary>29 pa...</summary><p>29 pages, 5 figures. This is an extended version of the paper accepted for presentation in ITW 2025, which will be held at Sydney form Sept. 29 to Oct. 3 in 2025. The conference accepted paper consists of 5 pages for the text and one page for the reference. arXiv admin note: text overlap with arXiv:2102.06363</p></details> |
+| **[Single-Stage Huffman Encoder for ML Compression](https://arxiv.org/abs/2601.10673v1)** | 2026-01-15 | 5 pages, 4 figures |
+| **[Knowledge Homophily in Large Language Models](https://arxiv.org/abs/2509.23773v2)** | 2026-01-15 |  |
+| **[SiliconHealth: A Complete Low-Cost Blockchain Healthcare Infrastructure for Resource-Constrained Regions Using Repurposed Bitcoin Mining ASICs](https://arxiv.org/abs/2601.09557v2)** | 2026-01-15 | <details><summary>8 pag...</summary><p>8 pages, 9 tables, 2 figures, experimental validation with cross-device results, economic analysis</p></details> |
 
 ## Diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Efficient Camera-Controlled Video Generation of Static Scenes via Sparse Diffusion and 3D Rendering](https://arxiv.org/abs/2601.09697v1)** | 2026-01-14 | <details><summary>Proje...</summary><p>Project page: https://ayushtewari.com/projects/srender/</p></details> |
-| **[LARGE: A Locally Adaptive Regularization Approach for Estimating Gaussian Graphical Models](https://arxiv.org/abs/2601.09686v1)** | 2026-01-14 | <details><summary>21 pa...</summary><p>21 pages, 5 figures, 2 tables</p></details> |
-| **[Template-Based Probes Are Imperfect Lenses for Counterfactual Bias Evaluation in LLMs](https://arxiv.org/abs/2404.03471v5)** | 2026-01-14 | <details><summary>22 Pa...</summary><p>22 Pages, 6 Figures, 5 Tables</p></details> |
-| **[Coupled Data and Measurement Space Dynamics for Enhanced Diffusion Posterior Sampling](https://arxiv.org/abs/2510.09676v2)** | 2026-01-14 |  |
-| **[PersonalAlign: Hierarchical Implicit Intent Alignment for Personalized GUI Agent with Long-Term User-Centric Records](https://arxiv.org/abs/2601.09636v1)** | 2026-01-14 |  |
-| **[Can AI Dream of Unseen Galaxies? Conditional Diffusion Model for Galaxy Morphology Augmentation](https://arxiv.org/abs/2506.16233v2)** | 2026-01-14 | <details><summary>29 pa...</summary><p>29 pages, 17 figures, accepted version for ApJS. Comments welcome. See another independent work for further reference, Category-based Galaxy Image Generation via Diffusion Models (Fan, Tang et al.)</p></details> |
+| **[DInf-Grid: A Neural Differential Equation Solver with Differentiable Feature Grids](https://arxiv.org/abs/2601.10715v1)** | 2026-01-15 | <details><summary>25 pa...</summary><p>25 pages; 16 figures; project page: https://4dqv.mpi-inf.mpg.de/DInf-Grid/</p></details> |
+| **[Alterbute: Editing Intrinsic Attributes of Objects in Images](https://arxiv.org/abs/2601.10714v1)** | 2026-01-15 | <details><summary>Proje...</summary><p>Project page is available at https://talreiss.github.io/alterbute/</p></details> |
+| **[High-accuracy and dimension-free sampling with diffusions](https://arxiv.org/abs/2601.10708v1)** | 2026-01-15 |  |
+| **[Communication-Efficient and Privacy-Adaptable Mechanism -- a Federated Learning Scheme with Convergence Analysis](https://arxiv.org/abs/2601.10701v1)** | 2026-01-15 | <details><summary>19 pa...</summary><p>19 pages, 5 figures. This work is submitted in part to the 2026 IEEE International Symposium on Information Theory (ISIT). arXiv admin note: substantial text overlap with arXiv:2501.12046</p></details> |
+| **[Controllable Financial Market Generation with Diffusion Guided Meta Agent](https://arxiv.org/abs/2408.12991v3)** | 2026-01-15 | <details><summary>To ap...</summary><p>To appear in The Fortieth AAAI Conference on Artificial Intelligence (AAAI-26 Oral)</p></details> |
+| **[A Framework of Distributed Source Encryption using Mutual Information Security Criterion and the Strong Converse Theorem](https://arxiv.org/abs/2507.13294v4)** | 2026-01-15 | <details><summary>29 pa...</summary><p>29 pages, 5 figures. This is an extended version of the paper accepted for presentation in ITW 2025, which will be held at Sydney form Sept. 29 to Oct. 3 in 2025. The conference accepted paper consists of 5 pages for the text and one page for the reference. arXiv admin note: text overlap with arXiv:2102.06363</p></details> |
+| **[Single-Stage Huffman Encoder for ML Compression](https://arxiv.org/abs/2601.10673v1)** | 2026-01-15 | 5 pages, 4 figures |
 
 ## Object Counting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[LARGE: A Locally Adaptive Regularization Approach for Estimating Gaussian Graphical Models](https://arxiv.org/abs/2601.09686v1)** | 2026-01-14 | <details><summary>21 pa...</summary><p>21 pages, 5 figures, 2 tables</p></details> |
-| **[Template-Based Probes Are Imperfect Lenses for Counterfactual Bias Evaluation in LLMs](https://arxiv.org/abs/2404.03471v5)** | 2026-01-14 | <details><summary>22 Pa...</summary><p>22 Pages, 6 Figures, 5 Tables</p></details> |
-| **[PersonalAlign: Hierarchical Implicit Intent Alignment for Personalized GUI Agent with Long-Term User-Centric Records](https://arxiv.org/abs/2601.09636v1)** | 2026-01-14 |  |
-| **[Exploiting Task Relationships in Continual Learning via Transferability-Aware Task Embeddings](https://arxiv.org/abs/2502.11609v4)** | 2026-01-14 | <details><summary>28 pa...</summary><p>28 pages, 5 figures, accepted by NeurIPS 2025</p></details> |
-| **[Multimodal Signal Processing For Thermo-Visible-Lidar Fusion In Real-time 3D Semantic Mapping](https://arxiv.org/abs/2601.09578v1)** | 2026-01-14 | <details><summary>5 pag...</summary><p>5 pages,7 figures. Under review</p></details> |
-| **[Hot-Start from Pixels: Low-Resolution Visual Tokens for Chinese Language Modeling](https://arxiv.org/abs/2601.09566v1)** | 2026-01-14 | <details><summary>15 pa...</summary><p>15 pages, 5 figures, submitted to ACL 2026</p></details> |
+| **[DInf-Grid: A Neural Differential Equation Solver with Differentiable Feature Grids](https://arxiv.org/abs/2601.10715v1)** | 2026-01-15 | <details><summary>25 pa...</summary><p>25 pages; 16 figures; project page: https://4dqv.mpi-inf.mpg.de/DInf-Grid/</p></details> |
+| **[Communication-Efficient and Privacy-Adaptable Mechanism -- a Federated Learning Scheme with Convergence Analysis](https://arxiv.org/abs/2601.10701v1)** | 2026-01-15 | <details><summary>19 pa...</summary><p>19 pages, 5 figures. This work is submitted in part to the 2026 IEEE International Symposium on Information Theory (ISIT). arXiv admin note: substantial text overlap with arXiv:2501.12046</p></details> |
+| **[A Framework of Distributed Source Encryption using Mutual Information Security Criterion and the Strong Converse Theorem](https://arxiv.org/abs/2507.13294v4)** | 2026-01-15 | <details><summary>29 pa...</summary><p>29 pages, 5 figures. This is an extended version of the paper accepted for presentation in ITW 2025, which will be held at Sydney form Sept. 29 to Oct. 3 in 2025. The conference accepted paper consists of 5 pages for the text and one page for the reference. arXiv admin note: text overlap with arXiv:2102.06363</p></details> |
+| **[Single-Stage Huffman Encoder for ML Compression](https://arxiv.org/abs/2601.10673v1)** | 2026-01-15 | 5 pages, 4 figures |
+| **[SiliconHealth: A Complete Low-Cost Blockchain Healthcare Infrastructure for Resource-Constrained Regions Using Repurposed Bitcoin Mining ASICs](https://arxiv.org/abs/2601.09557v2)** | 2026-01-15 | <details><summary>8 pag...</summary><p>8 pages, 9 tables, 2 figures, experimental validation with cross-device results, economic analysis</p></details> |
 
 ## Image Caption
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[LARGE: A Locally Adaptive Regularization Approach for Estimating Gaussian Graphical Models](https://arxiv.org/abs/2601.09686v1)** | 2026-01-14 | <details><summary>21 pa...</summary><p>21 pages, 5 figures, 2 tables</p></details> |
-| **[Template-Based Probes Are Imperfect Lenses for Counterfactual Bias Evaluation in LLMs](https://arxiv.org/abs/2404.03471v5)** | 2026-01-14 | <details><summary>22 Pa...</summary><p>22 Pages, 6 Figures, 5 Tables</p></details> |
-| **[PersonalAlign: Hierarchical Implicit Intent Alignment for Personalized GUI Agent with Long-Term User-Centric Records](https://arxiv.org/abs/2601.09636v1)** | 2026-01-14 |  |
-| **[Exploiting Task Relationships in Continual Learning via Transferability-Aware Task Embeddings](https://arxiv.org/abs/2502.11609v4)** | 2026-01-14 | <details><summary>28 pa...</summary><p>28 pages, 5 figures, accepted by NeurIPS 2025</p></details> |
-| **[Multimodal Signal Processing For Thermo-Visible-Lidar Fusion In Real-time 3D Semantic Mapping](https://arxiv.org/abs/2601.09578v1)** | 2026-01-14 | <details><summary>5 pag...</summary><p>5 pages,7 figures. Under review</p></details> |
-| **[Hot-Start from Pixels: Low-Resolution Visual Tokens for Chinese Language Modeling](https://arxiv.org/abs/2601.09566v1)** | 2026-01-14 | <details><summary>15 pa...</summary><p>15 pages, 5 figures, submitted to ACL 2026</p></details> |
+| **[DInf-Grid: A Neural Differential Equation Solver with Differentiable Feature Grids](https://arxiv.org/abs/2601.10715v1)** | 2026-01-15 | <details><summary>25 pa...</summary><p>25 pages; 16 figures; project page: https://4dqv.mpi-inf.mpg.de/DInf-Grid/</p></details> |
+| **[Communication-Efficient and Privacy-Adaptable Mechanism -- a Federated Learning Scheme with Convergence Analysis](https://arxiv.org/abs/2601.10701v1)** | 2026-01-15 | <details><summary>19 pa...</summary><p>19 pages, 5 figures. This work is submitted in part to the 2026 IEEE International Symposium on Information Theory (ISIT). arXiv admin note: substantial text overlap with arXiv:2501.12046</p></details> |
+| **[A Framework of Distributed Source Encryption using Mutual Information Security Criterion and the Strong Converse Theorem](https://arxiv.org/abs/2507.13294v4)** | 2026-01-15 | <details><summary>29 pa...</summary><p>29 pages, 5 figures. This is an extended version of the paper accepted for presentation in ITW 2025, which will be held at Sydney form Sept. 29 to Oct. 3 in 2025. The conference accepted paper consists of 5 pages for the text and one page for the reference. arXiv admin note: text overlap with arXiv:2102.06363</p></details> |
+| **[Single-Stage Huffman Encoder for ML Compression](https://arxiv.org/abs/2601.10673v1)** | 2026-01-15 | 5 pages, 4 figures |
+| **[SiliconHealth: A Complete Low-Cost Blockchain Healthcare Infrastructure for Resource-Constrained Regions Using Repurposed Bitcoin Mining ASICs](https://arxiv.org/abs/2601.09557v2)** | 2026-01-15 | <details><summary>8 pag...</summary><p>8 pages, 9 tables, 2 figures, experimental validation with cross-device results, economic analysis</p></details> |
 
 ## Describe
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[LARGE: A Locally Adaptive Regularization Approach for Estimating Gaussian Graphical Models](https://arxiv.org/abs/2601.09686v1)** | 2026-01-14 | <details><summary>21 pa...</summary><p>21 pages, 5 figures, 2 tables</p></details> |
-| **[Template-Based Probes Are Imperfect Lenses for Counterfactual Bias Evaluation in LLMs](https://arxiv.org/abs/2404.03471v5)** | 2026-01-14 | <details><summary>22 Pa...</summary><p>22 Pages, 6 Figures, 5 Tables</p></details> |
-| **[PersonalAlign: Hierarchical Implicit Intent Alignment for Personalized GUI Agent with Long-Term User-Centric Records](https://arxiv.org/abs/2601.09636v1)** | 2026-01-14 |  |
-| **[A General Framework for Joint Multi-State Models](https://arxiv.org/abs/2510.07128v2)** | 2026-01-14 | 27 pages, 8 figures |
+| **[DInf-Grid: A Neural Differential Equation Solver with Differentiable Feature Grids](https://arxiv.org/abs/2601.10715v1)** | 2026-01-15 | <details><summary>25 pa...</summary><p>25 pages; 16 figures; project page: https://4dqv.mpi-inf.mpg.de/DInf-Grid/</p></details> |
+| **[Alterbute: Editing Intrinsic Attributes of Objects in Images](https://arxiv.org/abs/2601.10714v1)** | 2026-01-15 | <details><summary>Proje...</summary><p>Project page is available at https://talreiss.github.io/alterbute/</p></details> |
+| **[Communication-Efficient and Privacy-Adaptable Mechanism -- a Federated Learning Scheme with Convergence Analysis](https://arxiv.org/abs/2601.10701v1)** | 2026-01-15 | <details><summary>19 pa...</summary><p>19 pages, 5 figures. This work is submitted in part to the 2026 IEEE International Symposium on Information Theory (ISIT). arXiv admin note: substantial text overlap with arXiv:2501.12046</p></details> |
+| **[A Framework of Distributed Source Encryption using Mutual Information Security Criterion and the Strong Converse Theorem](https://arxiv.org/abs/2507.13294v4)** | 2026-01-15 | <details><summary>29 pa...</summary><p>29 pages, 5 figures. This is an extended version of the paper accepted for presentation in ITW 2025, which will be held at Sydney form Sept. 29 to Oct. 3 in 2025. The conference accepted paper consists of 5 pages for the text and one page for the reference. arXiv admin note: text overlap with arXiv:2102.06363</p></details> |
+| **[Single-Stage Huffman Encoder for ML Compression](https://arxiv.org/abs/2601.10673v1)** | 2026-01-15 | 5 pages, 4 figures |
+| **[Moonworks Lunara Aesthetic Dataset](https://arxiv.org/abs/2601.07941v2)** | 2026-01-15 |  |
 
 ## Light Weight
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[LARGE: A Locally Adaptive Regularization Approach for Estimating Gaussian Graphical Models](https://arxiv.org/abs/2601.09686v1)** | 2026-01-14 | <details><summary>21 pa...</summary><p>21 pages, 5 figures, 2 tables</p></details> |
-| **[Template-Based Probes Are Imperfect Lenses for Counterfactual Bias Evaluation in LLMs](https://arxiv.org/abs/2404.03471v5)** | 2026-01-14 | <details><summary>22 Pa...</summary><p>22 Pages, 6 Figures, 5 Tables</p></details> |
-| **[PersonalAlign: Hierarchical Implicit Intent Alignment for Personalized GUI Agent with Long-Term User-Centric Records](https://arxiv.org/abs/2601.09636v1)** | 2026-01-14 |  |
-| **[Exploiting Task Relationships in Continual Learning via Transferability-Aware Task Embeddings](https://arxiv.org/abs/2502.11609v4)** | 2026-01-14 | <details><summary>28 pa...</summary><p>28 pages, 5 figures, accepted by NeurIPS 2025</p></details> |
-| **[Multimodal Signal Processing For Thermo-Visible-Lidar Fusion In Real-time 3D Semantic Mapping](https://arxiv.org/abs/2601.09578v1)** | 2026-01-14 | <details><summary>5 pag...</summary><p>5 pages,7 figures. Under review</p></details> |
-| **[Hot-Start from Pixels: Low-Resolution Visual Tokens for Chinese Language Modeling](https://arxiv.org/abs/2601.09566v1)** | 2026-01-14 | <details><summary>15 pa...</summary><p>15 pages, 5 figures, submitted to ACL 2026</p></details> |
+| **[DInf-Grid: A Neural Differential Equation Solver with Differentiable Feature Grids](https://arxiv.org/abs/2601.10715v1)** | 2026-01-15 | <details><summary>25 pa...</summary><p>25 pages; 16 figures; project page: https://4dqv.mpi-inf.mpg.de/DInf-Grid/</p></details> |
+| **[Communication-Efficient and Privacy-Adaptable Mechanism -- a Federated Learning Scheme with Convergence Analysis](https://arxiv.org/abs/2601.10701v1)** | 2026-01-15 | <details><summary>19 pa...</summary><p>19 pages, 5 figures. This work is submitted in part to the 2026 IEEE International Symposium on Information Theory (ISIT). arXiv admin note: substantial text overlap with arXiv:2501.12046</p></details> |
+| **[A Framework of Distributed Source Encryption using Mutual Information Security Criterion and the Strong Converse Theorem](https://arxiv.org/abs/2507.13294v4)** | 2026-01-15 | <details><summary>29 pa...</summary><p>29 pages, 5 figures. This is an extended version of the paper accepted for presentation in ITW 2025, which will be held at Sydney form Sept. 29 to Oct. 3 in 2025. The conference accepted paper consists of 5 pages for the text and one page for the reference. arXiv admin note: text overlap with arXiv:2102.06363</p></details> |
+| **[Single-Stage Huffman Encoder for ML Compression](https://arxiv.org/abs/2601.10673v1)** | 2026-01-15 | 5 pages, 4 figures |
+| **[SiliconHealth: A Complete Low-Cost Blockchain Healthcare Infrastructure for Resource-Constrained Regions Using Repurposed Bitcoin Mining ASICs](https://arxiv.org/abs/2601.09557v2)** | 2026-01-15 | <details><summary>8 pag...</summary><p>8 pages, 9 tables, 2 figures, experimental validation with cross-device results, economic analysis</p></details> |
 
 ## Class Incremental
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[LARGE: A Locally Adaptive Regularization Approach for Estimating Gaussian Graphical Models](https://arxiv.org/abs/2601.09686v1)** | 2026-01-14 | <details><summary>21 pa...</summary><p>21 pages, 5 figures, 2 tables</p></details> |
-| **[Template-Based Probes Are Imperfect Lenses for Counterfactual Bias Evaluation in LLMs](https://arxiv.org/abs/2404.03471v5)** | 2026-01-14 | <details><summary>22 Pa...</summary><p>22 Pages, 6 Figures, 5 Tables</p></details> |
-| **[PersonalAlign: Hierarchical Implicit Intent Alignment for Personalized GUI Agent with Long-Term User-Centric Records](https://arxiv.org/abs/2601.09636v1)** | 2026-01-14 |  |
-| **[Enhancing Federated Class-Incremental Learning via Spatial-Temporal Statistics Aggregation](https://arxiv.org/abs/2506.01327v2)** | 2026-01-14 | WWW 2026 |
-| **[Exploiting Task Relationships in Continual Learning via Transferability-Aware Task Embeddings](https://arxiv.org/abs/2502.11609v4)** | 2026-01-14 | <details><summary>28 pa...</summary><p>28 pages, 5 figures, accepted by NeurIPS 2025</p></details> |
-| **[Multimodal Signal Processing For Thermo-Visible-Lidar Fusion In Real-time 3D Semantic Mapping](https://arxiv.org/abs/2601.09578v1)** | 2026-01-14 | <details><summary>5 pag...</summary><p>5 pages,7 figures. Under review</p></details> |
-| **[Hot-Start from Pixels: Low-Resolution Visual Tokens for Chinese Language Modeling](https://arxiv.org/abs/2601.09566v1)** | 2026-01-14 | <details><summary>15 pa...</summary><p>15 pages, 5 figures, submitted to ACL 2026</p></details> |
+| **[DInf-Grid: A Neural Differential Equation Solver with Differentiable Feature Grids](https://arxiv.org/abs/2601.10715v1)** | 2026-01-15 | <details><summary>25 pa...</summary><p>25 pages; 16 figures; project page: https://4dqv.mpi-inf.mpg.de/DInf-Grid/</p></details> |
+| **[Communication-Efficient and Privacy-Adaptable Mechanism -- a Federated Learning Scheme with Convergence Analysis](https://arxiv.org/abs/2601.10701v1)** | 2026-01-15 | <details><summary>19 pa...</summary><p>19 pages, 5 figures. This work is submitted in part to the 2026 IEEE International Symposium on Information Theory (ISIT). arXiv admin note: substantial text overlap with arXiv:2501.12046</p></details> |
+| **[A Framework of Distributed Source Encryption using Mutual Information Security Criterion and the Strong Converse Theorem](https://arxiv.org/abs/2507.13294v4)** | 2026-01-15 | <details><summary>29 pa...</summary><p>29 pages, 5 figures. This is an extended version of the paper accepted for presentation in ITW 2025, which will be held at Sydney form Sept. 29 to Oct. 3 in 2025. The conference accepted paper consists of 5 pages for the text and one page for the reference. arXiv admin note: text overlap with arXiv:2102.06363</p></details> |
+| **[Single-Stage Huffman Encoder for ML Compression](https://arxiv.org/abs/2601.10673v1)** | 2026-01-15 | 5 pages, 4 figures |
+| **[SiliconHealth: A Complete Low-Cost Blockchain Healthcare Infrastructure for Resource-Constrained Regions Using Repurposed Bitcoin Mining ASICs](https://arxiv.org/abs/2601.09557v2)** | 2026-01-15 | <details><summary>8 pag...</summary><p>8 pages, 9 tables, 2 figures, experimental validation with cross-device results, economic analysis</p></details> |
 
