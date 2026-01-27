@@ -1,5 +1,5 @@
 ---
-title: Latest 50 Papers - January 27, 2026
+title: Latest 50 Papers - January 28, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/JiamingZang/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,70 +7,93 @@ labels: documentation
 ## Molecular
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Ultrafast topological data analysis reveals pandemic-scale dynamics of convergent evolution](https://arxiv.org/abs/2106.07292v4)** | 2026-01-23 | substantial revision |
-| **[3D Molecule Generation from Rigid Motifs via SE(3) Flows](https://arxiv.org/abs/2601.16955v1)** | 2026-01-23 |  |
-| **[ProveRAG: Provenance-Driven Vulnerability Analysis with Automated Retrieval-Augmented LLMs](https://arxiv.org/abs/2410.17406v3)** | 2026-01-23 |  |
-| **[AfriEconQA: A Benchmark Dataset for African Economic Analysis based on World Bank Reports](https://arxiv.org/abs/2601.15297v2)** | 2026-01-23 |  |
+| **[MortalMATH: Evaluating the Conflict Between Reasoning Objectives and Emergency Contexts](https://arxiv.org/abs/2601.18790v1)** | 2026-01-26 |  |
+| **[The Blown Lead Paradox: Conditional Laws for the Running Maximum of Binary Doob Martingales](https://arxiv.org/abs/2601.18774v1)** | 2026-01-26 | <details><summary>Submi...</summary><p>Submitted to Stochastic Processes and their Applications. 22 pages, 5 figures</p></details> |
+| **[Let's Make Every Pull Request Meaningful: An Empirical Analysis of Developer and Agentic Pull Requests](https://arxiv.org/abs/2601.18749v1)** | 2026-01-26 | <details><summary>Accep...</summary><p>Accepted for publication in the 23rd International Conference on Mining Software Repositories (MSR '26) : 5 pages, 3 figures, 3 tables</p></details> |
+| **[TensLoRA: Tensor Alternatives for Low-Rank Adaptation](https://arxiv.org/abs/2509.19391v2)** | 2026-01-26 | <details><summary>Publi...</summary><p>Published at ICASSP 2026. 5 pages, 1 figure, 2 tables. Code can be found at https://github.com/ax-le/TensLoRA</p></details> |
+| **[Conditioned Generative Modeling of Molecular Glues: A Realistic AI Approach for Synthesizable Drug-like Molecules](https://arxiv.org/abs/2601.18716v1)** | 2026-01-26 | 30 pages, 8 figures |
+| **[Analyzing Images of Blood Cells with Quantum Machine Learning Methods: Equilibrium Propagation and Variational Quantum Circuits to Detect Acute Myeloid Leukemia](https://arxiv.org/abs/2601.18710v1)** | 2026-01-26 | <details><summary>5 pag...</summary><p>5 pages, 1 figure, 2 tables</p></details> |
+| **[VoXtream: Full-Stream Text-to-Speech with Extremely Low Latency](https://arxiv.org/abs/2509.15969v2)** | 2026-01-26 | <details><summary>5 pag...</summary><p>5 pages, 1 figure, accepted to IEEE ICASSP 2026</p></details> |
 
 ## Molecular Generation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[ProveRAG: Provenance-Driven Vulnerability Analysis with Automated Retrieval-Augmented LLMs](https://arxiv.org/abs/2410.17406v3)** | 2026-01-23 |  |
-| **[AfriEconQA: A Benchmark Dataset for African Economic Analysis based on World Bank Reports](https://arxiv.org/abs/2601.15297v2)** | 2026-01-23 |  |
-| **[Efficient Approximate Degenerate Ordered Statistics Decoding for Quantum Codes via Reliable Subset Reduction](https://arxiv.org/abs/2412.21118v3)** | 2026-01-23 | <details><summary>26 pa...</summary><p>26 pages. Includes applications to STIM/DEM circuit-level noise decoding. Source code for MBP+ADOSD is released on GitHub</p></details> |
+| **[MortalMATH: Evaluating the Conflict Between Reasoning Objectives and Emergency Contexts](https://arxiv.org/abs/2601.18790v1)** | 2026-01-26 |  |
+| **[The Blown Lead Paradox: Conditional Laws for the Running Maximum of Binary Doob Martingales](https://arxiv.org/abs/2601.18774v1)** | 2026-01-26 | <details><summary>Submi...</summary><p>Submitted to Stochastic Processes and their Applications. 22 pages, 5 figures</p></details> |
+| **[Let's Make Every Pull Request Meaningful: An Empirical Analysis of Developer and Agentic Pull Requests](https://arxiv.org/abs/2601.18749v1)** | 2026-01-26 | <details><summary>Accep...</summary><p>Accepted for publication in the 23rd International Conference on Mining Software Repositories (MSR '26) : 5 pages, 3 figures, 3 tables</p></details> |
+| **[TensLoRA: Tensor Alternatives for Low-Rank Adaptation](https://arxiv.org/abs/2509.19391v2)** | 2026-01-26 | <details><summary>Publi...</summary><p>Published at ICASSP 2026. 5 pages, 1 figure, 2 tables. Code can be found at https://github.com/ax-le/TensLoRA</p></details> |
+| **[Analyzing Images of Blood Cells with Quantum Machine Learning Methods: Equilibrium Propagation and Variational Quantum Circuits to Detect Acute Myeloid Leukemia](https://arxiv.org/abs/2601.18710v1)** | 2026-01-26 | <details><summary>5 pag...</summary><p>5 pages, 1 figure, 2 tables</p></details> |
+| **[VoXtream: Full-Stream Text-to-Speech with Extremely Low Latency](https://arxiv.org/abs/2509.15969v2)** | 2026-01-26 | <details><summary>5 pag...</summary><p>5 pages, 1 figure, accepted to IEEE ICASSP 2026</p></details> |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[ProveRAG: Provenance-Driven Vulnerability Analysis with Automated Retrieval-Augmented LLMs](https://arxiv.org/abs/2410.17406v3)** | 2026-01-23 |  |
-| **[AfriEconQA: A Benchmark Dataset for African Economic Analysis based on World Bank Reports](https://arxiv.org/abs/2601.15297v2)** | 2026-01-23 |  |
-| **[Efficient Approximate Degenerate Ordered Statistics Decoding for Quantum Codes via Reliable Subset Reduction](https://arxiv.org/abs/2412.21118v3)** | 2026-01-23 | <details><summary>26 pa...</summary><p>26 pages. Includes applications to STIM/DEM circuit-level noise decoding. Source code for MBP+ADOSD is released on GitHub</p></details> |
+| **[MortalMATH: Evaluating the Conflict Between Reasoning Objectives and Emergency Contexts](https://arxiv.org/abs/2601.18790v1)** | 2026-01-26 |  |
+| **[The Blown Lead Paradox: Conditional Laws for the Running Maximum of Binary Doob Martingales](https://arxiv.org/abs/2601.18774v1)** | 2026-01-26 | <details><summary>Submi...</summary><p>Submitted to Stochastic Processes and their Applications. 22 pages, 5 figures</p></details> |
+| **[Let's Make Every Pull Request Meaningful: An Empirical Analysis of Developer and Agentic Pull Requests](https://arxiv.org/abs/2601.18749v1)** | 2026-01-26 | <details><summary>Accep...</summary><p>Accepted for publication in the 23rd International Conference on Mining Software Repositories (MSR '26) : 5 pages, 3 figures, 3 tables</p></details> |
+| **[TensLoRA: Tensor Alternatives for Low-Rank Adaptation](https://arxiv.org/abs/2509.19391v2)** | 2026-01-26 | <details><summary>Publi...</summary><p>Published at ICASSP 2026. 5 pages, 1 figure, 2 tables. Code can be found at https://github.com/ax-le/TensLoRA</p></details> |
+| **[Analyzing Images of Blood Cells with Quantum Machine Learning Methods: Equilibrium Propagation and Variational Quantum Circuits to Detect Acute Myeloid Leukemia](https://arxiv.org/abs/2601.18710v1)** | 2026-01-26 | <details><summary>5 pag...</summary><p>5 pages, 1 figure, 2 tables</p></details> |
+| **[VoXtream: Full-Stream Text-to-Speech with Extremely Low Latency](https://arxiv.org/abs/2509.15969v2)** | 2026-01-26 | <details><summary>5 pag...</summary><p>5 pages, 1 figure, accepted to IEEE ICASSP 2026</p></details> |
 
 ## Diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[AnyView: Synthesizing Any Novel View in Dynamic Scenes](https://arxiv.org/abs/2601.16982v1)** | 2026-01-23 | <details><summary>Proje...</summary><p>Project webpage: https://tri-ml.github.io/AnyView/</p></details> |
-| **[SyncLight: Controllable and Consistent Multi-View Relighting](https://arxiv.org/abs/2601.16981v1)** | 2026-01-23 | <details><summary>Proje...</summary><p>Project page: http://sync-light.github.io</p></details> |
-| **[Latent Diffusion for Internet of Things Attack Data Generation in Intrusion Detection](https://arxiv.org/abs/2601.16976v1)** | 2026-01-23 | <details><summary>Submi...</summary><p>Submitted to IEEE. 15 pages, 2 figures</p></details> |
-| **[Auto-Regressive Masked Diffusion Models](https://arxiv.org/abs/2601.16971v1)** | 2026-01-23 |  |
-| **[Q-learning with Adjoint Matching](https://arxiv.org/abs/2601.14234v2)** | 2026-01-23 | <details><summary>32 pa...</summary><p>32 pages, 8 figures, 7 tables</p></details> |
-| **[Provable Differentially Private Computation of the Cross-Attention Mechanism](https://arxiv.org/abs/2407.14717v3)** | 2026-01-23 |  |
-| **[ProveRAG: Provenance-Driven Vulnerability Analysis with Automated Retrieval-Augmented LLMs](https://arxiv.org/abs/2410.17406v3)** | 2026-01-23 |  |
-| **[Efficient semantic uncertainty quantification in language models via diversity-steered sampling](https://arxiv.org/abs/2510.21310v2)** | 2026-01-23 | <details><summary>10 pa...</summary><p>10 pages (+7 appendix), 7 figures. Accepted at NeurIPS 2025</p></details> |
-| **[AfriEconQA: A Benchmark Dataset for African Economic Analysis based on World Bank Reports](https://arxiv.org/abs/2601.15297v2)** | 2026-01-23 |  |
-| **[T-LoRA: Single Image Diffusion Model Customization Without Overfitting](https://arxiv.org/abs/2507.05964v2)** | 2026-01-23 | AAAI 2026 |
+| **[MortalMATH: Evaluating the Conflict Between Reasoning Objectives and Emergency Contexts](https://arxiv.org/abs/2601.18790v1)** | 2026-01-26 |  |
+| **[The Blown Lead Paradox: Conditional Laws for the Running Maximum of Binary Doob Martingales](https://arxiv.org/abs/2601.18774v1)** | 2026-01-26 | <details><summary>Submi...</summary><p>Submitted to Stochastic Processes and their Applications. 22 pages, 5 figures</p></details> |
+| **[HiCache: A Plug-in Scaled-Hermite Upgrade for Taylor-Style Cache-then-Forecast Diffusion Acceleration](https://arxiv.org/abs/2508.16984v2)** | 2026-01-26 |  |
+| **[Let's Make Every Pull Request Meaningful: An Empirical Analysis of Developer and Agentic Pull Requests](https://arxiv.org/abs/2601.18749v1)** | 2026-01-26 | <details><summary>Accep...</summary><p>Accepted for publication in the 23rd International Conference on Mining Software Repositories (MSR '26) : 5 pages, 3 figures, 3 tables</p></details> |
+| **[TensLoRA: Tensor Alternatives for Low-Rank Adaptation](https://arxiv.org/abs/2509.19391v2)** | 2026-01-26 | <details><summary>Publi...</summary><p>Published at ICASSP 2026. 5 pages, 1 figure, 2 tables. Code can be found at https://github.com/ax-le/TensLoRA</p></details> |
+| **[Analyzing Images of Blood Cells with Quantum Machine Learning Methods: Equilibrium Propagation and Variational Quantum Circuits to Detect Acute Myeloid Leukemia](https://arxiv.org/abs/2601.18710v1)** | 2026-01-26 | <details><summary>5 pag...</summary><p>5 pages, 1 figure, 2 tables</p></details> |
+| **[No Other Representation Component Is Needed: Diffusion Transformers Can Provide Representation Guidance by Themselves](https://arxiv.org/abs/2505.02831v5)** | 2026-01-26 | <details><summary>ICLR ...</summary><p>ICLR 2026. Self-Representation Alignment for Diffusion Transformers. Code: https://github.com/vvvvvjdy/SRA</p></details> |
 
 ## Object Counting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[ProveRAG: Provenance-Driven Vulnerability Analysis with Automated Retrieval-Augmented LLMs](https://arxiv.org/abs/2410.17406v3)** | 2026-01-23 |  |
-| **[AfriEconQA: A Benchmark Dataset for African Economic Analysis based on World Bank Reports](https://arxiv.org/abs/2601.15297v2)** | 2026-01-23 |  |
-| **[Efficient Approximate Degenerate Ordered Statistics Decoding for Quantum Codes via Reliable Subset Reduction](https://arxiv.org/abs/2412.21118v3)** | 2026-01-23 | <details><summary>26 pa...</summary><p>26 pages. Includes applications to STIM/DEM circuit-level noise decoding. Source code for MBP+ADOSD is released on GitHub</p></details> |
+| **[MortalMATH: Evaluating the Conflict Between Reasoning Objectives and Emergency Contexts](https://arxiv.org/abs/2601.18790v1)** | 2026-01-26 |  |
+| **[The Blown Lead Paradox: Conditional Laws for the Running Maximum of Binary Doob Martingales](https://arxiv.org/abs/2601.18774v1)** | 2026-01-26 | <details><summary>Submi...</summary><p>Submitted to Stochastic Processes and their Applications. 22 pages, 5 figures</p></details> |
+| **[Let's Make Every Pull Request Meaningful: An Empirical Analysis of Developer and Agentic Pull Requests](https://arxiv.org/abs/2601.18749v1)** | 2026-01-26 | <details><summary>Accep...</summary><p>Accepted for publication in the 23rd International Conference on Mining Software Repositories (MSR '26) : 5 pages, 3 figures, 3 tables</p></details> |
+| **[TensLoRA: Tensor Alternatives for Low-Rank Adaptation](https://arxiv.org/abs/2509.19391v2)** | 2026-01-26 | <details><summary>Publi...</summary><p>Published at ICASSP 2026. 5 pages, 1 figure, 2 tables. Code can be found at https://github.com/ax-le/TensLoRA</p></details> |
+| **[Analyzing Images of Blood Cells with Quantum Machine Learning Methods: Equilibrium Propagation and Variational Quantum Circuits to Detect Acute Myeloid Leukemia](https://arxiv.org/abs/2601.18710v1)** | 2026-01-26 | <details><summary>5 pag...</summary><p>5 pages, 1 figure, 2 tables</p></details> |
+| **[VoXtream: Full-Stream Text-to-Speech with Extremely Low Latency](https://arxiv.org/abs/2509.15969v2)** | 2026-01-26 | <details><summary>5 pag...</summary><p>5 pages, 1 figure, accepted to IEEE ICASSP 2026</p></details> |
 
 ## Image Caption
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[ProveRAG: Provenance-Driven Vulnerability Analysis with Automated Retrieval-Augmented LLMs](https://arxiv.org/abs/2410.17406v3)** | 2026-01-23 |  |
-| **[AfriEconQA: A Benchmark Dataset for African Economic Analysis based on World Bank Reports](https://arxiv.org/abs/2601.15297v2)** | 2026-01-23 |  |
-| **[Efficient Approximate Degenerate Ordered Statistics Decoding for Quantum Codes via Reliable Subset Reduction](https://arxiv.org/abs/2412.21118v3)** | 2026-01-23 | <details><summary>26 pa...</summary><p>26 pages. Includes applications to STIM/DEM circuit-level noise decoding. Source code for MBP+ADOSD is released on GitHub</p></details> |
+| **[MortalMATH: Evaluating the Conflict Between Reasoning Objectives and Emergency Contexts](https://arxiv.org/abs/2601.18790v1)** | 2026-01-26 |  |
+| **[The Blown Lead Paradox: Conditional Laws for the Running Maximum of Binary Doob Martingales](https://arxiv.org/abs/2601.18774v1)** | 2026-01-26 | <details><summary>Submi...</summary><p>Submitted to Stochastic Processes and their Applications. 22 pages, 5 figures</p></details> |
+| **[Let's Make Every Pull Request Meaningful: An Empirical Analysis of Developer and Agentic Pull Requests](https://arxiv.org/abs/2601.18749v1)** | 2026-01-26 | <details><summary>Accep...</summary><p>Accepted for publication in the 23rd International Conference on Mining Software Repositories (MSR '26) : 5 pages, 3 figures, 3 tables</p></details> |
+| **[TensLoRA: Tensor Alternatives for Low-Rank Adaptation](https://arxiv.org/abs/2509.19391v2)** | 2026-01-26 | <details><summary>Publi...</summary><p>Published at ICASSP 2026. 5 pages, 1 figure, 2 tables. Code can be found at https://github.com/ax-le/TensLoRA</p></details> |
+| **[Analyzing Images of Blood Cells with Quantum Machine Learning Methods: Equilibrium Propagation and Variational Quantum Circuits to Detect Acute Myeloid Leukemia](https://arxiv.org/abs/2601.18710v1)** | 2026-01-26 | <details><summary>5 pag...</summary><p>5 pages, 1 figure, 2 tables</p></details> |
+| **[VoXtream: Full-Stream Text-to-Speech with Extremely Low Latency](https://arxiv.org/abs/2509.15969v2)** | 2026-01-26 | <details><summary>5 pag...</summary><p>5 pages, 1 figure, accepted to IEEE ICASSP 2026</p></details> |
 
 ## Describe
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[ProveRAG: Provenance-Driven Vulnerability Analysis with Automated Retrieval-Augmented LLMs](https://arxiv.org/abs/2410.17406v3)** | 2026-01-23 |  |
-| **[AfriEconQA: A Benchmark Dataset for African Economic Analysis based on World Bank Reports](https://arxiv.org/abs/2601.15297v2)** | 2026-01-23 |  |
+| **[ctELM: Decoding and Manipulating Embeddings of Clinical Trials with Embedding Language Models](https://arxiv.org/abs/2601.18796v1)** | 2026-01-26 |  |
+| **[Handling Scope Checks (Extended Version)](https://arxiv.org/abs/2601.18793v1)** | 2026-01-26 | <details><summary>Exten...</summary><p>Extended version of Handling Scope Checks (POPL'26): includes appendices, fixes minor typos, and tweaks phrasing for readability</p></details> |
+| **[MortalMATH: Evaluating the Conflict Between Reasoning Objectives and Emergency Contexts](https://arxiv.org/abs/2601.18790v1)** | 2026-01-26 |  |
+| **[The Blown Lead Paradox: Conditional Laws for the Running Maximum of Binary Doob Martingales](https://arxiv.org/abs/2601.18774v1)** | 2026-01-26 | <details><summary>Submi...</summary><p>Submitted to Stochastic Processes and their Applications. 22 pages, 5 figures</p></details> |
+| **[From Access Control to Usage Control with User-Managed Access](https://arxiv.org/abs/2601.18761v1)** | 2026-01-26 |  |
+| **[Let's Make Every Pull Request Meaningful: An Empirical Analysis of Developer and Agentic Pull Requests](https://arxiv.org/abs/2601.18749v1)** | 2026-01-26 | <details><summary>Accep...</summary><p>Accepted for publication in the 23rd International Conference on Mining Software Repositories (MSR '26) : 5 pages, 3 figures, 3 tables</p></details> |
+| **[TensLoRA: Tensor Alternatives for Low-Rank Adaptation](https://arxiv.org/abs/2509.19391v2)** | 2026-01-26 | <details><summary>Publi...</summary><p>Published at ICASSP 2026. 5 pages, 1 figure, 2 tables. Code can be found at https://github.com/ax-le/TensLoRA</p></details> |
 
 ## Light Weight
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[ProveRAG: Provenance-Driven Vulnerability Analysis with Automated Retrieval-Augmented LLMs](https://arxiv.org/abs/2410.17406v3)** | 2026-01-23 |  |
-| **[AfriEconQA: A Benchmark Dataset for African Economic Analysis based on World Bank Reports](https://arxiv.org/abs/2601.15297v2)** | 2026-01-23 |  |
-| **[Efficient Approximate Degenerate Ordered Statistics Decoding for Quantum Codes via Reliable Subset Reduction](https://arxiv.org/abs/2412.21118v3)** | 2026-01-23 | <details><summary>26 pa...</summary><p>26 pages. Includes applications to STIM/DEM circuit-level noise decoding. Source code for MBP+ADOSD is released on GitHub</p></details> |
+| **[MortalMATH: Evaluating the Conflict Between Reasoning Objectives and Emergency Contexts](https://arxiv.org/abs/2601.18790v1)** | 2026-01-26 |  |
+| **[The Blown Lead Paradox: Conditional Laws for the Running Maximum of Binary Doob Martingales](https://arxiv.org/abs/2601.18774v1)** | 2026-01-26 | <details><summary>Submi...</summary><p>Submitted to Stochastic Processes and their Applications. 22 pages, 5 figures</p></details> |
+| **[Let's Make Every Pull Request Meaningful: An Empirical Analysis of Developer and Agentic Pull Requests](https://arxiv.org/abs/2601.18749v1)** | 2026-01-26 | <details><summary>Accep...</summary><p>Accepted for publication in the 23rd International Conference on Mining Software Repositories (MSR '26) : 5 pages, 3 figures, 3 tables</p></details> |
+| **[TensLoRA: Tensor Alternatives for Low-Rank Adaptation](https://arxiv.org/abs/2509.19391v2)** | 2026-01-26 | <details><summary>Publi...</summary><p>Published at ICASSP 2026. 5 pages, 1 figure, 2 tables. Code can be found at https://github.com/ax-le/TensLoRA</p></details> |
+| **[Analyzing Images of Blood Cells with Quantum Machine Learning Methods: Equilibrium Propagation and Variational Quantum Circuits to Detect Acute Myeloid Leukemia](https://arxiv.org/abs/2601.18710v1)** | 2026-01-26 | <details><summary>5 pag...</summary><p>5 pages, 1 figure, 2 tables</p></details> |
+| **[VoXtream: Full-Stream Text-to-Speech with Extremely Low Latency](https://arxiv.org/abs/2509.15969v2)** | 2026-01-26 | <details><summary>5 pag...</summary><p>5 pages, 1 figure, accepted to IEEE ICASSP 2026</p></details> |
 
 ## Class Incremental
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[ProveRAG: Provenance-Driven Vulnerability Analysis with Automated Retrieval-Augmented LLMs](https://arxiv.org/abs/2410.17406v3)** | 2026-01-23 |  |
-| **[AfriEconQA: A Benchmark Dataset for African Economic Analysis based on World Bank Reports](https://arxiv.org/abs/2601.15297v2)** | 2026-01-23 |  |
-| **[Efficient Approximate Degenerate Ordered Statistics Decoding for Quantum Codes via Reliable Subset Reduction](https://arxiv.org/abs/2412.21118v3)** | 2026-01-23 | <details><summary>26 pa...</summary><p>26 pages. Includes applications to STIM/DEM circuit-level noise decoding. Source code for MBP+ADOSD is released on GitHub</p></details> |
+| **[MortalMATH: Evaluating the Conflict Between Reasoning Objectives and Emergency Contexts](https://arxiv.org/abs/2601.18790v1)** | 2026-01-26 |  |
+| **[The Blown Lead Paradox: Conditional Laws for the Running Maximum of Binary Doob Martingales](https://arxiv.org/abs/2601.18774v1)** | 2026-01-26 | <details><summary>Submi...</summary><p>Submitted to Stochastic Processes and their Applications. 22 pages, 5 figures</p></details> |
+| **[Let's Make Every Pull Request Meaningful: An Empirical Analysis of Developer and Agentic Pull Requests](https://arxiv.org/abs/2601.18749v1)** | 2026-01-26 | <details><summary>Accep...</summary><p>Accepted for publication in the 23rd International Conference on Mining Software Repositories (MSR '26) : 5 pages, 3 figures, 3 tables</p></details> |
+| **[TensLoRA: Tensor Alternatives for Low-Rank Adaptation](https://arxiv.org/abs/2509.19391v2)** | 2026-01-26 | <details><summary>Publi...</summary><p>Published at ICASSP 2026. 5 pages, 1 figure, 2 tables. Code can be found at https://github.com/ax-le/TensLoRA</p></details> |
+| **[Analyzing Images of Blood Cells with Quantum Machine Learning Methods: Equilibrium Propagation and Variational Quantum Circuits to Detect Acute Myeloid Leukemia](https://arxiv.org/abs/2601.18710v1)** | 2026-01-26 | <details><summary>5 pag...</summary><p>5 pages, 1 figure, 2 tables</p></details> |
+| **[VoXtream: Full-Stream Text-to-Speech with Extremely Low Latency](https://arxiv.org/abs/2509.15969v2)** | 2026-01-26 | <details><summary>5 pag...</summary><p>5 pages, 1 figure, accepted to IEEE ICASSP 2026</p></details> |
 
