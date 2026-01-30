@@ -1,5 +1,5 @@
 ---
-title: Latest 50 Papers - January 30, 2026
+title: Latest 50 Papers - January 31, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/JiamingZang/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,103 +7,140 @@ labels: documentation
 ## Molecular
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Recursive Language Models](https://arxiv.org/abs/2512.24601v2)** | 2026-01-28 | <details><summary>9 pag...</summary><p>9 pages, 33 with Appendix</p></details> |
-| **[When Flores Bloomz Wrong: Cross-Direction Contamination in Machine Translation Evaluation](https://arxiv.org/abs/2601.20858v1)** | 2026-01-28 | <details><summary>5 pag...</summary><p>5 pages of content, 15 total. 5 figures, 12 tables total. Accepted to EACL 2026 main conference. Code can be found here: github.com/Mr-Ao-25/cross-ling-contamination</p></details> |
-| **[PatchFormer: A Patch-Based Time Series Foundation Model with Hierarchical Masked Reconstruction and Cross-Domain Transfer Learning for Zero-Shot Multi-Horizon Forecasting](https://arxiv.org/abs/2601.20845v1)** | 2026-01-28 | <details><summary>5 pag...</summary><p>5 pages; 2 figures; 7 tables</p></details> |
-| **[DiffRatio: Training One-Step Diffusion Models Without Teacher Supervision](https://arxiv.org/abs/2502.08005v5)** | 2026-01-28 | <details><summary>22 pa...</summary><p>22 pages, 8 figures, 5 tables, 2 algorithms</p></details> |
-| **[Jurisdiction as Structural Barrier: How Privacy Policy Organization May Reduce Visibility of Substantive Disclosures](https://arxiv.org/abs/2601.20792v1)** | 2026-01-28 | <details><summary>25 pa...</summary><p>25 pages, 2 figures, 5 tables</p></details> |
-| **[Breaking Bad Molecules: Are MLLMs Ready for Structure-Level Molecular Detoxification?](https://arxiv.org/abs/2506.10912v3)** | 2026-01-28 |  |
-| **[REASON: Accelerating Probabilistic Logical Reasoning for Scalable Neuro-Symbolic Intelligence](https://arxiv.org/abs/2601.20784v1)** | 2026-01-28 | <details><summary>16 pa...</summary><p>16 pages, 13 figures, 5 tables, 2026 IEEE International Symposium on High-Performance Computer Architecture (HPCA)</p></details> |
+| **[UEval: A Benchmark for Unified Multimodal Generation](https://arxiv.org/abs/2601.22155v1)** | 2026-01-29 |  |
+| **[Do VLMs Perceive or Recall? Probing Visual Perception vs. Memory with Classic Visual Illusions](https://arxiv.org/abs/2601.22150v1)** | 2026-01-29 | <details><summary>26 pa...</summary><p>26 pages, 31 figures, 13 tables. Project Page: https://sites.google.com/view/vi-probe/</p></details> |
+| **[Variance component score test for multivariate change point detection with applications to mobile health](https://arxiv.org/abs/2601.22147v1)** | 2026-01-29 | 15 pages, 5 figures |
+| **[Early and Prediagnostic Detection of Pancreatic Cancer from Computed Tomography](https://arxiv.org/abs/2601.22134v1)** | 2026-01-29 |  |
+| **[Learning Hamiltonian Flow Maps: Mean Flow Consistency for Large-Timestep Molecular Dynamics](https://arxiv.org/abs/2601.22123v1)** | 2026-01-29 |  |
+| **[How Does Cognitive Capability and Personality Influence Problem Solving in Coding Interview Puzzles?](https://arxiv.org/abs/2511.14367v2)** | 2026-01-29 | <details><summary>11 pa...</summary><p>11 pages, 5 figures, 6 tables, 19th IEEE/ACM International Conference on Cooperative and Human Aspects of Software Engineering (CHASE 2026)</p></details> |
+| **[Interval Spacing](https://arxiv.org/abs/2601.22116v1)** | 2026-01-29 | 19 pages, 5 figures |
+| **[Diverse Approaches to Optimal Execution Schedule Generation](https://arxiv.org/abs/2601.22113v1)** | 2026-01-29 | <details><summary>27 pa...</summary><p>27 pages, 15 figures, 5 tables</p></details> |
+| **[Where Do the Joules Go? Diagnosing Inference Energy Consumption](https://arxiv.org/abs/2601.22076v1)** | 2026-01-29 | <details><summary>The M...</summary><p>The ML.ENERGY Leaderboard v3.0 is open https://ml.energy/leaderboard</p></details> |
+| **[How Many Ratings per Item are Necessary for Reliable Significance Testing?](https://arxiv.org/abs/2412.02968v3)** | 2026-01-29 | <details><summary>Accep...</summary><p>Accepted at EACL Findings 2026</p></details> |
+| **[SiDGen: Structure-informed Diffusion for Generative modeling of Ligands for Proteins](https://arxiv.org/abs/2511.09529v2)** | 2026-01-29 | 10 pages, 2 figures |
+| **[Vision-DeepResearch: Incentivizing DeepResearch Capability in Multimodal Large Language Models](https://arxiv.org/abs/2601.22060v1)** | 2026-01-29 |  |
 
 ## Molecular Generation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Recursive Language Models](https://arxiv.org/abs/2512.24601v2)** | 2026-01-28 | <details><summary>9 pag...</summary><p>9 pages, 33 with Appendix</p></details> |
-| **[When Flores Bloomz Wrong: Cross-Direction Contamination in Machine Translation Evaluation](https://arxiv.org/abs/2601.20858v1)** | 2026-01-28 | <details><summary>5 pag...</summary><p>5 pages of content, 15 total. 5 figures, 12 tables total. Accepted to EACL 2026 main conference. Code can be found here: github.com/Mr-Ao-25/cross-ling-contamination</p></details> |
-| **[PatchFormer: A Patch-Based Time Series Foundation Model with Hierarchical Masked Reconstruction and Cross-Domain Transfer Learning for Zero-Shot Multi-Horizon Forecasting](https://arxiv.org/abs/2601.20845v1)** | 2026-01-28 | <details><summary>5 pag...</summary><p>5 pages; 2 figures; 7 tables</p></details> |
-| **[DiffRatio: Training One-Step Diffusion Models Without Teacher Supervision](https://arxiv.org/abs/2502.08005v5)** | 2026-01-28 | <details><summary>22 pa...</summary><p>22 pages, 8 figures, 5 tables, 2 algorithms</p></details> |
-| **[Jurisdiction as Structural Barrier: How Privacy Policy Organization May Reduce Visibility of Substantive Disclosures](https://arxiv.org/abs/2601.20792v1)** | 2026-01-28 | <details><summary>25 pa...</summary><p>25 pages, 2 figures, 5 tables</p></details> |
-| **[REASON: Accelerating Probabilistic Logical Reasoning for Scalable Neuro-Symbolic Intelligence](https://arxiv.org/abs/2601.20784v1)** | 2026-01-28 | <details><summary>16 pa...</summary><p>16 pages, 13 figures, 5 tables, 2026 IEEE International Symposium on High-Performance Computer Architecture (HPCA)</p></details> |
-| **[Cross-Country Learning for National Infectious Disease Forecasting Using European Data](https://arxiv.org/abs/2601.20771v1)** | 2026-01-28 | <details><summary>7 pag...</summary><p>7 pages, 4 figures, 5 tables</p></details> |
+| **[UEval: A Benchmark for Unified Multimodal Generation](https://arxiv.org/abs/2601.22155v1)** | 2026-01-29 |  |
+| **[Do VLMs Perceive or Recall? Probing Visual Perception vs. Memory with Classic Visual Illusions](https://arxiv.org/abs/2601.22150v1)** | 2026-01-29 | <details><summary>26 pa...</summary><p>26 pages, 31 figures, 13 tables. Project Page: https://sites.google.com/view/vi-probe/</p></details> |
+| **[Variance component score test for multivariate change point detection with applications to mobile health](https://arxiv.org/abs/2601.22147v1)** | 2026-01-29 | 15 pages, 5 figures |
+| **[Early and Prediagnostic Detection of Pancreatic Cancer from Computed Tomography](https://arxiv.org/abs/2601.22134v1)** | 2026-01-29 |  |
+| **[How Does Cognitive Capability and Personality Influence Problem Solving in Coding Interview Puzzles?](https://arxiv.org/abs/2511.14367v2)** | 2026-01-29 | <details><summary>11 pa...</summary><p>11 pages, 5 figures, 6 tables, 19th IEEE/ACM International Conference on Cooperative and Human Aspects of Software Engineering (CHASE 2026)</p></details> |
+| **[Interval Spacing](https://arxiv.org/abs/2601.22116v1)** | 2026-01-29 | 19 pages, 5 figures |
+| **[Diverse Approaches to Optimal Execution Schedule Generation](https://arxiv.org/abs/2601.22113v1)** | 2026-01-29 | <details><summary>27 pa...</summary><p>27 pages, 15 figures, 5 tables</p></details> |
+| **[Where Do the Joules Go? Diagnosing Inference Energy Consumption](https://arxiv.org/abs/2601.22076v1)** | 2026-01-29 | <details><summary>The M...</summary><p>The ML.ENERGY Leaderboard v3.0 is open https://ml.energy/leaderboard</p></details> |
+| **[How Many Ratings per Item are Necessary for Reliable Significance Testing?](https://arxiv.org/abs/2412.02968v3)** | 2026-01-29 | <details><summary>Accep...</summary><p>Accepted at EACL Findings 2026</p></details> |
+| **[Vision-DeepResearch: Incentivizing DeepResearch Capability in Multimodal Large Language Models](https://arxiv.org/abs/2601.22060v1)** | 2026-01-29 |  |
+| **[$G^2$-Reader: Dual Evolving Graphs for Multimodal Document QA](https://arxiv.org/abs/2601.22055v1)** | 2026-01-29 |  |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Recursive Language Models](https://arxiv.org/abs/2512.24601v2)** | 2026-01-28 | <details><summary>9 pag...</summary><p>9 pages, 33 with Appendix</p></details> |
-| **[When Flores Bloomz Wrong: Cross-Direction Contamination in Machine Translation Evaluation](https://arxiv.org/abs/2601.20858v1)** | 2026-01-28 | <details><summary>5 pag...</summary><p>5 pages of content, 15 total. 5 figures, 12 tables total. Accepted to EACL 2026 main conference. Code can be found here: github.com/Mr-Ao-25/cross-ling-contamination</p></details> |
-| **[PatchFormer: A Patch-Based Time Series Foundation Model with Hierarchical Masked Reconstruction and Cross-Domain Transfer Learning for Zero-Shot Multi-Horizon Forecasting](https://arxiv.org/abs/2601.20845v1)** | 2026-01-28 | <details><summary>5 pag...</summary><p>5 pages; 2 figures; 7 tables</p></details> |
-| **[GNN Explanations that do not Explain and How to find Them](https://arxiv.org/abs/2601.20815v1)** | 2026-01-28 |  |
-| **[DiffRatio: Training One-Step Diffusion Models Without Teacher Supervision](https://arxiv.org/abs/2502.08005v5)** | 2026-01-28 | <details><summary>22 pa...</summary><p>22 pages, 8 figures, 5 tables, 2 algorithms</p></details> |
-| **[Jurisdiction as Structural Barrier: How Privacy Policy Organization May Reduce Visibility of Substantive Disclosures](https://arxiv.org/abs/2601.20792v1)** | 2026-01-28 | <details><summary>25 pa...</summary><p>25 pages, 2 figures, 5 tables</p></details> |
-| **[REASON: Accelerating Probabilistic Logical Reasoning for Scalable Neuro-Symbolic Intelligence](https://arxiv.org/abs/2601.20784v1)** | 2026-01-28 | <details><summary>16 pa...</summary><p>16 pages, 13 figures, 5 tables, 2026 IEEE International Symposium on High-Performance Computer Architecture (HPCA)</p></details> |
-| **[Cross-Country Learning for National Infectious Disease Forecasting Using European Data](https://arxiv.org/abs/2601.20771v1)** | 2026-01-28 | <details><summary>7 pag...</summary><p>7 pages, 4 figures, 5 tables</p></details> |
+| **[UEval: A Benchmark for Unified Multimodal Generation](https://arxiv.org/abs/2601.22155v1)** | 2026-01-29 |  |
+| **[Do VLMs Perceive or Recall? Probing Visual Perception vs. Memory with Classic Visual Illusions](https://arxiv.org/abs/2601.22150v1)** | 2026-01-29 | <details><summary>26 pa...</summary><p>26 pages, 31 figures, 13 tables. Project Page: https://sites.google.com/view/vi-probe/</p></details> |
+| **[Variance component score test for multivariate change point detection with applications to mobile health](https://arxiv.org/abs/2601.22147v1)** | 2026-01-29 | 15 pages, 5 figures |
+| **[Early and Prediagnostic Detection of Pancreatic Cancer from Computed Tomography](https://arxiv.org/abs/2601.22134v1)** | 2026-01-29 |  |
+| **[How Does Cognitive Capability and Personality Influence Problem Solving in Coding Interview Puzzles?](https://arxiv.org/abs/2511.14367v2)** | 2026-01-29 | <details><summary>11 pa...</summary><p>11 pages, 5 figures, 6 tables, 19th IEEE/ACM International Conference on Cooperative and Human Aspects of Software Engineering (CHASE 2026)</p></details> |
+| **[Interval Spacing](https://arxiv.org/abs/2601.22116v1)** | 2026-01-29 | 19 pages, 5 figures |
+| **[Diverse Approaches to Optimal Execution Schedule Generation](https://arxiv.org/abs/2601.22113v1)** | 2026-01-29 | <details><summary>27 pa...</summary><p>27 pages, 15 figures, 5 tables</p></details> |
+| **[Do graph neural network states contain graph properties?](https://arxiv.org/abs/2411.02168v3)** | 2026-01-29 | <details><summary>10 pa...</summary><p>10 pages, 22 figures, conference</p></details> |
+| **[Where Do the Joules Go? Diagnosing Inference Energy Consumption](https://arxiv.org/abs/2601.22076v1)** | 2026-01-29 | <details><summary>The M...</summary><p>The ML.ENERGY Leaderboard v3.0 is open https://ml.energy/leaderboard</p></details> |
+| **[How Many Ratings per Item are Necessary for Reliable Significance Testing?](https://arxiv.org/abs/2412.02968v3)** | 2026-01-29 | <details><summary>Accep...</summary><p>Accepted at EACL Findings 2026</p></details> |
+| **[Vision-DeepResearch: Incentivizing DeepResearch Capability in Multimodal Large Language Models](https://arxiv.org/abs/2601.22060v1)** | 2026-01-29 |  |
+| **[$G^2$-Reader: Dual Evolving Graphs for Multimodal Document QA](https://arxiv.org/abs/2601.22055v1)** | 2026-01-29 |  |
 
 ## Diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Recursive Language Models](https://arxiv.org/abs/2512.24601v2)** | 2026-01-28 | <details><summary>9 pag...</summary><p>9 pages, 33 with Appendix</p></details> |
-| **[When Flores Bloomz Wrong: Cross-Direction Contamination in Machine Translation Evaluation](https://arxiv.org/abs/2601.20858v1)** | 2026-01-28 | <details><summary>5 pag...</summary><p>5 pages of content, 15 total. 5 figures, 12 tables total. Accepted to EACL 2026 main conference. Code can be found here: github.com/Mr-Ao-25/cross-ling-contamination</p></details> |
-| **[FreeFix: Boosting 3D Gaussian Splatting via Fine-Tuning-Free Diffusion Models](https://arxiv.org/abs/2601.20857v1)** | 2026-01-28 | <details><summary>Our p...</summary><p>Our project page is at https://xdimlab.github.io/freefix</p></details> |
-| **[Fail Fast, Win Big: Rethinking the Drafting Strategy in Speculative Decoding via Diffusion LLMs](https://arxiv.org/abs/2512.20573v3)** | 2026-01-28 |  |
-| **[PatchFormer: A Patch-Based Time Series Foundation Model with Hierarchical Masked Reconstruction and Cross-Domain Transfer Learning for Zero-Shot Multi-Horizon Forecasting](https://arxiv.org/abs/2601.20845v1)** | 2026-01-28 | <details><summary>5 pag...</summary><p>5 pages; 2 figures; 7 tables</p></details> |
-| **[REST: Diffusion-based Real-time End-to-end Streaming Talking Head Generation via ID-Context Caching and Asynchronous Streaming Distillation](https://arxiv.org/abs/2512.11229v2)** | 2026-01-28 | 27 pages, 10 figures |
-| **[DiffRatio: Training One-Step Diffusion Models Without Teacher Supervision](https://arxiv.org/abs/2502.08005v5)** | 2026-01-28 | <details><summary>22 pa...</summary><p>22 pages, 8 figures, 5 tables, 2 algorithms</p></details> |
-| **[Jurisdiction as Structural Barrier: How Privacy Policy Organization May Reduce Visibility of Substantive Disclosures](https://arxiv.org/abs/2601.20792v1)** | 2026-01-28 | <details><summary>25 pa...</summary><p>25 pages, 2 figures, 5 tables</p></details> |
-| **[FAIRT2V: Training-Free Debiasing for Text-to-Video Diffusion Models](https://arxiv.org/abs/2601.20791v1)** | 2026-01-28 |  |
-| **[REASON: Accelerating Probabilistic Logical Reasoning for Scalable Neuro-Symbolic Intelligence](https://arxiv.org/abs/2601.20784v1)** | 2026-01-28 | <details><summary>16 pa...</summary><p>16 pages, 13 figures, 5 tables, 2026 IEEE International Symposium on High-Performance Computer Architecture (HPCA)</p></details> |
+| **[One-step Latent-free Image Generation with Pixel Mean Flows](https://arxiv.org/abs/2601.22158v1)** | 2026-01-29 | Technical report |
+| **[UEval: A Benchmark for Unified Multimodal Generation](https://arxiv.org/abs/2601.22155v1)** | 2026-01-29 |  |
+| **[Do VLMs Perceive or Recall? Probing Visual Perception vs. Memory with Classic Visual Illusions](https://arxiv.org/abs/2601.22150v1)** | 2026-01-29 | <details><summary>26 pa...</summary><p>26 pages, 31 figures, 13 tables. Project Page: https://sites.google.com/view/vi-probe/</p></details> |
+| **[Variance component score test for multivariate change point detection with applications to mobile health](https://arxiv.org/abs/2601.22147v1)** | 2026-01-29 | 15 pages, 5 figures |
+| **[Think Twice: Branch-and-Rethink Reasoning Reward Model](https://arxiv.org/abs/2510.23596v3)** | 2026-01-29 | <details><summary>Sourc...</summary><p>Source Code: https://github.com/yzjiao/BR-RM. Model Checkpoints: https://huggingface.co/nvidia/Qwen3-Nemotron-14B-BRRM and https://huggingface.co/nvidia/Qwen3-Nemotron-8B-BRRM</p></details> |
+| **[JUST-DUB-IT: Video Dubbing via Joint Audio-Visual Diffusion](https://arxiv.org/abs/2601.22143v1)** | 2026-01-29 | <details><summary>Proje...</summary><p>Project webpage available at https://justdubit.github.io</p></details> |
+| **[PI-Light: Physics-Inspired Diffusion for Full-Image Relighting](https://arxiv.org/abs/2601.22135v1)** | 2026-01-29 | <details><summary>Accep...</summary><p>Accepted at ICLR 2026</p></details> |
+| **[Early and Prediagnostic Detection of Pancreatic Cancer from Computed Tomography](https://arxiv.org/abs/2601.22134v1)** | 2026-01-29 |  |
+| **[EditYourself: Audio-Driven Generation and Manipulation of Talking Head Videos with Diffusion Transformers](https://arxiv.org/abs/2601.22127v1)** | 2026-01-29 | <details><summary>Proje...</summary><p>Project page: https://edit-yourself.github.io/</p></details> |
+| **[Creative Image Generation with Diffusion Model](https://arxiv.org/abs/2601.22125v1)** | 2026-01-29 | <details><summary>Proje...</summary><p>Project page: https://creative-t2i.github.io</p></details> |
+| **[How Does Cognitive Capability and Personality Influence Problem Solving in Coding Interview Puzzles?](https://arxiv.org/abs/2511.14367v2)** | 2026-01-29 | <details><summary>11 pa...</summary><p>11 pages, 5 figures, 6 tables, 19th IEEE/ACM International Conference on Cooperative and Human Aspects of Software Engineering (CHASE 2026)</p></details> |
+| **[Interval Spacing](https://arxiv.org/abs/2601.22116v1)** | 2026-01-29 | 19 pages, 5 figures |
+| **[Diverse Approaches to Optimal Execution Schedule Generation](https://arxiv.org/abs/2601.22113v1)** | 2026-01-29 | <details><summary>27 pa...</summary><p>27 pages, 15 figures, 5 tables</p></details> |
+| **[RefAny3D: 3D Asset-Referenced Diffusion Models for Image Generation](https://arxiv.org/abs/2601.22094v1)** | 2026-01-29 | <details><summary>ICLR ...</summary><p>ICLR 2026. Project page: https://judgementh.github.io/RefAny3D Codes: https://github.com/JudgementH/RefAny3D</p></details> |
 
 ## Object Counting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Recursive Language Models](https://arxiv.org/abs/2512.24601v2)** | 2026-01-28 | <details><summary>9 pag...</summary><p>9 pages, 33 with Appendix</p></details> |
-| **[When Flores Bloomz Wrong: Cross-Direction Contamination in Machine Translation Evaluation](https://arxiv.org/abs/2601.20858v1)** | 2026-01-28 | <details><summary>5 pag...</summary><p>5 pages of content, 15 total. 5 figures, 12 tables total. Accepted to EACL 2026 main conference. Code can be found here: github.com/Mr-Ao-25/cross-ling-contamination</p></details> |
-| **[PatchFormer: A Patch-Based Time Series Foundation Model with Hierarchical Masked Reconstruction and Cross-Domain Transfer Learning for Zero-Shot Multi-Horizon Forecasting](https://arxiv.org/abs/2601.20845v1)** | 2026-01-28 | <details><summary>5 pag...</summary><p>5 pages; 2 figures; 7 tables</p></details> |
-| **[DiffRatio: Training One-Step Diffusion Models Without Teacher Supervision](https://arxiv.org/abs/2502.08005v5)** | 2026-01-28 | <details><summary>22 pa...</summary><p>22 pages, 8 figures, 5 tables, 2 algorithms</p></details> |
-| **[Jurisdiction as Structural Barrier: How Privacy Policy Organization May Reduce Visibility of Substantive Disclosures](https://arxiv.org/abs/2601.20792v1)** | 2026-01-28 | <details><summary>25 pa...</summary><p>25 pages, 2 figures, 5 tables</p></details> |
-| **[REASON: Accelerating Probabilistic Logical Reasoning for Scalable Neuro-Symbolic Intelligence](https://arxiv.org/abs/2601.20784v1)** | 2026-01-28 | <details><summary>16 pa...</summary><p>16 pages, 13 figures, 5 tables, 2026 IEEE International Symposium on High-Performance Computer Architecture (HPCA)</p></details> |
-| **[Cross-Country Learning for National Infectious Disease Forecasting Using European Data](https://arxiv.org/abs/2601.20771v1)** | 2026-01-28 | <details><summary>7 pag...</summary><p>7 pages, 4 figures, 5 tables</p></details> |
+| **[UEval: A Benchmark for Unified Multimodal Generation](https://arxiv.org/abs/2601.22155v1)** | 2026-01-29 |  |
+| **[Do VLMs Perceive or Recall? Probing Visual Perception vs. Memory with Classic Visual Illusions](https://arxiv.org/abs/2601.22150v1)** | 2026-01-29 | <details><summary>26 pa...</summary><p>26 pages, 31 figures, 13 tables. Project Page: https://sites.google.com/view/vi-probe/</p></details> |
+| **[Variance component score test for multivariate change point detection with applications to mobile health](https://arxiv.org/abs/2601.22147v1)** | 2026-01-29 | 15 pages, 5 figures |
+| **[Early and Prediagnostic Detection of Pancreatic Cancer from Computed Tomography](https://arxiv.org/abs/2601.22134v1)** | 2026-01-29 |  |
+| **[How Does Cognitive Capability and Personality Influence Problem Solving in Coding Interview Puzzles?](https://arxiv.org/abs/2511.14367v2)** | 2026-01-29 | <details><summary>11 pa...</summary><p>11 pages, 5 figures, 6 tables, 19th IEEE/ACM International Conference on Cooperative and Human Aspects of Software Engineering (CHASE 2026)</p></details> |
+| **[Interval Spacing](https://arxiv.org/abs/2601.22116v1)** | 2026-01-29 | 19 pages, 5 figures |
+| **[Diverse Approaches to Optimal Execution Schedule Generation](https://arxiv.org/abs/2601.22113v1)** | 2026-01-29 | <details><summary>27 pa...</summary><p>27 pages, 15 figures, 5 tables</p></details> |
+| **[Where Do the Joules Go? Diagnosing Inference Energy Consumption](https://arxiv.org/abs/2601.22076v1)** | 2026-01-29 | <details><summary>The M...</summary><p>The ML.ENERGY Leaderboard v3.0 is open https://ml.energy/leaderboard</p></details> |
+| **[How Many Ratings per Item are Necessary for Reliable Significance Testing?](https://arxiv.org/abs/2412.02968v3)** | 2026-01-29 | <details><summary>Accep...</summary><p>Accepted at EACL Findings 2026</p></details> |
+| **[Vision-DeepResearch: Incentivizing DeepResearch Capability in Multimodal Large Language Models](https://arxiv.org/abs/2601.22060v1)** | 2026-01-29 |  |
+| **[$G^2$-Reader: Dual Evolving Graphs for Multimodal Document QA](https://arxiv.org/abs/2601.22055v1)** | 2026-01-29 |  |
 
 ## Image Caption
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Recursive Language Models](https://arxiv.org/abs/2512.24601v2)** | 2026-01-28 | <details><summary>9 pag...</summary><p>9 pages, 33 with Appendix</p></details> |
-| **[When Flores Bloomz Wrong: Cross-Direction Contamination in Machine Translation Evaluation](https://arxiv.org/abs/2601.20858v1)** | 2026-01-28 | <details><summary>5 pag...</summary><p>5 pages of content, 15 total. 5 figures, 12 tables total. Accepted to EACL 2026 main conference. Code can be found here: github.com/Mr-Ao-25/cross-ling-contamination</p></details> |
-| **[PatchFormer: A Patch-Based Time Series Foundation Model with Hierarchical Masked Reconstruction and Cross-Domain Transfer Learning for Zero-Shot Multi-Horizon Forecasting](https://arxiv.org/abs/2601.20845v1)** | 2026-01-28 | <details><summary>5 pag...</summary><p>5 pages; 2 figures; 7 tables</p></details> |
-| **[DiffRatio: Training One-Step Diffusion Models Without Teacher Supervision](https://arxiv.org/abs/2502.08005v5)** | 2026-01-28 | <details><summary>22 pa...</summary><p>22 pages, 8 figures, 5 tables, 2 algorithms</p></details> |
-| **[Jurisdiction as Structural Barrier: How Privacy Policy Organization May Reduce Visibility of Substantive Disclosures](https://arxiv.org/abs/2601.20792v1)** | 2026-01-28 | <details><summary>25 pa...</summary><p>25 pages, 2 figures, 5 tables</p></details> |
-| **[REASON: Accelerating Probabilistic Logical Reasoning for Scalable Neuro-Symbolic Intelligence](https://arxiv.org/abs/2601.20784v1)** | 2026-01-28 | <details><summary>16 pa...</summary><p>16 pages, 13 figures, 5 tables, 2026 IEEE International Symposium on High-Performance Computer Architecture (HPCA)</p></details> |
-| **[Cross-Country Learning for National Infectious Disease Forecasting Using European Data](https://arxiv.org/abs/2601.20771v1)** | 2026-01-28 | <details><summary>7 pag...</summary><p>7 pages, 4 figures, 5 tables</p></details> |
+| **[UEval: A Benchmark for Unified Multimodal Generation](https://arxiv.org/abs/2601.22155v1)** | 2026-01-29 |  |
+| **[Do VLMs Perceive or Recall? Probing Visual Perception vs. Memory with Classic Visual Illusions](https://arxiv.org/abs/2601.22150v1)** | 2026-01-29 | <details><summary>26 pa...</summary><p>26 pages, 31 figures, 13 tables. Project Page: https://sites.google.com/view/vi-probe/</p></details> |
+| **[Variance component score test for multivariate change point detection with applications to mobile health](https://arxiv.org/abs/2601.22147v1)** | 2026-01-29 | 15 pages, 5 figures |
+| **[Early and Prediagnostic Detection of Pancreatic Cancer from Computed Tomography](https://arxiv.org/abs/2601.22134v1)** | 2026-01-29 |  |
+| **[How Does Cognitive Capability and Personality Influence Problem Solving in Coding Interview Puzzles?](https://arxiv.org/abs/2511.14367v2)** | 2026-01-29 | <details><summary>11 pa...</summary><p>11 pages, 5 figures, 6 tables, 19th IEEE/ACM International Conference on Cooperative and Human Aspects of Software Engineering (CHASE 2026)</p></details> |
+| **[Interval Spacing](https://arxiv.org/abs/2601.22116v1)** | 2026-01-29 | 19 pages, 5 figures |
+| **[Diverse Approaches to Optimal Execution Schedule Generation](https://arxiv.org/abs/2601.22113v1)** | 2026-01-29 | <details><summary>27 pa...</summary><p>27 pages, 15 figures, 5 tables</p></details> |
+| **[Where Do the Joules Go? Diagnosing Inference Energy Consumption](https://arxiv.org/abs/2601.22076v1)** | 2026-01-29 | <details><summary>The M...</summary><p>The ML.ENERGY Leaderboard v3.0 is open https://ml.energy/leaderboard</p></details> |
+| **[How Many Ratings per Item are Necessary for Reliable Significance Testing?](https://arxiv.org/abs/2412.02968v3)** | 2026-01-29 | <details><summary>Accep...</summary><p>Accepted at EACL Findings 2026</p></details> |
+| **[Vision-DeepResearch: Incentivizing DeepResearch Capability in Multimodal Large Language Models](https://arxiv.org/abs/2601.22060v1)** | 2026-01-29 |  |
+| **[$G^2$-Reader: Dual Evolving Graphs for Multimodal Document QA](https://arxiv.org/abs/2601.22055v1)** | 2026-01-29 |  |
 
 ## Describe
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Recursive Language Models](https://arxiv.org/abs/2512.24601v2)** | 2026-01-28 | <details><summary>9 pag...</summary><p>9 pages, 33 with Appendix</p></details> |
-| **[When Flores Bloomz Wrong: Cross-Direction Contamination in Machine Translation Evaluation](https://arxiv.org/abs/2601.20858v1)** | 2026-01-28 | <details><summary>5 pag...</summary><p>5 pages of content, 15 total. 5 figures, 12 tables total. Accepted to EACL 2026 main conference. Code can be found here: github.com/Mr-Ao-25/cross-ling-contamination</p></details> |
-| **[PatchFormer: A Patch-Based Time Series Foundation Model with Hierarchical Masked Reconstruction and Cross-Domain Transfer Learning for Zero-Shot Multi-Horizon Forecasting](https://arxiv.org/abs/2601.20845v1)** | 2026-01-28 | <details><summary>5 pag...</summary><p>5 pages; 2 figures; 7 tables</p></details> |
-| **[DiffRatio: Training One-Step Diffusion Models Without Teacher Supervision](https://arxiv.org/abs/2502.08005v5)** | 2026-01-28 | <details><summary>22 pa...</summary><p>22 pages, 8 figures, 5 tables, 2 algorithms</p></details> |
-| **[Jurisdiction as Structural Barrier: How Privacy Policy Organization May Reduce Visibility of Substantive Disclosures](https://arxiv.org/abs/2601.20792v1)** | 2026-01-28 | <details><summary>25 pa...</summary><p>25 pages, 2 figures, 5 tables</p></details> |
-| **[REASON: Accelerating Probabilistic Logical Reasoning for Scalable Neuro-Symbolic Intelligence](https://arxiv.org/abs/2601.20784v1)** | 2026-01-28 | <details><summary>16 pa...</summary><p>16 pages, 13 figures, 5 tables, 2026 IEEE International Symposium on High-Performance Computer Architecture (HPCA)</p></details> |
+| **[UEval: A Benchmark for Unified Multimodal Generation](https://arxiv.org/abs/2601.22155v1)** | 2026-01-29 |  |
+| **[Do VLMs Perceive or Recall? Probing Visual Perception vs. Memory with Classic Visual Illusions](https://arxiv.org/abs/2601.22150v1)** | 2026-01-29 | <details><summary>26 pa...</summary><p>26 pages, 31 figures, 13 tables. Project Page: https://sites.google.com/view/vi-probe/</p></details> |
+| **[Variance component score test for multivariate change point detection with applications to mobile health](https://arxiv.org/abs/2601.22147v1)** | 2026-01-29 | 15 pages, 5 figures |
+| **[Early and Prediagnostic Detection of Pancreatic Cancer from Computed Tomography](https://arxiv.org/abs/2601.22134v1)** | 2026-01-29 |  |
+| **[How Does Cognitive Capability and Personality Influence Problem Solving in Coding Interview Puzzles?](https://arxiv.org/abs/2511.14367v2)** | 2026-01-29 | <details><summary>11 pa...</summary><p>11 pages, 5 figures, 6 tables, 19th IEEE/ACM International Conference on Cooperative and Human Aspects of Software Engineering (CHASE 2026)</p></details> |
+| **[Interval Spacing](https://arxiv.org/abs/2601.22116v1)** | 2026-01-29 | 19 pages, 5 figures |
+| **[Diverse Approaches to Optimal Execution Schedule Generation](https://arxiv.org/abs/2601.22113v1)** | 2026-01-29 | <details><summary>27 pa...</summary><p>27 pages, 15 figures, 5 tables</p></details> |
+| **[Where Do the Joules Go? Diagnosing Inference Energy Consumption](https://arxiv.org/abs/2601.22076v1)** | 2026-01-29 | <details><summary>The M...</summary><p>The ML.ENERGY Leaderboard v3.0 is open https://ml.energy/leaderboard</p></details> |
+| **[How Many Ratings per Item are Necessary for Reliable Significance Testing?](https://arxiv.org/abs/2412.02968v3)** | 2026-01-29 | <details><summary>Accep...</summary><p>Accepted at EACL Findings 2026</p></details> |
+| **[Vision-DeepResearch: Incentivizing DeepResearch Capability in Multimodal Large Language Models](https://arxiv.org/abs/2601.22060v1)** | 2026-01-29 |  |
+| **[$G^2$-Reader: Dual Evolving Graphs for Multimodal Document QA](https://arxiv.org/abs/2601.22055v1)** | 2026-01-29 |  |
 
 ## Light Weight
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Recursive Language Models](https://arxiv.org/abs/2512.24601v2)** | 2026-01-28 | <details><summary>9 pag...</summary><p>9 pages, 33 with Appendix</p></details> |
-| **[When Flores Bloomz Wrong: Cross-Direction Contamination in Machine Translation Evaluation](https://arxiv.org/abs/2601.20858v1)** | 2026-01-28 | <details><summary>5 pag...</summary><p>5 pages of content, 15 total. 5 figures, 12 tables total. Accepted to EACL 2026 main conference. Code can be found here: github.com/Mr-Ao-25/cross-ling-contamination</p></details> |
-| **[PatchFormer: A Patch-Based Time Series Foundation Model with Hierarchical Masked Reconstruction and Cross-Domain Transfer Learning for Zero-Shot Multi-Horizon Forecasting](https://arxiv.org/abs/2601.20845v1)** | 2026-01-28 | <details><summary>5 pag...</summary><p>5 pages; 2 figures; 7 tables</p></details> |
-| **[DiffRatio: Training One-Step Diffusion Models Without Teacher Supervision](https://arxiv.org/abs/2502.08005v5)** | 2026-01-28 | <details><summary>22 pa...</summary><p>22 pages, 8 figures, 5 tables, 2 algorithms</p></details> |
-| **[Jurisdiction as Structural Barrier: How Privacy Policy Organization May Reduce Visibility of Substantive Disclosures](https://arxiv.org/abs/2601.20792v1)** | 2026-01-28 | <details><summary>25 pa...</summary><p>25 pages, 2 figures, 5 tables</p></details> |
-| **[REASON: Accelerating Probabilistic Logical Reasoning for Scalable Neuro-Symbolic Intelligence](https://arxiv.org/abs/2601.20784v1)** | 2026-01-28 | <details><summary>16 pa...</summary><p>16 pages, 13 figures, 5 tables, 2026 IEEE International Symposium on High-Performance Computer Architecture (HPCA)</p></details> |
-| **[Cross-Country Learning for National Infectious Disease Forecasting Using European Data](https://arxiv.org/abs/2601.20771v1)** | 2026-01-28 | <details><summary>7 pag...</summary><p>7 pages, 4 figures, 5 tables</p></details> |
+| **[UEval: A Benchmark for Unified Multimodal Generation](https://arxiv.org/abs/2601.22155v1)** | 2026-01-29 |  |
+| **[Do VLMs Perceive or Recall? Probing Visual Perception vs. Memory with Classic Visual Illusions](https://arxiv.org/abs/2601.22150v1)** | 2026-01-29 | <details><summary>26 pa...</summary><p>26 pages, 31 figures, 13 tables. Project Page: https://sites.google.com/view/vi-probe/</p></details> |
+| **[Variance component score test for multivariate change point detection with applications to mobile health](https://arxiv.org/abs/2601.22147v1)** | 2026-01-29 | 15 pages, 5 figures |
+| **[Early and Prediagnostic Detection of Pancreatic Cancer from Computed Tomography](https://arxiv.org/abs/2601.22134v1)** | 2026-01-29 |  |
+| **[How Does Cognitive Capability and Personality Influence Problem Solving in Coding Interview Puzzles?](https://arxiv.org/abs/2511.14367v2)** | 2026-01-29 | <details><summary>11 pa...</summary><p>11 pages, 5 figures, 6 tables, 19th IEEE/ACM International Conference on Cooperative and Human Aspects of Software Engineering (CHASE 2026)</p></details> |
+| **[Interval Spacing](https://arxiv.org/abs/2601.22116v1)** | 2026-01-29 | 19 pages, 5 figures |
+| **[Diverse Approaches to Optimal Execution Schedule Generation](https://arxiv.org/abs/2601.22113v1)** | 2026-01-29 | <details><summary>27 pa...</summary><p>27 pages, 15 figures, 5 tables</p></details> |
+| **[Where Do the Joules Go? Diagnosing Inference Energy Consumption](https://arxiv.org/abs/2601.22076v1)** | 2026-01-29 | <details><summary>The M...</summary><p>The ML.ENERGY Leaderboard v3.0 is open https://ml.energy/leaderboard</p></details> |
+| **[How Many Ratings per Item are Necessary for Reliable Significance Testing?](https://arxiv.org/abs/2412.02968v3)** | 2026-01-29 | <details><summary>Accep...</summary><p>Accepted at EACL Findings 2026</p></details> |
+| **[Vision-DeepResearch: Incentivizing DeepResearch Capability in Multimodal Large Language Models](https://arxiv.org/abs/2601.22060v1)** | 2026-01-29 |  |
+| **[$G^2$-Reader: Dual Evolving Graphs for Multimodal Document QA](https://arxiv.org/abs/2601.22055v1)** | 2026-01-29 |  |
 
 ## Class Incremental
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Recursive Language Models](https://arxiv.org/abs/2512.24601v2)** | 2026-01-28 | <details><summary>9 pag...</summary><p>9 pages, 33 with Appendix</p></details> |
-| **[When Flores Bloomz Wrong: Cross-Direction Contamination in Machine Translation Evaluation](https://arxiv.org/abs/2601.20858v1)** | 2026-01-28 | <details><summary>5 pag...</summary><p>5 pages of content, 15 total. 5 figures, 12 tables total. Accepted to EACL 2026 main conference. Code can be found here: github.com/Mr-Ao-25/cross-ling-contamination</p></details> |
-| **[C3Box: A CLIP-based Class-Incremental Learning Toolbox](https://arxiv.org/abs/2601.20852v1)** | 2026-01-28 | <details><summary>The c...</summary><p>The code is available at https://github.com/LAMDA-CL/C3Box</p></details> |
-| **[PatchFormer: A Patch-Based Time Series Foundation Model with Hierarchical Masked Reconstruction and Cross-Domain Transfer Learning for Zero-Shot Multi-Horizon Forecasting](https://arxiv.org/abs/2601.20845v1)** | 2026-01-28 | <details><summary>5 pag...</summary><p>5 pages; 2 figures; 7 tables</p></details> |
-| **[DiffRatio: Training One-Step Diffusion Models Without Teacher Supervision](https://arxiv.org/abs/2502.08005v5)** | 2026-01-28 | <details><summary>22 pa...</summary><p>22 pages, 8 figures, 5 tables, 2 algorithms</p></details> |
-| **[Jurisdiction as Structural Barrier: How Privacy Policy Organization May Reduce Visibility of Substantive Disclosures](https://arxiv.org/abs/2601.20792v1)** | 2026-01-28 | <details><summary>25 pa...</summary><p>25 pages, 2 figures, 5 tables</p></details> |
-| **[REASON: Accelerating Probabilistic Logical Reasoning for Scalable Neuro-Symbolic Intelligence](https://arxiv.org/abs/2601.20784v1)** | 2026-01-28 | <details><summary>16 pa...</summary><p>16 pages, 13 figures, 5 tables, 2026 IEEE International Symposium on High-Performance Computer Architecture (HPCA)</p></details> |
-| **[Cross-Country Learning for National Infectious Disease Forecasting Using European Data](https://arxiv.org/abs/2601.20771v1)** | 2026-01-28 | <details><summary>7 pag...</summary><p>7 pages, 4 figures, 5 tables</p></details> |
+| **[UEval: A Benchmark for Unified Multimodal Generation](https://arxiv.org/abs/2601.22155v1)** | 2026-01-29 |  |
+| **[Do VLMs Perceive or Recall? Probing Visual Perception vs. Memory with Classic Visual Illusions](https://arxiv.org/abs/2601.22150v1)** | 2026-01-29 | <details><summary>26 pa...</summary><p>26 pages, 31 figures, 13 tables. Project Page: https://sites.google.com/view/vi-probe/</p></details> |
+| **[Variance component score test for multivariate change point detection with applications to mobile health](https://arxiv.org/abs/2601.22147v1)** | 2026-01-29 | 15 pages, 5 figures |
+| **[Early and Prediagnostic Detection of Pancreatic Cancer from Computed Tomography](https://arxiv.org/abs/2601.22134v1)** | 2026-01-29 |  |
+| **[How Does Cognitive Capability and Personality Influence Problem Solving in Coding Interview Puzzles?](https://arxiv.org/abs/2511.14367v2)** | 2026-01-29 | <details><summary>11 pa...</summary><p>11 pages, 5 figures, 6 tables, 19th IEEE/ACM International Conference on Cooperative and Human Aspects of Software Engineering (CHASE 2026)</p></details> |
+| **[Interval Spacing](https://arxiv.org/abs/2601.22116v1)** | 2026-01-29 | 19 pages, 5 figures |
+| **[Diverse Approaches to Optimal Execution Schedule Generation](https://arxiv.org/abs/2601.22113v1)** | 2026-01-29 | <details><summary>27 pa...</summary><p>27 pages, 15 figures, 5 tables</p></details> |
+| **[Where Do the Joules Go? Diagnosing Inference Energy Consumption](https://arxiv.org/abs/2601.22076v1)** | 2026-01-29 | <details><summary>The M...</summary><p>The ML.ENERGY Leaderboard v3.0 is open https://ml.energy/leaderboard</p></details> |
+| **[How Many Ratings per Item are Necessary for Reliable Significance Testing?](https://arxiv.org/abs/2412.02968v3)** | 2026-01-29 | <details><summary>Accep...</summary><p>Accepted at EACL Findings 2026</p></details> |
+| **[Vision-DeepResearch: Incentivizing DeepResearch Capability in Multimodal Large Language Models](https://arxiv.org/abs/2601.22060v1)** | 2026-01-29 |  |
+| **[$G^2$-Reader: Dual Evolving Graphs for Multimodal Document QA](https://arxiv.org/abs/2601.22055v1)** | 2026-01-29 |  |
 
