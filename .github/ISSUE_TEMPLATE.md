@@ -1,5 +1,5 @@
 ---
-title: Latest 50 Papers - February 02, 2026
+title: Latest 50 Papers - February 03, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/JiamingZang/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,140 +7,114 @@ labels: documentation
 ## Molecular
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[UEval: A Benchmark for Unified Multimodal Generation](https://arxiv.org/abs/2601.22155v1)** | 2026-01-29 |  |
-| **[Do VLMs Perceive or Recall? Probing Visual Perception vs. Memory with Classic Visual Illusions](https://arxiv.org/abs/2601.22150v1)** | 2026-01-29 | <details><summary>26 pa...</summary><p>26 pages, 31 figures, 13 tables. Project Page: https://sites.google.com/view/vi-probe/</p></details> |
-| **[Variance component score test for multivariate change point detection with applications to mobile health](https://arxiv.org/abs/2601.22147v1)** | 2026-01-29 | 15 pages, 5 figures |
-| **[Early and Prediagnostic Detection of Pancreatic Cancer from Computed Tomography](https://arxiv.org/abs/2601.22134v1)** | 2026-01-29 |  |
-| **[Learning Hamiltonian Flow Maps: Mean Flow Consistency for Large-Timestep Molecular Dynamics](https://arxiv.org/abs/2601.22123v1)** | 2026-01-29 |  |
-| **[How Does Cognitive Capability and Personality Influence Problem Solving in Coding Interview Puzzles?](https://arxiv.org/abs/2511.14367v2)** | 2026-01-29 | <details><summary>11 pa...</summary><p>11 pages, 5 figures, 6 tables, 19th IEEE/ACM International Conference on Cooperative and Human Aspects of Software Engineering (CHASE 2026)</p></details> |
-| **[Interval Spacing](https://arxiv.org/abs/2601.22116v1)** | 2026-01-29 | 19 pages, 5 figures |
-| **[Diverse Approaches to Optimal Execution Schedule Generation](https://arxiv.org/abs/2601.22113v1)** | 2026-01-29 | <details><summary>27 pa...</summary><p>27 pages, 15 figures, 5 tables</p></details> |
-| **[Where Do the Joules Go? Diagnosing Inference Energy Consumption](https://arxiv.org/abs/2601.22076v1)** | 2026-01-29 | <details><summary>The M...</summary><p>The ML.ENERGY Leaderboard v3.0 is open https://ml.energy/leaderboard</p></details> |
-| **[How Many Ratings per Item are Necessary for Reliable Significance Testing?](https://arxiv.org/abs/2412.02968v3)** | 2026-01-29 | <details><summary>Accep...</summary><p>Accepted at EACL Findings 2026</p></details> |
-| **[SiDGen: Structure-informed Diffusion for Generative modeling of Ligands for Proteins](https://arxiv.org/abs/2511.09529v2)** | 2026-01-29 | 10 pages, 2 figures |
-| **[Vision-DeepResearch: Incentivizing DeepResearch Capability in Multimodal Large Language Models](https://arxiv.org/abs/2601.22060v1)** | 2026-01-29 |  |
+| **[FC-KAN: Function Combinations in Kolmogorov-Arnold Networks](https://arxiv.org/abs/2409.01763v4)** | 2026-01-30 | 17 pages |
+| **[TCBench: A Benchmark for Tropical Cyclone Track and Intensity Forecasting at the Global Scale](https://arxiv.org/abs/2601.23268v1)** | 2026-01-30 | <details><summary>28 Pa...</summary><p>28 Pages, Including SI</p></details> |
+| **[Outcome-Conditioned Reasoning Distillation for Resolving Software Issues](https://arxiv.org/abs/2601.23257v1)** | 2026-01-30 | <details><summary>17 pa...</summary><p>17 pages, 3 figures, 5 tables</p></details> |
+| **[Towards a Benchmark for Dependency Decision-Making](https://arxiv.org/abs/2601.00205v2)** | 2026-01-30 | <details><summary>Under...</summary><p>Under review at JAWS 2026. 5 pages, 1 figures, 2 tables</p></details> |
+| **[How well do generative models solve inverse problems? A benchmark study](https://arxiv.org/abs/2601.23238v1)** | 2026-01-30 | <details><summary>32 pa...</summary><p>32 pages, 11 figures, 5 tables</p></details> |
+| **[Just as Humans Need Vaccines, So Do Models: Model Immunization to Combat Falsehoods](https://arxiv.org/abs/2505.17870v2)** | 2026-01-30 |  |
+| **[Generative quantum machine learning via denoising diffusion probabilistic models](https://arxiv.org/abs/2310.05866v5)** | 2026-01-30 | <details><summary>5+10 ...</summary><p>5+10 pages, 16 figures. PRL accepted version. Code available at: https://github.com/francis-hsu/quantgenmdl</p></details> |
+| **[Disentangling multispecific antibody function with graph neural networks](https://arxiv.org/abs/2601.23212v1)** | 2026-01-30 | <details><summary>16 pa...</summary><p>16 pages, 5 figures, code available at https://github.com/prescient-design/synapse</p></details> |
 
 ## Molecular Generation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[UEval: A Benchmark for Unified Multimodal Generation](https://arxiv.org/abs/2601.22155v1)** | 2026-01-29 |  |
-| **[Do VLMs Perceive or Recall? Probing Visual Perception vs. Memory with Classic Visual Illusions](https://arxiv.org/abs/2601.22150v1)** | 2026-01-29 | <details><summary>26 pa...</summary><p>26 pages, 31 figures, 13 tables. Project Page: https://sites.google.com/view/vi-probe/</p></details> |
-| **[Variance component score test for multivariate change point detection with applications to mobile health](https://arxiv.org/abs/2601.22147v1)** | 2026-01-29 | 15 pages, 5 figures |
-| **[Early and Prediagnostic Detection of Pancreatic Cancer from Computed Tomography](https://arxiv.org/abs/2601.22134v1)** | 2026-01-29 |  |
-| **[How Does Cognitive Capability and Personality Influence Problem Solving in Coding Interview Puzzles?](https://arxiv.org/abs/2511.14367v2)** | 2026-01-29 | <details><summary>11 pa...</summary><p>11 pages, 5 figures, 6 tables, 19th IEEE/ACM International Conference on Cooperative and Human Aspects of Software Engineering (CHASE 2026)</p></details> |
-| **[Interval Spacing](https://arxiv.org/abs/2601.22116v1)** | 2026-01-29 | 19 pages, 5 figures |
-| **[Diverse Approaches to Optimal Execution Schedule Generation](https://arxiv.org/abs/2601.22113v1)** | 2026-01-29 | <details><summary>27 pa...</summary><p>27 pages, 15 figures, 5 tables</p></details> |
-| **[Where Do the Joules Go? Diagnosing Inference Energy Consumption](https://arxiv.org/abs/2601.22076v1)** | 2026-01-29 | <details><summary>The M...</summary><p>The ML.ENERGY Leaderboard v3.0 is open https://ml.energy/leaderboard</p></details> |
-| **[How Many Ratings per Item are Necessary for Reliable Significance Testing?](https://arxiv.org/abs/2412.02968v3)** | 2026-01-29 | <details><summary>Accep...</summary><p>Accepted at EACL Findings 2026</p></details> |
-| **[Vision-DeepResearch: Incentivizing DeepResearch Capability in Multimodal Large Language Models](https://arxiv.org/abs/2601.22060v1)** | 2026-01-29 |  |
-| **[$G^2$-Reader: Dual Evolving Graphs for Multimodal Document QA](https://arxiv.org/abs/2601.22055v1)** | 2026-01-29 |  |
+| **[FC-KAN: Function Combinations in Kolmogorov-Arnold Networks](https://arxiv.org/abs/2409.01763v4)** | 2026-01-30 | 17 pages |
+| **[TCBench: A Benchmark for Tropical Cyclone Track and Intensity Forecasting at the Global Scale](https://arxiv.org/abs/2601.23268v1)** | 2026-01-30 | <details><summary>28 Pa...</summary><p>28 Pages, Including SI</p></details> |
+| **[Outcome-Conditioned Reasoning Distillation for Resolving Software Issues](https://arxiv.org/abs/2601.23257v1)** | 2026-01-30 | <details><summary>17 pa...</summary><p>17 pages, 3 figures, 5 tables</p></details> |
+| **[Towards a Benchmark for Dependency Decision-Making](https://arxiv.org/abs/2601.00205v2)** | 2026-01-30 | <details><summary>Under...</summary><p>Under review at JAWS 2026. 5 pages, 1 figures, 2 tables</p></details> |
+| **[How well do generative models solve inverse problems? A benchmark study](https://arxiv.org/abs/2601.23238v1)** | 2026-01-30 | <details><summary>32 pa...</summary><p>32 pages, 11 figures, 5 tables</p></details> |
+| **[Just as Humans Need Vaccines, So Do Models: Model Immunization to Combat Falsehoods](https://arxiv.org/abs/2505.17870v2)** | 2026-01-30 |  |
+| **[Generative quantum machine learning via denoising diffusion probabilistic models](https://arxiv.org/abs/2310.05866v5)** | 2026-01-30 | <details><summary>5+10 ...</summary><p>5+10 pages, 16 figures. PRL accepted version. Code available at: https://github.com/francis-hsu/quantgenmdl</p></details> |
+| **[Disentangling multispecific antibody function with graph neural networks](https://arxiv.org/abs/2601.23212v1)** | 2026-01-30 | <details><summary>16 pa...</summary><p>16 pages, 5 figures, code available at https://github.com/prescient-design/synapse</p></details> |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[UEval: A Benchmark for Unified Multimodal Generation](https://arxiv.org/abs/2601.22155v1)** | 2026-01-29 |  |
-| **[Do VLMs Perceive or Recall? Probing Visual Perception vs. Memory with Classic Visual Illusions](https://arxiv.org/abs/2601.22150v1)** | 2026-01-29 | <details><summary>26 pa...</summary><p>26 pages, 31 figures, 13 tables. Project Page: https://sites.google.com/view/vi-probe/</p></details> |
-| **[Variance component score test for multivariate change point detection with applications to mobile health](https://arxiv.org/abs/2601.22147v1)** | 2026-01-29 | 15 pages, 5 figures |
-| **[Early and Prediagnostic Detection of Pancreatic Cancer from Computed Tomography](https://arxiv.org/abs/2601.22134v1)** | 2026-01-29 |  |
-| **[How Does Cognitive Capability and Personality Influence Problem Solving in Coding Interview Puzzles?](https://arxiv.org/abs/2511.14367v2)** | 2026-01-29 | <details><summary>11 pa...</summary><p>11 pages, 5 figures, 6 tables, 19th IEEE/ACM International Conference on Cooperative and Human Aspects of Software Engineering (CHASE 2026)</p></details> |
-| **[Interval Spacing](https://arxiv.org/abs/2601.22116v1)** | 2026-01-29 | 19 pages, 5 figures |
-| **[Diverse Approaches to Optimal Execution Schedule Generation](https://arxiv.org/abs/2601.22113v1)** | 2026-01-29 | <details><summary>27 pa...</summary><p>27 pages, 15 figures, 5 tables</p></details> |
-| **[Do graph neural network states contain graph properties?](https://arxiv.org/abs/2411.02168v3)** | 2026-01-29 | <details><summary>10 pa...</summary><p>10 pages, 22 figures, conference</p></details> |
-| **[Where Do the Joules Go? Diagnosing Inference Energy Consumption](https://arxiv.org/abs/2601.22076v1)** | 2026-01-29 | <details><summary>The M...</summary><p>The ML.ENERGY Leaderboard v3.0 is open https://ml.energy/leaderboard</p></details> |
-| **[How Many Ratings per Item are Necessary for Reliable Significance Testing?](https://arxiv.org/abs/2412.02968v3)** | 2026-01-29 | <details><summary>Accep...</summary><p>Accepted at EACL Findings 2026</p></details> |
-| **[Vision-DeepResearch: Incentivizing DeepResearch Capability in Multimodal Large Language Models](https://arxiv.org/abs/2601.22060v1)** | 2026-01-29 |  |
-| **[$G^2$-Reader: Dual Evolving Graphs for Multimodal Document QA](https://arxiv.org/abs/2601.22055v1)** | 2026-01-29 |  |
+| **[FC-KAN: Function Combinations in Kolmogorov-Arnold Networks](https://arxiv.org/abs/2409.01763v4)** | 2026-01-30 | 17 pages |
+| **[TCBench: A Benchmark for Tropical Cyclone Track and Intensity Forecasting at the Global Scale](https://arxiv.org/abs/2601.23268v1)** | 2026-01-30 | <details><summary>28 Pa...</summary><p>28 Pages, Including SI</p></details> |
+| **[Outcome-Conditioned Reasoning Distillation for Resolving Software Issues](https://arxiv.org/abs/2601.23257v1)** | 2026-01-30 | <details><summary>17 pa...</summary><p>17 pages, 3 figures, 5 tables</p></details> |
+| **[Towards a Benchmark for Dependency Decision-Making](https://arxiv.org/abs/2601.00205v2)** | 2026-01-30 | <details><summary>Under...</summary><p>Under review at JAWS 2026. 5 pages, 1 figures, 2 tables</p></details> |
+| **[Graph Attention Network for Node Regression on Random Geometric Graphs with Erdős--Rényi contamination](https://arxiv.org/abs/2601.23239v1)** | 2026-01-30 | <details><summary>62 pa...</summary><p>62 pages, 2 figures, 2 tables</p></details> |
+| **[How well do generative models solve inverse problems? A benchmark study](https://arxiv.org/abs/2601.23238v1)** | 2026-01-30 | <details><summary>32 pa...</summary><p>32 pages, 11 figures, 5 tables</p></details> |
+| **[Sequence Diffusion Model for Temporal Link Prediction in Continuous-Time Dynamic Graph](https://arxiv.org/abs/2601.23233v1)** | 2026-01-30 |  |
+| **[Just as Humans Need Vaccines, So Do Models: Model Immunization to Combat Falsehoods](https://arxiv.org/abs/2505.17870v2)** | 2026-01-30 |  |
+| **[Generative quantum machine learning via denoising diffusion probabilistic models](https://arxiv.org/abs/2310.05866v5)** | 2026-01-30 | <details><summary>5+10 ...</summary><p>5+10 pages, 16 figures. PRL accepted version. Code available at: https://github.com/francis-hsu/quantgenmdl</p></details> |
+| **[Disentangling multispecific antibody function with graph neural networks](https://arxiv.org/abs/2601.23212v1)** | 2026-01-30 | <details><summary>16 pa...</summary><p>16 pages, 5 figures, code available at https://github.com/prescient-design/synapse</p></details> |
 
 ## Diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[One-step Latent-free Image Generation with Pixel Mean Flows](https://arxiv.org/abs/2601.22158v1)** | 2026-01-29 | Technical report |
-| **[UEval: A Benchmark for Unified Multimodal Generation](https://arxiv.org/abs/2601.22155v1)** | 2026-01-29 |  |
-| **[Do VLMs Perceive or Recall? Probing Visual Perception vs. Memory with Classic Visual Illusions](https://arxiv.org/abs/2601.22150v1)** | 2026-01-29 | <details><summary>26 pa...</summary><p>26 pages, 31 figures, 13 tables. Project Page: https://sites.google.com/view/vi-probe/</p></details> |
-| **[Variance component score test for multivariate change point detection with applications to mobile health](https://arxiv.org/abs/2601.22147v1)** | 2026-01-29 | 15 pages, 5 figures |
-| **[Think Twice: Branch-and-Rethink Reasoning Reward Model](https://arxiv.org/abs/2510.23596v3)** | 2026-01-29 | <details><summary>Sourc...</summary><p>Source Code: https://github.com/yzjiao/BR-RM. Model Checkpoints: https://huggingface.co/nvidia/Qwen3-Nemotron-14B-BRRM and https://huggingface.co/nvidia/Qwen3-Nemotron-8B-BRRM</p></details> |
-| **[JUST-DUB-IT: Video Dubbing via Joint Audio-Visual Diffusion](https://arxiv.org/abs/2601.22143v1)** | 2026-01-29 | <details><summary>Proje...</summary><p>Project webpage available at https://justdubit.github.io</p></details> |
-| **[PI-Light: Physics-Inspired Diffusion for Full-Image Relighting](https://arxiv.org/abs/2601.22135v1)** | 2026-01-29 | <details><summary>Accep...</summary><p>Accepted at ICLR 2026</p></details> |
-| **[Early and Prediagnostic Detection of Pancreatic Cancer from Computed Tomography](https://arxiv.org/abs/2601.22134v1)** | 2026-01-29 |  |
-| **[EditYourself: Audio-Driven Generation and Manipulation of Talking Head Videos with Diffusion Transformers](https://arxiv.org/abs/2601.22127v1)** | 2026-01-29 | <details><summary>Proje...</summary><p>Project page: https://edit-yourself.github.io/</p></details> |
-| **[Creative Image Generation with Diffusion Model](https://arxiv.org/abs/2601.22125v1)** | 2026-01-29 | <details><summary>Proje...</summary><p>Project page: https://creative-t2i.github.io</p></details> |
-| **[How Does Cognitive Capability and Personality Influence Problem Solving in Coding Interview Puzzles?](https://arxiv.org/abs/2511.14367v2)** | 2026-01-29 | <details><summary>11 pa...</summary><p>11 pages, 5 figures, 6 tables, 19th IEEE/ACM International Conference on Cooperative and Human Aspects of Software Engineering (CHASE 2026)</p></details> |
-| **[Interval Spacing](https://arxiv.org/abs/2601.22116v1)** | 2026-01-29 | 19 pages, 5 figures |
-| **[Diverse Approaches to Optimal Execution Schedule Generation](https://arxiv.org/abs/2601.22113v1)** | 2026-01-29 | <details><summary>27 pa...</summary><p>27 pages, 15 figures, 5 tables</p></details> |
-| **[RefAny3D: 3D Asset-Referenced Diffusion Models for Image Generation](https://arxiv.org/abs/2601.22094v1)** | 2026-01-29 | <details><summary>ICLR ...</summary><p>ICLR 2026. Project page: https://judgementh.github.io/RefAny3D Codes: https://github.com/JudgementH/RefAny3D</p></details> |
+| **[VideoGPA: Distilling Geometry Priors for 3D-Consistent Video Generation](https://arxiv.org/abs/2601.23286v1)** | 2026-01-30 |  |
+| **[Decoupled Diffusion Sampling for Inverse Problems on Function Spaces](https://arxiv.org/abs/2601.23280v1)** | 2026-01-30 |  |
+| **[FOCUS: DLLMs Know How to Tame Their Compute Bound](https://arxiv.org/abs/2601.23278v1)** | 2026-01-30 | 22 pages, 15 figures |
+| **[Multi-agent Coordination via Flow Matching](https://arxiv.org/abs/2511.05005v2)** | 2026-01-30 | ICLR 2026 |
+| **[FC-KAN: Function Combinations in Kolmogorov-Arnold Networks](https://arxiv.org/abs/2409.01763v4)** | 2026-01-30 | 17 pages |
+| **[On the Separability of Information in Diffusion Models](https://arxiv.org/abs/2509.23937v4)** | 2026-01-30 | <details><summary>27 pa...</summary><p>27 pages + references, 19 figures. v4: Re-organized the paper to focus on separability of information</p></details> |
+| **[TCBench: A Benchmark for Tropical Cyclone Track and Intensity Forecasting at the Global Scale](https://arxiv.org/abs/2601.23268v1)** | 2026-01-30 | <details><summary>28 Pa...</summary><p>28 Pages, Including SI</p></details> |
+| **[IRL-DAL: Safe and Adaptive Trajectory Planning for Autonomous Driving via Energy-Guided Diffusion Models](https://arxiv.org/abs/2601.23266v1)** | 2026-01-30 |  |
+| **[Particle-Guided Diffusion Models for Partial Differential Equations](https://arxiv.org/abs/2601.23262v1)** | 2026-01-30 |  |
+| **[Outcome-Conditioned Reasoning Distillation for Resolving Software Issues](https://arxiv.org/abs/2601.23257v1)** | 2026-01-30 | <details><summary>17 pa...</summary><p>17 pages, 3 figures, 5 tables</p></details> |
+| **[Diffusion-based Frameworks for Unsupervised Speech Enhancement](https://arxiv.org/abs/2601.09931v3)** | 2026-01-30 |  |
+| **[Towards a Benchmark for Dependency Decision-Making](https://arxiv.org/abs/2601.00205v2)** | 2026-01-30 | <details><summary>Under...</summary><p>Under review at JAWS 2026. 5 pages, 1 figures, 2 tables</p></details> |
 
 ## Object Counting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[UEval: A Benchmark for Unified Multimodal Generation](https://arxiv.org/abs/2601.22155v1)** | 2026-01-29 |  |
-| **[Do VLMs Perceive or Recall? Probing Visual Perception vs. Memory with Classic Visual Illusions](https://arxiv.org/abs/2601.22150v1)** | 2026-01-29 | <details><summary>26 pa...</summary><p>26 pages, 31 figures, 13 tables. Project Page: https://sites.google.com/view/vi-probe/</p></details> |
-| **[Variance component score test for multivariate change point detection with applications to mobile health](https://arxiv.org/abs/2601.22147v1)** | 2026-01-29 | 15 pages, 5 figures |
-| **[Early and Prediagnostic Detection of Pancreatic Cancer from Computed Tomography](https://arxiv.org/abs/2601.22134v1)** | 2026-01-29 |  |
-| **[How Does Cognitive Capability and Personality Influence Problem Solving in Coding Interview Puzzles?](https://arxiv.org/abs/2511.14367v2)** | 2026-01-29 | <details><summary>11 pa...</summary><p>11 pages, 5 figures, 6 tables, 19th IEEE/ACM International Conference on Cooperative and Human Aspects of Software Engineering (CHASE 2026)</p></details> |
-| **[Interval Spacing](https://arxiv.org/abs/2601.22116v1)** | 2026-01-29 | 19 pages, 5 figures |
-| **[Diverse Approaches to Optimal Execution Schedule Generation](https://arxiv.org/abs/2601.22113v1)** | 2026-01-29 | <details><summary>27 pa...</summary><p>27 pages, 15 figures, 5 tables</p></details> |
-| **[Where Do the Joules Go? Diagnosing Inference Energy Consumption](https://arxiv.org/abs/2601.22076v1)** | 2026-01-29 | <details><summary>The M...</summary><p>The ML.ENERGY Leaderboard v3.0 is open https://ml.energy/leaderboard</p></details> |
-| **[How Many Ratings per Item are Necessary for Reliable Significance Testing?](https://arxiv.org/abs/2412.02968v3)** | 2026-01-29 | <details><summary>Accep...</summary><p>Accepted at EACL Findings 2026</p></details> |
-| **[Vision-DeepResearch: Incentivizing DeepResearch Capability in Multimodal Large Language Models](https://arxiv.org/abs/2601.22060v1)** | 2026-01-29 |  |
-| **[$G^2$-Reader: Dual Evolving Graphs for Multimodal Document QA](https://arxiv.org/abs/2601.22055v1)** | 2026-01-29 |  |
+| **[FC-KAN: Function Combinations in Kolmogorov-Arnold Networks](https://arxiv.org/abs/2409.01763v4)** | 2026-01-30 | 17 pages |
+| **[TCBench: A Benchmark for Tropical Cyclone Track and Intensity Forecasting at the Global Scale](https://arxiv.org/abs/2601.23268v1)** | 2026-01-30 | <details><summary>28 Pa...</summary><p>28 Pages, Including SI</p></details> |
+| **[Outcome-Conditioned Reasoning Distillation for Resolving Software Issues](https://arxiv.org/abs/2601.23257v1)** | 2026-01-30 | <details><summary>17 pa...</summary><p>17 pages, 3 figures, 5 tables</p></details> |
+| **[Towards a Benchmark for Dependency Decision-Making](https://arxiv.org/abs/2601.00205v2)** | 2026-01-30 | <details><summary>Under...</summary><p>Under review at JAWS 2026. 5 pages, 1 figures, 2 tables</p></details> |
+| **[How well do generative models solve inverse problems? A benchmark study](https://arxiv.org/abs/2601.23238v1)** | 2026-01-30 | <details><summary>32 pa...</summary><p>32 pages, 11 figures, 5 tables</p></details> |
+| **[Just as Humans Need Vaccines, So Do Models: Model Immunization to Combat Falsehoods](https://arxiv.org/abs/2505.17870v2)** | 2026-01-30 |  |
+| **[Generative quantum machine learning via denoising diffusion probabilistic models](https://arxiv.org/abs/2310.05866v5)** | 2026-01-30 | <details><summary>5+10 ...</summary><p>5+10 pages, 16 figures. PRL accepted version. Code available at: https://github.com/francis-hsu/quantgenmdl</p></details> |
+| **[Disentangling multispecific antibody function with graph neural networks](https://arxiv.org/abs/2601.23212v1)** | 2026-01-30 | <details><summary>16 pa...</summary><p>16 pages, 5 figures, code available at https://github.com/prescient-design/synapse</p></details> |
 
 ## Image Caption
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[UEval: A Benchmark for Unified Multimodal Generation](https://arxiv.org/abs/2601.22155v1)** | 2026-01-29 |  |
-| **[Do VLMs Perceive or Recall? Probing Visual Perception vs. Memory with Classic Visual Illusions](https://arxiv.org/abs/2601.22150v1)** | 2026-01-29 | <details><summary>26 pa...</summary><p>26 pages, 31 figures, 13 tables. Project Page: https://sites.google.com/view/vi-probe/</p></details> |
-| **[Variance component score test for multivariate change point detection with applications to mobile health](https://arxiv.org/abs/2601.22147v1)** | 2026-01-29 | 15 pages, 5 figures |
-| **[Early and Prediagnostic Detection of Pancreatic Cancer from Computed Tomography](https://arxiv.org/abs/2601.22134v1)** | 2026-01-29 |  |
-| **[How Does Cognitive Capability and Personality Influence Problem Solving in Coding Interview Puzzles?](https://arxiv.org/abs/2511.14367v2)** | 2026-01-29 | <details><summary>11 pa...</summary><p>11 pages, 5 figures, 6 tables, 19th IEEE/ACM International Conference on Cooperative and Human Aspects of Software Engineering (CHASE 2026)</p></details> |
-| **[Interval Spacing](https://arxiv.org/abs/2601.22116v1)** | 2026-01-29 | 19 pages, 5 figures |
-| **[Diverse Approaches to Optimal Execution Schedule Generation](https://arxiv.org/abs/2601.22113v1)** | 2026-01-29 | <details><summary>27 pa...</summary><p>27 pages, 15 figures, 5 tables</p></details> |
-| **[Where Do the Joules Go? Diagnosing Inference Energy Consumption](https://arxiv.org/abs/2601.22076v1)** | 2026-01-29 | <details><summary>The M...</summary><p>The ML.ENERGY Leaderboard v3.0 is open https://ml.energy/leaderboard</p></details> |
-| **[How Many Ratings per Item are Necessary for Reliable Significance Testing?](https://arxiv.org/abs/2412.02968v3)** | 2026-01-29 | <details><summary>Accep...</summary><p>Accepted at EACL Findings 2026</p></details> |
-| **[Vision-DeepResearch: Incentivizing DeepResearch Capability in Multimodal Large Language Models](https://arxiv.org/abs/2601.22060v1)** | 2026-01-29 |  |
-| **[$G^2$-Reader: Dual Evolving Graphs for Multimodal Document QA](https://arxiv.org/abs/2601.22055v1)** | 2026-01-29 |  |
+| **[FC-KAN: Function Combinations in Kolmogorov-Arnold Networks](https://arxiv.org/abs/2409.01763v4)** | 2026-01-30 | 17 pages |
+| **[TCBench: A Benchmark for Tropical Cyclone Track and Intensity Forecasting at the Global Scale](https://arxiv.org/abs/2601.23268v1)** | 2026-01-30 | <details><summary>28 Pa...</summary><p>28 Pages, Including SI</p></details> |
+| **[Outcome-Conditioned Reasoning Distillation for Resolving Software Issues](https://arxiv.org/abs/2601.23257v1)** | 2026-01-30 | <details><summary>17 pa...</summary><p>17 pages, 3 figures, 5 tables</p></details> |
+| **[Towards a Benchmark for Dependency Decision-Making](https://arxiv.org/abs/2601.00205v2)** | 2026-01-30 | <details><summary>Under...</summary><p>Under review at JAWS 2026. 5 pages, 1 figures, 2 tables</p></details> |
+| **[How well do generative models solve inverse problems? A benchmark study](https://arxiv.org/abs/2601.23238v1)** | 2026-01-30 | <details><summary>32 pa...</summary><p>32 pages, 11 figures, 5 tables</p></details> |
+| **[Just as Humans Need Vaccines, So Do Models: Model Immunization to Combat Falsehoods](https://arxiv.org/abs/2505.17870v2)** | 2026-01-30 |  |
+| **[Generative quantum machine learning via denoising diffusion probabilistic models](https://arxiv.org/abs/2310.05866v5)** | 2026-01-30 | <details><summary>5+10 ...</summary><p>5+10 pages, 16 figures. PRL accepted version. Code available at: https://github.com/francis-hsu/quantgenmdl</p></details> |
+| **[Disentangling multispecific antibody function with graph neural networks](https://arxiv.org/abs/2601.23212v1)** | 2026-01-30 | <details><summary>16 pa...</summary><p>16 pages, 5 figures, code available at https://github.com/prescient-design/synapse</p></details> |
 
 ## Describe
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[UEval: A Benchmark for Unified Multimodal Generation](https://arxiv.org/abs/2601.22155v1)** | 2026-01-29 |  |
-| **[Do VLMs Perceive or Recall? Probing Visual Perception vs. Memory with Classic Visual Illusions](https://arxiv.org/abs/2601.22150v1)** | 2026-01-29 | <details><summary>26 pa...</summary><p>26 pages, 31 figures, 13 tables. Project Page: https://sites.google.com/view/vi-probe/</p></details> |
-| **[Variance component score test for multivariate change point detection with applications to mobile health](https://arxiv.org/abs/2601.22147v1)** | 2026-01-29 | 15 pages, 5 figures |
-| **[Early and Prediagnostic Detection of Pancreatic Cancer from Computed Tomography](https://arxiv.org/abs/2601.22134v1)** | 2026-01-29 |  |
-| **[How Does Cognitive Capability and Personality Influence Problem Solving in Coding Interview Puzzles?](https://arxiv.org/abs/2511.14367v2)** | 2026-01-29 | <details><summary>11 pa...</summary><p>11 pages, 5 figures, 6 tables, 19th IEEE/ACM International Conference on Cooperative and Human Aspects of Software Engineering (CHASE 2026)</p></details> |
-| **[Interval Spacing](https://arxiv.org/abs/2601.22116v1)** | 2026-01-29 | 19 pages, 5 figures |
-| **[Diverse Approaches to Optimal Execution Schedule Generation](https://arxiv.org/abs/2601.22113v1)** | 2026-01-29 | <details><summary>27 pa...</summary><p>27 pages, 15 figures, 5 tables</p></details> |
-| **[Where Do the Joules Go? Diagnosing Inference Energy Consumption](https://arxiv.org/abs/2601.22076v1)** | 2026-01-29 | <details><summary>The M...</summary><p>The ML.ENERGY Leaderboard v3.0 is open https://ml.energy/leaderboard</p></details> |
-| **[How Many Ratings per Item are Necessary for Reliable Significance Testing?](https://arxiv.org/abs/2412.02968v3)** | 2026-01-29 | <details><summary>Accep...</summary><p>Accepted at EACL Findings 2026</p></details> |
-| **[Vision-DeepResearch: Incentivizing DeepResearch Capability in Multimodal Large Language Models](https://arxiv.org/abs/2601.22060v1)** | 2026-01-29 |  |
-| **[$G^2$-Reader: Dual Evolving Graphs for Multimodal Document QA](https://arxiv.org/abs/2601.22055v1)** | 2026-01-29 |  |
+| **[FC-KAN: Function Combinations in Kolmogorov-Arnold Networks](https://arxiv.org/abs/2409.01763v4)** | 2026-01-30 | 17 pages |
+| **[TCBench: A Benchmark for Tropical Cyclone Track and Intensity Forecasting at the Global Scale](https://arxiv.org/abs/2601.23268v1)** | 2026-01-30 | <details><summary>28 Pa...</summary><p>28 Pages, Including SI</p></details> |
+| **[Outcome-Conditioned Reasoning Distillation for Resolving Software Issues](https://arxiv.org/abs/2601.23257v1)** | 2026-01-30 | <details><summary>17 pa...</summary><p>17 pages, 3 figures, 5 tables</p></details> |
+| **[Towards a Benchmark for Dependency Decision-Making](https://arxiv.org/abs/2601.00205v2)** | 2026-01-30 | <details><summary>Under...</summary><p>Under review at JAWS 2026. 5 pages, 1 figures, 2 tables</p></details> |
+| **[How well do generative models solve inverse problems? A benchmark study](https://arxiv.org/abs/2601.23238v1)** | 2026-01-30 | <details><summary>32 pa...</summary><p>32 pages, 11 figures, 5 tables</p></details> |
+| **[Just as Humans Need Vaccines, So Do Models: Model Immunization to Combat Falsehoods](https://arxiv.org/abs/2505.17870v2)** | 2026-01-30 |  |
+| **[Generative quantum machine learning via denoising diffusion probabilistic models](https://arxiv.org/abs/2310.05866v5)** | 2026-01-30 | <details><summary>5+10 ...</summary><p>5+10 pages, 16 figures. PRL accepted version. Code available at: https://github.com/francis-hsu/quantgenmdl</p></details> |
+| **[Disentangling multispecific antibody function with graph neural networks](https://arxiv.org/abs/2601.23212v1)** | 2026-01-30 | <details><summary>16 pa...</summary><p>16 pages, 5 figures, code available at https://github.com/prescient-design/synapse</p></details> |
 
 ## Light Weight
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[UEval: A Benchmark for Unified Multimodal Generation](https://arxiv.org/abs/2601.22155v1)** | 2026-01-29 |  |
-| **[Do VLMs Perceive or Recall? Probing Visual Perception vs. Memory with Classic Visual Illusions](https://arxiv.org/abs/2601.22150v1)** | 2026-01-29 | <details><summary>26 pa...</summary><p>26 pages, 31 figures, 13 tables. Project Page: https://sites.google.com/view/vi-probe/</p></details> |
-| **[Variance component score test for multivariate change point detection with applications to mobile health](https://arxiv.org/abs/2601.22147v1)** | 2026-01-29 | 15 pages, 5 figures |
-| **[Early and Prediagnostic Detection of Pancreatic Cancer from Computed Tomography](https://arxiv.org/abs/2601.22134v1)** | 2026-01-29 |  |
-| **[How Does Cognitive Capability and Personality Influence Problem Solving in Coding Interview Puzzles?](https://arxiv.org/abs/2511.14367v2)** | 2026-01-29 | <details><summary>11 pa...</summary><p>11 pages, 5 figures, 6 tables, 19th IEEE/ACM International Conference on Cooperative and Human Aspects of Software Engineering (CHASE 2026)</p></details> |
-| **[Interval Spacing](https://arxiv.org/abs/2601.22116v1)** | 2026-01-29 | 19 pages, 5 figures |
-| **[Diverse Approaches to Optimal Execution Schedule Generation](https://arxiv.org/abs/2601.22113v1)** | 2026-01-29 | <details><summary>27 pa...</summary><p>27 pages, 15 figures, 5 tables</p></details> |
-| **[Where Do the Joules Go? Diagnosing Inference Energy Consumption](https://arxiv.org/abs/2601.22076v1)** | 2026-01-29 | <details><summary>The M...</summary><p>The ML.ENERGY Leaderboard v3.0 is open https://ml.energy/leaderboard</p></details> |
-| **[How Many Ratings per Item are Necessary for Reliable Significance Testing?](https://arxiv.org/abs/2412.02968v3)** | 2026-01-29 | <details><summary>Accep...</summary><p>Accepted at EACL Findings 2026</p></details> |
-| **[Vision-DeepResearch: Incentivizing DeepResearch Capability in Multimodal Large Language Models](https://arxiv.org/abs/2601.22060v1)** | 2026-01-29 |  |
-| **[$G^2$-Reader: Dual Evolving Graphs for Multimodal Document QA](https://arxiv.org/abs/2601.22055v1)** | 2026-01-29 |  |
+| **[FC-KAN: Function Combinations in Kolmogorov-Arnold Networks](https://arxiv.org/abs/2409.01763v4)** | 2026-01-30 | 17 pages |
+| **[TCBench: A Benchmark for Tropical Cyclone Track and Intensity Forecasting at the Global Scale](https://arxiv.org/abs/2601.23268v1)** | 2026-01-30 | <details><summary>28 Pa...</summary><p>28 Pages, Including SI</p></details> |
+| **[Outcome-Conditioned Reasoning Distillation for Resolving Software Issues](https://arxiv.org/abs/2601.23257v1)** | 2026-01-30 | <details><summary>17 pa...</summary><p>17 pages, 3 figures, 5 tables</p></details> |
+| **[Towards a Benchmark for Dependency Decision-Making](https://arxiv.org/abs/2601.00205v2)** | 2026-01-30 | <details><summary>Under...</summary><p>Under review at JAWS 2026. 5 pages, 1 figures, 2 tables</p></details> |
+| **[How well do generative models solve inverse problems? A benchmark study](https://arxiv.org/abs/2601.23238v1)** | 2026-01-30 | <details><summary>32 pa...</summary><p>32 pages, 11 figures, 5 tables</p></details> |
+| **[Just as Humans Need Vaccines, So Do Models: Model Immunization to Combat Falsehoods](https://arxiv.org/abs/2505.17870v2)** | 2026-01-30 |  |
+| **[Generative quantum machine learning via denoising diffusion probabilistic models](https://arxiv.org/abs/2310.05866v5)** | 2026-01-30 | <details><summary>5+10 ...</summary><p>5+10 pages, 16 figures. PRL accepted version. Code available at: https://github.com/francis-hsu/quantgenmdl</p></details> |
+| **[Disentangling multispecific antibody function with graph neural networks](https://arxiv.org/abs/2601.23212v1)** | 2026-01-30 | <details><summary>16 pa...</summary><p>16 pages, 5 figures, code available at https://github.com/prescient-design/synapse</p></details> |
 
 ## Class Incremental
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[UEval: A Benchmark for Unified Multimodal Generation](https://arxiv.org/abs/2601.22155v1)** | 2026-01-29 |  |
-| **[Do VLMs Perceive or Recall? Probing Visual Perception vs. Memory with Classic Visual Illusions](https://arxiv.org/abs/2601.22150v1)** | 2026-01-29 | <details><summary>26 pa...</summary><p>26 pages, 31 figures, 13 tables. Project Page: https://sites.google.com/view/vi-probe/</p></details> |
-| **[Variance component score test for multivariate change point detection with applications to mobile health](https://arxiv.org/abs/2601.22147v1)** | 2026-01-29 | 15 pages, 5 figures |
-| **[Early and Prediagnostic Detection of Pancreatic Cancer from Computed Tomography](https://arxiv.org/abs/2601.22134v1)** | 2026-01-29 |  |
-| **[How Does Cognitive Capability and Personality Influence Problem Solving in Coding Interview Puzzles?](https://arxiv.org/abs/2511.14367v2)** | 2026-01-29 | <details><summary>11 pa...</summary><p>11 pages, 5 figures, 6 tables, 19th IEEE/ACM International Conference on Cooperative and Human Aspects of Software Engineering (CHASE 2026)</p></details> |
-| **[Interval Spacing](https://arxiv.org/abs/2601.22116v1)** | 2026-01-29 | 19 pages, 5 figures |
-| **[Diverse Approaches to Optimal Execution Schedule Generation](https://arxiv.org/abs/2601.22113v1)** | 2026-01-29 | <details><summary>27 pa...</summary><p>27 pages, 15 figures, 5 tables</p></details> |
-| **[Where Do the Joules Go? Diagnosing Inference Energy Consumption](https://arxiv.org/abs/2601.22076v1)** | 2026-01-29 | <details><summary>The M...</summary><p>The ML.ENERGY Leaderboard v3.0 is open https://ml.energy/leaderboard</p></details> |
-| **[How Many Ratings per Item are Necessary for Reliable Significance Testing?](https://arxiv.org/abs/2412.02968v3)** | 2026-01-29 | <details><summary>Accep...</summary><p>Accepted at EACL Findings 2026</p></details> |
-| **[Vision-DeepResearch: Incentivizing DeepResearch Capability in Multimodal Large Language Models](https://arxiv.org/abs/2601.22060v1)** | 2026-01-29 |  |
-| **[$G^2$-Reader: Dual Evolving Graphs for Multimodal Document QA](https://arxiv.org/abs/2601.22055v1)** | 2026-01-29 |  |
+| **[FC-KAN: Function Combinations in Kolmogorov-Arnold Networks](https://arxiv.org/abs/2409.01763v4)** | 2026-01-30 | 17 pages |
+| **[TCBench: A Benchmark for Tropical Cyclone Track and Intensity Forecasting at the Global Scale](https://arxiv.org/abs/2601.23268v1)** | 2026-01-30 | <details><summary>28 Pa...</summary><p>28 Pages, Including SI</p></details> |
+| **[Outcome-Conditioned Reasoning Distillation for Resolving Software Issues](https://arxiv.org/abs/2601.23257v1)** | 2026-01-30 | <details><summary>17 pa...</summary><p>17 pages, 3 figures, 5 tables</p></details> |
+| **[Towards a Benchmark for Dependency Decision-Making](https://arxiv.org/abs/2601.00205v2)** | 2026-01-30 | <details><summary>Under...</summary><p>Under review at JAWS 2026. 5 pages, 1 figures, 2 tables</p></details> |
+| **[How well do generative models solve inverse problems? A benchmark study](https://arxiv.org/abs/2601.23238v1)** | 2026-01-30 | <details><summary>32 pa...</summary><p>32 pages, 11 figures, 5 tables</p></details> |
+| **[Just as Humans Need Vaccines, So Do Models: Model Immunization to Combat Falsehoods](https://arxiv.org/abs/2505.17870v2)** | 2026-01-30 |  |
+| **[Generative quantum machine learning via denoising diffusion probabilistic models](https://arxiv.org/abs/2310.05866v5)** | 2026-01-30 | <details><summary>5+10 ...</summary><p>5+10 pages, 16 figures. PRL accepted version. Code available at: https://github.com/francis-hsu/quantgenmdl</p></details> |
+| **[Disentangling multispecific antibody function with graph neural networks](https://arxiv.org/abs/2601.23212v1)** | 2026-01-30 | <details><summary>16 pa...</summary><p>16 pages, 5 figures, code available at https://github.com/prescient-design/synapse</p></details> |
 
