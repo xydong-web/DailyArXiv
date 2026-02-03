@@ -1,5 +1,5 @@
 ---
-title: Latest 50 Papers - February 03, 2026
+title: Latest 50 Papers - February 04, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/JiamingZang/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,114 +7,94 @@ labels: documentation
 ## Molecular
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[FC-KAN: Function Combinations in Kolmogorov-Arnold Networks](https://arxiv.org/abs/2409.01763v4)** | 2026-01-30 | 17 pages |
-| **[TCBench: A Benchmark for Tropical Cyclone Track and Intensity Forecasting at the Global Scale](https://arxiv.org/abs/2601.23268v1)** | 2026-01-30 | <details><summary>28 Pa...</summary><p>28 Pages, Including SI</p></details> |
-| **[Outcome-Conditioned Reasoning Distillation for Resolving Software Issues](https://arxiv.org/abs/2601.23257v1)** | 2026-01-30 | <details><summary>17 pa...</summary><p>17 pages, 3 figures, 5 tables</p></details> |
-| **[Towards a Benchmark for Dependency Decision-Making](https://arxiv.org/abs/2601.00205v2)** | 2026-01-30 | <details><summary>Under...</summary><p>Under review at JAWS 2026. 5 pages, 1 figures, 2 tables</p></details> |
-| **[How well do generative models solve inverse problems? A benchmark study](https://arxiv.org/abs/2601.23238v1)** | 2026-01-30 | <details><summary>32 pa...</summary><p>32 pages, 11 figures, 5 tables</p></details> |
-| **[Just as Humans Need Vaccines, So Do Models: Model Immunization to Combat Falsehoods](https://arxiv.org/abs/2505.17870v2)** | 2026-01-30 |  |
-| **[Generative quantum machine learning via denoising diffusion probabilistic models](https://arxiv.org/abs/2310.05866v5)** | 2026-01-30 | <details><summary>5+10 ...</summary><p>5+10 pages, 16 figures. PRL accepted version. Code available at: https://github.com/francis-hsu/quantgenmdl</p></details> |
-| **[Disentangling multispecific antibody function with graph neural networks](https://arxiv.org/abs/2601.23212v1)** | 2026-01-30 | <details><summary>16 pa...</summary><p>16 pages, 5 figures, code available at https://github.com/prescient-design/synapse</p></details> |
+| **[MEG-XL: Data-Efficient Brain-to-Text via Long-Context Pre-Training](https://arxiv.org/abs/2602.02494v1)** | 2026-02-02 | <details><summary>19 pa...</summary><p>19 pages, 8 figures, 5 tables</p></details> |
+| **[Active Causal Experimentalist (ACE): Learning Intervention Strategies via Direct Preference Optimization](https://arxiv.org/abs/2602.02451v1)** | 2026-02-02 | 9 pages, 5 figures |
+| **[How to Train Your Advisor: Steering Black-Box LLMs with Advisor Models](https://arxiv.org/abs/2510.02453v2)** | 2026-02-02 |  |
+| **[Confounder-robust causal discovery and inference in Perturb-seq using proxy and instrumental variables](https://arxiv.org/abs/2601.01830v2)** | 2026-02-02 |  |
+| **[Personalized Image Generation via Human-in-the-loop Bayesian Optimization](https://arxiv.org/abs/2602.02388v1)** | 2026-02-02 |  |
+| **[A Task-Level Evaluation of AI Agents in Open-Source Projects](https://arxiv.org/abs/2602.02345v1)** | 2026-02-02 | <details><summary>5 pag...</summary><p>5 pages, accepted at MSR Mining Challenge 2026</p></details> |
 
 ## Molecular Generation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[FC-KAN: Function Combinations in Kolmogorov-Arnold Networks](https://arxiv.org/abs/2409.01763v4)** | 2026-01-30 | 17 pages |
-| **[TCBench: A Benchmark for Tropical Cyclone Track and Intensity Forecasting at the Global Scale](https://arxiv.org/abs/2601.23268v1)** | 2026-01-30 | <details><summary>28 Pa...</summary><p>28 Pages, Including SI</p></details> |
-| **[Outcome-Conditioned Reasoning Distillation for Resolving Software Issues](https://arxiv.org/abs/2601.23257v1)** | 2026-01-30 | <details><summary>17 pa...</summary><p>17 pages, 3 figures, 5 tables</p></details> |
-| **[Towards a Benchmark for Dependency Decision-Making](https://arxiv.org/abs/2601.00205v2)** | 2026-01-30 | <details><summary>Under...</summary><p>Under review at JAWS 2026. 5 pages, 1 figures, 2 tables</p></details> |
-| **[How well do generative models solve inverse problems? A benchmark study](https://arxiv.org/abs/2601.23238v1)** | 2026-01-30 | <details><summary>32 pa...</summary><p>32 pages, 11 figures, 5 tables</p></details> |
-| **[Just as Humans Need Vaccines, So Do Models: Model Immunization to Combat Falsehoods](https://arxiv.org/abs/2505.17870v2)** | 2026-01-30 |  |
-| **[Generative quantum machine learning via denoising diffusion probabilistic models](https://arxiv.org/abs/2310.05866v5)** | 2026-01-30 | <details><summary>5+10 ...</summary><p>5+10 pages, 16 figures. PRL accepted version. Code available at: https://github.com/francis-hsu/quantgenmdl</p></details> |
-| **[Disentangling multispecific antibody function with graph neural networks](https://arxiv.org/abs/2601.23212v1)** | 2026-01-30 | <details><summary>16 pa...</summary><p>16 pages, 5 figures, code available at https://github.com/prescient-design/synapse</p></details> |
+| **[MEG-XL: Data-Efficient Brain-to-Text via Long-Context Pre-Training](https://arxiv.org/abs/2602.02494v1)** | 2026-02-02 | <details><summary>19 pa...</summary><p>19 pages, 8 figures, 5 tables</p></details> |
+| **[Active Causal Experimentalist (ACE): Learning Intervention Strategies via Direct Preference Optimization](https://arxiv.org/abs/2602.02451v1)** | 2026-02-02 | 9 pages, 5 figures |
+| **[How to Train Your Advisor: Steering Black-Box LLMs with Advisor Models](https://arxiv.org/abs/2510.02453v2)** | 2026-02-02 |  |
+| **[Personalized Image Generation via Human-in-the-loop Bayesian Optimization](https://arxiv.org/abs/2602.02388v1)** | 2026-02-02 |  |
+| **[A Task-Level Evaluation of AI Agents in Open-Source Projects](https://arxiv.org/abs/2602.02345v1)** | 2026-02-02 | <details><summary>5 pag...</summary><p>5 pages, accepted at MSR Mining Challenge 2026</p></details> |
+| **[SparseSwaps: Tractable LLM Pruning Mask Refinement at Scale](https://arxiv.org/abs/2512.10922v2)** | 2026-02-02 | <details><summary>13 pa...</summary><p>13 pages, 2 figures, 5 tables</p></details> |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[FC-KAN: Function Combinations in Kolmogorov-Arnold Networks](https://arxiv.org/abs/2409.01763v4)** | 2026-01-30 | 17 pages |
-| **[TCBench: A Benchmark for Tropical Cyclone Track and Intensity Forecasting at the Global Scale](https://arxiv.org/abs/2601.23268v1)** | 2026-01-30 | <details><summary>28 Pa...</summary><p>28 Pages, Including SI</p></details> |
-| **[Outcome-Conditioned Reasoning Distillation for Resolving Software Issues](https://arxiv.org/abs/2601.23257v1)** | 2026-01-30 | <details><summary>17 pa...</summary><p>17 pages, 3 figures, 5 tables</p></details> |
-| **[Towards a Benchmark for Dependency Decision-Making](https://arxiv.org/abs/2601.00205v2)** | 2026-01-30 | <details><summary>Under...</summary><p>Under review at JAWS 2026. 5 pages, 1 figures, 2 tables</p></details> |
-| **[Graph Attention Network for Node Regression on Random Geometric Graphs with Erdős--Rényi contamination](https://arxiv.org/abs/2601.23239v1)** | 2026-01-30 | <details><summary>62 pa...</summary><p>62 pages, 2 figures, 2 tables</p></details> |
-| **[How well do generative models solve inverse problems? A benchmark study](https://arxiv.org/abs/2601.23238v1)** | 2026-01-30 | <details><summary>32 pa...</summary><p>32 pages, 11 figures, 5 tables</p></details> |
-| **[Sequence Diffusion Model for Temporal Link Prediction in Continuous-Time Dynamic Graph](https://arxiv.org/abs/2601.23233v1)** | 2026-01-30 |  |
-| **[Just as Humans Need Vaccines, So Do Models: Model Immunization to Combat Falsehoods](https://arxiv.org/abs/2505.17870v2)** | 2026-01-30 |  |
-| **[Generative quantum machine learning via denoising diffusion probabilistic models](https://arxiv.org/abs/2310.05866v5)** | 2026-01-30 | <details><summary>5+10 ...</summary><p>5+10 pages, 16 figures. PRL accepted version. Code available at: https://github.com/francis-hsu/quantgenmdl</p></details> |
-| **[Disentangling multispecific antibody function with graph neural networks](https://arxiv.org/abs/2601.23212v1)** | 2026-01-30 | <details><summary>16 pa...</summary><p>16 pages, 5 figures, code available at https://github.com/prescient-design/synapse</p></details> |
+| **[MEG-XL: Data-Efficient Brain-to-Text via Long-Context Pre-Training](https://arxiv.org/abs/2602.02494v1)** | 2026-02-02 | <details><summary>19 pa...</summary><p>19 pages, 8 figures, 5 tables</p></details> |
+| **[Active Causal Experimentalist (ACE): Learning Intervention Strategies via Direct Preference Optimization](https://arxiv.org/abs/2602.02451v1)** | 2026-02-02 | 9 pages, 5 figures |
+| **[How to Train Your Advisor: Steering Black-Box LLMs with Advisor Models](https://arxiv.org/abs/2510.02453v2)** | 2026-02-02 |  |
+| **[Personalized Image Generation via Human-in-the-loop Bayesian Optimization](https://arxiv.org/abs/2602.02388v1)** | 2026-02-02 |  |
+| **[A Task-Level Evaluation of AI Agents in Open-Source Projects](https://arxiv.org/abs/2602.02345v1)** | 2026-02-02 | <details><summary>5 pag...</summary><p>5 pages, accepted at MSR Mining Challenge 2026</p></details> |
+| **[SparseSwaps: Tractable LLM Pruning Mask Refinement at Scale](https://arxiv.org/abs/2512.10922v2)** | 2026-02-02 | <details><summary>13 pa...</summary><p>13 pages, 2 figures, 5 tables</p></details> |
 
 ## Diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[VideoGPA: Distilling Geometry Priors for 3D-Consistent Video Generation](https://arxiv.org/abs/2601.23286v1)** | 2026-01-30 |  |
-| **[Decoupled Diffusion Sampling for Inverse Problems on Function Spaces](https://arxiv.org/abs/2601.23280v1)** | 2026-01-30 |  |
-| **[FOCUS: DLLMs Know How to Tame Their Compute Bound](https://arxiv.org/abs/2601.23278v1)** | 2026-01-30 | 22 pages, 15 figures |
-| **[Multi-agent Coordination via Flow Matching](https://arxiv.org/abs/2511.05005v2)** | 2026-01-30 | ICLR 2026 |
-| **[FC-KAN: Function Combinations in Kolmogorov-Arnold Networks](https://arxiv.org/abs/2409.01763v4)** | 2026-01-30 | 17 pages |
-| **[On the Separability of Information in Diffusion Models](https://arxiv.org/abs/2509.23937v4)** | 2026-01-30 | <details><summary>27 pa...</summary><p>27 pages + references, 19 figures. v4: Re-organized the paper to focus on separability of information</p></details> |
-| **[TCBench: A Benchmark for Tropical Cyclone Track and Intensity Forecasting at the Global Scale](https://arxiv.org/abs/2601.23268v1)** | 2026-01-30 | <details><summary>28 Pa...</summary><p>28 Pages, Including SI</p></details> |
-| **[IRL-DAL: Safe and Adaptive Trajectory Planning for Autonomous Driving via Energy-Guided Diffusion Models](https://arxiv.org/abs/2601.23266v1)** | 2026-01-30 |  |
-| **[Particle-Guided Diffusion Models for Partial Differential Equations](https://arxiv.org/abs/2601.23262v1)** | 2026-01-30 |  |
-| **[Outcome-Conditioned Reasoning Distillation for Resolving Software Issues](https://arxiv.org/abs/2601.23257v1)** | 2026-01-30 | <details><summary>17 pa...</summary><p>17 pages, 3 figures, 5 tables</p></details> |
-| **[Diffusion-based Frameworks for Unsupervised Speech Enhancement](https://arxiv.org/abs/2601.09931v3)** | 2026-01-30 |  |
-| **[Towards a Benchmark for Dependency Decision-Making](https://arxiv.org/abs/2601.00205v2)** | 2026-01-30 | <details><summary>Under...</summary><p>Under review at JAWS 2026. 5 pages, 1 figures, 2 tables</p></details> |
+| **[MEG-XL: Data-Efficient Brain-to-Text via Long-Context Pre-Training](https://arxiv.org/abs/2602.02494v1)** | 2026-02-02 | <details><summary>19 pa...</summary><p>19 pages, 8 figures, 5 tables</p></details> |
+| **[PixelGen: Pixel Diffusion Beats Latent Diffusion with Perceptual Loss](https://arxiv.org/abs/2602.02493v1)** | 2026-02-02 | <details><summary>Proje...</summary><p>Project Pages: https://zehong-ma.github.io/PixelGen/</p></details> |
+| **[Active Causal Experimentalist (ACE): Learning Intervention Strategies via Direct Preference Optimization](https://arxiv.org/abs/2602.02451v1)** | 2026-02-02 | 9 pages, 5 figures |
+| **[How to Train Your Advisor: Steering Black-Box LLMs with Advisor Models](https://arxiv.org/abs/2510.02453v2)** | 2026-02-02 |  |
+| **[Trust Region Continual Learning as an Implicit Meta-Learner](https://arxiv.org/abs/2602.02417v1)** | 2026-02-02 | 19 pages, 23 tables |
+| **[FS-DFM: Fast and Accurate Long Text Generation with Few-Step Diffusion Language Models](https://arxiv.org/abs/2509.20624v3)** | 2026-02-02 | <details><summary>Accep...</summary><p>Accepted to ICLR 2026</p></details> |
+| **[PRISM: Performer RS-IMLE for Single-pass Multisensory Imitation Learning](https://arxiv.org/abs/2602.02396v1)** | 2026-02-02 | <details><summary>10 pa...</summary><p>10 pages main text and 4 figures, and 11 pages appendix and 10 figures, total 21 pages and 14 figures</p></details> |
+| **[Personalized Image Generation via Human-in-the-loop Bayesian Optimization](https://arxiv.org/abs/2602.02388v1)** | 2026-02-02 |  |
+| **[A Task-Level Evaluation of AI Agents in Open-Source Projects](https://arxiv.org/abs/2602.02345v1)** | 2026-02-02 | <details><summary>5 pag...</summary><p>5 pages, accepted at MSR Mining Challenge 2026</p></details> |
 
 ## Object Counting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[FC-KAN: Function Combinations in Kolmogorov-Arnold Networks](https://arxiv.org/abs/2409.01763v4)** | 2026-01-30 | 17 pages |
-| **[TCBench: A Benchmark for Tropical Cyclone Track and Intensity Forecasting at the Global Scale](https://arxiv.org/abs/2601.23268v1)** | 2026-01-30 | <details><summary>28 Pa...</summary><p>28 Pages, Including SI</p></details> |
-| **[Outcome-Conditioned Reasoning Distillation for Resolving Software Issues](https://arxiv.org/abs/2601.23257v1)** | 2026-01-30 | <details><summary>17 pa...</summary><p>17 pages, 3 figures, 5 tables</p></details> |
-| **[Towards a Benchmark for Dependency Decision-Making](https://arxiv.org/abs/2601.00205v2)** | 2026-01-30 | <details><summary>Under...</summary><p>Under review at JAWS 2026. 5 pages, 1 figures, 2 tables</p></details> |
-| **[How well do generative models solve inverse problems? A benchmark study](https://arxiv.org/abs/2601.23238v1)** | 2026-01-30 | <details><summary>32 pa...</summary><p>32 pages, 11 figures, 5 tables</p></details> |
-| **[Just as Humans Need Vaccines, So Do Models: Model Immunization to Combat Falsehoods](https://arxiv.org/abs/2505.17870v2)** | 2026-01-30 |  |
-| **[Generative quantum machine learning via denoising diffusion probabilistic models](https://arxiv.org/abs/2310.05866v5)** | 2026-01-30 | <details><summary>5+10 ...</summary><p>5+10 pages, 16 figures. PRL accepted version. Code available at: https://github.com/francis-hsu/quantgenmdl</p></details> |
-| **[Disentangling multispecific antibody function with graph neural networks](https://arxiv.org/abs/2601.23212v1)** | 2026-01-30 | <details><summary>16 pa...</summary><p>16 pages, 5 figures, code available at https://github.com/prescient-design/synapse</p></details> |
+| **[MEG-XL: Data-Efficient Brain-to-Text via Long-Context Pre-Training](https://arxiv.org/abs/2602.02494v1)** | 2026-02-02 | <details><summary>19 pa...</summary><p>19 pages, 8 figures, 5 tables</p></details> |
+| **[Active Causal Experimentalist (ACE): Learning Intervention Strategies via Direct Preference Optimization](https://arxiv.org/abs/2602.02451v1)** | 2026-02-02 | 9 pages, 5 figures |
+| **[How to Train Your Advisor: Steering Black-Box LLMs with Advisor Models](https://arxiv.org/abs/2510.02453v2)** | 2026-02-02 |  |
+| **[Personalized Image Generation via Human-in-the-loop Bayesian Optimization](https://arxiv.org/abs/2602.02388v1)** | 2026-02-02 |  |
+| **[A Task-Level Evaluation of AI Agents in Open-Source Projects](https://arxiv.org/abs/2602.02345v1)** | 2026-02-02 | <details><summary>5 pag...</summary><p>5 pages, accepted at MSR Mining Challenge 2026</p></details> |
+| **[SparseSwaps: Tractable LLM Pruning Mask Refinement at Scale](https://arxiv.org/abs/2512.10922v2)** | 2026-02-02 | <details><summary>13 pa...</summary><p>13 pages, 2 figures, 5 tables</p></details> |
 
 ## Image Caption
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[FC-KAN: Function Combinations in Kolmogorov-Arnold Networks](https://arxiv.org/abs/2409.01763v4)** | 2026-01-30 | 17 pages |
-| **[TCBench: A Benchmark for Tropical Cyclone Track and Intensity Forecasting at the Global Scale](https://arxiv.org/abs/2601.23268v1)** | 2026-01-30 | <details><summary>28 Pa...</summary><p>28 Pages, Including SI</p></details> |
-| **[Outcome-Conditioned Reasoning Distillation for Resolving Software Issues](https://arxiv.org/abs/2601.23257v1)** | 2026-01-30 | <details><summary>17 pa...</summary><p>17 pages, 3 figures, 5 tables</p></details> |
-| **[Towards a Benchmark for Dependency Decision-Making](https://arxiv.org/abs/2601.00205v2)** | 2026-01-30 | <details><summary>Under...</summary><p>Under review at JAWS 2026. 5 pages, 1 figures, 2 tables</p></details> |
-| **[How well do generative models solve inverse problems? A benchmark study](https://arxiv.org/abs/2601.23238v1)** | 2026-01-30 | <details><summary>32 pa...</summary><p>32 pages, 11 figures, 5 tables</p></details> |
-| **[Just as Humans Need Vaccines, So Do Models: Model Immunization to Combat Falsehoods](https://arxiv.org/abs/2505.17870v2)** | 2026-01-30 |  |
-| **[Generative quantum machine learning via denoising diffusion probabilistic models](https://arxiv.org/abs/2310.05866v5)** | 2026-01-30 | <details><summary>5+10 ...</summary><p>5+10 pages, 16 figures. PRL accepted version. Code available at: https://github.com/francis-hsu/quantgenmdl</p></details> |
-| **[Disentangling multispecific antibody function with graph neural networks](https://arxiv.org/abs/2601.23212v1)** | 2026-01-30 | <details><summary>16 pa...</summary><p>16 pages, 5 figures, code available at https://github.com/prescient-design/synapse</p></details> |
+| **[MEG-XL: Data-Efficient Brain-to-Text via Long-Context Pre-Training](https://arxiv.org/abs/2602.02494v1)** | 2026-02-02 | <details><summary>19 pa...</summary><p>19 pages, 8 figures, 5 tables</p></details> |
+| **[Active Causal Experimentalist (ACE): Learning Intervention Strategies via Direct Preference Optimization](https://arxiv.org/abs/2602.02451v1)** | 2026-02-02 | 9 pages, 5 figures |
+| **[How to Train Your Advisor: Steering Black-Box LLMs with Advisor Models](https://arxiv.org/abs/2510.02453v2)** | 2026-02-02 |  |
+| **[Personalized Image Generation via Human-in-the-loop Bayesian Optimization](https://arxiv.org/abs/2602.02388v1)** | 2026-02-02 |  |
+| **[A Task-Level Evaluation of AI Agents in Open-Source Projects](https://arxiv.org/abs/2602.02345v1)** | 2026-02-02 | <details><summary>5 pag...</summary><p>5 pages, accepted at MSR Mining Challenge 2026</p></details> |
+| **[SparseSwaps: Tractable LLM Pruning Mask Refinement at Scale](https://arxiv.org/abs/2512.10922v2)** | 2026-02-02 | <details><summary>13 pa...</summary><p>13 pages, 2 figures, 5 tables</p></details> |
 
 ## Describe
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[FC-KAN: Function Combinations in Kolmogorov-Arnold Networks](https://arxiv.org/abs/2409.01763v4)** | 2026-01-30 | 17 pages |
-| **[TCBench: A Benchmark for Tropical Cyclone Track and Intensity Forecasting at the Global Scale](https://arxiv.org/abs/2601.23268v1)** | 2026-01-30 | <details><summary>28 Pa...</summary><p>28 Pages, Including SI</p></details> |
-| **[Outcome-Conditioned Reasoning Distillation for Resolving Software Issues](https://arxiv.org/abs/2601.23257v1)** | 2026-01-30 | <details><summary>17 pa...</summary><p>17 pages, 3 figures, 5 tables</p></details> |
-| **[Towards a Benchmark for Dependency Decision-Making](https://arxiv.org/abs/2601.00205v2)** | 2026-01-30 | <details><summary>Under...</summary><p>Under review at JAWS 2026. 5 pages, 1 figures, 2 tables</p></details> |
-| **[How well do generative models solve inverse problems? A benchmark study](https://arxiv.org/abs/2601.23238v1)** | 2026-01-30 | <details><summary>32 pa...</summary><p>32 pages, 11 figures, 5 tables</p></details> |
-| **[Just as Humans Need Vaccines, So Do Models: Model Immunization to Combat Falsehoods](https://arxiv.org/abs/2505.17870v2)** | 2026-01-30 |  |
-| **[Generative quantum machine learning via denoising diffusion probabilistic models](https://arxiv.org/abs/2310.05866v5)** | 2026-01-30 | <details><summary>5+10 ...</summary><p>5+10 pages, 16 figures. PRL accepted version. Code available at: https://github.com/francis-hsu/quantgenmdl</p></details> |
-| **[Disentangling multispecific antibody function with graph neural networks](https://arxiv.org/abs/2601.23212v1)** | 2026-01-30 | <details><summary>16 pa...</summary><p>16 pages, 5 figures, code available at https://github.com/prescient-design/synapse</p></details> |
+| **[MEG-XL: Data-Efficient Brain-to-Text via Long-Context Pre-Training](https://arxiv.org/abs/2602.02494v1)** | 2026-02-02 | <details><summary>19 pa...</summary><p>19 pages, 8 figures, 5 tables</p></details> |
+| **[Secure Multi-User Linearly-Separable Distributed Computing](https://arxiv.org/abs/2602.02489v1)** | 2026-02-02 |  |
+| **[Active Causal Experimentalist (ACE): Learning Intervention Strategies via Direct Preference Optimization](https://arxiv.org/abs/2602.02451v1)** | 2026-02-02 | 9 pages, 5 figures |
+| **[How to Train Your Advisor: Steering Black-Box LLMs with Advisor Models](https://arxiv.org/abs/2510.02453v2)** | 2026-02-02 |  |
+| **[Increasing Data Rate through Shaping on Wireless Channels Subject to Mobility and Delay Spread](https://arxiv.org/abs/2512.06494v3)** | 2026-02-02 | <details><summary>6 pag...</summary><p>6 pages, 7 figures. Submitted to IEEE Wireless Communications Letters</p></details> |
+| **[Personalized Image Generation via Human-in-the-loop Bayesian Optimization](https://arxiv.org/abs/2602.02388v1)** | 2026-02-02 |  |
+| **[Trust by Design: Skill Profiles for Transparent, Cost-Aware LLM Routing](https://arxiv.org/abs/2602.02386v1)** | 2026-02-02 | <details><summary>Appea...</summary><p>Appeared at MLSys YPS 2025</p></details> |
 
 ## Light Weight
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[FC-KAN: Function Combinations in Kolmogorov-Arnold Networks](https://arxiv.org/abs/2409.01763v4)** | 2026-01-30 | 17 pages |
-| **[TCBench: A Benchmark for Tropical Cyclone Track and Intensity Forecasting at the Global Scale](https://arxiv.org/abs/2601.23268v1)** | 2026-01-30 | <details><summary>28 Pa...</summary><p>28 Pages, Including SI</p></details> |
-| **[Outcome-Conditioned Reasoning Distillation for Resolving Software Issues](https://arxiv.org/abs/2601.23257v1)** | 2026-01-30 | <details><summary>17 pa...</summary><p>17 pages, 3 figures, 5 tables</p></details> |
-| **[Towards a Benchmark for Dependency Decision-Making](https://arxiv.org/abs/2601.00205v2)** | 2026-01-30 | <details><summary>Under...</summary><p>Under review at JAWS 2026. 5 pages, 1 figures, 2 tables</p></details> |
-| **[How well do generative models solve inverse problems? A benchmark study](https://arxiv.org/abs/2601.23238v1)** | 2026-01-30 | <details><summary>32 pa...</summary><p>32 pages, 11 figures, 5 tables</p></details> |
-| **[Just as Humans Need Vaccines, So Do Models: Model Immunization to Combat Falsehoods](https://arxiv.org/abs/2505.17870v2)** | 2026-01-30 |  |
-| **[Generative quantum machine learning via denoising diffusion probabilistic models](https://arxiv.org/abs/2310.05866v5)** | 2026-01-30 | <details><summary>5+10 ...</summary><p>5+10 pages, 16 figures. PRL accepted version. Code available at: https://github.com/francis-hsu/quantgenmdl</p></details> |
-| **[Disentangling multispecific antibody function with graph neural networks](https://arxiv.org/abs/2601.23212v1)** | 2026-01-30 | <details><summary>16 pa...</summary><p>16 pages, 5 figures, code available at https://github.com/prescient-design/synapse</p></details> |
+| **[MEG-XL: Data-Efficient Brain-to-Text via Long-Context Pre-Training](https://arxiv.org/abs/2602.02494v1)** | 2026-02-02 | <details><summary>19 pa...</summary><p>19 pages, 8 figures, 5 tables</p></details> |
+| **[Active Causal Experimentalist (ACE): Learning Intervention Strategies via Direct Preference Optimization](https://arxiv.org/abs/2602.02451v1)** | 2026-02-02 | 9 pages, 5 figures |
+| **[How to Train Your Advisor: Steering Black-Box LLMs with Advisor Models](https://arxiv.org/abs/2510.02453v2)** | 2026-02-02 |  |
+| **[Personalized Image Generation via Human-in-the-loop Bayesian Optimization](https://arxiv.org/abs/2602.02388v1)** | 2026-02-02 |  |
+| **[A Task-Level Evaluation of AI Agents in Open-Source Projects](https://arxiv.org/abs/2602.02345v1)** | 2026-02-02 | <details><summary>5 pag...</summary><p>5 pages, accepted at MSR Mining Challenge 2026</p></details> |
+| **[SparseSwaps: Tractable LLM Pruning Mask Refinement at Scale](https://arxiv.org/abs/2512.10922v2)** | 2026-02-02 | <details><summary>13 pa...</summary><p>13 pages, 2 figures, 5 tables</p></details> |
 
 ## Class Incremental
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[FC-KAN: Function Combinations in Kolmogorov-Arnold Networks](https://arxiv.org/abs/2409.01763v4)** | 2026-01-30 | 17 pages |
-| **[TCBench: A Benchmark for Tropical Cyclone Track and Intensity Forecasting at the Global Scale](https://arxiv.org/abs/2601.23268v1)** | 2026-01-30 | <details><summary>28 Pa...</summary><p>28 Pages, Including SI</p></details> |
-| **[Outcome-Conditioned Reasoning Distillation for Resolving Software Issues](https://arxiv.org/abs/2601.23257v1)** | 2026-01-30 | <details><summary>17 pa...</summary><p>17 pages, 3 figures, 5 tables</p></details> |
-| **[Towards a Benchmark for Dependency Decision-Making](https://arxiv.org/abs/2601.00205v2)** | 2026-01-30 | <details><summary>Under...</summary><p>Under review at JAWS 2026. 5 pages, 1 figures, 2 tables</p></details> |
-| **[How well do generative models solve inverse problems? A benchmark study](https://arxiv.org/abs/2601.23238v1)** | 2026-01-30 | <details><summary>32 pa...</summary><p>32 pages, 11 figures, 5 tables</p></details> |
-| **[Just as Humans Need Vaccines, So Do Models: Model Immunization to Combat Falsehoods](https://arxiv.org/abs/2505.17870v2)** | 2026-01-30 |  |
-| **[Generative quantum machine learning via denoising diffusion probabilistic models](https://arxiv.org/abs/2310.05866v5)** | 2026-01-30 | <details><summary>5+10 ...</summary><p>5+10 pages, 16 figures. PRL accepted version. Code available at: https://github.com/francis-hsu/quantgenmdl</p></details> |
-| **[Disentangling multispecific antibody function with graph neural networks](https://arxiv.org/abs/2601.23212v1)** | 2026-01-30 | <details><summary>16 pa...</summary><p>16 pages, 5 figures, code available at https://github.com/prescient-design/synapse</p></details> |
+| **[MEG-XL: Data-Efficient Brain-to-Text via Long-Context Pre-Training](https://arxiv.org/abs/2602.02494v1)** | 2026-02-02 | <details><summary>19 pa...</summary><p>19 pages, 8 figures, 5 tables</p></details> |
+| **[Active Causal Experimentalist (ACE): Learning Intervention Strategies via Direct Preference Optimization](https://arxiv.org/abs/2602.02451v1)** | 2026-02-02 | 9 pages, 5 figures |
+| **[How to Train Your Advisor: Steering Black-Box LLMs with Advisor Models](https://arxiv.org/abs/2510.02453v2)** | 2026-02-02 |  |
+| **[Personalized Image Generation via Human-in-the-loop Bayesian Optimization](https://arxiv.org/abs/2602.02388v1)** | 2026-02-02 |  |
+| **[A Task-Level Evaluation of AI Agents in Open-Source Projects](https://arxiv.org/abs/2602.02345v1)** | 2026-02-02 | <details><summary>5 pag...</summary><p>5 pages, accepted at MSR Mining Challenge 2026</p></details> |
+| **[SparseSwaps: Tractable LLM Pruning Mask Refinement at Scale](https://arxiv.org/abs/2512.10922v2)** | 2026-02-02 | <details><summary>13 pa...</summary><p>13 pages, 2 figures, 5 tables</p></details> |
 
