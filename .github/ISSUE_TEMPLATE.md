@@ -1,5 +1,5 @@
 ---
-title: Latest 50 Papers - February 12, 2026
+title: Latest 50 Papers - February 13, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/JiamingZang/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,115 +7,126 @@ labels: documentation
 ## Molecular
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Effectiveness of Binary Autoencoders for QUBO-Based Optimization Problems](https://arxiv.org/abs/2602.10037v1)** | 2026-02-10 | 14 pages, 5 figures |
-| **[Resilient Topology-Aware Coordination for Dynamic 3D UAV Networks under Node Failure](https://arxiv.org/abs/2602.10029v1)** | 2026-02-10 | <details><summary>25 pa...</summary><p>25 pages, 5 figures. Full research paper providing a resilience-aware RL framework for UAV networks under node failure. A preliminary version has been submitted to ACM Transactions on Internet Technology (TOIT) for possible publication</p></details> |
-| **[Faster-GS: Analyzing and Improving Gaussian Splatting Optimization](https://arxiv.org/abs/2602.09999v1)** | 2026-02-10 | <details><summary>Proje...</summary><p>Project page: https://fhahlbohm.github.io/faster-gaussian-splatting</p></details> |
-| **[Empirical Stability Analysis of Kolmogorov-Arnold Networks in Hard-Constrained Recurrent Physics-Informed Discovery](https://arxiv.org/abs/2602.09988v1)** | 2026-02-10 | 5 pages |
-| **[Supervised Metric Regularization Through Alternating Optimization for Multi-Regime Physics-Informed Neural Networks](https://arxiv.org/abs/2602.09980v1)** | 2026-02-10 | 5 pages, 1 figure |
-| **[SCOPE: A Training-Free Online 3D Deployment for UAV-BSs with Theoretical Analysis and Comparative Study](https://arxiv.org/abs/2602.09971v1)** | 2026-02-10 | <details><summary>11 pa...</summary><p>11 pages, 5 figures, Full research paper providing a training-free determinisitc 3D UAV deployment algorithm, SCOPE. Submitted to IEEE Journal for possible publication</p></details> |
-| **[Chunking Strategies for Multimodal AI Systems](https://arxiv.org/abs/2512.00185v2)** | 2026-02-10 | 50 pages, 5 figure |
-| **[MonkeyTree: Near-Minimal Congestion for Multi-tenant Training via Migration](https://arxiv.org/abs/2602.08296v2)** | 2026-02-10 | 17 pages, 13 figures |
+| **[Utilitarian Distortion Under Probabilistic Voting](https://arxiv.org/abs/2602.11152v1)** | 2026-02-11 |  |
+| **[MOTGNN: Interpretable Graph Neural Networks for Multi-Omics Disease Classification](https://arxiv.org/abs/2508.07465v2)** | 2026-02-11 | <details><summary>11 pa...</summary><p>11 pages, 6 figures, 7 tables</p></details> |
+| **[From Natural Language to Materials Discovery:The Materials Knowledge Navigation Agent](https://arxiv.org/abs/2602.11123v1)** | 2026-02-11 | 22 pages,5 figures |
+| **[A receding-horizon multi-contact motion planner for legged robots in challenging environments](https://arxiv.org/abs/2602.11113v1)** | 2026-02-11 | <details><summary>Submi...</summary><p>Submitted to Robotics and Autonomous Systems For supplementary video, see https://www.youtube.com/watch?v=RJp8DCmhDa4</p></details> |
+| **[GRASP: group-Shapley feature selection for patients](https://arxiv.org/abs/2602.11084v1)** | 2026-02-11 | <details><summary>5 pag...</summary><p>5 pages, 4 figures, 2 tables</p></details> |
+| **[FragmentFlow: Scalable Transition State Generation for Large Molecules](https://arxiv.org/abs/2602.02310v2)** | 2026-02-11 |  |
+| **[Language Model Inversion through End-to-End Differentiation](https://arxiv.org/abs/2602.11044v1)** | 2026-02-11 | <details><summary>24 pa...</summary><p>24 pages, 5 figures, under review</p></details> |
+| **[Learning Page Order in Shuffled WOO Releases](https://arxiv.org/abs/2602.11040v1)** | 2026-02-11 |  |
+| **[Scalable Spatio-Temporal SE(3) Diffusion for Long-Horizon Protein Dynamics](https://arxiv.org/abs/2602.02128v2)** | 2026-02-11 | <details><summary>49 pa...</summary><p>49 pages, 28 figures. Accepted by ICLR 2026. Project page: https://bytedance-seed.github.io/ConfRover/starmd</p></details> |
+| **[Fine-Tuning GPT-5 for GPU Kernel Generation](https://arxiv.org/abs/2602.11000v1)** | 2026-02-11 |  |
 
 ## Molecular Generation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Effectiveness of Binary Autoencoders for QUBO-Based Optimization Problems](https://arxiv.org/abs/2602.10037v1)** | 2026-02-10 | 14 pages, 5 figures |
-| **[Resilient Topology-Aware Coordination for Dynamic 3D UAV Networks under Node Failure](https://arxiv.org/abs/2602.10029v1)** | 2026-02-10 | <details><summary>25 pa...</summary><p>25 pages, 5 figures. Full research paper providing a resilience-aware RL framework for UAV networks under node failure. A preliminary version has been submitted to ACM Transactions on Internet Technology (TOIT) for possible publication</p></details> |
-| **[Faster-GS: Analyzing and Improving Gaussian Splatting Optimization](https://arxiv.org/abs/2602.09999v1)** | 2026-02-10 | <details><summary>Proje...</summary><p>Project page: https://fhahlbohm.github.io/faster-gaussian-splatting</p></details> |
-| **[Empirical Stability Analysis of Kolmogorov-Arnold Networks in Hard-Constrained Recurrent Physics-Informed Discovery](https://arxiv.org/abs/2602.09988v1)** | 2026-02-10 | 5 pages |
-| **[Supervised Metric Regularization Through Alternating Optimization for Multi-Regime Physics-Informed Neural Networks](https://arxiv.org/abs/2602.09980v1)** | 2026-02-10 | 5 pages, 1 figure |
-| **[SCOPE: A Training-Free Online 3D Deployment for UAV-BSs with Theoretical Analysis and Comparative Study](https://arxiv.org/abs/2602.09971v1)** | 2026-02-10 | <details><summary>11 pa...</summary><p>11 pages, 5 figures, Full research paper providing a training-free determinisitc 3D UAV deployment algorithm, SCOPE. Submitted to IEEE Journal for possible publication</p></details> |
-| **[Chunking Strategies for Multimodal AI Systems](https://arxiv.org/abs/2512.00185v2)** | 2026-02-10 | 50 pages, 5 figure |
-| **[MonkeyTree: Near-Minimal Congestion for Multi-tenant Training via Migration](https://arxiv.org/abs/2602.08296v2)** | 2026-02-10 | 17 pages, 13 figures |
-| **[Generative AI and Firm Productivity: Field Experiments in Online Retail](https://arxiv.org/abs/2510.12049v3)** | 2026-02-10 | <details><summary>Keywo...</summary><p>Keywords: Field Experiments, Generative AI, Productivity, Retail Platforms, Consumer Experience. JEL codes: C93, D24, L81, M31, O3</p></details> |
+| **[Utilitarian Distortion Under Probabilistic Voting](https://arxiv.org/abs/2602.11152v1)** | 2026-02-11 |  |
+| **[MOTGNN: Interpretable Graph Neural Networks for Multi-Omics Disease Classification](https://arxiv.org/abs/2508.07465v2)** | 2026-02-11 | <details><summary>11 pa...</summary><p>11 pages, 6 figures, 7 tables</p></details> |
+| **[From Natural Language to Materials Discovery:The Materials Knowledge Navigation Agent](https://arxiv.org/abs/2602.11123v1)** | 2026-02-11 | 22 pages,5 figures |
+| **[A receding-horizon multi-contact motion planner for legged robots in challenging environments](https://arxiv.org/abs/2602.11113v1)** | 2026-02-11 | <details><summary>Submi...</summary><p>Submitted to Robotics and Autonomous Systems For supplementary video, see https://www.youtube.com/watch?v=RJp8DCmhDa4</p></details> |
+| **[GRASP: group-Shapley feature selection for patients](https://arxiv.org/abs/2602.11084v1)** | 2026-02-11 | <details><summary>5 pag...</summary><p>5 pages, 4 figures, 2 tables</p></details> |
+| **[Language Model Inversion through End-to-End Differentiation](https://arxiv.org/abs/2602.11044v1)** | 2026-02-11 | <details><summary>24 pa...</summary><p>24 pages, 5 figures, under review</p></details> |
+| **[Learning Page Order in Shuffled WOO Releases](https://arxiv.org/abs/2602.11040v1)** | 2026-02-11 |  |
+| **[Fine-Tuning GPT-5 for GPU Kernel Generation](https://arxiv.org/abs/2602.11000v1)** | 2026-02-11 |  |
+| **[Sample Efficient Generative Molecular Optimization with Joint Self-Improvement](https://arxiv.org/abs/2602.10984v1)** | 2026-02-11 | 14 pages, 5 figures |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Effectiveness of Binary Autoencoders for QUBO-Based Optimization Problems](https://arxiv.org/abs/2602.10037v1)** | 2026-02-10 | 14 pages, 5 figures |
-| **[Position: Message-passing and spectral GNNs are two sides of the same coin](https://arxiv.org/abs/2602.10031v1)** | 2026-02-10 |  |
-| **[Resilient Topology-Aware Coordination for Dynamic 3D UAV Networks under Node Failure](https://arxiv.org/abs/2602.10029v1)** | 2026-02-10 | <details><summary>25 pa...</summary><p>25 pages, 5 figures. Full research paper providing a resilience-aware RL framework for UAV networks under node failure. A preliminary version has been submitted to ACM Transactions on Internet Technology (TOIT) for possible publication</p></details> |
-| **[Faster-GS: Analyzing and Improving Gaussian Splatting Optimization](https://arxiv.org/abs/2602.09999v1)** | 2026-02-10 | <details><summary>Proje...</summary><p>Project page: https://fhahlbohm.github.io/faster-gaussian-splatting</p></details> |
-| **[Empirical Stability Analysis of Kolmogorov-Arnold Networks in Hard-Constrained Recurrent Physics-Informed Discovery](https://arxiv.org/abs/2602.09988v1)** | 2026-02-10 | 5 pages |
-| **[Supervised Metric Regularization Through Alternating Optimization for Multi-Regime Physics-Informed Neural Networks](https://arxiv.org/abs/2602.09980v1)** | 2026-02-10 | 5 pages, 1 figure |
-| **[SCOPE: A Training-Free Online 3D Deployment for UAV-BSs with Theoretical Analysis and Comparative Study](https://arxiv.org/abs/2602.09971v1)** | 2026-02-10 | <details><summary>11 pa...</summary><p>11 pages, 5 figures, Full research paper providing a training-free determinisitc 3D UAV deployment algorithm, SCOPE. Submitted to IEEE Journal for possible publication</p></details> |
-| **[Chunking Strategies for Multimodal AI Systems](https://arxiv.org/abs/2512.00185v2)** | 2026-02-10 | 50 pages, 5 figure |
-| **[MonkeyTree: Near-Minimal Congestion for Multi-tenant Training via Migration](https://arxiv.org/abs/2602.08296v2)** | 2026-02-10 | 17 pages, 13 figures |
+| **[Utilitarian Distortion Under Probabilistic Voting](https://arxiv.org/abs/2602.11152v1)** | 2026-02-11 |  |
+| **[MOTGNN: Interpretable Graph Neural Networks for Multi-Omics Disease Classification](https://arxiv.org/abs/2508.07465v2)** | 2026-02-11 | <details><summary>11 pa...</summary><p>11 pages, 6 figures, 7 tables</p></details> |
+| **[Proficient Graph Neural Network Design by Accumulating Knowledge on Large Language Models](https://arxiv.org/abs/2408.06717v3)** | 2026-02-11 | <details><summary>Accep...</summary><p>Accepted at WSDM 2026. Title changed from "Computation-friendly graph neural network design by accumulating knowledge on large language models" to "Proficient Graph Neural Network Design by Accumulating Knowledge on Large Language Models"</p></details> |
+| **[From Natural Language to Materials Discovery:The Materials Knowledge Navigation Agent](https://arxiv.org/abs/2602.11123v1)** | 2026-02-11 | 22 pages,5 figures |
+| **[A receding-horizon multi-contact motion planner for legged robots in challenging environments](https://arxiv.org/abs/2602.11113v1)** | 2026-02-11 | <details><summary>Submi...</summary><p>Submitted to Robotics and Autonomous Systems For supplementary video, see https://www.youtube.com/watch?v=RJp8DCmhDa4</p></details> |
+| **[GRASP: group-Shapley feature selection for patients](https://arxiv.org/abs/2602.11084v1)** | 2026-02-11 | <details><summary>5 pag...</summary><p>5 pages, 4 figures, 2 tables</p></details> |
+| **[MoToRec: Sparse-Regularized Multimodal Tokenization for Cold-Start Recommendation](https://arxiv.org/abs/2602.11062v1)** | 2026-02-11 | <details><summary>Accep...</summary><p>Accepted to AAAI 2026 (Main Track)</p></details> |
+| **[Language Model Inversion through End-to-End Differentiation](https://arxiv.org/abs/2602.11044v1)** | 2026-02-11 | <details><summary>24 pa...</summary><p>24 pages, 5 figures, under review</p></details> |
+| **[Learning Page Order in Shuffled WOO Releases](https://arxiv.org/abs/2602.11040v1)** | 2026-02-11 |  |
+| **[Fine-Tuning GPT-5 for GPU Kernel Generation](https://arxiv.org/abs/2602.11000v1)** | 2026-02-11 |  |
+| **[Sample Efficient Generative Molecular Optimization with Joint Self-Improvement](https://arxiv.org/abs/2602.10984v1)** | 2026-02-11 | 14 pages, 5 figures |
+| **[RiemannGL: Riemannian Geometry Changes Graph Deep Learning](https://arxiv.org/abs/2602.10982v1)** | 2026-02-11 | <details><summary>34 pa...</summary><p>34 pages, 11 figures, position paper</p></details> |
 
 ## Diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[ConsID-Gen: View-Consistent and Identity-Preserving Image-to-Video Generation](https://arxiv.org/abs/2602.10113v1)** | 2026-02-10 | <details><summary>Proje...</summary><p>Project page: https://myangwu.github.io/ConsID-Gen</p></details> |
-| **[VideoWorld 2: Learning Transferable Knowledge from Real-world Videos](https://arxiv.org/abs/2602.10102v1)** | 2026-02-10 | <details><summary>Code ...</summary><p>Code and models are released at: https://maverickren.github.io/VideoWorld2.github.io/</p></details> |
-| **[Learning on the Manifold: Unlocking Standard Diffusion Transformers with Representation Encoders](https://arxiv.org/abs/2602.10099v1)** | 2026-02-10 | Technical Report |
-| **[Causality in Video Diffusers is Separable from Denoising](https://arxiv.org/abs/2602.10095v1)** | 2026-02-10 |  |
-| **[Story-Iter: A Training-free Iterative Paradigm for Long Story Visualization](https://arxiv.org/abs/2410.06244v2)** | 2026-02-10 | <details><summary>31 pa...</summary><p>31 pages, 33 figures, The project page and associated code can be accessed via https://jwmao1.github.io/storyiter/</p></details> |
-| **[Variational Sparse Paired Autoencoders (vsPAIR) for Inverse Problems and Uncertainty Quantification](https://arxiv.org/abs/2602.02948v2)** | 2026-02-10 |  |
-| **[Effectiveness of Binary Autoencoders for QUBO-Based Optimization Problems](https://arxiv.org/abs/2602.10037v1)** | 2026-02-10 | 14 pages, 5 figures |
-| **[Resilient Topology-Aware Coordination for Dynamic 3D UAV Networks under Node Failure](https://arxiv.org/abs/2602.10029v1)** | 2026-02-10 | <details><summary>25 pa...</summary><p>25 pages, 5 figures. Full research paper providing a resilience-aware RL framework for UAV networks under node failure. A preliminary version has been submitted to ACM Transactions on Internet Technology (TOIT) for possible publication</p></details> |
-| **[Faster-GS: Analyzing and Improving Gaussian Splatting Optimization](https://arxiv.org/abs/2602.09999v1)** | 2026-02-10 | <details><summary>Proje...</summary><p>Project page: https://fhahlbohm.github.io/faster-gaussian-splatting</p></details> |
-| **[Going with the Flow: Koopman Behavioral Models as Implicit Planners for Visuo-Motor Dexterity](https://arxiv.org/abs/2602.07413v2)** | 2026-02-10 | <details><summary>Codes...</summary><p>Codes can be found at https://github.com/GT-STAR-Lab/K-UBM/</p></details> |
+| **[SurfPhase: 3D Interfacial Dynamics in Two-Phase Flows from Sparse Videos](https://arxiv.org/abs/2602.11154v1)** | 2026-02-11 | <details><summary>The f...</summary><p>The first two authors contributed equally. Project website: https://yuegao.me/SurfPhase</p></details> |
+| **[Utilitarian Distortion Under Probabilistic Voting](https://arxiv.org/abs/2602.11152v1)** | 2026-02-11 |  |
+| **[Diffusion-Pretrained Dense and Contextual Embeddings](https://arxiv.org/abs/2602.11151v1)** | 2026-02-11 |  |
+| **[Beyond VLM-Based Rewards: Diffusion-Native Latent Reward Modeling](https://arxiv.org/abs/2602.11146v1)** | 2026-02-11 | <details><summary>Code:...</summary><p>Code: https://github.com/HKUST-C4G/diffusion-rm</p></details> |
+| **[MOTGNN: Interpretable Graph Neural Networks for Multi-Omics Disease Classification](https://arxiv.org/abs/2508.07465v2)** | 2026-02-11 | <details><summary>11 pa...</summary><p>11 pages, 6 figures, 7 tables</p></details> |
+| **[Just on Time: Token-Level Early Stopping for Diffusion Language Models](https://arxiv.org/abs/2602.11133v1)** | 2026-02-11 | Under review |
+| **[From Circuits to Dynamics: Understanding and Stabilizing Failure in 3D Diffusion Transformers](https://arxiv.org/abs/2602.11130v1)** | 2026-02-11 |  |
+| **[The Offline-Frontier Shift: Diagnosing Distributional Limits in Generative Multi-Objective Optimization](https://arxiv.org/abs/2602.11126v1)** | 2026-02-11 |  |
+| **[From Natural Language to Materials Discovery:The Materials Knowledge Navigation Agent](https://arxiv.org/abs/2602.11123v1)** | 2026-02-11 | 22 pages,5 figures |
+| **[HairWeaver: Few-Shot Photorealistic Hair Motion Synthesis with Sim-to-Real Guided Video Diffusion](https://arxiv.org/abs/2602.11117v1)** | 2026-02-11 | <details><summary>Websi...</summary><p>Website: https://boese0601.github.io/hairweaver/</p></details> |
+| **[A receding-horizon multi-contact motion planner for legged robots in challenging environments](https://arxiv.org/abs/2602.11113v1)** | 2026-02-11 | <details><summary>Submi...</summary><p>Submitted to Robotics and Autonomous Systems For supplementary video, see https://www.youtube.com/watch?v=RJp8DCmhDa4</p></details> |
+| **[GRASP: group-Shapley feature selection for patients](https://arxiv.org/abs/2602.11084v1)** | 2026-02-11 | <details><summary>5 pag...</summary><p>5 pages, 4 figures, 2 tables</p></details> |
+| **[A Gibbs posterior sampler for inverse problem based on prior diffusion model](https://arxiv.org/abs/2602.11059v1)** | 2026-02-11 |  |
 
 ## Object Counting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Effectiveness of Binary Autoencoders for QUBO-Based Optimization Problems](https://arxiv.org/abs/2602.10037v1)** | 2026-02-10 | 14 pages, 5 figures |
-| **[Resilient Topology-Aware Coordination for Dynamic 3D UAV Networks under Node Failure](https://arxiv.org/abs/2602.10029v1)** | 2026-02-10 | <details><summary>25 pa...</summary><p>25 pages, 5 figures. Full research paper providing a resilience-aware RL framework for UAV networks under node failure. A preliminary version has been submitted to ACM Transactions on Internet Technology (TOIT) for possible publication</p></details> |
-| **[Faster-GS: Analyzing and Improving Gaussian Splatting Optimization](https://arxiv.org/abs/2602.09999v1)** | 2026-02-10 | <details><summary>Proje...</summary><p>Project page: https://fhahlbohm.github.io/faster-gaussian-splatting</p></details> |
-| **[Empirical Stability Analysis of Kolmogorov-Arnold Networks in Hard-Constrained Recurrent Physics-Informed Discovery](https://arxiv.org/abs/2602.09988v1)** | 2026-02-10 | 5 pages |
-| **[Supervised Metric Regularization Through Alternating Optimization for Multi-Regime Physics-Informed Neural Networks](https://arxiv.org/abs/2602.09980v1)** | 2026-02-10 | 5 pages, 1 figure |
-| **[SCOPE: A Training-Free Online 3D Deployment for UAV-BSs with Theoretical Analysis and Comparative Study](https://arxiv.org/abs/2602.09971v1)** | 2026-02-10 | <details><summary>11 pa...</summary><p>11 pages, 5 figures, Full research paper providing a training-free determinisitc 3D UAV deployment algorithm, SCOPE. Submitted to IEEE Journal for possible publication</p></details> |
-| **[Chunking Strategies for Multimodal AI Systems](https://arxiv.org/abs/2512.00185v2)** | 2026-02-10 | 50 pages, 5 figure |
-| **[MonkeyTree: Near-Minimal Congestion for Multi-tenant Training via Migration](https://arxiv.org/abs/2602.08296v2)** | 2026-02-10 | 17 pages, 13 figures |
-| **[Generative AI and Firm Productivity: Field Experiments in Online Retail](https://arxiv.org/abs/2510.12049v3)** | 2026-02-10 | <details><summary>Keywo...</summary><p>Keywords: Field Experiments, Generative AI, Productivity, Retail Platforms, Consumer Experience. JEL codes: C93, D24, L81, M31, O3</p></details> |
+| **[Utilitarian Distortion Under Probabilistic Voting](https://arxiv.org/abs/2602.11152v1)** | 2026-02-11 |  |
+| **[MOTGNN: Interpretable Graph Neural Networks for Multi-Omics Disease Classification](https://arxiv.org/abs/2508.07465v2)** | 2026-02-11 | <details><summary>11 pa...</summary><p>11 pages, 6 figures, 7 tables</p></details> |
+| **[From Natural Language to Materials Discovery:The Materials Knowledge Navigation Agent](https://arxiv.org/abs/2602.11123v1)** | 2026-02-11 | 22 pages,5 figures |
+| **[A receding-horizon multi-contact motion planner for legged robots in challenging environments](https://arxiv.org/abs/2602.11113v1)** | 2026-02-11 | <details><summary>Submi...</summary><p>Submitted to Robotics and Autonomous Systems For supplementary video, see https://www.youtube.com/watch?v=RJp8DCmhDa4</p></details> |
+| **[GRASP: group-Shapley feature selection for patients](https://arxiv.org/abs/2602.11084v1)** | 2026-02-11 | <details><summary>5 pag...</summary><p>5 pages, 4 figures, 2 tables</p></details> |
+| **[Language Model Inversion through End-to-End Differentiation](https://arxiv.org/abs/2602.11044v1)** | 2026-02-11 | <details><summary>24 pa...</summary><p>24 pages, 5 figures, under review</p></details> |
+| **[Learning Page Order in Shuffled WOO Releases](https://arxiv.org/abs/2602.11040v1)** | 2026-02-11 |  |
+| **[Fine-Tuning GPT-5 for GPU Kernel Generation](https://arxiv.org/abs/2602.11000v1)** | 2026-02-11 |  |
+| **[Sample Efficient Generative Molecular Optimization with Joint Self-Improvement](https://arxiv.org/abs/2602.10984v1)** | 2026-02-11 | 14 pages, 5 figures |
 
 ## Image Caption
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Effectiveness of Binary Autoencoders for QUBO-Based Optimization Problems](https://arxiv.org/abs/2602.10037v1)** | 2026-02-10 | 14 pages, 5 figures |
-| **[Resilient Topology-Aware Coordination for Dynamic 3D UAV Networks under Node Failure](https://arxiv.org/abs/2602.10029v1)** | 2026-02-10 | <details><summary>25 pa...</summary><p>25 pages, 5 figures. Full research paper providing a resilience-aware RL framework for UAV networks under node failure. A preliminary version has been submitted to ACM Transactions on Internet Technology (TOIT) for possible publication</p></details> |
-| **[Faster-GS: Analyzing and Improving Gaussian Splatting Optimization](https://arxiv.org/abs/2602.09999v1)** | 2026-02-10 | <details><summary>Proje...</summary><p>Project page: https://fhahlbohm.github.io/faster-gaussian-splatting</p></details> |
-| **[Empirical Stability Analysis of Kolmogorov-Arnold Networks in Hard-Constrained Recurrent Physics-Informed Discovery](https://arxiv.org/abs/2602.09988v1)** | 2026-02-10 | 5 pages |
-| **[Supervised Metric Regularization Through Alternating Optimization for Multi-Regime Physics-Informed Neural Networks](https://arxiv.org/abs/2602.09980v1)** | 2026-02-10 | 5 pages, 1 figure |
-| **[SCOPE: A Training-Free Online 3D Deployment for UAV-BSs with Theoretical Analysis and Comparative Study](https://arxiv.org/abs/2602.09971v1)** | 2026-02-10 | <details><summary>11 pa...</summary><p>11 pages, 5 figures, Full research paper providing a training-free determinisitc 3D UAV deployment algorithm, SCOPE. Submitted to IEEE Journal for possible publication</p></details> |
-| **[Chunking Strategies for Multimodal AI Systems](https://arxiv.org/abs/2512.00185v2)** | 2026-02-10 | 50 pages, 5 figure |
-| **[MonkeyTree: Near-Minimal Congestion for Multi-tenant Training via Migration](https://arxiv.org/abs/2602.08296v2)** | 2026-02-10 | 17 pages, 13 figures |
-| **[Generative AI and Firm Productivity: Field Experiments in Online Retail](https://arxiv.org/abs/2510.12049v3)** | 2026-02-10 | <details><summary>Keywo...</summary><p>Keywords: Field Experiments, Generative AI, Productivity, Retail Platforms, Consumer Experience. JEL codes: C93, D24, L81, M31, O3</p></details> |
+| **[Utilitarian Distortion Under Probabilistic Voting](https://arxiv.org/abs/2602.11152v1)** | 2026-02-11 |  |
+| **[MOTGNN: Interpretable Graph Neural Networks for Multi-Omics Disease Classification](https://arxiv.org/abs/2508.07465v2)** | 2026-02-11 | <details><summary>11 pa...</summary><p>11 pages, 6 figures, 7 tables</p></details> |
+| **[From Natural Language to Materials Discovery:The Materials Knowledge Navigation Agent](https://arxiv.org/abs/2602.11123v1)** | 2026-02-11 | 22 pages,5 figures |
+| **[A receding-horizon multi-contact motion planner for legged robots in challenging environments](https://arxiv.org/abs/2602.11113v1)** | 2026-02-11 | <details><summary>Submi...</summary><p>Submitted to Robotics and Autonomous Systems For supplementary video, see https://www.youtube.com/watch?v=RJp8DCmhDa4</p></details> |
+| **[GRASP: group-Shapley feature selection for patients](https://arxiv.org/abs/2602.11084v1)** | 2026-02-11 | <details><summary>5 pag...</summary><p>5 pages, 4 figures, 2 tables</p></details> |
+| **[Language Model Inversion through End-to-End Differentiation](https://arxiv.org/abs/2602.11044v1)** | 2026-02-11 | <details><summary>24 pa...</summary><p>24 pages, 5 figures, under review</p></details> |
+| **[Learning Page Order in Shuffled WOO Releases](https://arxiv.org/abs/2602.11040v1)** | 2026-02-11 |  |
+| **[Fine-Tuning GPT-5 for GPU Kernel Generation](https://arxiv.org/abs/2602.11000v1)** | 2026-02-11 |  |
+| **[Sample Efficient Generative Molecular Optimization with Joint Self-Improvement](https://arxiv.org/abs/2602.10984v1)** | 2026-02-11 | 14 pages, 5 figures |
 
 ## Describe
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Effectiveness of Binary Autoencoders for QUBO-Based Optimization Problems](https://arxiv.org/abs/2602.10037v1)** | 2026-02-10 | 14 pages, 5 figures |
-| **[Resilient Topology-Aware Coordination for Dynamic 3D UAV Networks under Node Failure](https://arxiv.org/abs/2602.10029v1)** | 2026-02-10 | <details><summary>25 pa...</summary><p>25 pages, 5 figures. Full research paper providing a resilience-aware RL framework for UAV networks under node failure. A preliminary version has been submitted to ACM Transactions on Internet Technology (TOIT) for possible publication</p></details> |
-| **[Overview of the TREC 2025 RAGTIME Track](https://arxiv.org/abs/2602.10024v1)** | 2026-02-10 | <details><summary>10 pa...</summary><p>10 pages, 3 figures, notebook version of the RAGTIME 2025 overview paper</p></details> |
-| **[Faster-GS: Analyzing and Improving Gaussian Splatting Optimization](https://arxiv.org/abs/2602.09999v1)** | 2026-02-10 | <details><summary>Proje...</summary><p>Project page: https://fhahlbohm.github.io/faster-gaussian-splatting</p></details> |
-| **[Empirical Stability Analysis of Kolmogorov-Arnold Networks in Hard-Constrained Recurrent Physics-Informed Discovery](https://arxiv.org/abs/2602.09988v1)** | 2026-02-10 | 5 pages |
-| **[Coupled Inference in Diffusion Models for Semantic Decomposition](https://arxiv.org/abs/2602.09983v1)** | 2026-02-10 | 15 pages |
-| **[Supervised Metric Regularization Through Alternating Optimization for Multi-Regime Physics-Informed Neural Networks](https://arxiv.org/abs/2602.09980v1)** | 2026-02-10 | 5 pages, 1 figure |
+| **[Utilitarian Distortion Under Probabilistic Voting](https://arxiv.org/abs/2602.11152v1)** | 2026-02-11 |  |
+| **[MOTGNN: Interpretable Graph Neural Networks for Multi-Omics Disease Classification](https://arxiv.org/abs/2508.07465v2)** | 2026-02-11 | <details><summary>11 pa...</summary><p>11 pages, 6 figures, 7 tables</p></details> |
+| **[From Natural Language to Materials Discovery:The Materials Knowledge Navigation Agent](https://arxiv.org/abs/2602.11123v1)** | 2026-02-11 | 22 pages,5 figures |
+| **[A receding-horizon multi-contact motion planner for legged robots in challenging environments](https://arxiv.org/abs/2602.11113v1)** | 2026-02-11 | <details><summary>Submi...</summary><p>Submitted to Robotics and Autonomous Systems For supplementary video, see https://www.youtube.com/watch?v=RJp8DCmhDa4</p></details> |
+| **[GRASP: group-Shapley feature selection for patients](https://arxiv.org/abs/2602.11084v1)** | 2026-02-11 | <details><summary>5 pag...</summary><p>5 pages, 4 figures, 2 tables</p></details> |
+| **[GraphSeek: Next-Generation Graph Analytics with LLMs](https://arxiv.org/abs/2602.11052v1)** | 2026-02-11 |  |
+| **[Language Model Inversion through End-to-End Differentiation](https://arxiv.org/abs/2602.11044v1)** | 2026-02-11 | <details><summary>24 pa...</summary><p>24 pages, 5 figures, under review</p></details> |
+| **[Learning Page Order in Shuffled WOO Releases](https://arxiv.org/abs/2602.11040v1)** | 2026-02-11 |  |
+| **[Towards Term-based Verification of Diagrammatic Equivalence](https://arxiv.org/abs/2602.11035v1)** | 2026-02-11 |  |
+| **[Fine-Tuning GPT-5 for GPU Kernel Generation](https://arxiv.org/abs/2602.11000v1)** | 2026-02-11 |  |
 
 ## Light Weight
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Effectiveness of Binary Autoencoders for QUBO-Based Optimization Problems](https://arxiv.org/abs/2602.10037v1)** | 2026-02-10 | 14 pages, 5 figures |
-| **[Resilient Topology-Aware Coordination for Dynamic 3D UAV Networks under Node Failure](https://arxiv.org/abs/2602.10029v1)** | 2026-02-10 | <details><summary>25 pa...</summary><p>25 pages, 5 figures. Full research paper providing a resilience-aware RL framework for UAV networks under node failure. A preliminary version has been submitted to ACM Transactions on Internet Technology (TOIT) for possible publication</p></details> |
-| **[Faster-GS: Analyzing and Improving Gaussian Splatting Optimization](https://arxiv.org/abs/2602.09999v1)** | 2026-02-10 | <details><summary>Proje...</summary><p>Project page: https://fhahlbohm.github.io/faster-gaussian-splatting</p></details> |
-| **[Empirical Stability Analysis of Kolmogorov-Arnold Networks in Hard-Constrained Recurrent Physics-Informed Discovery](https://arxiv.org/abs/2602.09988v1)** | 2026-02-10 | 5 pages |
-| **[Supervised Metric Regularization Through Alternating Optimization for Multi-Regime Physics-Informed Neural Networks](https://arxiv.org/abs/2602.09980v1)** | 2026-02-10 | 5 pages, 1 figure |
-| **[SCOPE: A Training-Free Online 3D Deployment for UAV-BSs with Theoretical Analysis and Comparative Study](https://arxiv.org/abs/2602.09971v1)** | 2026-02-10 | <details><summary>11 pa...</summary><p>11 pages, 5 figures, Full research paper providing a training-free determinisitc 3D UAV deployment algorithm, SCOPE. Submitted to IEEE Journal for possible publication</p></details> |
-| **[Chunking Strategies for Multimodal AI Systems](https://arxiv.org/abs/2512.00185v2)** | 2026-02-10 | 50 pages, 5 figure |
-| **[MonkeyTree: Near-Minimal Congestion for Multi-tenant Training via Migration](https://arxiv.org/abs/2602.08296v2)** | 2026-02-10 | 17 pages, 13 figures |
-| **[Generative AI and Firm Productivity: Field Experiments in Online Retail](https://arxiv.org/abs/2510.12049v3)** | 2026-02-10 | <details><summary>Keywo...</summary><p>Keywords: Field Experiments, Generative AI, Productivity, Retail Platforms, Consumer Experience. JEL codes: C93, D24, L81, M31, O3</p></details> |
+| **[Utilitarian Distortion Under Probabilistic Voting](https://arxiv.org/abs/2602.11152v1)** | 2026-02-11 |  |
+| **[MOTGNN: Interpretable Graph Neural Networks for Multi-Omics Disease Classification](https://arxiv.org/abs/2508.07465v2)** | 2026-02-11 | <details><summary>11 pa...</summary><p>11 pages, 6 figures, 7 tables</p></details> |
+| **[From Natural Language to Materials Discovery:The Materials Knowledge Navigation Agent](https://arxiv.org/abs/2602.11123v1)** | 2026-02-11 | 22 pages,5 figures |
+| **[A receding-horizon multi-contact motion planner for legged robots in challenging environments](https://arxiv.org/abs/2602.11113v1)** | 2026-02-11 | <details><summary>Submi...</summary><p>Submitted to Robotics and Autonomous Systems For supplementary video, see https://www.youtube.com/watch?v=RJp8DCmhDa4</p></details> |
+| **[GRASP: group-Shapley feature selection for patients](https://arxiv.org/abs/2602.11084v1)** | 2026-02-11 | <details><summary>5 pag...</summary><p>5 pages, 4 figures, 2 tables</p></details> |
+| **[Language Model Inversion through End-to-End Differentiation](https://arxiv.org/abs/2602.11044v1)** | 2026-02-11 | <details><summary>24 pa...</summary><p>24 pages, 5 figures, under review</p></details> |
+| **[Learning Page Order in Shuffled WOO Releases](https://arxiv.org/abs/2602.11040v1)** | 2026-02-11 |  |
+| **[Fine-Tuning GPT-5 for GPU Kernel Generation](https://arxiv.org/abs/2602.11000v1)** | 2026-02-11 |  |
+| **[Sample Efficient Generative Molecular Optimization with Joint Self-Improvement](https://arxiv.org/abs/2602.10984v1)** | 2026-02-11 | 14 pages, 5 figures |
 
 ## Class Incremental
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Effectiveness of Binary Autoencoders for QUBO-Based Optimization Problems](https://arxiv.org/abs/2602.10037v1)** | 2026-02-10 | 14 pages, 5 figures |
-| **[Resilient Topology-Aware Coordination for Dynamic 3D UAV Networks under Node Failure](https://arxiv.org/abs/2602.10029v1)** | 2026-02-10 | <details><summary>25 pa...</summary><p>25 pages, 5 figures. Full research paper providing a resilience-aware RL framework for UAV networks under node failure. A preliminary version has been submitted to ACM Transactions on Internet Technology (TOIT) for possible publication</p></details> |
-| **[Faster-GS: Analyzing and Improving Gaussian Splatting Optimization](https://arxiv.org/abs/2602.09999v1)** | 2026-02-10 | <details><summary>Proje...</summary><p>Project page: https://fhahlbohm.github.io/faster-gaussian-splatting</p></details> |
-| **[Empirical Stability Analysis of Kolmogorov-Arnold Networks in Hard-Constrained Recurrent Physics-Informed Discovery](https://arxiv.org/abs/2602.09988v1)** | 2026-02-10 | 5 pages |
-| **[Supervised Metric Regularization Through Alternating Optimization for Multi-Regime Physics-Informed Neural Networks](https://arxiv.org/abs/2602.09980v1)** | 2026-02-10 | 5 pages, 1 figure |
-| **[SCOPE: A Training-Free Online 3D Deployment for UAV-BSs with Theoretical Analysis and Comparative Study](https://arxiv.org/abs/2602.09971v1)** | 2026-02-10 | <details><summary>11 pa...</summary><p>11 pages, 5 figures, Full research paper providing a training-free determinisitc 3D UAV deployment algorithm, SCOPE. Submitted to IEEE Journal for possible publication</p></details> |
-| **[Chunking Strategies for Multimodal AI Systems](https://arxiv.org/abs/2512.00185v2)** | 2026-02-10 | 50 pages, 5 figure |
-| **[MonkeyTree: Near-Minimal Congestion for Multi-tenant Training via Migration](https://arxiv.org/abs/2602.08296v2)** | 2026-02-10 | 17 pages, 13 figures |
-| **[Generative AI and Firm Productivity: Field Experiments in Online Retail](https://arxiv.org/abs/2510.12049v3)** | 2026-02-10 | <details><summary>Keywo...</summary><p>Keywords: Field Experiments, Generative AI, Productivity, Retail Platforms, Consumer Experience. JEL codes: C93, D24, L81, M31, O3</p></details> |
+| **[Utilitarian Distortion Under Probabilistic Voting](https://arxiv.org/abs/2602.11152v1)** | 2026-02-11 |  |
+| **[MOTGNN: Interpretable Graph Neural Networks for Multi-Omics Disease Classification](https://arxiv.org/abs/2508.07465v2)** | 2026-02-11 | <details><summary>11 pa...</summary><p>11 pages, 6 figures, 7 tables</p></details> |
+| **[From Natural Language to Materials Discovery:The Materials Knowledge Navigation Agent](https://arxiv.org/abs/2602.11123v1)** | 2026-02-11 | 22 pages,5 figures |
+| **[A receding-horizon multi-contact motion planner for legged robots in challenging environments](https://arxiv.org/abs/2602.11113v1)** | 2026-02-11 | <details><summary>Submi...</summary><p>Submitted to Robotics and Autonomous Systems For supplementary video, see https://www.youtube.com/watch?v=RJp8DCmhDa4</p></details> |
+| **[GRASP: group-Shapley feature selection for patients](https://arxiv.org/abs/2602.11084v1)** | 2026-02-11 | <details><summary>5 pag...</summary><p>5 pages, 4 figures, 2 tables</p></details> |
+| **[Language Model Inversion through End-to-End Differentiation](https://arxiv.org/abs/2602.11044v1)** | 2026-02-11 | <details><summary>24 pa...</summary><p>24 pages, 5 figures, under review</p></details> |
+| **[Learning Page Order in Shuffled WOO Releases](https://arxiv.org/abs/2602.11040v1)** | 2026-02-11 |  |
+| **[Fine-Tuning GPT-5 for GPU Kernel Generation](https://arxiv.org/abs/2602.11000v1)** | 2026-02-11 |  |
+| **[Sample Efficient Generative Molecular Optimization with Joint Self-Improvement](https://arxiv.org/abs/2602.10984v1)** | 2026-02-11 | 14 pages, 5 figures |
 
