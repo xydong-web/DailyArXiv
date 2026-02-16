@@ -1,5 +1,5 @@
 ---
-title: Latest 50 Papers - February 15, 2026
+title: Latest 50 Papers - February 17, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/JiamingZang/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,107 +7,71 @@ labels: documentation
 ## Molecular
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[ExtractBench: A Benchmark and Evaluation Methodology for Complex Structured Extraction](https://arxiv.org/abs/2602.12247v1)** | 2026-02-12 |  |
-| **[Moonshine v2: Ergodic Streaming Encoder ASR for Latency-Critical Speech Applications](https://arxiv.org/abs/2602.12241v1)** | 2026-02-12 | 7 pages, 5 figures |
-| **[Batch-based Bayesian Optimal Experimental Design in Linear Inverse Problems](https://arxiv.org/abs/2602.12234v1)** | 2026-02-12 | 25 pages, 5 figures |
-| **[Categorical Flow Maps](https://arxiv.org/abs/2602.12233v1)** | 2026-02-12 |  |
-| **[Evaluating LLM Reasoning Beyond Correctness and CoT](https://arxiv.org/abs/2510.18134v2)** | 2026-02-12 |  |
-| **[Improved Online Algorithms for Inventory Management Problems with Holding and Delay Costs: Riding the Wave Makes Things Simpler, Stronger, & More General](https://arxiv.org/abs/2602.12175v1)** | 2026-02-12 | <details><summary>19 pa...</summary><p>19 pages, 1 figure, appeared at SODA 2026</p></details> |
-| **[Towards Quantum-Safe O-RAN -- Experimental Evaluation of ML-KEM-Based IPsec on the E2 Interface](https://arxiv.org/abs/2601.20378v2)** | 2026-02-12 |  |
-| **[Amortized Molecular Optimization via Group Relative Policy Optimization](https://arxiv.org/abs/2602.12162v1)** | 2026-02-12 | 23 pages, 5 figures |
+| **[Anytime-Valid Inference in Adaptive Experiments: Covariate Adjustment and Balanced Power](https://arxiv.org/abs/2506.20523v4)** | 2026-02-13 | 14 pages, 5 figures |
+| **[FlashSchNet: Fast and Accurate Coarse-Grained Neural Network Molecular Dynamics](https://arxiv.org/abs/2602.13140v1)** | 2026-02-13 | <details><summary>Code ...</summary><p>Code is at https://github.com/UNITES-Lab/flash-molecular-dynamics</p></details> |
+| **[Far-reaching consequences of trait preferences for animal social network structure and function](https://arxiv.org/abs/2303.08107v3)** | 2026-02-13 | 27 pages, 5 figures |
 
 ## Molecular Generation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[ExtractBench: A Benchmark and Evaluation Methodology for Complex Structured Extraction](https://arxiv.org/abs/2602.12247v1)** | 2026-02-12 |  |
-| **[Moonshine v2: Ergodic Streaming Encoder ASR for Latency-Critical Speech Applications](https://arxiv.org/abs/2602.12241v1)** | 2026-02-12 | 7 pages, 5 figures |
-| **[Batch-based Bayesian Optimal Experimental Design in Linear Inverse Problems](https://arxiv.org/abs/2602.12234v1)** | 2026-02-12 | 25 pages, 5 figures |
-| **[Evaluating LLM Reasoning Beyond Correctness and CoT](https://arxiv.org/abs/2510.18134v2)** | 2026-02-12 |  |
-| **[Improved Online Algorithms for Inventory Management Problems with Holding and Delay Costs: Riding the Wave Makes Things Simpler, Stronger, & More General](https://arxiv.org/abs/2602.12175v1)** | 2026-02-12 | <details><summary>19 pa...</summary><p>19 pages, 1 figure, appeared at SODA 2026</p></details> |
-| **[Towards Quantum-Safe O-RAN -- Experimental Evaluation of ML-KEM-Based IPsec on the E2 Interface](https://arxiv.org/abs/2601.20378v2)** | 2026-02-12 |  |
-| **[Amortized Molecular Optimization via Group Relative Policy Optimization](https://arxiv.org/abs/2602.12162v1)** | 2026-02-12 | 23 pages, 5 figures |
+| **[Anytime-Valid Inference in Adaptive Experiments: Covariate Adjustment and Balanced Power](https://arxiv.org/abs/2506.20523v4)** | 2026-02-13 | 14 pages, 5 figures |
+| **[Far-reaching consequences of trait preferences for animal social network structure and function](https://arxiv.org/abs/2303.08107v3)** | 2026-02-13 | 27 pages, 5 figures |
+| **[SENSE-STEP: Learning Sim-to-Real Locomotion for a Sensory-Enabled Soft Quadruped Robot](https://arxiv.org/abs/2602.13078v1)** | 2026-02-13 |  |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Community Concealment from Unsupervised Graph Learning-Based Clustering](https://arxiv.org/abs/2602.12250v1)** | 2026-02-12 |  |
-| **[ExtractBench: A Benchmark and Evaluation Methodology for Complex Structured Extraction](https://arxiv.org/abs/2602.12247v1)** | 2026-02-12 |  |
-| **[Moonshine v2: Ergodic Streaming Encoder ASR for Latency-Critical Speech Applications](https://arxiv.org/abs/2602.12241v1)** | 2026-02-12 | 7 pages, 5 figures |
-| **[Batch-based Bayesian Optimal Experimental Design in Linear Inverse Problems](https://arxiv.org/abs/2602.12234v1)** | 2026-02-12 | 25 pages, 5 figures |
-| **[Evaluating LLM Reasoning Beyond Correctness and CoT](https://arxiv.org/abs/2510.18134v2)** | 2026-02-12 |  |
-| **[Improved Online Algorithms for Inventory Management Problems with Holding and Delay Costs: Riding the Wave Makes Things Simpler, Stronger, & More General](https://arxiv.org/abs/2602.12175v1)** | 2026-02-12 | <details><summary>19 pa...</summary><p>19 pages, 1 figure, appeared at SODA 2026</p></details> |
-| **[Towards Quantum-Safe O-RAN -- Experimental Evaluation of ML-KEM-Based IPsec on the E2 Interface](https://arxiv.org/abs/2601.20378v2)** | 2026-02-12 |  |
-| **[Amortized Molecular Optimization via Group Relative Policy Optimization](https://arxiv.org/abs/2602.12162v1)** | 2026-02-12 | 23 pages, 5 figures |
+| **[Anytime-Valid Inference in Adaptive Experiments: Covariate Adjustment and Balanced Power](https://arxiv.org/abs/2506.20523v4)** | 2026-02-13 | 14 pages, 5 figures |
+| **[Learning to Approximate Uniform Facility Location via Graph Neural Networks](https://arxiv.org/abs/2602.13155v1)** | 2026-02-13 |  |
+| **[FlashSchNet: Fast and Accurate Coarse-Grained Neural Network Molecular Dynamics](https://arxiv.org/abs/2602.13140v1)** | 2026-02-13 | <details><summary>Code ...</summary><p>Code is at https://github.com/UNITES-Lab/flash-molecular-dynamics</p></details> |
+| **[Which Algorithms Can Graph Neural Networks Learn?](https://arxiv.org/abs/2602.13106v1)** | 2026-02-13 |  |
+| **[Far-reaching consequences of trait preferences for animal social network structure and function](https://arxiv.org/abs/2303.08107v3)** | 2026-02-13 | 27 pages, 5 figures |
+| **[SENSE-STEP: Learning Sim-to-Real Locomotion for a Sensory-Enabled Soft Quadruped Robot](https://arxiv.org/abs/2602.13078v1)** | 2026-02-13 |  |
 
 ## Diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Function-Space Decoupled Diffusion for Forward and Inverse Modeling in Carbon Capture and Storage](https://arxiv.org/abs/2602.12274v1)** | 2026-02-12 |  |
-| **[MonarchRT: Efficient Attention for Real-Time Video Generation](https://arxiv.org/abs/2602.12271v1)** | 2026-02-12 |  |
-| **[Decoupled Diffusion Sampling for Inverse Problems on Function Spaces](https://arxiv.org/abs/2601.23280v2)** | 2026-02-12 | Under review |
-| **[T3D: Few-Step Diffusion Language Models via Trajectory Self-Distillation with Direct Discriminative Optimization](https://arxiv.org/abs/2602.12262v1)** | 2026-02-12 |  |
-| **[On the implicit regularization of Langevin dynamics with projected noise](https://arxiv.org/abs/2602.12257v1)** | 2026-02-12 | 30 pages, 1 figure |
-| **[ExtractBench: A Benchmark and Evaluation Methodology for Complex Structured Extraction](https://arxiv.org/abs/2602.12247v1)** | 2026-02-12 |  |
-| **[Moonshine v2: Ergodic Streaming Encoder ASR for Latency-Critical Speech Applications](https://arxiv.org/abs/2602.12241v1)** | 2026-02-12 | 7 pages, 5 figures |
-| **[Batch-based Bayesian Optimal Experimental Design in Linear Inverse Problems](https://arxiv.org/abs/2602.12234v1)** | 2026-02-12 | 25 pages, 5 figures |
-| **[Categorical Flow Maps](https://arxiv.org/abs/2602.12233v1)** | 2026-02-12 |  |
-| **[Evaluating LLM Reasoning Beyond Correctness and CoT](https://arxiv.org/abs/2510.18134v2)** | 2026-02-12 |  |
-| **[Diffusion Alignment Beyond KL: Variance Minimisation as Effective Policy Optimiser](https://arxiv.org/abs/2602.12229v1)** | 2026-02-12 |  |
-| **[LDA-1B: Scaling Latent Dynamics Action Model via Universal Embodied Data Ingestion](https://arxiv.org/abs/2602.12215v1)** | 2026-02-12 | <details><summary>Proje...</summary><p>Project Page:https://pku-epic.github.io/LDA</p></details> |
-| **[Causal Schrödinger Bridges: Constrained Optimal Transport on Structural Manifolds](https://arxiv.org/abs/2602.08535v2)** | 2026-02-12 | 12 pages, 8 figures |
+| **[Anytime-Valid Inference in Adaptive Experiments: Covariate Adjustment and Balanced Power](https://arxiv.org/abs/2506.20523v4)** | 2026-02-13 | 14 pages, 5 figures |
+| **[Learning functional components of PDEs from data using neural networks](https://arxiv.org/abs/2602.13174v1)** | 2026-02-13 | <details><summary>16 pa...</summary><p>16 pages with 6 figures. Additional 24 pages and 19 figures supplementary information</p></details> |
+| **[Realistic Face Reconstruction from Facial Embeddings via Diffusion Models](https://arxiv.org/abs/2602.13168v1)** | 2026-02-13 | <details><summary>Accep...</summary><p>Accepted to AAAI 2026</p></details> |
+| **[Learnable Chernoff Baselines for Inference-Time Alignment](https://arxiv.org/abs/2602.07738v2)** | 2026-02-13 |  |
+| **[Generating Physical Dynamics under Priors](https://arxiv.org/abs/2409.00730v4)** | 2026-02-13 |  |
+| **[Order Matters in Retrosynthesis: Structure-aware Generation via Reaction-Center-Guided Discrete Flow Matching](https://arxiv.org/abs/2602.13136v1)** | 2026-02-13 |  |
 
 ## Object Counting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[ExtractBench: A Benchmark and Evaluation Methodology for Complex Structured Extraction](https://arxiv.org/abs/2602.12247v1)** | 2026-02-12 |  |
-| **[Moonshine v2: Ergodic Streaming Encoder ASR for Latency-Critical Speech Applications](https://arxiv.org/abs/2602.12241v1)** | 2026-02-12 | 7 pages, 5 figures |
-| **[Batch-based Bayesian Optimal Experimental Design in Linear Inverse Problems](https://arxiv.org/abs/2602.12234v1)** | 2026-02-12 | 25 pages, 5 figures |
-| **[Evaluating LLM Reasoning Beyond Correctness and CoT](https://arxiv.org/abs/2510.18134v2)** | 2026-02-12 |  |
-| **[Improved Online Algorithms for Inventory Management Problems with Holding and Delay Costs: Riding the Wave Makes Things Simpler, Stronger, & More General](https://arxiv.org/abs/2602.12175v1)** | 2026-02-12 | <details><summary>19 pa...</summary><p>19 pages, 1 figure, appeared at SODA 2026</p></details> |
-| **[Towards Quantum-Safe O-RAN -- Experimental Evaluation of ML-KEM-Based IPsec on the E2 Interface](https://arxiv.org/abs/2601.20378v2)** | 2026-02-12 |  |
-| **[Amortized Molecular Optimization via Group Relative Policy Optimization](https://arxiv.org/abs/2602.12162v1)** | 2026-02-12 | 23 pages, 5 figures |
+| **[Anytime-Valid Inference in Adaptive Experiments: Covariate Adjustment and Balanced Power](https://arxiv.org/abs/2506.20523v4)** | 2026-02-13 | 14 pages, 5 figures |
+| **[Far-reaching consequences of trait preferences for animal social network structure and function](https://arxiv.org/abs/2303.08107v3)** | 2026-02-13 | 27 pages, 5 figures |
+| **[SENSE-STEP: Learning Sim-to-Real Locomotion for a Sensory-Enabled Soft Quadruped Robot](https://arxiv.org/abs/2602.13078v1)** | 2026-02-13 |  |
 
 ## Image Caption
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[ExtractBench: A Benchmark and Evaluation Methodology for Complex Structured Extraction](https://arxiv.org/abs/2602.12247v1)** | 2026-02-12 |  |
-| **[Moonshine v2: Ergodic Streaming Encoder ASR for Latency-Critical Speech Applications](https://arxiv.org/abs/2602.12241v1)** | 2026-02-12 | 7 pages, 5 figures |
-| **[Batch-based Bayesian Optimal Experimental Design in Linear Inverse Problems](https://arxiv.org/abs/2602.12234v1)** | 2026-02-12 | 25 pages, 5 figures |
-| **[Evaluating LLM Reasoning Beyond Correctness and CoT](https://arxiv.org/abs/2510.18134v2)** | 2026-02-12 |  |
-| **[Improved Online Algorithms for Inventory Management Problems with Holding and Delay Costs: Riding the Wave Makes Things Simpler, Stronger, & More General](https://arxiv.org/abs/2602.12175v1)** | 2026-02-12 | <details><summary>19 pa...</summary><p>19 pages, 1 figure, appeared at SODA 2026</p></details> |
-| **[Towards Quantum-Safe O-RAN -- Experimental Evaluation of ML-KEM-Based IPsec on the E2 Interface](https://arxiv.org/abs/2601.20378v2)** | 2026-02-12 |  |
-| **[Amortized Molecular Optimization via Group Relative Policy Optimization](https://arxiv.org/abs/2602.12162v1)** | 2026-02-12 | 23 pages, 5 figures |
+| **[Anytime-Valid Inference in Adaptive Experiments: Covariate Adjustment and Balanced Power](https://arxiv.org/abs/2506.20523v4)** | 2026-02-13 | 14 pages, 5 figures |
+| **[Far-reaching consequences of trait preferences for animal social network structure and function](https://arxiv.org/abs/2303.08107v3)** | 2026-02-13 | 27 pages, 5 figures |
+| **[SENSE-STEP: Learning Sim-to-Real Locomotion for a Sensory-Enabled Soft Quadruped Robot](https://arxiv.org/abs/2602.13078v1)** | 2026-02-13 |  |
 
 ## Describe
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[ExtractBench: A Benchmark and Evaluation Methodology for Complex Structured Extraction](https://arxiv.org/abs/2602.12247v1)** | 2026-02-12 |  |
-| **[Moonshine v2: Ergodic Streaming Encoder ASR for Latency-Critical Speech Applications](https://arxiv.org/abs/2602.12241v1)** | 2026-02-12 | 7 pages, 5 figures |
-| **[Batch-based Bayesian Optimal Experimental Design in Linear Inverse Problems](https://arxiv.org/abs/2602.12234v1)** | 2026-02-12 | 25 pages, 5 figures |
-| **[Evaluating LLM Reasoning Beyond Correctness and CoT](https://arxiv.org/abs/2510.18134v2)** | 2026-02-12 |  |
-| **[Improved Online Algorithms for Inventory Management Problems with Holding and Delay Costs: Riding the Wave Makes Things Simpler, Stronger, & More General](https://arxiv.org/abs/2602.12175v1)** | 2026-02-12 | <details><summary>19 pa...</summary><p>19 pages, 1 figure, appeared at SODA 2026</p></details> |
-| **[Towards Quantum-Safe O-RAN -- Experimental Evaluation of ML-KEM-Based IPsec on the E2 Interface](https://arxiv.org/abs/2601.20378v2)** | 2026-02-12 |  |
-| **[Amortized Molecular Optimization via Group Relative Policy Optimization](https://arxiv.org/abs/2602.12162v1)** | 2026-02-12 | 23 pages, 5 figures |
+| **[Semantic Chunking and the Entropy of Natural Language](https://arxiv.org/abs/2602.13194v1)** | 2026-02-13 | 29 pages, 9 figures |
+| **[Anytime-Valid Inference in Adaptive Experiments: Covariate Adjustment and Balanced Power](https://arxiv.org/abs/2506.20523v4)** | 2026-02-13 | 14 pages, 5 figures |
+| **[Operator Learning for Families of Finite-State Mean-Field Games](https://arxiv.org/abs/2602.13169v1)** | 2026-02-13 | 34 pages, 21 figures |
+| **[Highlight & Summarize: RAG without the jailbreaks](https://arxiv.org/abs/2508.02872v2)** | 2026-02-13 |  |
+| **[Homeostatic Adaptation of Optimal Population Codes under Metabolic Stress](https://arxiv.org/abs/2507.07874v2)** | 2026-02-13 |  |
 
 ## Light Weight
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[ExtractBench: A Benchmark and Evaluation Methodology for Complex Structured Extraction](https://arxiv.org/abs/2602.12247v1)** | 2026-02-12 |  |
-| **[Moonshine v2: Ergodic Streaming Encoder ASR for Latency-Critical Speech Applications](https://arxiv.org/abs/2602.12241v1)** | 2026-02-12 | 7 pages, 5 figures |
-| **[Batch-based Bayesian Optimal Experimental Design in Linear Inverse Problems](https://arxiv.org/abs/2602.12234v1)** | 2026-02-12 | 25 pages, 5 figures |
-| **[Evaluating LLM Reasoning Beyond Correctness and CoT](https://arxiv.org/abs/2510.18134v2)** | 2026-02-12 |  |
-| **[Improved Online Algorithms for Inventory Management Problems with Holding and Delay Costs: Riding the Wave Makes Things Simpler, Stronger, & More General](https://arxiv.org/abs/2602.12175v1)** | 2026-02-12 | <details><summary>19 pa...</summary><p>19 pages, 1 figure, appeared at SODA 2026</p></details> |
-| **[Towards Quantum-Safe O-RAN -- Experimental Evaluation of ML-KEM-Based IPsec on the E2 Interface](https://arxiv.org/abs/2601.20378v2)** | 2026-02-12 |  |
-| **[Amortized Molecular Optimization via Group Relative Policy Optimization](https://arxiv.org/abs/2602.12162v1)** | 2026-02-12 | 23 pages, 5 figures |
+| **[Anytime-Valid Inference in Adaptive Experiments: Covariate Adjustment and Balanced Power](https://arxiv.org/abs/2506.20523v4)** | 2026-02-13 | 14 pages, 5 figures |
+| **[Far-reaching consequences of trait preferences for animal social network structure and function](https://arxiv.org/abs/2303.08107v3)** | 2026-02-13 | 27 pages, 5 figures |
+| **[SENSE-STEP: Learning Sim-to-Real Locomotion for a Sensory-Enabled Soft Quadruped Robot](https://arxiv.org/abs/2602.13078v1)** | 2026-02-13 |  |
 
 ## Class Incremental
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[ExtractBench: A Benchmark and Evaluation Methodology for Complex Structured Extraction](https://arxiv.org/abs/2602.12247v1)** | 2026-02-12 |  |
-| **[Moonshine v2: Ergodic Streaming Encoder ASR for Latency-Critical Speech Applications](https://arxiv.org/abs/2602.12241v1)** | 2026-02-12 | 7 pages, 5 figures |
-| **[Batch-based Bayesian Optimal Experimental Design in Linear Inverse Problems](https://arxiv.org/abs/2602.12234v1)** | 2026-02-12 | 25 pages, 5 figures |
-| **[Evaluating LLM Reasoning Beyond Correctness and CoT](https://arxiv.org/abs/2510.18134v2)** | 2026-02-12 |  |
-| **[Improved Online Algorithms for Inventory Management Problems with Holding and Delay Costs: Riding the Wave Makes Things Simpler, Stronger, & More General](https://arxiv.org/abs/2602.12175v1)** | 2026-02-12 | <details><summary>19 pa...</summary><p>19 pages, 1 figure, appeared at SODA 2026</p></details> |
-| **[Towards Quantum-Safe O-RAN -- Experimental Evaluation of ML-KEM-Based IPsec on the E2 Interface](https://arxiv.org/abs/2601.20378v2)** | 2026-02-12 |  |
-| **[Amortized Molecular Optimization via Group Relative Policy Optimization](https://arxiv.org/abs/2602.12162v1)** | 2026-02-12 | 23 pages, 5 figures |
+| **[Anytime-Valid Inference in Adaptive Experiments: Covariate Adjustment and Balanced Power](https://arxiv.org/abs/2506.20523v4)** | 2026-02-13 | 14 pages, 5 figures |
+| **[Far-reaching consequences of trait preferences for animal social network structure and function](https://arxiv.org/abs/2303.08107v3)** | 2026-02-13 | 27 pages, 5 figures |
+| **[SENSE-STEP: Learning Sim-to-Real Locomotion for a Sensory-Enabled Soft Quadruped Robot](https://arxiv.org/abs/2602.13078v1)** | 2026-02-13 |  |
 
