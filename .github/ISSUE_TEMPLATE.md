@@ -1,5 +1,5 @@
 ---
-title: Latest 50 Papers - February 17, 2026
+title: Latest 50 Papers - February 18, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/JiamingZang/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,71 +7,114 @@ labels: documentation
 ## Molecular
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Anytime-Valid Inference in Adaptive Experiments: Covariate Adjustment and Balanced Power](https://arxiv.org/abs/2506.20523v4)** | 2026-02-13 | 14 pages, 5 figures |
-| **[FlashSchNet: Fast and Accurate Coarse-Grained Neural Network Molecular Dynamics](https://arxiv.org/abs/2602.13140v1)** | 2026-02-13 | <details><summary>Code ...</summary><p>Code is at https://github.com/UNITES-Lab/flash-molecular-dynamics</p></details> |
-| **[Far-reaching consequences of trait preferences for animal social network structure and function](https://arxiv.org/abs/2303.08107v3)** | 2026-02-13 | 27 pages, 5 figures |
+| **[Rethinking Diffusion Models with Symmetries through Canonicalization with Applications to Molecular Graph Generation](https://arxiv.org/abs/2602.15022v1)** | 2026-02-16 | 32 pages |
+| **[Text Style Transfer with Parameter-efficient LLM Finetuning and Round-trip Translation](https://arxiv.org/abs/2602.15013v1)** | 2026-02-16 | <details><summary>9 pag...</summary><p>9 pages, 5 figures, 4 tables</p></details> |
+| **[Stable-MoE: Lyapunov-based Token Routing for Distributed Mixture-of-Experts Training over Edge Networks](https://arxiv.org/abs/2512.06784v2)** | 2026-02-16 |  |
+| **[Boundary Point Jailbreaking of Black-Box LLMs](https://arxiv.org/abs/2602.15001v1)** | 2026-02-16 |  |
+| **[Spectral Convolution on Orbifolds for Geometric Deep Learning](https://arxiv.org/abs/2602.14997v1)** | 2026-02-16 | 17 pages, 5 figures |
+| **[Method for noise-induced regularization in quantum neural networks](https://arxiv.org/abs/2410.19921v2)** | 2026-02-16 | <details><summary>12 pa...</summary><p>12 pages, 5 figures, 3 tables</p></details> |
+| **[MacroGuide: Topological Guidance for Macrocycle Generation](https://arxiv.org/abs/2602.14977v1)** | 2026-02-16 |  |
+| **[Faster Molecular Dynamics with Neural Network Potentials via Distilled Multiple Time-Stepping and Non-Conservative Forces](https://arxiv.org/abs/2602.14975v1)** | 2026-02-16 |  |
+| **[Tool-Aware Planning in Contact Center AI: Evaluating LLMs through Lineage-Guided Query Decomposition](https://arxiv.org/abs/2602.14955v1)** | 2026-02-16 |  |
+| **[FIPS 204-Compatible Threshold ML-DSA via Masked Lagrange Reconstruction](https://arxiv.org/abs/2601.20917v4)** | 2026-02-16 | <details><summary>72 pa...</summary><p>72 pages, 16 tables, no figures. Full version with appendices and supplementary material</p></details> |
 
 ## Molecular Generation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Anytime-Valid Inference in Adaptive Experiments: Covariate Adjustment and Balanced Power](https://arxiv.org/abs/2506.20523v4)** | 2026-02-13 | 14 pages, 5 figures |
-| **[Far-reaching consequences of trait preferences for animal social network structure and function](https://arxiv.org/abs/2303.08107v3)** | 2026-02-13 | 27 pages, 5 figures |
-| **[SENSE-STEP: Learning Sim-to-Real Locomotion for a Sensory-Enabled Soft Quadruped Robot](https://arxiv.org/abs/2602.13078v1)** | 2026-02-13 |  |
+| **[Text Style Transfer with Parameter-efficient LLM Finetuning and Round-trip Translation](https://arxiv.org/abs/2602.15013v1)** | 2026-02-16 | <details><summary>9 pag...</summary><p>9 pages, 5 figures, 4 tables</p></details> |
+| **[Stable-MoE: Lyapunov-based Token Routing for Distributed Mixture-of-Experts Training over Edge Networks](https://arxiv.org/abs/2512.06784v2)** | 2026-02-16 |  |
+| **[Boundary Point Jailbreaking of Black-Box LLMs](https://arxiv.org/abs/2602.15001v1)** | 2026-02-16 |  |
+| **[Spectral Convolution on Orbifolds for Geometric Deep Learning](https://arxiv.org/abs/2602.14997v1)** | 2026-02-16 | 17 pages, 5 figures |
+| **[Method for noise-induced regularization in quantum neural networks](https://arxiv.org/abs/2410.19921v2)** | 2026-02-16 | <details><summary>12 pa...</summary><p>12 pages, 5 figures, 3 tables</p></details> |
+| **[MacroGuide: Topological Guidance for Macrocycle Generation](https://arxiv.org/abs/2602.14977v1)** | 2026-02-16 |  |
+| **[Faster Molecular Dynamics with Neural Network Potentials via Distilled Multiple Time-Stepping and Non-Conservative Forces](https://arxiv.org/abs/2602.14975v1)** | 2026-02-16 |  |
+| **[Tool-Aware Planning in Contact Center AI: Evaluating LLMs through Lineage-Guided Query Decomposition](https://arxiv.org/abs/2602.14955v1)** | 2026-02-16 |  |
+| **[FIPS 204-Compatible Threshold ML-DSA via Masked Lagrange Reconstruction](https://arxiv.org/abs/2601.20917v4)** | 2026-02-16 | <details><summary>72 pa...</summary><p>72 pages, 16 tables, no figures. Full version with appendices and supplementary material</p></details> |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Anytime-Valid Inference in Adaptive Experiments: Covariate Adjustment and Balanced Power](https://arxiv.org/abs/2506.20523v4)** | 2026-02-13 | 14 pages, 5 figures |
-| **[Learning to Approximate Uniform Facility Location via Graph Neural Networks](https://arxiv.org/abs/2602.13155v1)** | 2026-02-13 |  |
-| **[FlashSchNet: Fast and Accurate Coarse-Grained Neural Network Molecular Dynamics](https://arxiv.org/abs/2602.13140v1)** | 2026-02-13 | <details><summary>Code ...</summary><p>Code is at https://github.com/UNITES-Lab/flash-molecular-dynamics</p></details> |
-| **[Which Algorithms Can Graph Neural Networks Learn?](https://arxiv.org/abs/2602.13106v1)** | 2026-02-13 |  |
-| **[Far-reaching consequences of trait preferences for animal social network structure and function](https://arxiv.org/abs/2303.08107v3)** | 2026-02-13 | 27 pages, 5 figures |
-| **[SENSE-STEP: Learning Sim-to-Real Locomotion for a Sensory-Enabled Soft Quadruped Robot](https://arxiv.org/abs/2602.13078v1)** | 2026-02-13 |  |
+| **[Text Style Transfer with Parameter-efficient LLM Finetuning and Round-trip Translation](https://arxiv.org/abs/2602.15013v1)** | 2026-02-16 | <details><summary>9 pag...</summary><p>9 pages, 5 figures, 4 tables</p></details> |
+| **[Stable-MoE: Lyapunov-based Token Routing for Distributed Mixture-of-Experts Training over Edge Networks](https://arxiv.org/abs/2512.06784v2)** | 2026-02-16 |  |
+| **[Boundary Point Jailbreaking of Black-Box LLMs](https://arxiv.org/abs/2602.15001v1)** | 2026-02-16 |  |
+| **[Spectral Convolution on Orbifolds for Geometric Deep Learning](https://arxiv.org/abs/2602.14997v1)** | 2026-02-16 | 17 pages, 5 figures |
+| **[Method for noise-induced regularization in quantum neural networks](https://arxiv.org/abs/2410.19921v2)** | 2026-02-16 | <details><summary>12 pa...</summary><p>12 pages, 5 figures, 3 tables</p></details> |
+| **[Faster Molecular Dynamics with Neural Network Potentials via Distilled Multiple Time-Stepping and Non-Conservative Forces](https://arxiv.org/abs/2602.14975v1)** | 2026-02-16 |  |
+| **[Tool-Aware Planning in Contact Center AI: Evaluating LLMs through Lineage-Guided Query Decomposition](https://arxiv.org/abs/2602.14955v1)** | 2026-02-16 |  |
+| **[iQUEST: An Iterative Question-Guided Framework for Knowledge Base Question Answering](https://arxiv.org/abs/2506.01784v6)** | 2026-02-16 | <details><summary>Accep...</summary><p>Accepted to the 63rd Annual Meeting of the Association for Computational Linguistics (ACL 2025), Main Track</p></details> |
+| **[FIPS 204-Compatible Threshold ML-DSA via Masked Lagrange Reconstruction](https://arxiv.org/abs/2601.20917v4)** | 2026-02-16 | <details><summary>72 pa...</summary><p>72 pages, 16 tables, no figures. Full version with appendices and supplementary material</p></details> |
 
 ## Diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Anytime-Valid Inference in Adaptive Experiments: Covariate Adjustment and Balanced Power](https://arxiv.org/abs/2506.20523v4)** | 2026-02-13 | 14 pages, 5 figures |
-| **[Learning functional components of PDEs from data using neural networks](https://arxiv.org/abs/2602.13174v1)** | 2026-02-13 | <details><summary>16 pa...</summary><p>16 pages with 6 figures. Additional 24 pages and 19 figures supplementary information</p></details> |
-| **[Realistic Face Reconstruction from Facial Embeddings via Diffusion Models](https://arxiv.org/abs/2602.13168v1)** | 2026-02-13 | <details><summary>Accep...</summary><p>Accepted to AAAI 2026</p></details> |
-| **[Learnable Chernoff Baselines for Inference-Time Alignment](https://arxiv.org/abs/2602.07738v2)** | 2026-02-13 |  |
-| **[Generating Physical Dynamics under Priors](https://arxiv.org/abs/2409.00730v4)** | 2026-02-13 |  |
-| **[Order Matters in Retrosynthesis: Structure-aware Generation via Reaction-Center-Guided Discrete Flow Matching](https://arxiv.org/abs/2602.13136v1)** | 2026-02-13 |  |
+| **[Image Generation with a Sphere Encoder](https://arxiv.org/abs/2602.15030v1)** | 2026-02-16 | Technical report |
+| **[Rethinking Diffusion Models with Symmetries through Canonicalization with Applications to Molecular Graph Generation](https://arxiv.org/abs/2602.15022v1)** | 2026-02-16 | 32 pages |
+| **[Scaling Beyond Masked Diffusion Language Models](https://arxiv.org/abs/2602.15014v1)** | 2026-02-16 | <details><summary>code:...</summary><p>code: https://github.com/s-sahoo/scaling-dllms</p></details> |
+| **[Text Style Transfer with Parameter-efficient LLM Finetuning and Round-trip Translation](https://arxiv.org/abs/2602.15013v1)** | 2026-02-16 | <details><summary>9 pag...</summary><p>9 pages, 5 figures, 4 tables</p></details> |
+| **[Efficient Sampling with Discrete Diffusion Models: Sharp and Adaptive Guarantees](https://arxiv.org/abs/2602.15008v1)** | 2026-02-16 |  |
+| **[Stable-MoE: Lyapunov-based Token Routing for Distributed Mixture-of-Experts Training over Edge Networks](https://arxiv.org/abs/2512.06784v2)** | 2026-02-16 |  |
+| **[Boundary Point Jailbreaking of Black-Box LLMs](https://arxiv.org/abs/2602.15001v1)** | 2026-02-16 |  |
+| **[Spectral Convolution on Orbifolds for Geometric Deep Learning](https://arxiv.org/abs/2602.14997v1)** | 2026-02-16 | 17 pages, 5 figures |
+| **[Method for noise-induced regularization in quantum neural networks](https://arxiv.org/abs/2410.19921v2)** | 2026-02-16 | <details><summary>12 pa...</summary><p>12 pages, 5 figures, 3 tables</p></details> |
+| **[MacroGuide: Topological Guidance for Macrocycle Generation](https://arxiv.org/abs/2602.14977v1)** | 2026-02-16 |  |
+| **[Faster Molecular Dynamics with Neural Network Potentials via Distilled Multiple Time-Stepping and Non-Conservative Forces](https://arxiv.org/abs/2602.14975v1)** | 2026-02-16 |  |
+| **[Algorithms Trained on Normal Chest X-rays Can Predict Health Insurance Types](https://arxiv.org/abs/2511.11030v5)** | 2026-02-16 | <details><summary>Accep...</summary><p>Accepted by MIDL 2026</p></details> |
 
 ## Object Counting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Anytime-Valid Inference in Adaptive Experiments: Covariate Adjustment and Balanced Power](https://arxiv.org/abs/2506.20523v4)** | 2026-02-13 | 14 pages, 5 figures |
-| **[Far-reaching consequences of trait preferences for animal social network structure and function](https://arxiv.org/abs/2303.08107v3)** | 2026-02-13 | 27 pages, 5 figures |
-| **[SENSE-STEP: Learning Sim-to-Real Locomotion for a Sensory-Enabled Soft Quadruped Robot](https://arxiv.org/abs/2602.13078v1)** | 2026-02-13 |  |
+| **[Text Style Transfer with Parameter-efficient LLM Finetuning and Round-trip Translation](https://arxiv.org/abs/2602.15013v1)** | 2026-02-16 | <details><summary>9 pag...</summary><p>9 pages, 5 figures, 4 tables</p></details> |
+| **[Stable-MoE: Lyapunov-based Token Routing for Distributed Mixture-of-Experts Training over Edge Networks](https://arxiv.org/abs/2512.06784v2)** | 2026-02-16 |  |
+| **[Boundary Point Jailbreaking of Black-Box LLMs](https://arxiv.org/abs/2602.15001v1)** | 2026-02-16 |  |
+| **[Spectral Convolution on Orbifolds for Geometric Deep Learning](https://arxiv.org/abs/2602.14997v1)** | 2026-02-16 | 17 pages, 5 figures |
+| **[Method for noise-induced regularization in quantum neural networks](https://arxiv.org/abs/2410.19921v2)** | 2026-02-16 | <details><summary>12 pa...</summary><p>12 pages, 5 figures, 3 tables</p></details> |
+| **[Faster Molecular Dynamics with Neural Network Potentials via Distilled Multiple Time-Stepping and Non-Conservative Forces](https://arxiv.org/abs/2602.14975v1)** | 2026-02-16 |  |
+| **[Tool-Aware Planning in Contact Center AI: Evaluating LLMs through Lineage-Guided Query Decomposition](https://arxiv.org/abs/2602.14955v1)** | 2026-02-16 |  |
+| **[FIPS 204-Compatible Threshold ML-DSA via Masked Lagrange Reconstruction](https://arxiv.org/abs/2601.20917v4)** | 2026-02-16 | <details><summary>72 pa...</summary><p>72 pages, 16 tables, no figures. Full version with appendices and supplementary material</p></details> |
 
 ## Image Caption
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Anytime-Valid Inference in Adaptive Experiments: Covariate Adjustment and Balanced Power](https://arxiv.org/abs/2506.20523v4)** | 2026-02-13 | 14 pages, 5 figures |
-| **[Far-reaching consequences of trait preferences for animal social network structure and function](https://arxiv.org/abs/2303.08107v3)** | 2026-02-13 | 27 pages, 5 figures |
-| **[SENSE-STEP: Learning Sim-to-Real Locomotion for a Sensory-Enabled Soft Quadruped Robot](https://arxiv.org/abs/2602.13078v1)** | 2026-02-13 |  |
+| **[Text Style Transfer with Parameter-efficient LLM Finetuning and Round-trip Translation](https://arxiv.org/abs/2602.15013v1)** | 2026-02-16 | <details><summary>9 pag...</summary><p>9 pages, 5 figures, 4 tables</p></details> |
+| **[Stable-MoE: Lyapunov-based Token Routing for Distributed Mixture-of-Experts Training over Edge Networks](https://arxiv.org/abs/2512.06784v2)** | 2026-02-16 |  |
+| **[Boundary Point Jailbreaking of Black-Box LLMs](https://arxiv.org/abs/2602.15001v1)** | 2026-02-16 |  |
+| **[Spectral Convolution on Orbifolds for Geometric Deep Learning](https://arxiv.org/abs/2602.14997v1)** | 2026-02-16 | 17 pages, 5 figures |
+| **[Method for noise-induced regularization in quantum neural networks](https://arxiv.org/abs/2410.19921v2)** | 2026-02-16 | <details><summary>12 pa...</summary><p>12 pages, 5 figures, 3 tables</p></details> |
+| **[Faster Molecular Dynamics with Neural Network Potentials via Distilled Multiple Time-Stepping and Non-Conservative Forces](https://arxiv.org/abs/2602.14975v1)** | 2026-02-16 |  |
+| **[Tool-Aware Planning in Contact Center AI: Evaluating LLMs through Lineage-Guided Query Decomposition](https://arxiv.org/abs/2602.14955v1)** | 2026-02-16 |  |
+| **[FIPS 204-Compatible Threshold ML-DSA via Masked Lagrange Reconstruction](https://arxiv.org/abs/2601.20917v4)** | 2026-02-16 | <details><summary>72 pa...</summary><p>72 pages, 16 tables, no figures. Full version with appendices and supplementary material</p></details> |
 
 ## Describe
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Semantic Chunking and the Entropy of Natural Language](https://arxiv.org/abs/2602.13194v1)** | 2026-02-13 | 29 pages, 9 figures |
-| **[Anytime-Valid Inference in Adaptive Experiments: Covariate Adjustment and Balanced Power](https://arxiv.org/abs/2506.20523v4)** | 2026-02-13 | 14 pages, 5 figures |
-| **[Operator Learning for Families of Finite-State Mean-Field Games](https://arxiv.org/abs/2602.13169v1)** | 2026-02-13 | 34 pages, 21 figures |
-| **[Highlight & Summarize: RAG without the jailbreaks](https://arxiv.org/abs/2508.02872v2)** | 2026-02-13 |  |
-| **[Homeostatic Adaptation of Optimal Population Codes under Metabolic Stress](https://arxiv.org/abs/2507.07874v2)** | 2026-02-13 |  |
+| **[Text Style Transfer with Parameter-efficient LLM Finetuning and Round-trip Translation](https://arxiv.org/abs/2602.15013v1)** | 2026-02-16 | <details><summary>9 pag...</summary><p>9 pages, 5 figures, 4 tables</p></details> |
+| **[Stable-MoE: Lyapunov-based Token Routing for Distributed Mixture-of-Experts Training over Edge Networks](https://arxiv.org/abs/2512.06784v2)** | 2026-02-16 |  |
+| **[Boundary Point Jailbreaking of Black-Box LLMs](https://arxiv.org/abs/2602.15001v1)** | 2026-02-16 |  |
+| **[Spectral Convolution on Orbifolds for Geometric Deep Learning](https://arxiv.org/abs/2602.14997v1)** | 2026-02-16 | 17 pages, 5 figures |
+| **[Method for noise-induced regularization in quantum neural networks](https://arxiv.org/abs/2410.19921v2)** | 2026-02-16 | <details><summary>12 pa...</summary><p>12 pages, 5 figures, 3 tables</p></details> |
+| **[Faster Molecular Dynamics with Neural Network Potentials via Distilled Multiple Time-Stepping and Non-Conservative Forces](https://arxiv.org/abs/2602.14975v1)** | 2026-02-16 |  |
 
 ## Light Weight
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Anytime-Valid Inference in Adaptive Experiments: Covariate Adjustment and Balanced Power](https://arxiv.org/abs/2506.20523v4)** | 2026-02-13 | 14 pages, 5 figures |
-| **[Far-reaching consequences of trait preferences for animal social network structure and function](https://arxiv.org/abs/2303.08107v3)** | 2026-02-13 | 27 pages, 5 figures |
-| **[SENSE-STEP: Learning Sim-to-Real Locomotion for a Sensory-Enabled Soft Quadruped Robot](https://arxiv.org/abs/2602.13078v1)** | 2026-02-13 |  |
+| **[Text Style Transfer with Parameter-efficient LLM Finetuning and Round-trip Translation](https://arxiv.org/abs/2602.15013v1)** | 2026-02-16 | <details><summary>9 pag...</summary><p>9 pages, 5 figures, 4 tables</p></details> |
+| **[Stable-MoE: Lyapunov-based Token Routing for Distributed Mixture-of-Experts Training over Edge Networks](https://arxiv.org/abs/2512.06784v2)** | 2026-02-16 |  |
+| **[Boundary Point Jailbreaking of Black-Box LLMs](https://arxiv.org/abs/2602.15001v1)** | 2026-02-16 |  |
+| **[Spectral Convolution on Orbifolds for Geometric Deep Learning](https://arxiv.org/abs/2602.14997v1)** | 2026-02-16 | 17 pages, 5 figures |
+| **[Method for noise-induced regularization in quantum neural networks](https://arxiv.org/abs/2410.19921v2)** | 2026-02-16 | <details><summary>12 pa...</summary><p>12 pages, 5 figures, 3 tables</p></details> |
+| **[Faster Molecular Dynamics with Neural Network Potentials via Distilled Multiple Time-Stepping and Non-Conservative Forces](https://arxiv.org/abs/2602.14975v1)** | 2026-02-16 |  |
+| **[Tool-Aware Planning in Contact Center AI: Evaluating LLMs through Lineage-Guided Query Decomposition](https://arxiv.org/abs/2602.14955v1)** | 2026-02-16 |  |
+| **[FIPS 204-Compatible Threshold ML-DSA via Masked Lagrange Reconstruction](https://arxiv.org/abs/2601.20917v4)** | 2026-02-16 | <details><summary>72 pa...</summary><p>72 pages, 16 tables, no figures. Full version with appendices and supplementary material</p></details> |
 
 ## Class Incremental
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Anytime-Valid Inference in Adaptive Experiments: Covariate Adjustment and Balanced Power](https://arxiv.org/abs/2506.20523v4)** | 2026-02-13 | 14 pages, 5 figures |
-| **[Far-reaching consequences of trait preferences for animal social network structure and function](https://arxiv.org/abs/2303.08107v3)** | 2026-02-13 | 27 pages, 5 figures |
-| **[SENSE-STEP: Learning Sim-to-Real Locomotion for a Sensory-Enabled Soft Quadruped Robot](https://arxiv.org/abs/2602.13078v1)** | 2026-02-13 |  |
+| **[Text Style Transfer with Parameter-efficient LLM Finetuning and Round-trip Translation](https://arxiv.org/abs/2602.15013v1)** | 2026-02-16 | <details><summary>9 pag...</summary><p>9 pages, 5 figures, 4 tables</p></details> |
+| **[Stable-MoE: Lyapunov-based Token Routing for Distributed Mixture-of-Experts Training over Edge Networks](https://arxiv.org/abs/2512.06784v2)** | 2026-02-16 |  |
+| **[Boundary Point Jailbreaking of Black-Box LLMs](https://arxiv.org/abs/2602.15001v1)** | 2026-02-16 |  |
+| **[Spectral Convolution on Orbifolds for Geometric Deep Learning](https://arxiv.org/abs/2602.14997v1)** | 2026-02-16 | 17 pages, 5 figures |
+| **[Method for noise-induced regularization in quantum neural networks](https://arxiv.org/abs/2410.19921v2)** | 2026-02-16 | <details><summary>12 pa...</summary><p>12 pages, 5 figures, 3 tables</p></details> |
+| **[Faster Molecular Dynamics with Neural Network Potentials via Distilled Multiple Time-Stepping and Non-Conservative Forces](https://arxiv.org/abs/2602.14975v1)** | 2026-02-16 |  |
+| **[Tool-Aware Planning in Contact Center AI: Evaluating LLMs through Lineage-Guided Query Decomposition](https://arxiv.org/abs/2602.14955v1)** | 2026-02-16 |  |
+| **[FIPS 204-Compatible Threshold ML-DSA via Masked Lagrange Reconstruction](https://arxiv.org/abs/2601.20917v4)** | 2026-02-16 | <details><summary>72 pa...</summary><p>72 pages, 16 tables, no figures. Full version with appendices and supplementary material</p></details> |
 
