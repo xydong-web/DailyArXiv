@@ -1,5 +1,5 @@
 ---
-title: Latest 50 Papers - March 02, 2026
+title: Latest 50 Papers - March 03, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/JiamingZang/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,99 +7,134 @@ labels: documentation
 ## Molecular
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[FlashOptim: Optimizers for Memory Efficient Training](https://arxiv.org/abs/2602.23349v1)** | 2026-02-26 | <details><summary>Sourc...</summary><p>Source code is available at https://github.com/databricks/flashoptim</p></details> |
-| **[Invariant Transformation and Resampling based Epistemic-Uncertainty Reduction](https://arxiv.org/abs/2602.23315v1)** | 2026-02-26 | 5 pages, 5 figures |
-| **[A Mixture-of-Experts Model for Multimodal Emotion Recognition in Conversations](https://arxiv.org/abs/2602.23300v1)** | 2026-02-26 | <details><summary>Accep...</summary><p>Accepted to Elsevier Computer Speech and Language. 30 pages, 9 figures, 5 tables</p></details> |
-| **[The Spacetime of Diffusion Models: An Information Geometry Perspective](https://arxiv.org/abs/2505.17517v4)** | 2026-02-26 | ICLR 2026 (Oral) |
-| **[PGVMS: A Prompt-Guided Unified Framework for Virtual Multiplex IHC Staining with Pathological Semantic Learning](https://arxiv.org/abs/2602.23292v1)** | 2026-02-26 | Accepted by TMI |
-| **[SPARTA: Scalable and Principled Benchmark of Tree-Structured Multi-hop QA over Text and Tables](https://arxiv.org/abs/2602.23286v1)** | 2026-02-26 | <details><summary>10 pa...</summary><p>10 pages, 5 figures. Published as a conference paper at ICLR 2026. Project page: https://sparta-projectpage.github.io/</p></details> |
-| **[ReCoN-Ipsundrum: An Inspectable Recurrent Persistence Loop Agent with Affect-Coupled Control and Mechanism-Linked Consciousness Indicator Assays](https://arxiv.org/abs/2602.23232v1)** | 2026-02-26 | <details><summary>Accep...</summary><p>Accepted at AAAI 2026 Spring Symposium - Machine Consciousness: Integrating Theory, Technology, and Philosophy</p></details> |
+| **[Shifting in-DRAM](https://arxiv.org/abs/2602.24269v1)** | 2026-02-27 | <details><summary>9 pag...</summary><p>9 pages, 4 figures, 5 tables</p></details> |
+| **[Unified Biomolecular Trajectory Generation via Pretrained Variational Bridge](https://arxiv.org/abs/2602.07588v2)** | 2026-02-27 | <details><summary>The F...</summary><p>The Fourteenth International Conference on Learning Representations (ICLR 2026)</p></details> |
+| **[Relational Dissonance in Human-AI Interactions: The Case of Knowledge Work](https://arxiv.org/abs/2509.15836v3)** | 2026-02-27 | 30 pages, 5 figures |
+| **[GRDD+: An Extended Greek Dialectal Dataset with Cross-Architecture Fine-tuning Evaluation](https://arxiv.org/abs/2511.03772v3)** | 2026-02-27 |  |
+| **[Distilling Balanced Knowledge from a Biased Teacher](https://arxiv.org/abs/2506.18496v2)** | 2026-02-27 | <details><summary>10 pa...</summary><p>10 pages, 5 figures, accepted by The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2026)</p></details> |
+| **[Manifold of Failure: Behavioral Attraction Basins in Language Models](https://arxiv.org/abs/2602.22291v2)** | 2026-02-27 |  |
+| **[LemmaBench: A Live, Research-Level Benchmark to Evaluate LLM Capabilities in Mathematics](https://arxiv.org/abs/2602.24173v1)** | 2026-02-27 | <details><summary>15 pa...</summary><p>15 pages, 3 figures, 5 Tables</p></details> |
+| **[Inversion diameter and 2-edge-colored homomorphisms](https://arxiv.org/abs/2602.24171v1)** | 2026-02-27 |  |
+| **[How do Visual Attributes Influence Web Agents? A Comprehensive Evaluation of User Interface Design Factors](https://arxiv.org/abs/2601.21961v2)** | 2026-02-27 |  |
+| **[CoMind: Towards Community-Driven Agents for Machine Learning Engineering](https://arxiv.org/abs/2506.20640v3)** | 2026-02-27 | <details><summary>ICLR ...</summary><p>ICLR 2026. Code available at https://github.com/comind-ml/CoMind</p></details> |
 
 ## Molecular Generation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[FlashOptim: Optimizers for Memory Efficient Training](https://arxiv.org/abs/2602.23349v1)** | 2026-02-26 | <details><summary>Sourc...</summary><p>Source code is available at https://github.com/databricks/flashoptim</p></details> |
-| **[Invariant Transformation and Resampling based Epistemic-Uncertainty Reduction](https://arxiv.org/abs/2602.23315v1)** | 2026-02-26 | 5 pages, 5 figures |
-| **[A Mixture-of-Experts Model for Multimodal Emotion Recognition in Conversations](https://arxiv.org/abs/2602.23300v1)** | 2026-02-26 | <details><summary>Accep...</summary><p>Accepted to Elsevier Computer Speech and Language. 30 pages, 9 figures, 5 tables</p></details> |
-| **[SPARTA: Scalable and Principled Benchmark of Tree-Structured Multi-hop QA over Text and Tables](https://arxiv.org/abs/2602.23286v1)** | 2026-02-26 | <details><summary>10 pa...</summary><p>10 pages, 5 figures. Published as a conference paper at ICLR 2026. Project page: https://sparta-projectpage.github.io/</p></details> |
-| **[ReCoN-Ipsundrum: An Inspectable Recurrent Persistence Loop Agent with Affect-Coupled Control and Mechanism-Linked Consciousness Indicator Assays](https://arxiv.org/abs/2602.23232v1)** | 2026-02-26 | <details><summary>Accep...</summary><p>Accepted at AAAI 2026 Spring Symposium - Machine Consciousness: Integrating Theory, Technology, and Philosophy</p></details> |
-| **[SODAs: Sparse Optimization for the Discovery of Differential and Algebraic Equations](https://arxiv.org/abs/2503.05993v2)** | 2026-02-26 | 22 pages, 5 figures |
-| **[STELLAR: Storage Tuning Engine Leveraging LLM Autonomous Reasoning for High Performance Parallel File Systems](https://arxiv.org/abs/2602.23220v1)** | 2026-02-26 | <details><summary>Publi...</summary><p>Published in the Proceedings of the 2025 International Conference for High Performance Computing, Networking, Storage, and Analysis (SC25)</p></details> |
+| **[Shifting in-DRAM](https://arxiv.org/abs/2602.24269v1)** | 2026-02-27 | <details><summary>9 pag...</summary><p>9 pages, 4 figures, 5 tables</p></details> |
+| **[Relational Dissonance in Human-AI Interactions: The Case of Knowledge Work](https://arxiv.org/abs/2509.15836v3)** | 2026-02-27 | 30 pages, 5 figures |
+| **[GRDD+: An Extended Greek Dialectal Dataset with Cross-Architecture Fine-tuning Evaluation](https://arxiv.org/abs/2511.03772v3)** | 2026-02-27 |  |
+| **[Distilling Balanced Knowledge from a Biased Teacher](https://arxiv.org/abs/2506.18496v2)** | 2026-02-27 | <details><summary>10 pa...</summary><p>10 pages, 5 figures, accepted by The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2026)</p></details> |
+| **[Manifold of Failure: Behavioral Attraction Basins in Language Models](https://arxiv.org/abs/2602.22291v2)** | 2026-02-27 |  |
+| **[LemmaBench: A Live, Research-Level Benchmark to Evaluate LLM Capabilities in Mathematics](https://arxiv.org/abs/2602.24173v1)** | 2026-02-27 | <details><summary>15 pa...</summary><p>15 pages, 3 figures, 5 Tables</p></details> |
+| **[Inversion diameter and 2-edge-colored homomorphisms](https://arxiv.org/abs/2602.24171v1)** | 2026-02-27 |  |
+| **[How do Visual Attributes Influence Web Agents? A Comprehensive Evaluation of User Interface Design Factors](https://arxiv.org/abs/2601.21961v2)** | 2026-02-27 |  |
+| **[CoMind: Towards Community-Driven Agents for Machine Learning Engineering](https://arxiv.org/abs/2506.20640v3)** | 2026-02-27 | <details><summary>ICLR ...</summary><p>ICLR 2026. Code available at https://github.com/comind-ml/CoMind</p></details> |
+| **[FRIEDA: Benchmarking Multi-Step Cartographic Reasoning in Vision-Language Models](https://arxiv.org/abs/2512.08016v2)** | 2026-02-27 | <details><summary>Accep...</summary><p>Accepted to ICLR 2026</p></details> |
+| **[Gradient is All You Need? How Consensus-Based Optimization can be Interpreted as a Stochastic Relaxation of Gradient Descent](https://arxiv.org/abs/2306.09778v2)** | 2026-02-27 | 49 pages, 5 figures |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[FlashOptim: Optimizers for Memory Efficient Training](https://arxiv.org/abs/2602.23349v1)** | 2026-02-26 | <details><summary>Sourc...</summary><p>Source code is available at https://github.com/databricks/flashoptim</p></details> |
-| **[Deep ensemble graph neural networks for probabilistic cosmic-ray direction and energy reconstruction in autonomous radio arrays](https://arxiv.org/abs/2602.23321v1)** | 2026-02-26 | <details><summary>Submi...</summary><p>Submitted to Astroparticle Physics Journal</p></details> |
-| **[Invariant Transformation and Resampling based Epistemic-Uncertainty Reduction](https://arxiv.org/abs/2602.23315v1)** | 2026-02-26 | 5 pages, 5 figures |
-| **[A Mixture-of-Experts Model for Multimodal Emotion Recognition in Conversations](https://arxiv.org/abs/2602.23300v1)** | 2026-02-26 | <details><summary>Accep...</summary><p>Accepted to Elsevier Computer Speech and Language. 30 pages, 9 figures, 5 tables</p></details> |
-| **[SPARTA: Scalable and Principled Benchmark of Tree-Structured Multi-hop QA over Text and Tables](https://arxiv.org/abs/2602.23286v1)** | 2026-02-26 | <details><summary>10 pa...</summary><p>10 pages, 5 figures. Published as a conference paper at ICLR 2026. Project page: https://sparta-projectpage.github.io/</p></details> |
-| **[Real-Time Stream Compaction for Sparse Machine Learning on FPGAs](https://arxiv.org/abs/2602.23281v1)** | 2026-02-26 | 8 pages |
-| **[Efficient Graph Coloring with Neural Networks: A Physics-Inspired Approach for Large Graphs](https://arxiv.org/abs/2408.01503v2)** | 2026-02-26 | 15 pages, 9 figures |
+| **[Shifting in-DRAM](https://arxiv.org/abs/2602.24269v1)** | 2026-02-27 | <details><summary>9 pag...</summary><p>9 pages, 4 figures, 5 tables</p></details> |
+| **[Random-Forest-Induced Graph Neural Networks for Tabular Learning](https://arxiv.org/abs/2602.24224v1)** | 2026-02-27 |  |
+| **[Relational Dissonance in Human-AI Interactions: The Case of Knowledge Work](https://arxiv.org/abs/2509.15836v3)** | 2026-02-27 | 30 pages, 5 figures |
+| **[GRDD+: An Extended Greek Dialectal Dataset with Cross-Architecture Fine-tuning Evaluation](https://arxiv.org/abs/2511.03772v3)** | 2026-02-27 |  |
+| **[Distilling Balanced Knowledge from a Biased Teacher](https://arxiv.org/abs/2506.18496v2)** | 2026-02-27 | <details><summary>10 pa...</summary><p>10 pages, 5 figures, accepted by The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2026)</p></details> |
+| **[Manifold of Failure: Behavioral Attraction Basins in Language Models](https://arxiv.org/abs/2602.22291v2)** | 2026-02-27 |  |
+| **[LemmaBench: A Live, Research-Level Benchmark to Evaluate LLM Capabilities in Mathematics](https://arxiv.org/abs/2602.24173v1)** | 2026-02-27 | <details><summary>15 pa...</summary><p>15 pages, 3 figures, 5 Tables</p></details> |
+| **[Inversion diameter and 2-edge-colored homomorphisms](https://arxiv.org/abs/2602.24171v1)** | 2026-02-27 |  |
+| **[How do Visual Attributes Influence Web Agents? A Comprehensive Evaluation of User Interface Design Factors](https://arxiv.org/abs/2601.21961v2)** | 2026-02-27 |  |
+| **[CoMind: Towards Community-Driven Agents for Machine Learning Engineering](https://arxiv.org/abs/2506.20640v3)** | 2026-02-27 | <details><summary>ICLR ...</summary><p>ICLR 2026. Code available at https://github.com/comind-ml/CoMind</p></details> |
+| **[FRIEDA: Benchmarking Multi-Step Cartographic Reasoning in Vision-Language Models](https://arxiv.org/abs/2512.08016v2)** | 2026-02-27 | <details><summary>Accep...</summary><p>Accepted to ICLR 2026</p></details> |
 
 ## Diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[FlashOptim: Optimizers for Memory Efficient Training](https://arxiv.org/abs/2602.23349v1)** | 2026-02-26 | <details><summary>Sourc...</summary><p>Source code is available at https://github.com/databricks/flashoptim</p></details> |
-| **[Invariant Transformation and Resampling based Epistemic-Uncertainty Reduction](https://arxiv.org/abs/2602.23315v1)** | 2026-02-26 | 5 pages, 5 figures |
-| **[A Proper Scoring Rule for Virtual Staining](https://arxiv.org/abs/2602.23305v1)** | 2026-02-26 |  |
-| **[A Mixture-of-Experts Model for Multimodal Emotion Recognition in Conversations](https://arxiv.org/abs/2602.23300v1)** | 2026-02-26 | <details><summary>Accep...</summary><p>Accepted to Elsevier Computer Speech and Language. 30 pages, 9 figures, 5 tables</p></details> |
-| **[ManifoldGD: Training-Free Hierarchical Manifold Guidance for Diffusion-Based Dataset Distillation](https://arxiv.org/abs/2602.23295v1)** | 2026-02-26 | CVPE 2026 |
-| **[The Spacetime of Diffusion Models: An Information Geometry Perspective](https://arxiv.org/abs/2505.17517v4)** | 2026-02-26 | ICLR 2026 (Oral) |
-| **[SPARTA: Scalable and Principled Benchmark of Tree-Structured Multi-hop QA over Text and Tables](https://arxiv.org/abs/2602.23286v1)** | 2026-02-26 | <details><summary>10 pa...</summary><p>10 pages, 5 figures. Published as a conference paper at ICLR 2026. Project page: https://sparta-projectpage.github.io/</p></details> |
+| **[Mode Seeking meets Mean Seeking for Fast Long Video Generation](https://arxiv.org/abs/2602.24289v1)** | 2026-02-27 | <details><summary>Proje...</summary><p>Project website: https://primecai.github.io/mmm/</p></details> |
+| **[Shifting in-DRAM](https://arxiv.org/abs/2602.24269v1)** | 2026-02-27 | <details><summary>9 pag...</summary><p>9 pages, 4 figures, 5 tables</p></details> |
+| **[Joint Geometric and Trajectory Consistency Learning for One-Step Real-World Super-Resolution](https://arxiv.org/abs/2602.24240v1)** | 2026-02-27 |  |
+| **[SenCache: Accelerating Diffusion Model Inference via Sensitivity-Aware Caching](https://arxiv.org/abs/2602.24208v1)** | 2026-02-27 |  |
+| **[Relational Dissonance in Human-AI Interactions: The Case of Knowledge Work](https://arxiv.org/abs/2509.15836v3)** | 2026-02-27 | 30 pages, 5 figures |
+| **[GRDD+: An Extended Greek Dialectal Dataset with Cross-Architecture Fine-tuning Evaluation](https://arxiv.org/abs/2511.03772v3)** | 2026-02-27 |  |
+| **[Distilling Balanced Knowledge from a Biased Teacher](https://arxiv.org/abs/2506.18496v2)** | 2026-02-27 | <details><summary>10 pa...</summary><p>10 pages, 5 figures, accepted by The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2026)</p></details> |
+| **[Manifold of Failure: Behavioral Attraction Basins in Language Models](https://arxiv.org/abs/2602.22291v2)** | 2026-02-27 |  |
+| **[LemmaBench: A Live, Research-Level Benchmark to Evaluate LLM Capabilities in Mathematics](https://arxiv.org/abs/2602.24173v1)** | 2026-02-27 | <details><summary>15 pa...</summary><p>15 pages, 3 figures, 5 Tables</p></details> |
+| **[Inversion diameter and 2-edge-colored homomorphisms](https://arxiv.org/abs/2602.24171v1)** | 2026-02-27 |  |
+| **[How do Visual Attributes Influence Web Agents? A Comprehensive Evaluation of User Interface Design Factors](https://arxiv.org/abs/2601.21961v2)** | 2026-02-27 |  |
+| **[CoMind: Towards Community-Driven Agents for Machine Learning Engineering](https://arxiv.org/abs/2506.20640v3)** | 2026-02-27 | <details><summary>ICLR ...</summary><p>ICLR 2026. Code available at https://github.com/comind-ml/CoMind</p></details> |
 
 ## Object Counting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[FlashOptim: Optimizers for Memory Efficient Training](https://arxiv.org/abs/2602.23349v1)** | 2026-02-26 | <details><summary>Sourc...</summary><p>Source code is available at https://github.com/databricks/flashoptim</p></details> |
-| **[Invariant Transformation and Resampling based Epistemic-Uncertainty Reduction](https://arxiv.org/abs/2602.23315v1)** | 2026-02-26 | 5 pages, 5 figures |
-| **[A Mixture-of-Experts Model for Multimodal Emotion Recognition in Conversations](https://arxiv.org/abs/2602.23300v1)** | 2026-02-26 | <details><summary>Accep...</summary><p>Accepted to Elsevier Computer Speech and Language. 30 pages, 9 figures, 5 tables</p></details> |
-| **[SPARTA: Scalable and Principled Benchmark of Tree-Structured Multi-hop QA over Text and Tables](https://arxiv.org/abs/2602.23286v1)** | 2026-02-26 | <details><summary>10 pa...</summary><p>10 pages, 5 figures. Published as a conference paper at ICLR 2026. Project page: https://sparta-projectpage.github.io/</p></details> |
-| **[ReCoN-Ipsundrum: An Inspectable Recurrent Persistence Loop Agent with Affect-Coupled Control and Mechanism-Linked Consciousness Indicator Assays](https://arxiv.org/abs/2602.23232v1)** | 2026-02-26 | <details><summary>Accep...</summary><p>Accepted at AAAI 2026 Spring Symposium - Machine Consciousness: Integrating Theory, Technology, and Philosophy</p></details> |
-| **[SODAs: Sparse Optimization for the Discovery of Differential and Algebraic Equations](https://arxiv.org/abs/2503.05993v2)** | 2026-02-26 | 22 pages, 5 figures |
-| **[STELLAR: Storage Tuning Engine Leveraging LLM Autonomous Reasoning for High Performance Parallel File Systems](https://arxiv.org/abs/2602.23220v1)** | 2026-02-26 | <details><summary>Publi...</summary><p>Published in the Proceedings of the 2025 International Conference for High Performance Computing, Networking, Storage, and Analysis (SC25)</p></details> |
+| **[Shifting in-DRAM](https://arxiv.org/abs/2602.24269v1)** | 2026-02-27 | <details><summary>9 pag...</summary><p>9 pages, 4 figures, 5 tables</p></details> |
+| **[Relational Dissonance in Human-AI Interactions: The Case of Knowledge Work](https://arxiv.org/abs/2509.15836v3)** | 2026-02-27 | 30 pages, 5 figures |
+| **[GRDD+: An Extended Greek Dialectal Dataset with Cross-Architecture Fine-tuning Evaluation](https://arxiv.org/abs/2511.03772v3)** | 2026-02-27 |  |
+| **[Distilling Balanced Knowledge from a Biased Teacher](https://arxiv.org/abs/2506.18496v2)** | 2026-02-27 | <details><summary>10 pa...</summary><p>10 pages, 5 figures, accepted by The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2026)</p></details> |
+| **[Manifold of Failure: Behavioral Attraction Basins in Language Models](https://arxiv.org/abs/2602.22291v2)** | 2026-02-27 |  |
+| **[LemmaBench: A Live, Research-Level Benchmark to Evaluate LLM Capabilities in Mathematics](https://arxiv.org/abs/2602.24173v1)** | 2026-02-27 | <details><summary>15 pa...</summary><p>15 pages, 3 figures, 5 Tables</p></details> |
+| **[Inversion diameter and 2-edge-colored homomorphisms](https://arxiv.org/abs/2602.24171v1)** | 2026-02-27 |  |
+| **[How do Visual Attributes Influence Web Agents? A Comprehensive Evaluation of User Interface Design Factors](https://arxiv.org/abs/2601.21961v2)** | 2026-02-27 |  |
+| **[CoMind: Towards Community-Driven Agents for Machine Learning Engineering](https://arxiv.org/abs/2506.20640v3)** | 2026-02-27 | <details><summary>ICLR ...</summary><p>ICLR 2026. Code available at https://github.com/comind-ml/CoMind</p></details> |
+| **[FRIEDA: Benchmarking Multi-Step Cartographic Reasoning in Vision-Language Models](https://arxiv.org/abs/2512.08016v2)** | 2026-02-27 | <details><summary>Accep...</summary><p>Accepted to ICLR 2026</p></details> |
+| **[Gradient is All You Need? How Consensus-Based Optimization can be Interpreted as a Stochastic Relaxation of Gradient Descent](https://arxiv.org/abs/2306.09778v2)** | 2026-02-27 | 49 pages, 5 figures |
 
 ## Image Caption
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[FlashOptim: Optimizers for Memory Efficient Training](https://arxiv.org/abs/2602.23349v1)** | 2026-02-26 | <details><summary>Sourc...</summary><p>Source code is available at https://github.com/databricks/flashoptim</p></details> |
-| **[Invariant Transformation and Resampling based Epistemic-Uncertainty Reduction](https://arxiv.org/abs/2602.23315v1)** | 2026-02-26 | 5 pages, 5 figures |
-| **[A Mixture-of-Experts Model for Multimodal Emotion Recognition in Conversations](https://arxiv.org/abs/2602.23300v1)** | 2026-02-26 | <details><summary>Accep...</summary><p>Accepted to Elsevier Computer Speech and Language. 30 pages, 9 figures, 5 tables</p></details> |
-| **[SPARTA: Scalable and Principled Benchmark of Tree-Structured Multi-hop QA over Text and Tables](https://arxiv.org/abs/2602.23286v1)** | 2026-02-26 | <details><summary>10 pa...</summary><p>10 pages, 5 figures. Published as a conference paper at ICLR 2026. Project page: https://sparta-projectpage.github.io/</p></details> |
-| **[ReCoN-Ipsundrum: An Inspectable Recurrent Persistence Loop Agent with Affect-Coupled Control and Mechanism-Linked Consciousness Indicator Assays](https://arxiv.org/abs/2602.23232v1)** | 2026-02-26 | <details><summary>Accep...</summary><p>Accepted at AAAI 2026 Spring Symposium - Machine Consciousness: Integrating Theory, Technology, and Philosophy</p></details> |
-| **[MovieTeller: Tool-augmented Movie Synopsis with ID Consistent Progressive Abstraction](https://arxiv.org/abs/2602.23228v1)** | 2026-02-26 | 6 pages, CSCWD 2026 |
-| **[SODAs: Sparse Optimization for the Discovery of Differential and Algebraic Equations](https://arxiv.org/abs/2503.05993v2)** | 2026-02-26 | 22 pages, 5 figures |
+| **[Shifting in-DRAM](https://arxiv.org/abs/2602.24269v1)** | 2026-02-27 | <details><summary>9 pag...</summary><p>9 pages, 4 figures, 5 tables</p></details> |
+| **[Relational Dissonance in Human-AI Interactions: The Case of Knowledge Work](https://arxiv.org/abs/2509.15836v3)** | 2026-02-27 | 30 pages, 5 figures |
+| **[GRDD+: An Extended Greek Dialectal Dataset with Cross-Architecture Fine-tuning Evaluation](https://arxiv.org/abs/2511.03772v3)** | 2026-02-27 |  |
+| **[Distilling Balanced Knowledge from a Biased Teacher](https://arxiv.org/abs/2506.18496v2)** | 2026-02-27 | <details><summary>10 pa...</summary><p>10 pages, 5 figures, accepted by The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2026)</p></details> |
+| **[Manifold of Failure: Behavioral Attraction Basins in Language Models](https://arxiv.org/abs/2602.22291v2)** | 2026-02-27 |  |
+| **[LemmaBench: A Live, Research-Level Benchmark to Evaluate LLM Capabilities in Mathematics](https://arxiv.org/abs/2602.24173v1)** | 2026-02-27 | <details><summary>15 pa...</summary><p>15 pages, 3 figures, 5 Tables</p></details> |
+| **[Inversion diameter and 2-edge-colored homomorphisms](https://arxiv.org/abs/2602.24171v1)** | 2026-02-27 |  |
+| **[How do Visual Attributes Influence Web Agents? A Comprehensive Evaluation of User Interface Design Factors](https://arxiv.org/abs/2601.21961v2)** | 2026-02-27 |  |
+| **[CoMind: Towards Community-Driven Agents for Machine Learning Engineering](https://arxiv.org/abs/2506.20640v3)** | 2026-02-27 | <details><summary>ICLR ...</summary><p>ICLR 2026. Code available at https://github.com/comind-ml/CoMind</p></details> |
+| **[FRIEDA: Benchmarking Multi-Step Cartographic Reasoning in Vision-Language Models](https://arxiv.org/abs/2512.08016v2)** | 2026-02-27 | <details><summary>Accep...</summary><p>Accepted to ICLR 2026</p></details> |
+| **[Gradient is All You Need? How Consensus-Based Optimization can be Interpreted as a Stochastic Relaxation of Gradient Descent](https://arxiv.org/abs/2306.09778v2)** | 2026-02-27 | 49 pages, 5 figures |
 
 ## Describe
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[FlashOptim: Optimizers for Memory Efficient Training](https://arxiv.org/abs/2602.23349v1)** | 2026-02-26 | <details><summary>Sourc...</summary><p>Source code is available at https://github.com/databricks/flashoptim</p></details> |
-| **[Causal Graph Dynamics and Kan Extensions](https://arxiv.org/abs/2403.13393v6)** | 2026-02-26 |  |
-| **[Invariant Transformation and Resampling based Epistemic-Uncertainty Reduction](https://arxiv.org/abs/2602.23315v1)** | 2026-02-26 | 5 pages, 5 figures |
-| **[A Mixture-of-Experts Model for Multimodal Emotion Recognition in Conversations](https://arxiv.org/abs/2602.23300v1)** | 2026-02-26 | <details><summary>Accep...</summary><p>Accepted to Elsevier Computer Speech and Language. 30 pages, 9 figures, 5 tables</p></details> |
-| **[PoSh: Using Scene Graphs To Guide LLMs-as-a-Judge For Detailed Image Descriptions](https://arxiv.org/abs/2510.19060v3)** | 2026-02-26 | <details><summary>Accep...</summary><p>Accepted at ICLR 2026. 26 pages, 9 figures. Metric/benchmark available at https://github.com/amith-ananthram/posh</p></details> |
-| **[AgentHub: A Registry for Discoverable, Verifiable, and Reproducible AI Agents](https://arxiv.org/abs/2510.03495v2)** | 2026-02-26 |  |
-| **[SPARTA: Scalable and Principled Benchmark of Tree-Structured Multi-hop QA over Text and Tables](https://arxiv.org/abs/2602.23286v1)** | 2026-02-26 | <details><summary>10 pa...</summary><p>10 pages, 5 figures. Published as a conference paper at ICLR 2026. Project page: https://sparta-projectpage.github.io/</p></details> |
+| **[Quantum Control and General Recursion beyond the Unitary Case](https://arxiv.org/abs/2507.10466v3)** | 2026-02-27 |  |
+| **[Resources for Automated Evaluation of Assistive RAG Systems that Help Readers with News Trustworthiness Assessment](https://arxiv.org/abs/2602.24277v1)** | 2026-02-27 |  |
+| **[Shifting in-DRAM](https://arxiv.org/abs/2602.24269v1)** | 2026-02-27 | <details><summary>9 pag...</summary><p>9 pages, 4 figures, 5 tables</p></details> |
+| **[nvidia-pcm: A D-Bus-Driven Platform Configuration Manager for OpenBMC Environments](https://arxiv.org/abs/2602.24237v1)** | 2026-02-27 | <details><summary>7 pag...</summary><p>7 pages, 1 figure, 10 references</p></details> |
+| **[Co-Designing Multimodal Systems for Accessible Asynchronous Dance Instruction](https://arxiv.org/abs/2511.09658v4)** | 2026-02-27 | Accepted to CHI 2026 |
+| **[Relational Dissonance in Human-AI Interactions: The Case of Knowledge Work](https://arxiv.org/abs/2509.15836v3)** | 2026-02-27 | 30 pages, 5 figures |
+| **[GRDD+: An Extended Greek Dialectal Dataset with Cross-Architecture Fine-tuning Evaluation](https://arxiv.org/abs/2511.03772v3)** | 2026-02-27 |  |
+| **[Distilling Balanced Knowledge from a Biased Teacher](https://arxiv.org/abs/2506.18496v2)** | 2026-02-27 | <details><summary>10 pa...</summary><p>10 pages, 5 figures, accepted by The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2026)</p></details> |
+| **[Manifold of Failure: Behavioral Attraction Basins in Language Models](https://arxiv.org/abs/2602.22291v2)** | 2026-02-27 |  |
+| **[LemmaBench: A Live, Research-Level Benchmark to Evaluate LLM Capabilities in Mathematics](https://arxiv.org/abs/2602.24173v1)** | 2026-02-27 | <details><summary>15 pa...</summary><p>15 pages, 3 figures, 5 Tables</p></details> |
 
 ## Light Weight
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[FlashOptim: Optimizers for Memory Efficient Training](https://arxiv.org/abs/2602.23349v1)** | 2026-02-26 | <details><summary>Sourc...</summary><p>Source code is available at https://github.com/databricks/flashoptim</p></details> |
-| **[Invariant Transformation and Resampling based Epistemic-Uncertainty Reduction](https://arxiv.org/abs/2602.23315v1)** | 2026-02-26 | 5 pages, 5 figures |
-| **[A Mixture-of-Experts Model for Multimodal Emotion Recognition in Conversations](https://arxiv.org/abs/2602.23300v1)** | 2026-02-26 | <details><summary>Accep...</summary><p>Accepted to Elsevier Computer Speech and Language. 30 pages, 9 figures, 5 tables</p></details> |
-| **[SPARTA: Scalable and Principled Benchmark of Tree-Structured Multi-hop QA over Text and Tables](https://arxiv.org/abs/2602.23286v1)** | 2026-02-26 | <details><summary>10 pa...</summary><p>10 pages, 5 figures. Published as a conference paper at ICLR 2026. Project page: https://sparta-projectpage.github.io/</p></details> |
-| **[ReCoN-Ipsundrum: An Inspectable Recurrent Persistence Loop Agent with Affect-Coupled Control and Mechanism-Linked Consciousness Indicator Assays](https://arxiv.org/abs/2602.23232v1)** | 2026-02-26 | <details><summary>Accep...</summary><p>Accepted at AAAI 2026 Spring Symposium - Machine Consciousness: Integrating Theory, Technology, and Philosophy</p></details> |
-| **[SODAs: Sparse Optimization for the Discovery of Differential and Algebraic Equations](https://arxiv.org/abs/2503.05993v2)** | 2026-02-26 | 22 pages, 5 figures |
-| **[STELLAR: Storage Tuning Engine Leveraging LLM Autonomous Reasoning for High Performance Parallel File Systems](https://arxiv.org/abs/2602.23220v1)** | 2026-02-26 | <details><summary>Publi...</summary><p>Published in the Proceedings of the 2025 International Conference for High Performance Computing, Networking, Storage, and Analysis (SC25)</p></details> |
+| **[Shifting in-DRAM](https://arxiv.org/abs/2602.24269v1)** | 2026-02-27 | <details><summary>9 pag...</summary><p>9 pages, 4 figures, 5 tables</p></details> |
+| **[Relational Dissonance in Human-AI Interactions: The Case of Knowledge Work](https://arxiv.org/abs/2509.15836v3)** | 2026-02-27 | 30 pages, 5 figures |
+| **[GRDD+: An Extended Greek Dialectal Dataset with Cross-Architecture Fine-tuning Evaluation](https://arxiv.org/abs/2511.03772v3)** | 2026-02-27 |  |
+| **[Distilling Balanced Knowledge from a Biased Teacher](https://arxiv.org/abs/2506.18496v2)** | 2026-02-27 | <details><summary>10 pa...</summary><p>10 pages, 5 figures, accepted by The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2026)</p></details> |
+| **[Manifold of Failure: Behavioral Attraction Basins in Language Models](https://arxiv.org/abs/2602.22291v2)** | 2026-02-27 |  |
+| **[LemmaBench: A Live, Research-Level Benchmark to Evaluate LLM Capabilities in Mathematics](https://arxiv.org/abs/2602.24173v1)** | 2026-02-27 | <details><summary>15 pa...</summary><p>15 pages, 3 figures, 5 Tables</p></details> |
+| **[Inversion diameter and 2-edge-colored homomorphisms](https://arxiv.org/abs/2602.24171v1)** | 2026-02-27 |  |
+| **[How do Visual Attributes Influence Web Agents? A Comprehensive Evaluation of User Interface Design Factors](https://arxiv.org/abs/2601.21961v2)** | 2026-02-27 |  |
+| **[CoMind: Towards Community-Driven Agents for Machine Learning Engineering](https://arxiv.org/abs/2506.20640v3)** | 2026-02-27 | <details><summary>ICLR ...</summary><p>ICLR 2026. Code available at https://github.com/comind-ml/CoMind</p></details> |
+| **[FRIEDA: Benchmarking Multi-Step Cartographic Reasoning in Vision-Language Models](https://arxiv.org/abs/2512.08016v2)** | 2026-02-27 | <details><summary>Accep...</summary><p>Accepted to ICLR 2026</p></details> |
+| **[Gradient is All You Need? How Consensus-Based Optimization can be Interpreted as a Stochastic Relaxation of Gradient Descent](https://arxiv.org/abs/2306.09778v2)** | 2026-02-27 | 49 pages, 5 figures |
 
 ## Class Incremental
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[FlashOptim: Optimizers for Memory Efficient Training](https://arxiv.org/abs/2602.23349v1)** | 2026-02-26 | <details><summary>Sourc...</summary><p>Source code is available at https://github.com/databricks/flashoptim</p></details> |
-| **[Invariant Transformation and Resampling based Epistemic-Uncertainty Reduction](https://arxiv.org/abs/2602.23315v1)** | 2026-02-26 | 5 pages, 5 figures |
-| **[A Mixture-of-Experts Model for Multimodal Emotion Recognition in Conversations](https://arxiv.org/abs/2602.23300v1)** | 2026-02-26 | <details><summary>Accep...</summary><p>Accepted to Elsevier Computer Speech and Language. 30 pages, 9 figures, 5 tables</p></details> |
-| **[SPARTA: Scalable and Principled Benchmark of Tree-Structured Multi-hop QA over Text and Tables](https://arxiv.org/abs/2602.23286v1)** | 2026-02-26 | <details><summary>10 pa...</summary><p>10 pages, 5 figures. Published as a conference paper at ICLR 2026. Project page: https://sparta-projectpage.github.io/</p></details> |
-| **[ReCoN-Ipsundrum: An Inspectable Recurrent Persistence Loop Agent with Affect-Coupled Control and Mechanism-Linked Consciousness Indicator Assays](https://arxiv.org/abs/2602.23232v1)** | 2026-02-26 | <details><summary>Accep...</summary><p>Accepted at AAAI 2026 Spring Symposium - Machine Consciousness: Integrating Theory, Technology, and Philosophy</p></details> |
-| **[SODAs: Sparse Optimization for the Discovery of Differential and Algebraic Equations](https://arxiv.org/abs/2503.05993v2)** | 2026-02-26 | 22 pages, 5 figures |
-| **[STELLAR: Storage Tuning Engine Leveraging LLM Autonomous Reasoning for High Performance Parallel File Systems](https://arxiv.org/abs/2602.23220v1)** | 2026-02-26 | <details><summary>Publi...</summary><p>Published in the Proceedings of the 2025 International Conference for High Performance Computing, Networking, Storage, and Analysis (SC25)</p></details> |
+| **[Shifting in-DRAM](https://arxiv.org/abs/2602.24269v1)** | 2026-02-27 | <details><summary>9 pag...</summary><p>9 pages, 4 figures, 5 tables</p></details> |
+| **[Relational Dissonance in Human-AI Interactions: The Case of Knowledge Work](https://arxiv.org/abs/2509.15836v3)** | 2026-02-27 | 30 pages, 5 figures |
+| **[GRDD+: An Extended Greek Dialectal Dataset with Cross-Architecture Fine-tuning Evaluation](https://arxiv.org/abs/2511.03772v3)** | 2026-02-27 |  |
+| **[Distilling Balanced Knowledge from a Biased Teacher](https://arxiv.org/abs/2506.18496v2)** | 2026-02-27 | <details><summary>10 pa...</summary><p>10 pages, 5 figures, accepted by The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2026)</p></details> |
+| **[Manifold of Failure: Behavioral Attraction Basins in Language Models](https://arxiv.org/abs/2602.22291v2)** | 2026-02-27 |  |
+| **[LemmaBench: A Live, Research-Level Benchmark to Evaluate LLM Capabilities in Mathematics](https://arxiv.org/abs/2602.24173v1)** | 2026-02-27 | <details><summary>15 pa...</summary><p>15 pages, 3 figures, 5 Tables</p></details> |
+| **[Inversion diameter and 2-edge-colored homomorphisms](https://arxiv.org/abs/2602.24171v1)** | 2026-02-27 |  |
+| **[How do Visual Attributes Influence Web Agents? A Comprehensive Evaluation of User Interface Design Factors](https://arxiv.org/abs/2601.21961v2)** | 2026-02-27 |  |
+| **[CoMind: Towards Community-Driven Agents for Machine Learning Engineering](https://arxiv.org/abs/2506.20640v3)** | 2026-02-27 | <details><summary>ICLR ...</summary><p>ICLR 2026. Code available at https://github.com/comind-ml/CoMind</p></details> |
+| **[FRIEDA: Benchmarking Multi-Step Cartographic Reasoning in Vision-Language Models](https://arxiv.org/abs/2512.08016v2)** | 2026-02-27 | <details><summary>Accep...</summary><p>Accepted to ICLR 2026</p></details> |
+| **[Gradient is All You Need? How Consensus-Based Optimization can be Interpreted as a Stochastic Relaxation of Gradient Descent](https://arxiv.org/abs/2306.09778v2)** | 2026-02-27 | 49 pages, 5 figures |
 
