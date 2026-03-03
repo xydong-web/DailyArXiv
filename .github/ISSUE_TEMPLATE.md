@@ -1,5 +1,5 @@
 ---
-title: Latest 50 Papers - March 03, 2026
+title: Latest 50 Papers - March 04, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/JiamingZang/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,134 +7,120 @@ labels: documentation
 ## Molecular
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Shifting in-DRAM](https://arxiv.org/abs/2602.24269v1)** | 2026-02-27 | <details><summary>9 pag...</summary><p>9 pages, 4 figures, 5 tables</p></details> |
-| **[Unified Biomolecular Trajectory Generation via Pretrained Variational Bridge](https://arxiv.org/abs/2602.07588v2)** | 2026-02-27 | <details><summary>The F...</summary><p>The Fourteenth International Conference on Learning Representations (ICLR 2026)</p></details> |
-| **[Relational Dissonance in Human-AI Interactions: The Case of Knowledge Work](https://arxiv.org/abs/2509.15836v3)** | 2026-02-27 | 30 pages, 5 figures |
-| **[GRDD+: An Extended Greek Dialectal Dataset with Cross-Architecture Fine-tuning Evaluation](https://arxiv.org/abs/2511.03772v3)** | 2026-02-27 |  |
-| **[Distilling Balanced Knowledge from a Biased Teacher](https://arxiv.org/abs/2506.18496v2)** | 2026-02-27 | <details><summary>10 pa...</summary><p>10 pages, 5 figures, accepted by The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2026)</p></details> |
-| **[Manifold of Failure: Behavioral Attraction Basins in Language Models](https://arxiv.org/abs/2602.22291v2)** | 2026-02-27 |  |
-| **[LemmaBench: A Live, Research-Level Benchmark to Evaluate LLM Capabilities in Mathematics](https://arxiv.org/abs/2602.24173v1)** | 2026-02-27 | <details><summary>15 pa...</summary><p>15 pages, 3 figures, 5 Tables</p></details> |
-| **[Inversion diameter and 2-edge-colored homomorphisms](https://arxiv.org/abs/2602.24171v1)** | 2026-02-27 |  |
-| **[How do Visual Attributes Influence Web Agents? A Comprehensive Evaluation of User Interface Design Factors](https://arxiv.org/abs/2601.21961v2)** | 2026-02-27 |  |
-| **[CoMind: Towards Community-Driven Agents for Machine Learning Engineering](https://arxiv.org/abs/2506.20640v3)** | 2026-02-27 | <details><summary>ICLR ...</summary><p>ICLR 2026. Code available at https://github.com/comind-ml/CoMind</p></details> |
+| **[Reasoning Core: A Scalable Procedural Data Generation Suite for Symbolic Pre-training and Post-Training](https://arxiv.org/abs/2603.02208v1)** | 2026-03-02 | <details><summary>Keywo...</summary><p>Keywords: LLMs, NLP, Dataset, Corpus, Procedural Pre-training, Reasoning, Logic, Formal Semantics https://github.com/sileod/reasoning_core</p></details> |
+| **[Adaptive Data Augmentation with Multi-armed Bandit: Sample-Efficient Embedding Calibration for Implicit Pattern Recognition](https://arxiv.org/abs/2602.19385v2)** | 2026-03-02 |  |
+| **[Frontier Models Can Take Actions at Low Probabilities](https://arxiv.org/abs/2603.02202v1)** | 2026-03-02 |  |
+| **[Sketch2Colab: Sketch-Conditioned Multi-Human Animation via Controllable Flow Distillation](https://arxiv.org/abs/2603.02190v1)** | 2026-03-02 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026 Main Conference (11 pages, 5 figures)</p></details> |
+| **[Setwise Hierarchical Variable Selection and the Generalized Linear Step-Up Procedure for False Discovery Rate Control](https://arxiv.org/abs/2603.02160v1)** | 2026-03-02 | 24 pages, 5 figures |
+| **[Zero- and Few-Shot Named-Entity Recognition: Case Study and Dataset in the Crime Domain (CrimeNER)](https://arxiv.org/abs/2603.02150v1)** | 2026-03-02 | <details><summary>Sent ...</summary><p>Sent for review at the main conference of the International Conference of Document Analysis and Recognition (ICDAR) 2026</p></details> |
 
 ## Molecular Generation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Shifting in-DRAM](https://arxiv.org/abs/2602.24269v1)** | 2026-02-27 | <details><summary>9 pag...</summary><p>9 pages, 4 figures, 5 tables</p></details> |
-| **[Relational Dissonance in Human-AI Interactions: The Case of Knowledge Work](https://arxiv.org/abs/2509.15836v3)** | 2026-02-27 | 30 pages, 5 figures |
-| **[GRDD+: An Extended Greek Dialectal Dataset with Cross-Architecture Fine-tuning Evaluation](https://arxiv.org/abs/2511.03772v3)** | 2026-02-27 |  |
-| **[Distilling Balanced Knowledge from a Biased Teacher](https://arxiv.org/abs/2506.18496v2)** | 2026-02-27 | <details><summary>10 pa...</summary><p>10 pages, 5 figures, accepted by The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2026)</p></details> |
-| **[Manifold of Failure: Behavioral Attraction Basins in Language Models](https://arxiv.org/abs/2602.22291v2)** | 2026-02-27 |  |
-| **[LemmaBench: A Live, Research-Level Benchmark to Evaluate LLM Capabilities in Mathematics](https://arxiv.org/abs/2602.24173v1)** | 2026-02-27 | <details><summary>15 pa...</summary><p>15 pages, 3 figures, 5 Tables</p></details> |
-| **[Inversion diameter and 2-edge-colored homomorphisms](https://arxiv.org/abs/2602.24171v1)** | 2026-02-27 |  |
-| **[How do Visual Attributes Influence Web Agents? A Comprehensive Evaluation of User Interface Design Factors](https://arxiv.org/abs/2601.21961v2)** | 2026-02-27 |  |
-| **[CoMind: Towards Community-Driven Agents for Machine Learning Engineering](https://arxiv.org/abs/2506.20640v3)** | 2026-02-27 | <details><summary>ICLR ...</summary><p>ICLR 2026. Code available at https://github.com/comind-ml/CoMind</p></details> |
-| **[FRIEDA: Benchmarking Multi-Step Cartographic Reasoning in Vision-Language Models](https://arxiv.org/abs/2512.08016v2)** | 2026-02-27 | <details><summary>Accep...</summary><p>Accepted to ICLR 2026</p></details> |
-| **[Gradient is All You Need? How Consensus-Based Optimization can be Interpreted as a Stochastic Relaxation of Gradient Descent](https://arxiv.org/abs/2306.09778v2)** | 2026-02-27 | 49 pages, 5 figures |
+| **[Reasoning Core: A Scalable Procedural Data Generation Suite for Symbolic Pre-training and Post-Training](https://arxiv.org/abs/2603.02208v1)** | 2026-03-02 | <details><summary>Keywo...</summary><p>Keywords: LLMs, NLP, Dataset, Corpus, Procedural Pre-training, Reasoning, Logic, Formal Semantics https://github.com/sileod/reasoning_core</p></details> |
+| **[Adaptive Data Augmentation with Multi-armed Bandit: Sample-Efficient Embedding Calibration for Implicit Pattern Recognition](https://arxiv.org/abs/2602.19385v2)** | 2026-03-02 |  |
+| **[Frontier Models Can Take Actions at Low Probabilities](https://arxiv.org/abs/2603.02202v1)** | 2026-03-02 |  |
+| **[Sketch2Colab: Sketch-Conditioned Multi-Human Animation via Controllable Flow Distillation](https://arxiv.org/abs/2603.02190v1)** | 2026-03-02 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026 Main Conference (11 pages, 5 figures)</p></details> |
+| **[Setwise Hierarchical Variable Selection and the Generalized Linear Step-Up Procedure for False Discovery Rate Control](https://arxiv.org/abs/2603.02160v1)** | 2026-03-02 | 24 pages, 5 figures |
+| **[Zero- and Few-Shot Named-Entity Recognition: Case Study and Dataset in the Crime Domain (CrimeNER)](https://arxiv.org/abs/2603.02150v1)** | 2026-03-02 | <details><summary>Sent ...</summary><p>Sent for review at the main conference of the International Conference of Document Analysis and Recognition (ICDAR) 2026</p></details> |
+| **[Hidden-Role Games: Equilibrium Concepts and Computation](https://arxiv.org/abs/2308.16017v5)** | 2026-03-02 |  |
+| **[From Pixels to Patches: Pooling Strategies for Earth Embeddings](https://arxiv.org/abs/2603.02080v1)** | 2026-03-02 |  |
+| **[OpenRad: a Curated Repository of Open-access AI models for Radiology](https://arxiv.org/abs/2603.02062v1)** | 2026-03-02 | 22 pages, 5 figures |
+| **[Improving the adaptive and continuous learning capabilities of artificial neural networks: Lessons from multi-neuromodulatory dynamics](https://arxiv.org/abs/2501.06762v3)** | 2026-03-02 |  |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Shifting in-DRAM](https://arxiv.org/abs/2602.24269v1)** | 2026-02-27 | <details><summary>9 pag...</summary><p>9 pages, 4 figures, 5 tables</p></details> |
-| **[Random-Forest-Induced Graph Neural Networks for Tabular Learning](https://arxiv.org/abs/2602.24224v1)** | 2026-02-27 |  |
-| **[Relational Dissonance in Human-AI Interactions: The Case of Knowledge Work](https://arxiv.org/abs/2509.15836v3)** | 2026-02-27 | 30 pages, 5 figures |
-| **[GRDD+: An Extended Greek Dialectal Dataset with Cross-Architecture Fine-tuning Evaluation](https://arxiv.org/abs/2511.03772v3)** | 2026-02-27 |  |
-| **[Distilling Balanced Knowledge from a Biased Teacher](https://arxiv.org/abs/2506.18496v2)** | 2026-02-27 | <details><summary>10 pa...</summary><p>10 pages, 5 figures, accepted by The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2026)</p></details> |
-| **[Manifold of Failure: Behavioral Attraction Basins in Language Models](https://arxiv.org/abs/2602.22291v2)** | 2026-02-27 |  |
-| **[LemmaBench: A Live, Research-Level Benchmark to Evaluate LLM Capabilities in Mathematics](https://arxiv.org/abs/2602.24173v1)** | 2026-02-27 | <details><summary>15 pa...</summary><p>15 pages, 3 figures, 5 Tables</p></details> |
-| **[Inversion diameter and 2-edge-colored homomorphisms](https://arxiv.org/abs/2602.24171v1)** | 2026-02-27 |  |
-| **[How do Visual Attributes Influence Web Agents? A Comprehensive Evaluation of User Interface Design Factors](https://arxiv.org/abs/2601.21961v2)** | 2026-02-27 |  |
-| **[CoMind: Towards Community-Driven Agents for Machine Learning Engineering](https://arxiv.org/abs/2506.20640v3)** | 2026-02-27 | <details><summary>ICLR ...</summary><p>ICLR 2026. Code available at https://github.com/comind-ml/CoMind</p></details> |
-| **[FRIEDA: Benchmarking Multi-Step Cartographic Reasoning in Vision-Language Models](https://arxiv.org/abs/2512.08016v2)** | 2026-02-27 | <details><summary>Accep...</summary><p>Accepted to ICLR 2026</p></details> |
+| **[Reasoning Core: A Scalable Procedural Data Generation Suite for Symbolic Pre-training and Post-Training](https://arxiv.org/abs/2603.02208v1)** | 2026-03-02 | <details><summary>Keywo...</summary><p>Keywords: LLMs, NLP, Dataset, Corpus, Procedural Pre-training, Reasoning, Logic, Formal Semantics https://github.com/sileod/reasoning_core</p></details> |
+| **[Adaptive Data Augmentation with Multi-armed Bandit: Sample-Efficient Embedding Calibration for Implicit Pattern Recognition](https://arxiv.org/abs/2602.19385v2)** | 2026-03-02 |  |
+| **[Frontier Models Can Take Actions at Low Probabilities](https://arxiv.org/abs/2603.02202v1)** | 2026-03-02 |  |
+| **[Sketch2Colab: Sketch-Conditioned Multi-Human Animation via Controllable Flow Distillation](https://arxiv.org/abs/2603.02190v1)** | 2026-03-02 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026 Main Conference (11 pages, 5 figures)</p></details> |
+| **[Setwise Hierarchical Variable Selection and the Generalized Linear Step-Up Procedure for False Discovery Rate Control](https://arxiv.org/abs/2603.02160v1)** | 2026-03-02 | 24 pages, 5 figures |
+| **[Zero- and Few-Shot Named-Entity Recognition: Case Study and Dataset in the Crime Domain (CrimeNER)](https://arxiv.org/abs/2603.02150v1)** | 2026-03-02 | <details><summary>Sent ...</summary><p>Sent for review at the main conference of the International Conference of Document Analysis and Recognition (ICDAR) 2026</p></details> |
+| **[Hidden-Role Games: Equilibrium Concepts and Computation](https://arxiv.org/abs/2308.16017v5)** | 2026-03-02 |  |
+| **[From Pixels to Patches: Pooling Strategies for Earth Embeddings](https://arxiv.org/abs/2603.02080v1)** | 2026-03-02 |  |
+| **[OpenRad: a Curated Repository of Open-access AI models for Radiology](https://arxiv.org/abs/2603.02062v1)** | 2026-03-02 | 22 pages, 5 figures |
+| **[Improving the adaptive and continuous learning capabilities of artificial neural networks: Lessons from multi-neuromodulatory dynamics](https://arxiv.org/abs/2501.06762v3)** | 2026-03-02 |  |
 
 ## Diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Mode Seeking meets Mean Seeking for Fast Long Video Generation](https://arxiv.org/abs/2602.24289v1)** | 2026-02-27 | <details><summary>Proje...</summary><p>Project website: https://primecai.github.io/mmm/</p></details> |
-| **[Shifting in-DRAM](https://arxiv.org/abs/2602.24269v1)** | 2026-02-27 | <details><summary>9 pag...</summary><p>9 pages, 4 figures, 5 tables</p></details> |
-| **[Joint Geometric and Trajectory Consistency Learning for One-Step Real-World Super-Resolution](https://arxiv.org/abs/2602.24240v1)** | 2026-02-27 |  |
-| **[SenCache: Accelerating Diffusion Model Inference via Sensitivity-Aware Caching](https://arxiv.org/abs/2602.24208v1)** | 2026-02-27 |  |
-| **[Relational Dissonance in Human-AI Interactions: The Case of Knowledge Work](https://arxiv.org/abs/2509.15836v3)** | 2026-02-27 | 30 pages, 5 figures |
-| **[GRDD+: An Extended Greek Dialectal Dataset with Cross-Architecture Fine-tuning Evaluation](https://arxiv.org/abs/2511.03772v3)** | 2026-02-27 |  |
-| **[Distilling Balanced Knowledge from a Biased Teacher](https://arxiv.org/abs/2506.18496v2)** | 2026-02-27 | <details><summary>10 pa...</summary><p>10 pages, 5 figures, accepted by The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2026)</p></details> |
-| **[Manifold of Failure: Behavioral Attraction Basins in Language Models](https://arxiv.org/abs/2602.22291v2)** | 2026-02-27 |  |
-| **[LemmaBench: A Live, Research-Level Benchmark to Evaluate LLM Capabilities in Mathematics](https://arxiv.org/abs/2602.24173v1)** | 2026-02-27 | <details><summary>15 pa...</summary><p>15 pages, 3 figures, 5 Tables</p></details> |
-| **[Inversion diameter and 2-edge-colored homomorphisms](https://arxiv.org/abs/2602.24171v1)** | 2026-02-27 |  |
-| **[How do Visual Attributes Influence Web Agents? A Comprehensive Evaluation of User Interface Design Factors](https://arxiv.org/abs/2601.21961v2)** | 2026-02-27 |  |
-| **[CoMind: Towards Community-Driven Agents for Machine Learning Engineering](https://arxiv.org/abs/2506.20640v3)** | 2026-02-27 | <details><summary>ICLR ...</summary><p>ICLR 2026. Code available at https://github.com/comind-ml/CoMind</p></details> |
+| **[Reasoning Core: A Scalable Procedural Data Generation Suite for Symbolic Pre-training and Post-Training](https://arxiv.org/abs/2603.02208v1)** | 2026-03-02 | <details><summary>Keywo...</summary><p>Keywords: LLMs, NLP, Dataset, Corpus, Procedural Pre-training, Reasoning, Logic, Formal Semantics https://github.com/sileod/reasoning_core</p></details> |
+| **[Adaptive Data Augmentation with Multi-armed Bandit: Sample-Efficient Embedding Calibration for Implicit Pattern Recognition](https://arxiv.org/abs/2602.19385v2)** | 2026-03-02 |  |
+| **[Frontier Models Can Take Actions at Low Probabilities](https://arxiv.org/abs/2603.02202v1)** | 2026-03-02 |  |
+| **[Sketch2Colab: Sketch-Conditioned Multi-Human Animation via Controllable Flow Distillation](https://arxiv.org/abs/2603.02190v1)** | 2026-03-02 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026 Main Conference (11 pages, 5 figures)</p></details> |
+| **[GeoDiT: Point-Conditioned Diffusion Transformer for Satellite Image Synthesis](https://arxiv.org/abs/2603.02172v1)** | 2026-03-02 | 26 pages, 17 figures |
+| **[Concept-TRAK: Understanding how diffusion models learn concepts through concept-level attribution](https://arxiv.org/abs/2507.06547v3)** | 2026-03-02 | <details><summary>This ...</summary><p>This paper has been accepted at ICLR 2026</p></details> |
+| **[Astral: training physics-informed neural networks with error majorants](https://arxiv.org/abs/2406.02645v2)** | 2026-03-02 | <details><summary>Accep...</summary><p>Accepted to ICLR 2026 workshop AI&PDE, reviewed at https://openreview.net/forum?id=TcFpJK2FcN</p></details> |
+| **[Setwise Hierarchical Variable Selection and the Generalized Linear Step-Up Procedure for False Discovery Rate Control](https://arxiv.org/abs/2603.02160v1)** | 2026-03-02 | 24 pages, 5 figures |
+| **[Zero- and Few-Shot Named-Entity Recognition: Case Study and Dataset in the Crime Domain (CrimeNER)](https://arxiv.org/abs/2603.02150v1)** | 2026-03-02 | <details><summary>Sent ...</summary><p>Sent for review at the main conference of the International Conference of Document Analysis and Recognition (ICDAR) 2026</p></details> |
+| **[Data-to-Energy Stochastic Dynamics](https://arxiv.org/abs/2509.26364v2)** | 2026-03-02 |  |
 
 ## Object Counting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Shifting in-DRAM](https://arxiv.org/abs/2602.24269v1)** | 2026-02-27 | <details><summary>9 pag...</summary><p>9 pages, 4 figures, 5 tables</p></details> |
-| **[Relational Dissonance in Human-AI Interactions: The Case of Knowledge Work](https://arxiv.org/abs/2509.15836v3)** | 2026-02-27 | 30 pages, 5 figures |
-| **[GRDD+: An Extended Greek Dialectal Dataset with Cross-Architecture Fine-tuning Evaluation](https://arxiv.org/abs/2511.03772v3)** | 2026-02-27 |  |
-| **[Distilling Balanced Knowledge from a Biased Teacher](https://arxiv.org/abs/2506.18496v2)** | 2026-02-27 | <details><summary>10 pa...</summary><p>10 pages, 5 figures, accepted by The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2026)</p></details> |
-| **[Manifold of Failure: Behavioral Attraction Basins in Language Models](https://arxiv.org/abs/2602.22291v2)** | 2026-02-27 |  |
-| **[LemmaBench: A Live, Research-Level Benchmark to Evaluate LLM Capabilities in Mathematics](https://arxiv.org/abs/2602.24173v1)** | 2026-02-27 | <details><summary>15 pa...</summary><p>15 pages, 3 figures, 5 Tables</p></details> |
-| **[Inversion diameter and 2-edge-colored homomorphisms](https://arxiv.org/abs/2602.24171v1)** | 2026-02-27 |  |
-| **[How do Visual Attributes Influence Web Agents? A Comprehensive Evaluation of User Interface Design Factors](https://arxiv.org/abs/2601.21961v2)** | 2026-02-27 |  |
-| **[CoMind: Towards Community-Driven Agents for Machine Learning Engineering](https://arxiv.org/abs/2506.20640v3)** | 2026-02-27 | <details><summary>ICLR ...</summary><p>ICLR 2026. Code available at https://github.com/comind-ml/CoMind</p></details> |
-| **[FRIEDA: Benchmarking Multi-Step Cartographic Reasoning in Vision-Language Models](https://arxiv.org/abs/2512.08016v2)** | 2026-02-27 | <details><summary>Accep...</summary><p>Accepted to ICLR 2026</p></details> |
-| **[Gradient is All You Need? How Consensus-Based Optimization can be Interpreted as a Stochastic Relaxation of Gradient Descent](https://arxiv.org/abs/2306.09778v2)** | 2026-02-27 | 49 pages, 5 figures |
+| **[Reasoning Core: A Scalable Procedural Data Generation Suite for Symbolic Pre-training and Post-Training](https://arxiv.org/abs/2603.02208v1)** | 2026-03-02 | <details><summary>Keywo...</summary><p>Keywords: LLMs, NLP, Dataset, Corpus, Procedural Pre-training, Reasoning, Logic, Formal Semantics https://github.com/sileod/reasoning_core</p></details> |
+| **[Adaptive Data Augmentation with Multi-armed Bandit: Sample-Efficient Embedding Calibration for Implicit Pattern Recognition](https://arxiv.org/abs/2602.19385v2)** | 2026-03-02 |  |
+| **[Frontier Models Can Take Actions at Low Probabilities](https://arxiv.org/abs/2603.02202v1)** | 2026-03-02 |  |
+| **[Sketch2Colab: Sketch-Conditioned Multi-Human Animation via Controllable Flow Distillation](https://arxiv.org/abs/2603.02190v1)** | 2026-03-02 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026 Main Conference (11 pages, 5 figures)</p></details> |
+| **[Setwise Hierarchical Variable Selection and the Generalized Linear Step-Up Procedure for False Discovery Rate Control](https://arxiv.org/abs/2603.02160v1)** | 2026-03-02 | 24 pages, 5 figures |
+| **[Zero- and Few-Shot Named-Entity Recognition: Case Study and Dataset in the Crime Domain (CrimeNER)](https://arxiv.org/abs/2603.02150v1)** | 2026-03-02 | <details><summary>Sent ...</summary><p>Sent for review at the main conference of the International Conference of Document Analysis and Recognition (ICDAR) 2026</p></details> |
+| **[Hidden-Role Games: Equilibrium Concepts and Computation](https://arxiv.org/abs/2308.16017v5)** | 2026-03-02 |  |
+| **[From Pixels to Patches: Pooling Strategies for Earth Embeddings](https://arxiv.org/abs/2603.02080v1)** | 2026-03-02 |  |
+| **[OpenRad: a Curated Repository of Open-access AI models for Radiology](https://arxiv.org/abs/2603.02062v1)** | 2026-03-02 | 22 pages, 5 figures |
+| **[Improving the adaptive and continuous learning capabilities of artificial neural networks: Lessons from multi-neuromodulatory dynamics](https://arxiv.org/abs/2501.06762v3)** | 2026-03-02 |  |
 
 ## Image Caption
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Shifting in-DRAM](https://arxiv.org/abs/2602.24269v1)** | 2026-02-27 | <details><summary>9 pag...</summary><p>9 pages, 4 figures, 5 tables</p></details> |
-| **[Relational Dissonance in Human-AI Interactions: The Case of Knowledge Work](https://arxiv.org/abs/2509.15836v3)** | 2026-02-27 | 30 pages, 5 figures |
-| **[GRDD+: An Extended Greek Dialectal Dataset with Cross-Architecture Fine-tuning Evaluation](https://arxiv.org/abs/2511.03772v3)** | 2026-02-27 |  |
-| **[Distilling Balanced Knowledge from a Biased Teacher](https://arxiv.org/abs/2506.18496v2)** | 2026-02-27 | <details><summary>10 pa...</summary><p>10 pages, 5 figures, accepted by The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2026)</p></details> |
-| **[Manifold of Failure: Behavioral Attraction Basins in Language Models](https://arxiv.org/abs/2602.22291v2)** | 2026-02-27 |  |
-| **[LemmaBench: A Live, Research-Level Benchmark to Evaluate LLM Capabilities in Mathematics](https://arxiv.org/abs/2602.24173v1)** | 2026-02-27 | <details><summary>15 pa...</summary><p>15 pages, 3 figures, 5 Tables</p></details> |
-| **[Inversion diameter and 2-edge-colored homomorphisms](https://arxiv.org/abs/2602.24171v1)** | 2026-02-27 |  |
-| **[How do Visual Attributes Influence Web Agents? A Comprehensive Evaluation of User Interface Design Factors](https://arxiv.org/abs/2601.21961v2)** | 2026-02-27 |  |
-| **[CoMind: Towards Community-Driven Agents for Machine Learning Engineering](https://arxiv.org/abs/2506.20640v3)** | 2026-02-27 | <details><summary>ICLR ...</summary><p>ICLR 2026. Code available at https://github.com/comind-ml/CoMind</p></details> |
-| **[FRIEDA: Benchmarking Multi-Step Cartographic Reasoning in Vision-Language Models](https://arxiv.org/abs/2512.08016v2)** | 2026-02-27 | <details><summary>Accep...</summary><p>Accepted to ICLR 2026</p></details> |
-| **[Gradient is All You Need? How Consensus-Based Optimization can be Interpreted as a Stochastic Relaxation of Gradient Descent](https://arxiv.org/abs/2306.09778v2)** | 2026-02-27 | 49 pages, 5 figures |
+| **[Reasoning Core: A Scalable Procedural Data Generation Suite for Symbolic Pre-training and Post-Training](https://arxiv.org/abs/2603.02208v1)** | 2026-03-02 | <details><summary>Keywo...</summary><p>Keywords: LLMs, NLP, Dataset, Corpus, Procedural Pre-training, Reasoning, Logic, Formal Semantics https://github.com/sileod/reasoning_core</p></details> |
+| **[Adaptive Data Augmentation with Multi-armed Bandit: Sample-Efficient Embedding Calibration for Implicit Pattern Recognition](https://arxiv.org/abs/2602.19385v2)** | 2026-03-02 |  |
+| **[Frontier Models Can Take Actions at Low Probabilities](https://arxiv.org/abs/2603.02202v1)** | 2026-03-02 |  |
+| **[Sketch2Colab: Sketch-Conditioned Multi-Human Animation via Controllable Flow Distillation](https://arxiv.org/abs/2603.02190v1)** | 2026-03-02 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026 Main Conference (11 pages, 5 figures)</p></details> |
+| **[Setwise Hierarchical Variable Selection and the Generalized Linear Step-Up Procedure for False Discovery Rate Control](https://arxiv.org/abs/2603.02160v1)** | 2026-03-02 | 24 pages, 5 figures |
+| **[Zero- and Few-Shot Named-Entity Recognition: Case Study and Dataset in the Crime Domain (CrimeNER)](https://arxiv.org/abs/2603.02150v1)** | 2026-03-02 | <details><summary>Sent ...</summary><p>Sent for review at the main conference of the International Conference of Document Analysis and Recognition (ICDAR) 2026</p></details> |
+| **[Hidden-Role Games: Equilibrium Concepts and Computation](https://arxiv.org/abs/2308.16017v5)** | 2026-03-02 |  |
+| **[From Pixels to Patches: Pooling Strategies for Earth Embeddings](https://arxiv.org/abs/2603.02080v1)** | 2026-03-02 |  |
+| **[OpenRad: a Curated Repository of Open-access AI models for Radiology](https://arxiv.org/abs/2603.02062v1)** | 2026-03-02 | 22 pages, 5 figures |
+| **[Improving the adaptive and continuous learning capabilities of artificial neural networks: Lessons from multi-neuromodulatory dynamics](https://arxiv.org/abs/2501.06762v3)** | 2026-03-02 |  |
 
 ## Describe
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Quantum Control and General Recursion beyond the Unitary Case](https://arxiv.org/abs/2507.10466v3)** | 2026-02-27 |  |
-| **[Resources for Automated Evaluation of Assistive RAG Systems that Help Readers with News Trustworthiness Assessment](https://arxiv.org/abs/2602.24277v1)** | 2026-02-27 |  |
-| **[Shifting in-DRAM](https://arxiv.org/abs/2602.24269v1)** | 2026-02-27 | <details><summary>9 pag...</summary><p>9 pages, 4 figures, 5 tables</p></details> |
-| **[nvidia-pcm: A D-Bus-Driven Platform Configuration Manager for OpenBMC Environments](https://arxiv.org/abs/2602.24237v1)** | 2026-02-27 | <details><summary>7 pag...</summary><p>7 pages, 1 figure, 10 references</p></details> |
-| **[Co-Designing Multimodal Systems for Accessible Asynchronous Dance Instruction](https://arxiv.org/abs/2511.09658v4)** | 2026-02-27 | Accepted to CHI 2026 |
-| **[Relational Dissonance in Human-AI Interactions: The Case of Knowledge Work](https://arxiv.org/abs/2509.15836v3)** | 2026-02-27 | 30 pages, 5 figures |
-| **[GRDD+: An Extended Greek Dialectal Dataset with Cross-Architecture Fine-tuning Evaluation](https://arxiv.org/abs/2511.03772v3)** | 2026-02-27 |  |
-| **[Distilling Balanced Knowledge from a Biased Teacher](https://arxiv.org/abs/2506.18496v2)** | 2026-02-27 | <details><summary>10 pa...</summary><p>10 pages, 5 figures, accepted by The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2026)</p></details> |
-| **[Manifold of Failure: Behavioral Attraction Basins in Language Models](https://arxiv.org/abs/2602.22291v2)** | 2026-02-27 |  |
-| **[LemmaBench: A Live, Research-Level Benchmark to Evaluate LLM Capabilities in Mathematics](https://arxiv.org/abs/2602.24173v1)** | 2026-02-27 | <details><summary>15 pa...</summary><p>15 pages, 3 figures, 5 Tables</p></details> |
+| **[Reasoning Core: A Scalable Procedural Data Generation Suite for Symbolic Pre-training and Post-Training](https://arxiv.org/abs/2603.02208v1)** | 2026-03-02 | <details><summary>Keywo...</summary><p>Keywords: LLMs, NLP, Dataset, Corpus, Procedural Pre-training, Reasoning, Logic, Formal Semantics https://github.com/sileod/reasoning_core</p></details> |
+| **[Adaptive Data Augmentation with Multi-armed Bandit: Sample-Efficient Embedding Calibration for Implicit Pattern Recognition](https://arxiv.org/abs/2602.19385v2)** | 2026-03-02 |  |
+| **[Frontier Models Can Take Actions at Low Probabilities](https://arxiv.org/abs/2603.02202v1)** | 2026-03-02 |  |
+| **[Sketch2Colab: Sketch-Conditioned Multi-Human Animation via Controllable Flow Distillation](https://arxiv.org/abs/2603.02190v1)** | 2026-03-02 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026 Main Conference (11 pages, 5 figures)</p></details> |
+| **[Kiwi-Edit: Versatile Video Editing via Instruction and Reference Guidance](https://arxiv.org/abs/2603.02175v1)** | 2026-03-02 |  |
+| **[Setwise Hierarchical Variable Selection and the Generalized Linear Step-Up Procedure for False Discovery Rate Control](https://arxiv.org/abs/2603.02160v1)** | 2026-03-02 | 24 pages, 5 figures |
+| **[Either a Confidence Interval Covers, or It Doesn't (Or Does It?): A Model-Based View of Ex-Post Coverage Probability](https://arxiv.org/abs/2602.15562v2)** | 2026-03-02 |  |
+| **[Zero- and Few-Shot Named-Entity Recognition: Case Study and Dataset in the Crime Domain (CrimeNER)](https://arxiv.org/abs/2603.02150v1)** | 2026-03-02 | <details><summary>Sent ...</summary><p>Sent for review at the main conference of the International Conference of Document Analysis and Recognition (ICDAR) 2026</p></details> |
 
 ## Light Weight
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Shifting in-DRAM](https://arxiv.org/abs/2602.24269v1)** | 2026-02-27 | <details><summary>9 pag...</summary><p>9 pages, 4 figures, 5 tables</p></details> |
-| **[Relational Dissonance in Human-AI Interactions: The Case of Knowledge Work](https://arxiv.org/abs/2509.15836v3)** | 2026-02-27 | 30 pages, 5 figures |
-| **[GRDD+: An Extended Greek Dialectal Dataset with Cross-Architecture Fine-tuning Evaluation](https://arxiv.org/abs/2511.03772v3)** | 2026-02-27 |  |
-| **[Distilling Balanced Knowledge from a Biased Teacher](https://arxiv.org/abs/2506.18496v2)** | 2026-02-27 | <details><summary>10 pa...</summary><p>10 pages, 5 figures, accepted by The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2026)</p></details> |
-| **[Manifold of Failure: Behavioral Attraction Basins in Language Models](https://arxiv.org/abs/2602.22291v2)** | 2026-02-27 |  |
-| **[LemmaBench: A Live, Research-Level Benchmark to Evaluate LLM Capabilities in Mathematics](https://arxiv.org/abs/2602.24173v1)** | 2026-02-27 | <details><summary>15 pa...</summary><p>15 pages, 3 figures, 5 Tables</p></details> |
-| **[Inversion diameter and 2-edge-colored homomorphisms](https://arxiv.org/abs/2602.24171v1)** | 2026-02-27 |  |
-| **[How do Visual Attributes Influence Web Agents? A Comprehensive Evaluation of User Interface Design Factors](https://arxiv.org/abs/2601.21961v2)** | 2026-02-27 |  |
-| **[CoMind: Towards Community-Driven Agents for Machine Learning Engineering](https://arxiv.org/abs/2506.20640v3)** | 2026-02-27 | <details><summary>ICLR ...</summary><p>ICLR 2026. Code available at https://github.com/comind-ml/CoMind</p></details> |
-| **[FRIEDA: Benchmarking Multi-Step Cartographic Reasoning in Vision-Language Models](https://arxiv.org/abs/2512.08016v2)** | 2026-02-27 | <details><summary>Accep...</summary><p>Accepted to ICLR 2026</p></details> |
-| **[Gradient is All You Need? How Consensus-Based Optimization can be Interpreted as a Stochastic Relaxation of Gradient Descent](https://arxiv.org/abs/2306.09778v2)** | 2026-02-27 | 49 pages, 5 figures |
+| **[Reasoning Core: A Scalable Procedural Data Generation Suite for Symbolic Pre-training and Post-Training](https://arxiv.org/abs/2603.02208v1)** | 2026-03-02 | <details><summary>Keywo...</summary><p>Keywords: LLMs, NLP, Dataset, Corpus, Procedural Pre-training, Reasoning, Logic, Formal Semantics https://github.com/sileod/reasoning_core</p></details> |
+| **[Adaptive Data Augmentation with Multi-armed Bandit: Sample-Efficient Embedding Calibration for Implicit Pattern Recognition](https://arxiv.org/abs/2602.19385v2)** | 2026-03-02 |  |
+| **[Frontier Models Can Take Actions at Low Probabilities](https://arxiv.org/abs/2603.02202v1)** | 2026-03-02 |  |
+| **[Sketch2Colab: Sketch-Conditioned Multi-Human Animation via Controllable Flow Distillation](https://arxiv.org/abs/2603.02190v1)** | 2026-03-02 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026 Main Conference (11 pages, 5 figures)</p></details> |
+| **[Setwise Hierarchical Variable Selection and the Generalized Linear Step-Up Procedure for False Discovery Rate Control](https://arxiv.org/abs/2603.02160v1)** | 2026-03-02 | 24 pages, 5 figures |
+| **[Zero- and Few-Shot Named-Entity Recognition: Case Study and Dataset in the Crime Domain (CrimeNER)](https://arxiv.org/abs/2603.02150v1)** | 2026-03-02 | <details><summary>Sent ...</summary><p>Sent for review at the main conference of the International Conference of Document Analysis and Recognition (ICDAR) 2026</p></details> |
+| **[OmniLottie: Generating Vector Animations via Parameterized Lottie Tokens](https://arxiv.org/abs/2603.02138v1)** | 2026-03-02 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026. Project Page: https://openvglab.github.io/OmniLottie/</p></details> |
+| **[Hidden-Role Games: Equilibrium Concepts and Computation](https://arxiv.org/abs/2308.16017v5)** | 2026-03-02 |  |
+| **[From Pixels to Patches: Pooling Strategies for Earth Embeddings](https://arxiv.org/abs/2603.02080v1)** | 2026-03-02 |  |
+| **[OpenRad: a Curated Repository of Open-access AI models for Radiology](https://arxiv.org/abs/2603.02062v1)** | 2026-03-02 | 22 pages, 5 figures |
 
 ## Class Incremental
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Shifting in-DRAM](https://arxiv.org/abs/2602.24269v1)** | 2026-02-27 | <details><summary>9 pag...</summary><p>9 pages, 4 figures, 5 tables</p></details> |
-| **[Relational Dissonance in Human-AI Interactions: The Case of Knowledge Work](https://arxiv.org/abs/2509.15836v3)** | 2026-02-27 | 30 pages, 5 figures |
-| **[GRDD+: An Extended Greek Dialectal Dataset with Cross-Architecture Fine-tuning Evaluation](https://arxiv.org/abs/2511.03772v3)** | 2026-02-27 |  |
-| **[Distilling Balanced Knowledge from a Biased Teacher](https://arxiv.org/abs/2506.18496v2)** | 2026-02-27 | <details><summary>10 pa...</summary><p>10 pages, 5 figures, accepted by The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2026)</p></details> |
-| **[Manifold of Failure: Behavioral Attraction Basins in Language Models](https://arxiv.org/abs/2602.22291v2)** | 2026-02-27 |  |
-| **[LemmaBench: A Live, Research-Level Benchmark to Evaluate LLM Capabilities in Mathematics](https://arxiv.org/abs/2602.24173v1)** | 2026-02-27 | <details><summary>15 pa...</summary><p>15 pages, 3 figures, 5 Tables</p></details> |
-| **[Inversion diameter and 2-edge-colored homomorphisms](https://arxiv.org/abs/2602.24171v1)** | 2026-02-27 |  |
-| **[How do Visual Attributes Influence Web Agents? A Comprehensive Evaluation of User Interface Design Factors](https://arxiv.org/abs/2601.21961v2)** | 2026-02-27 |  |
-| **[CoMind: Towards Community-Driven Agents for Machine Learning Engineering](https://arxiv.org/abs/2506.20640v3)** | 2026-02-27 | <details><summary>ICLR ...</summary><p>ICLR 2026. Code available at https://github.com/comind-ml/CoMind</p></details> |
-| **[FRIEDA: Benchmarking Multi-Step Cartographic Reasoning in Vision-Language Models](https://arxiv.org/abs/2512.08016v2)** | 2026-02-27 | <details><summary>Accep...</summary><p>Accepted to ICLR 2026</p></details> |
-| **[Gradient is All You Need? How Consensus-Based Optimization can be Interpreted as a Stochastic Relaxation of Gradient Descent](https://arxiv.org/abs/2306.09778v2)** | 2026-02-27 | 49 pages, 5 figures |
+| **[Reasoning Core: A Scalable Procedural Data Generation Suite for Symbolic Pre-training and Post-Training](https://arxiv.org/abs/2603.02208v1)** | 2026-03-02 | <details><summary>Keywo...</summary><p>Keywords: LLMs, NLP, Dataset, Corpus, Procedural Pre-training, Reasoning, Logic, Formal Semantics https://github.com/sileod/reasoning_core</p></details> |
+| **[Adaptive Data Augmentation with Multi-armed Bandit: Sample-Efficient Embedding Calibration for Implicit Pattern Recognition](https://arxiv.org/abs/2602.19385v2)** | 2026-03-02 |  |
+| **[Frontier Models Can Take Actions at Low Probabilities](https://arxiv.org/abs/2603.02202v1)** | 2026-03-02 |  |
+| **[Sketch2Colab: Sketch-Conditioned Multi-Human Animation via Controllable Flow Distillation](https://arxiv.org/abs/2603.02190v1)** | 2026-03-02 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026 Main Conference (11 pages, 5 figures)</p></details> |
+| **[Setwise Hierarchical Variable Selection and the Generalized Linear Step-Up Procedure for False Discovery Rate Control](https://arxiv.org/abs/2603.02160v1)** | 2026-03-02 | 24 pages, 5 figures |
+| **[Zero- and Few-Shot Named-Entity Recognition: Case Study and Dataset in the Crime Domain (CrimeNER)](https://arxiv.org/abs/2603.02150v1)** | 2026-03-02 | <details><summary>Sent ...</summary><p>Sent for review at the main conference of the International Conference of Document Analysis and Recognition (ICDAR) 2026</p></details> |
+| **[Hidden-Role Games: Equilibrium Concepts and Computation](https://arxiv.org/abs/2308.16017v5)** | 2026-03-02 |  |
+| **[From Pixels to Patches: Pooling Strategies for Earth Embeddings](https://arxiv.org/abs/2603.02080v1)** | 2026-03-02 |  |
+| **[OpenRad: a Curated Repository of Open-access AI models for Radiology](https://arxiv.org/abs/2603.02062v1)** | 2026-03-02 | 22 pages, 5 figures |
+| **[Improving the adaptive and continuous learning capabilities of artificial neural networks: Lessons from multi-neuromodulatory dynamics](https://arxiv.org/abs/2501.06762v3)** | 2026-03-02 |  |
 
