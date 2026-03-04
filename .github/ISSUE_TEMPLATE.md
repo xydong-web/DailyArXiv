@@ -1,5 +1,5 @@
 ---
-title: Latest 50 Papers - March 04, 2026
+title: Latest 50 Papers - March 05, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/JiamingZang/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,120 +7,104 @@ labels: documentation
 ## Molecular
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Reasoning Core: A Scalable Procedural Data Generation Suite for Symbolic Pre-training and Post-Training](https://arxiv.org/abs/2603.02208v1)** | 2026-03-02 | <details><summary>Keywo...</summary><p>Keywords: LLMs, NLP, Dataset, Corpus, Procedural Pre-training, Reasoning, Logic, Formal Semantics https://github.com/sileod/reasoning_core</p></details> |
-| **[Adaptive Data Augmentation with Multi-armed Bandit: Sample-Efficient Embedding Calibration for Implicit Pattern Recognition](https://arxiv.org/abs/2602.19385v2)** | 2026-03-02 |  |
-| **[Frontier Models Can Take Actions at Low Probabilities](https://arxiv.org/abs/2603.02202v1)** | 2026-03-02 |  |
-| **[Sketch2Colab: Sketch-Conditioned Multi-Human Animation via Controllable Flow Distillation](https://arxiv.org/abs/2603.02190v1)** | 2026-03-02 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026 Main Conference (11 pages, 5 figures)</p></details> |
-| **[Setwise Hierarchical Variable Selection and the Generalized Linear Step-Up Procedure for False Discovery Rate Control](https://arxiv.org/abs/2603.02160v1)** | 2026-03-02 | 24 pages, 5 figures |
-| **[Zero- and Few-Shot Named-Entity Recognition: Case Study and Dataset in the Crime Domain (CrimeNER)](https://arxiv.org/abs/2603.02150v1)** | 2026-03-02 | <details><summary>Sent ...</summary><p>Sent for review at the main conference of the International Conference of Document Analysis and Recognition (ICDAR) 2026</p></details> |
+| **[CASR-Net: An Image Processing-focused Deep Learning-based Coronary Artery Segmentation and Refinement Network for X-ray Coronary Angiogram](https://arxiv.org/abs/2510.27315v2)** | 2026-03-03 |  |
+| **[The elbow statistic: Multiscale clustering statistical significance](https://arxiv.org/abs/2603.03235v1)** | 2026-03-03 | <details><summary>30 pa...</summary><p>30 pages, 3 figures, 5 tables</p></details> |
+| **[Safe Payload Transfer with Ship-Mounted Cranes: A Robust Model Predictive Control Approach](https://arxiv.org/abs/2510.16953v2)** | 2026-03-03 |  |
+| **[SynthCharge: An Electric Vehicle Routing Instance Generator with Feasibility Screening to Enable Learning-Based Optimization and Benchmarking](https://arxiv.org/abs/2603.03230v1)** | 2026-03-03 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
+| **[Learning When to Act or Refuse: Guarding Agentic Reasoning Models for Safe Multi-Step Tool Use](https://arxiv.org/abs/2603.03205v1)** | 2026-03-03 | 24 pages, 5 figures |
+| **[No Memorization, No Detection: Output Distribution-Based Contamination Detection in Small Language Models](https://arxiv.org/abs/2603.03203v1)** | 2026-03-03 | <details><summary>8 pag...</summary><p>8 pages main text, 5 pages appendix, 9 figures, 7 tables. Code available at https://github.com/Sela-Omer/Contamination-Detection-Small-LM</p></details> |
+| **[A Penalty Approach for Differentiation Through Black-Box Quadratic Programming Solvers](https://arxiv.org/abs/2602.14154v2)** | 2026-03-03 | <details><summary>18 pa...</summary><p>18 pages, 4 figures, 5 tables</p></details> |
 
 ## Molecular Generation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Reasoning Core: A Scalable Procedural Data Generation Suite for Symbolic Pre-training and Post-Training](https://arxiv.org/abs/2603.02208v1)** | 2026-03-02 | <details><summary>Keywo...</summary><p>Keywords: LLMs, NLP, Dataset, Corpus, Procedural Pre-training, Reasoning, Logic, Formal Semantics https://github.com/sileod/reasoning_core</p></details> |
-| **[Adaptive Data Augmentation with Multi-armed Bandit: Sample-Efficient Embedding Calibration for Implicit Pattern Recognition](https://arxiv.org/abs/2602.19385v2)** | 2026-03-02 |  |
-| **[Frontier Models Can Take Actions at Low Probabilities](https://arxiv.org/abs/2603.02202v1)** | 2026-03-02 |  |
-| **[Sketch2Colab: Sketch-Conditioned Multi-Human Animation via Controllable Flow Distillation](https://arxiv.org/abs/2603.02190v1)** | 2026-03-02 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026 Main Conference (11 pages, 5 figures)</p></details> |
-| **[Setwise Hierarchical Variable Selection and the Generalized Linear Step-Up Procedure for False Discovery Rate Control](https://arxiv.org/abs/2603.02160v1)** | 2026-03-02 | 24 pages, 5 figures |
-| **[Zero- and Few-Shot Named-Entity Recognition: Case Study and Dataset in the Crime Domain (CrimeNER)](https://arxiv.org/abs/2603.02150v1)** | 2026-03-02 | <details><summary>Sent ...</summary><p>Sent for review at the main conference of the International Conference of Document Analysis and Recognition (ICDAR) 2026</p></details> |
-| **[Hidden-Role Games: Equilibrium Concepts and Computation](https://arxiv.org/abs/2308.16017v5)** | 2026-03-02 |  |
-| **[From Pixels to Patches: Pooling Strategies for Earth Embeddings](https://arxiv.org/abs/2603.02080v1)** | 2026-03-02 |  |
-| **[OpenRad: a Curated Repository of Open-access AI models for Radiology](https://arxiv.org/abs/2603.02062v1)** | 2026-03-02 | 22 pages, 5 figures |
-| **[Improving the adaptive and continuous learning capabilities of artificial neural networks: Lessons from multi-neuromodulatory dynamics](https://arxiv.org/abs/2501.06762v3)** | 2026-03-02 |  |
+| **[CASR-Net: An Image Processing-focused Deep Learning-based Coronary Artery Segmentation and Refinement Network for X-ray Coronary Angiogram](https://arxiv.org/abs/2510.27315v2)** | 2026-03-03 |  |
+| **[The elbow statistic: Multiscale clustering statistical significance](https://arxiv.org/abs/2603.03235v1)** | 2026-03-03 | <details><summary>30 pa...</summary><p>30 pages, 3 figures, 5 tables</p></details> |
+| **[Safe Payload Transfer with Ship-Mounted Cranes: A Robust Model Predictive Control Approach](https://arxiv.org/abs/2510.16953v2)** | 2026-03-03 |  |
+| **[SynthCharge: An Electric Vehicle Routing Instance Generator with Feasibility Screening to Enable Learning-Based Optimization and Benchmarking](https://arxiv.org/abs/2603.03230v1)** | 2026-03-03 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
+| **[Learning When to Act or Refuse: Guarding Agentic Reasoning Models for Safe Multi-Step Tool Use](https://arxiv.org/abs/2603.03205v1)** | 2026-03-03 | 24 pages, 5 figures |
+| **[No Memorization, No Detection: Output Distribution-Based Contamination Detection in Small Language Models](https://arxiv.org/abs/2603.03203v1)** | 2026-03-03 | <details><summary>8 pag...</summary><p>8 pages main text, 5 pages appendix, 9 figures, 7 tables. Code available at https://github.com/Sela-Omer/Contamination-Detection-Small-LM</p></details> |
+| **[A Penalty Approach for Differentiation Through Black-Box Quadratic Programming Solvers](https://arxiv.org/abs/2602.14154v2)** | 2026-03-03 | <details><summary>18 pa...</summary><p>18 pages, 4 figures, 5 tables</p></details> |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Reasoning Core: A Scalable Procedural Data Generation Suite for Symbolic Pre-training and Post-Training](https://arxiv.org/abs/2603.02208v1)** | 2026-03-02 | <details><summary>Keywo...</summary><p>Keywords: LLMs, NLP, Dataset, Corpus, Procedural Pre-training, Reasoning, Logic, Formal Semantics https://github.com/sileod/reasoning_core</p></details> |
-| **[Adaptive Data Augmentation with Multi-armed Bandit: Sample-Efficient Embedding Calibration for Implicit Pattern Recognition](https://arxiv.org/abs/2602.19385v2)** | 2026-03-02 |  |
-| **[Frontier Models Can Take Actions at Low Probabilities](https://arxiv.org/abs/2603.02202v1)** | 2026-03-02 |  |
-| **[Sketch2Colab: Sketch-Conditioned Multi-Human Animation via Controllable Flow Distillation](https://arxiv.org/abs/2603.02190v1)** | 2026-03-02 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026 Main Conference (11 pages, 5 figures)</p></details> |
-| **[Setwise Hierarchical Variable Selection and the Generalized Linear Step-Up Procedure for False Discovery Rate Control](https://arxiv.org/abs/2603.02160v1)** | 2026-03-02 | 24 pages, 5 figures |
-| **[Zero- and Few-Shot Named-Entity Recognition: Case Study and Dataset in the Crime Domain (CrimeNER)](https://arxiv.org/abs/2603.02150v1)** | 2026-03-02 | <details><summary>Sent ...</summary><p>Sent for review at the main conference of the International Conference of Document Analysis and Recognition (ICDAR) 2026</p></details> |
-| **[Hidden-Role Games: Equilibrium Concepts and Computation](https://arxiv.org/abs/2308.16017v5)** | 2026-03-02 |  |
-| **[From Pixels to Patches: Pooling Strategies for Earth Embeddings](https://arxiv.org/abs/2603.02080v1)** | 2026-03-02 |  |
-| **[OpenRad: a Curated Repository of Open-access AI models for Radiology](https://arxiv.org/abs/2603.02062v1)** | 2026-03-02 | 22 pages, 5 figures |
-| **[Improving the adaptive and continuous learning capabilities of artificial neural networks: Lessons from multi-neuromodulatory dynamics](https://arxiv.org/abs/2501.06762v3)** | 2026-03-02 |  |
+| **[CASR-Net: An Image Processing-focused Deep Learning-based Coronary Artery Segmentation and Refinement Network for X-ray Coronary Angiogram](https://arxiv.org/abs/2510.27315v2)** | 2026-03-03 |  |
+| **[The elbow statistic: Multiscale clustering statistical significance](https://arxiv.org/abs/2603.03235v1)** | 2026-03-03 | <details><summary>30 pa...</summary><p>30 pages, 3 figures, 5 tables</p></details> |
+| **[Safe Payload Transfer with Ship-Mounted Cranes: A Robust Model Predictive Control Approach](https://arxiv.org/abs/2510.16953v2)** | 2026-03-03 |  |
+| **[SynthCharge: An Electric Vehicle Routing Instance Generator with Feasibility Screening to Enable Learning-Based Optimization and Benchmarking](https://arxiv.org/abs/2603.03230v1)** | 2026-03-03 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
+| **[Learning When to Act or Refuse: Guarding Agentic Reasoning Models for Safe Multi-Step Tool Use](https://arxiv.org/abs/2603.03205v1)** | 2026-03-03 | 24 pages, 5 figures |
+| **[No Memorization, No Detection: Output Distribution-Based Contamination Detection in Small Language Models](https://arxiv.org/abs/2603.03203v1)** | 2026-03-03 | <details><summary>8 pag...</summary><p>8 pages main text, 5 pages appendix, 9 figures, 7 tables. Code available at https://github.com/Sela-Omer/Contamination-Detection-Small-LM</p></details> |
+| **[A Penalty Approach for Differentiation Through Black-Box Quadratic Programming Solvers](https://arxiv.org/abs/2602.14154v2)** | 2026-03-03 | <details><summary>18 pa...</summary><p>18 pages, 4 figures, 5 tables</p></details> |
+| **[Privacy Risk Predictions Based on Fundamental Understanding of Personal Data and an Evolving Threat Landscape](https://arxiv.org/abs/2508.04542v2)** | 2026-03-03 | <details><summary>13 pa...</summary><p>13 pages, 10 figures, 1 table</p></details> |
 
 ## Diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Reasoning Core: A Scalable Procedural Data Generation Suite for Symbolic Pre-training and Post-Training](https://arxiv.org/abs/2603.02208v1)** | 2026-03-02 | <details><summary>Keywo...</summary><p>Keywords: LLMs, NLP, Dataset, Corpus, Procedural Pre-training, Reasoning, Logic, Formal Semantics https://github.com/sileod/reasoning_core</p></details> |
-| **[Adaptive Data Augmentation with Multi-armed Bandit: Sample-Efficient Embedding Calibration for Implicit Pattern Recognition](https://arxiv.org/abs/2602.19385v2)** | 2026-03-02 |  |
-| **[Frontier Models Can Take Actions at Low Probabilities](https://arxiv.org/abs/2603.02202v1)** | 2026-03-02 |  |
-| **[Sketch2Colab: Sketch-Conditioned Multi-Human Animation via Controllable Flow Distillation](https://arxiv.org/abs/2603.02190v1)** | 2026-03-02 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026 Main Conference (11 pages, 5 figures)</p></details> |
-| **[GeoDiT: Point-Conditioned Diffusion Transformer for Satellite Image Synthesis](https://arxiv.org/abs/2603.02172v1)** | 2026-03-02 | 26 pages, 17 figures |
-| **[Concept-TRAK: Understanding how diffusion models learn concepts through concept-level attribution](https://arxiv.org/abs/2507.06547v3)** | 2026-03-02 | <details><summary>This ...</summary><p>This paper has been accepted at ICLR 2026</p></details> |
-| **[Astral: training physics-informed neural networks with error majorants](https://arxiv.org/abs/2406.02645v2)** | 2026-03-02 | <details><summary>Accep...</summary><p>Accepted to ICLR 2026 workshop AI&PDE, reviewed at https://openreview.net/forum?id=TcFpJK2FcN</p></details> |
-| **[Setwise Hierarchical Variable Selection and the Generalized Linear Step-Up Procedure for False Discovery Rate Control](https://arxiv.org/abs/2603.02160v1)** | 2026-03-02 | 24 pages, 5 figures |
-| **[Zero- and Few-Shot Named-Entity Recognition: Case Study and Dataset in the Crime Domain (CrimeNER)](https://arxiv.org/abs/2603.02150v1)** | 2026-03-02 | <details><summary>Sent ...</summary><p>Sent for review at the main conference of the International Conference of Document Analysis and Recognition (ICDAR) 2026</p></details> |
-| **[Data-to-Energy Stochastic Dynamics](https://arxiv.org/abs/2509.26364v2)** | 2026-03-02 |  |
+| **[CFG-Ctrl: Control-Based Classifier-Free Diffusion Guidance](https://arxiv.org/abs/2603.03281v1)** | 2026-03-03 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026; Project Page: https://hanyang-21.github.io/CFG-Ctrl</p></details> |
+| **[Beyond Language Modeling: An Exploration of Multimodal Pretraining](https://arxiv.org/abs/2603.03276v1)** | 2026-03-03 | <details><summary>Proje...</summary><p>Project website at https://beyond-llms.github.io/</p></details> |
+| **[DuoMo: Dual Motion Diffusion for World-Space Human Reconstruction](https://arxiv.org/abs/2603.03265v1)** | 2026-03-03 | <details><summary>CVPR ...</summary><p>CVPR 2026. Project page: https://yufu-wang.github.io/duomo/</p></details> |
+| **[Physics-informed post-processing of stabilized finite element solutions for transient convection-dominated problems](https://arxiv.org/abs/2603.03259v1)** | 2026-03-03 |  |
+| **[COP-GEN: Latent Diffusion Transformer for Copernicus Earth Observation Data -- Generation Stochastic by Design](https://arxiv.org/abs/2603.03239v1)** | 2026-03-03 |  |
+| **[On Geometry Regularization in Autoencoder Reduced-Order Models with Latent Neural ODE Dynamics](https://arxiv.org/abs/2603.03238v1)** | 2026-03-03 | <details><summary>25 pa...</summary><p>25 pages, 2 figures, 3 tables</p></details> |
+| **[CASR-Net: An Image Processing-focused Deep Learning-based Coronary Artery Segmentation and Refinement Network for X-ray Coronary Angiogram](https://arxiv.org/abs/2510.27315v2)** | 2026-03-03 |  |
+| **[The elbow statistic: Multiscale clustering statistical significance](https://arxiv.org/abs/2603.03235v1)** | 2026-03-03 | <details><summary>30 pa...</summary><p>30 pages, 3 figures, 5 tables</p></details> |
+| **[Safe Payload Transfer with Ship-Mounted Cranes: A Robust Model Predictive Control Approach](https://arxiv.org/abs/2510.16953v2)** | 2026-03-03 |  |
+| **[SynthCharge: An Electric Vehicle Routing Instance Generator with Feasibility Screening to Enable Learning-Based Optimization and Benchmarking](https://arxiv.org/abs/2603.03230v1)** | 2026-03-03 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
+| **[Learning When to Act or Refuse: Guarding Agentic Reasoning Models for Safe Multi-Step Tool Use](https://arxiv.org/abs/2603.03205v1)** | 2026-03-03 | 24 pages, 5 figures |
 
 ## Object Counting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Reasoning Core: A Scalable Procedural Data Generation Suite for Symbolic Pre-training and Post-Training](https://arxiv.org/abs/2603.02208v1)** | 2026-03-02 | <details><summary>Keywo...</summary><p>Keywords: LLMs, NLP, Dataset, Corpus, Procedural Pre-training, Reasoning, Logic, Formal Semantics https://github.com/sileod/reasoning_core</p></details> |
-| **[Adaptive Data Augmentation with Multi-armed Bandit: Sample-Efficient Embedding Calibration for Implicit Pattern Recognition](https://arxiv.org/abs/2602.19385v2)** | 2026-03-02 |  |
-| **[Frontier Models Can Take Actions at Low Probabilities](https://arxiv.org/abs/2603.02202v1)** | 2026-03-02 |  |
-| **[Sketch2Colab: Sketch-Conditioned Multi-Human Animation via Controllable Flow Distillation](https://arxiv.org/abs/2603.02190v1)** | 2026-03-02 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026 Main Conference (11 pages, 5 figures)</p></details> |
-| **[Setwise Hierarchical Variable Selection and the Generalized Linear Step-Up Procedure for False Discovery Rate Control](https://arxiv.org/abs/2603.02160v1)** | 2026-03-02 | 24 pages, 5 figures |
-| **[Zero- and Few-Shot Named-Entity Recognition: Case Study and Dataset in the Crime Domain (CrimeNER)](https://arxiv.org/abs/2603.02150v1)** | 2026-03-02 | <details><summary>Sent ...</summary><p>Sent for review at the main conference of the International Conference of Document Analysis and Recognition (ICDAR) 2026</p></details> |
-| **[Hidden-Role Games: Equilibrium Concepts and Computation](https://arxiv.org/abs/2308.16017v5)** | 2026-03-02 |  |
-| **[From Pixels to Patches: Pooling Strategies for Earth Embeddings](https://arxiv.org/abs/2603.02080v1)** | 2026-03-02 |  |
-| **[OpenRad: a Curated Repository of Open-access AI models for Radiology](https://arxiv.org/abs/2603.02062v1)** | 2026-03-02 | 22 pages, 5 figures |
-| **[Improving the adaptive and continuous learning capabilities of artificial neural networks: Lessons from multi-neuromodulatory dynamics](https://arxiv.org/abs/2501.06762v3)** | 2026-03-02 |  |
+| **[CASR-Net: An Image Processing-focused Deep Learning-based Coronary Artery Segmentation and Refinement Network for X-ray Coronary Angiogram](https://arxiv.org/abs/2510.27315v2)** | 2026-03-03 |  |
+| **[The elbow statistic: Multiscale clustering statistical significance](https://arxiv.org/abs/2603.03235v1)** | 2026-03-03 | <details><summary>30 pa...</summary><p>30 pages, 3 figures, 5 tables</p></details> |
+| **[Safe Payload Transfer with Ship-Mounted Cranes: A Robust Model Predictive Control Approach](https://arxiv.org/abs/2510.16953v2)** | 2026-03-03 |  |
+| **[SynthCharge: An Electric Vehicle Routing Instance Generator with Feasibility Screening to Enable Learning-Based Optimization and Benchmarking](https://arxiv.org/abs/2603.03230v1)** | 2026-03-03 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
+| **[Learning When to Act or Refuse: Guarding Agentic Reasoning Models for Safe Multi-Step Tool Use](https://arxiv.org/abs/2603.03205v1)** | 2026-03-03 | 24 pages, 5 figures |
+| **[No Memorization, No Detection: Output Distribution-Based Contamination Detection in Small Language Models](https://arxiv.org/abs/2603.03203v1)** | 2026-03-03 | <details><summary>8 pag...</summary><p>8 pages main text, 5 pages appendix, 9 figures, 7 tables. Code available at https://github.com/Sela-Omer/Contamination-Detection-Small-LM</p></details> |
+| **[A Penalty Approach for Differentiation Through Black-Box Quadratic Programming Solvers](https://arxiv.org/abs/2602.14154v2)** | 2026-03-03 | <details><summary>18 pa...</summary><p>18 pages, 4 figures, 5 tables</p></details> |
 
 ## Image Caption
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Reasoning Core: A Scalable Procedural Data Generation Suite for Symbolic Pre-training and Post-Training](https://arxiv.org/abs/2603.02208v1)** | 2026-03-02 | <details><summary>Keywo...</summary><p>Keywords: LLMs, NLP, Dataset, Corpus, Procedural Pre-training, Reasoning, Logic, Formal Semantics https://github.com/sileod/reasoning_core</p></details> |
-| **[Adaptive Data Augmentation with Multi-armed Bandit: Sample-Efficient Embedding Calibration for Implicit Pattern Recognition](https://arxiv.org/abs/2602.19385v2)** | 2026-03-02 |  |
-| **[Frontier Models Can Take Actions at Low Probabilities](https://arxiv.org/abs/2603.02202v1)** | 2026-03-02 |  |
-| **[Sketch2Colab: Sketch-Conditioned Multi-Human Animation via Controllable Flow Distillation](https://arxiv.org/abs/2603.02190v1)** | 2026-03-02 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026 Main Conference (11 pages, 5 figures)</p></details> |
-| **[Setwise Hierarchical Variable Selection and the Generalized Linear Step-Up Procedure for False Discovery Rate Control](https://arxiv.org/abs/2603.02160v1)** | 2026-03-02 | 24 pages, 5 figures |
-| **[Zero- and Few-Shot Named-Entity Recognition: Case Study and Dataset in the Crime Domain (CrimeNER)](https://arxiv.org/abs/2603.02150v1)** | 2026-03-02 | <details><summary>Sent ...</summary><p>Sent for review at the main conference of the International Conference of Document Analysis and Recognition (ICDAR) 2026</p></details> |
-| **[Hidden-Role Games: Equilibrium Concepts and Computation](https://arxiv.org/abs/2308.16017v5)** | 2026-03-02 |  |
-| **[From Pixels to Patches: Pooling Strategies for Earth Embeddings](https://arxiv.org/abs/2603.02080v1)** | 2026-03-02 |  |
-| **[OpenRad: a Curated Repository of Open-access AI models for Radiology](https://arxiv.org/abs/2603.02062v1)** | 2026-03-02 | 22 pages, 5 figures |
-| **[Improving the adaptive and continuous learning capabilities of artificial neural networks: Lessons from multi-neuromodulatory dynamics](https://arxiv.org/abs/2501.06762v3)** | 2026-03-02 |  |
+| **[CASR-Net: An Image Processing-focused Deep Learning-based Coronary Artery Segmentation and Refinement Network for X-ray Coronary Angiogram](https://arxiv.org/abs/2510.27315v2)** | 2026-03-03 |  |
+| **[The elbow statistic: Multiscale clustering statistical significance](https://arxiv.org/abs/2603.03235v1)** | 2026-03-03 | <details><summary>30 pa...</summary><p>30 pages, 3 figures, 5 tables</p></details> |
+| **[Safe Payload Transfer with Ship-Mounted Cranes: A Robust Model Predictive Control Approach](https://arxiv.org/abs/2510.16953v2)** | 2026-03-03 |  |
+| **[SynthCharge: An Electric Vehicle Routing Instance Generator with Feasibility Screening to Enable Learning-Based Optimization and Benchmarking](https://arxiv.org/abs/2603.03230v1)** | 2026-03-03 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
+| **[Learning When to Act or Refuse: Guarding Agentic Reasoning Models for Safe Multi-Step Tool Use](https://arxiv.org/abs/2603.03205v1)** | 2026-03-03 | 24 pages, 5 figures |
+| **[No Memorization, No Detection: Output Distribution-Based Contamination Detection in Small Language Models](https://arxiv.org/abs/2603.03203v1)** | 2026-03-03 | <details><summary>8 pag...</summary><p>8 pages main text, 5 pages appendix, 9 figures, 7 tables. Code available at https://github.com/Sela-Omer/Contamination-Detection-Small-LM</p></details> |
+| **[A Penalty Approach for Differentiation Through Black-Box Quadratic Programming Solvers](https://arxiv.org/abs/2602.14154v2)** | 2026-03-03 | <details><summary>18 pa...</summary><p>18 pages, 4 figures, 5 tables</p></details> |
 
 ## Describe
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Reasoning Core: A Scalable Procedural Data Generation Suite for Symbolic Pre-training and Post-Training](https://arxiv.org/abs/2603.02208v1)** | 2026-03-02 | <details><summary>Keywo...</summary><p>Keywords: LLMs, NLP, Dataset, Corpus, Procedural Pre-training, Reasoning, Logic, Formal Semantics https://github.com/sileod/reasoning_core</p></details> |
-| **[Adaptive Data Augmentation with Multi-armed Bandit: Sample-Efficient Embedding Calibration for Implicit Pattern Recognition](https://arxiv.org/abs/2602.19385v2)** | 2026-03-02 |  |
-| **[Frontier Models Can Take Actions at Low Probabilities](https://arxiv.org/abs/2603.02202v1)** | 2026-03-02 |  |
-| **[Sketch2Colab: Sketch-Conditioned Multi-Human Animation via Controllable Flow Distillation](https://arxiv.org/abs/2603.02190v1)** | 2026-03-02 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026 Main Conference (11 pages, 5 figures)</p></details> |
-| **[Kiwi-Edit: Versatile Video Editing via Instruction and Reference Guidance](https://arxiv.org/abs/2603.02175v1)** | 2026-03-02 |  |
-| **[Setwise Hierarchical Variable Selection and the Generalized Linear Step-Up Procedure for False Discovery Rate Control](https://arxiv.org/abs/2603.02160v1)** | 2026-03-02 | 24 pages, 5 figures |
-| **[Either a Confidence Interval Covers, or It Doesn't (Or Does It?): A Model-Based View of Ex-Post Coverage Probability](https://arxiv.org/abs/2602.15562v2)** | 2026-03-02 |  |
-| **[Zero- and Few-Shot Named-Entity Recognition: Case Study and Dataset in the Crime Domain (CrimeNER)](https://arxiv.org/abs/2603.02150v1)** | 2026-03-02 | <details><summary>Sent ...</summary><p>Sent for review at the main conference of the International Conference of Document Analysis and Recognition (ICDAR) 2026</p></details> |
+| **[The Instability of all Backoff Protocols](https://arxiv.org/abs/2602.21315v2)** | 2026-03-03 |  |
+| **[CASR-Net: An Image Processing-focused Deep Learning-based Coronary Artery Segmentation and Refinement Network for X-ray Coronary Angiogram](https://arxiv.org/abs/2510.27315v2)** | 2026-03-03 |  |
+| **[The elbow statistic: Multiscale clustering statistical significance](https://arxiv.org/abs/2603.03235v1)** | 2026-03-03 | <details><summary>30 pa...</summary><p>30 pages, 3 figures, 5 tables</p></details> |
+| **[Safe Payload Transfer with Ship-Mounted Cranes: A Robust Model Predictive Control Approach](https://arxiv.org/abs/2510.16953v2)** | 2026-03-03 |  |
+| **[SynthCharge: An Electric Vehicle Routing Instance Generator with Feasibility Screening to Enable Learning-Based Optimization and Benchmarking](https://arxiv.org/abs/2603.03230v1)** | 2026-03-03 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
+| **[Learning When to Act or Refuse: Guarding Agentic Reasoning Models for Safe Multi-Step Tool Use](https://arxiv.org/abs/2603.03205v1)** | 2026-03-03 | 24 pages, 5 figures |
+| **[No Memorization, No Detection: Output Distribution-Based Contamination Detection in Small Language Models](https://arxiv.org/abs/2603.03203v1)** | 2026-03-03 | <details><summary>8 pag...</summary><p>8 pages main text, 5 pages appendix, 9 figures, 7 tables. Code available at https://github.com/Sela-Omer/Contamination-Detection-Small-LM</p></details> |
 
 ## Light Weight
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Reasoning Core: A Scalable Procedural Data Generation Suite for Symbolic Pre-training and Post-Training](https://arxiv.org/abs/2603.02208v1)** | 2026-03-02 | <details><summary>Keywo...</summary><p>Keywords: LLMs, NLP, Dataset, Corpus, Procedural Pre-training, Reasoning, Logic, Formal Semantics https://github.com/sileod/reasoning_core</p></details> |
-| **[Adaptive Data Augmentation with Multi-armed Bandit: Sample-Efficient Embedding Calibration for Implicit Pattern Recognition](https://arxiv.org/abs/2602.19385v2)** | 2026-03-02 |  |
-| **[Frontier Models Can Take Actions at Low Probabilities](https://arxiv.org/abs/2603.02202v1)** | 2026-03-02 |  |
-| **[Sketch2Colab: Sketch-Conditioned Multi-Human Animation via Controllable Flow Distillation](https://arxiv.org/abs/2603.02190v1)** | 2026-03-02 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026 Main Conference (11 pages, 5 figures)</p></details> |
-| **[Setwise Hierarchical Variable Selection and the Generalized Linear Step-Up Procedure for False Discovery Rate Control](https://arxiv.org/abs/2603.02160v1)** | 2026-03-02 | 24 pages, 5 figures |
-| **[Zero- and Few-Shot Named-Entity Recognition: Case Study and Dataset in the Crime Domain (CrimeNER)](https://arxiv.org/abs/2603.02150v1)** | 2026-03-02 | <details><summary>Sent ...</summary><p>Sent for review at the main conference of the International Conference of Document Analysis and Recognition (ICDAR) 2026</p></details> |
-| **[OmniLottie: Generating Vector Animations via Parameterized Lottie Tokens](https://arxiv.org/abs/2603.02138v1)** | 2026-03-02 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026. Project Page: https://openvglab.github.io/OmniLottie/</p></details> |
-| **[Hidden-Role Games: Equilibrium Concepts and Computation](https://arxiv.org/abs/2308.16017v5)** | 2026-03-02 |  |
-| **[From Pixels to Patches: Pooling Strategies for Earth Embeddings](https://arxiv.org/abs/2603.02080v1)** | 2026-03-02 |  |
-| **[OpenRad: a Curated Repository of Open-access AI models for Radiology](https://arxiv.org/abs/2603.02062v1)** | 2026-03-02 | 22 pages, 5 figures |
+| **[CASR-Net: An Image Processing-focused Deep Learning-based Coronary Artery Segmentation and Refinement Network for X-ray Coronary Angiogram](https://arxiv.org/abs/2510.27315v2)** | 2026-03-03 |  |
+| **[The elbow statistic: Multiscale clustering statistical significance](https://arxiv.org/abs/2603.03235v1)** | 2026-03-03 | <details><summary>30 pa...</summary><p>30 pages, 3 figures, 5 tables</p></details> |
+| **[Safe Payload Transfer with Ship-Mounted Cranes: A Robust Model Predictive Control Approach](https://arxiv.org/abs/2510.16953v2)** | 2026-03-03 |  |
+| **[SynthCharge: An Electric Vehicle Routing Instance Generator with Feasibility Screening to Enable Learning-Based Optimization and Benchmarking](https://arxiv.org/abs/2603.03230v1)** | 2026-03-03 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
+| **[Learning When to Act or Refuse: Guarding Agentic Reasoning Models for Safe Multi-Step Tool Use](https://arxiv.org/abs/2603.03205v1)** | 2026-03-03 | 24 pages, 5 figures |
+| **[No Memorization, No Detection: Output Distribution-Based Contamination Detection in Small Language Models](https://arxiv.org/abs/2603.03203v1)** | 2026-03-03 | <details><summary>8 pag...</summary><p>8 pages main text, 5 pages appendix, 9 figures, 7 tables. Code available at https://github.com/Sela-Omer/Contamination-Detection-Small-LM</p></details> |
+| **[A Penalty Approach for Differentiation Through Black-Box Quadratic Programming Solvers](https://arxiv.org/abs/2602.14154v2)** | 2026-03-03 | <details><summary>18 pa...</summary><p>18 pages, 4 figures, 5 tables</p></details> |
 
 ## Class Incremental
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Reasoning Core: A Scalable Procedural Data Generation Suite for Symbolic Pre-training and Post-Training](https://arxiv.org/abs/2603.02208v1)** | 2026-03-02 | <details><summary>Keywo...</summary><p>Keywords: LLMs, NLP, Dataset, Corpus, Procedural Pre-training, Reasoning, Logic, Formal Semantics https://github.com/sileod/reasoning_core</p></details> |
-| **[Adaptive Data Augmentation with Multi-armed Bandit: Sample-Efficient Embedding Calibration for Implicit Pattern Recognition](https://arxiv.org/abs/2602.19385v2)** | 2026-03-02 |  |
-| **[Frontier Models Can Take Actions at Low Probabilities](https://arxiv.org/abs/2603.02202v1)** | 2026-03-02 |  |
-| **[Sketch2Colab: Sketch-Conditioned Multi-Human Animation via Controllable Flow Distillation](https://arxiv.org/abs/2603.02190v1)** | 2026-03-02 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026 Main Conference (11 pages, 5 figures)</p></details> |
-| **[Setwise Hierarchical Variable Selection and the Generalized Linear Step-Up Procedure for False Discovery Rate Control](https://arxiv.org/abs/2603.02160v1)** | 2026-03-02 | 24 pages, 5 figures |
-| **[Zero- and Few-Shot Named-Entity Recognition: Case Study and Dataset in the Crime Domain (CrimeNER)](https://arxiv.org/abs/2603.02150v1)** | 2026-03-02 | <details><summary>Sent ...</summary><p>Sent for review at the main conference of the International Conference of Document Analysis and Recognition (ICDAR) 2026</p></details> |
-| **[Hidden-Role Games: Equilibrium Concepts and Computation](https://arxiv.org/abs/2308.16017v5)** | 2026-03-02 |  |
-| **[From Pixels to Patches: Pooling Strategies for Earth Embeddings](https://arxiv.org/abs/2603.02080v1)** | 2026-03-02 |  |
-| **[OpenRad: a Curated Repository of Open-access AI models for Radiology](https://arxiv.org/abs/2603.02062v1)** | 2026-03-02 | 22 pages, 5 figures |
-| **[Improving the adaptive and continuous learning capabilities of artificial neural networks: Lessons from multi-neuromodulatory dynamics](https://arxiv.org/abs/2501.06762v3)** | 2026-03-02 |  |
+| **[CASR-Net: An Image Processing-focused Deep Learning-based Coronary Artery Segmentation and Refinement Network for X-ray Coronary Angiogram](https://arxiv.org/abs/2510.27315v2)** | 2026-03-03 |  |
+| **[The elbow statistic: Multiscale clustering statistical significance](https://arxiv.org/abs/2603.03235v1)** | 2026-03-03 | <details><summary>30 pa...</summary><p>30 pages, 3 figures, 5 tables</p></details> |
+| **[Safe Payload Transfer with Ship-Mounted Cranes: A Robust Model Predictive Control Approach](https://arxiv.org/abs/2510.16953v2)** | 2026-03-03 |  |
+| **[SynthCharge: An Electric Vehicle Routing Instance Generator with Feasibility Screening to Enable Learning-Based Optimization and Benchmarking](https://arxiv.org/abs/2603.03230v1)** | 2026-03-03 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
+| **[Learning When to Act or Refuse: Guarding Agentic Reasoning Models for Safe Multi-Step Tool Use](https://arxiv.org/abs/2603.03205v1)** | 2026-03-03 | 24 pages, 5 figures |
+| **[No Memorization, No Detection: Output Distribution-Based Contamination Detection in Small Language Models](https://arxiv.org/abs/2603.03203v1)** | 2026-03-03 | <details><summary>8 pag...</summary><p>8 pages main text, 5 pages appendix, 9 figures, 7 tables. Code available at https://github.com/Sela-Omer/Contamination-Detection-Small-LM</p></details> |
+| **[A Penalty Approach for Differentiation Through Black-Box Quadratic Programming Solvers](https://arxiv.org/abs/2602.14154v2)** | 2026-03-03 | <details><summary>18 pa...</summary><p>18 pages, 4 figures, 5 tables</p></details> |
 
