@@ -1,5 +1,5 @@
 ---
-title: Latest 50 Papers - March 06, 2026
+title: Latest 50 Papers - March 07, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/JiamingZang/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,128 +7,82 @@ labels: documentation
 ## Molecular
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[NeuCLIP: Efficient Large-Scale CLIP Training with Neural Normalizer Optimization](https://arxiv.org/abs/2511.08417v2)** | 2026-03-04 | <details><summary>Accep...</summary><p>Accepted to 40th International Conference on Learning Representations. 32 pages, 5 figures</p></details> |
-| **[Benchmarking ECG FMs: A Reality Check Across Clinical Tasks](https://arxiv.org/abs/2509.25095v2)** | 2026-03-04 | <details><summary>Accep...</summary><p>Accepted at ICLR 2026. OpenReview: https://openreview.net/forum?id=xXRqWpt3Xr</p></details> |
-| **[What Does Flow Matching Bring To TD Learning?](https://arxiv.org/abs/2603.04333v1)** | 2026-03-04 |  |
-| **[Gaussian Mixture-Based Inverse Perception Contract for Uncertainty-Aware Robot Navigation](https://arxiv.org/abs/2603.04329v1)** | 2026-03-04 | <details><summary>8 pag...</summary><p>8 pages, 5 figures. Accepted to ACC 2026 (American Control Conference)</p></details> |
-| **[SPRINT: Semi-supervised Prototypical Representation for Few-Shot Class-Incremental Tabular Learning](https://arxiv.org/abs/2603.04321v1)** | 2026-03-04 | Under Review |
-| **[SycoEval-EM: Sycophancy Evaluation of Large Language Models in Simulated Clinical Encounters for Emergency Care](https://arxiv.org/abs/2601.16529v2)** | 2026-03-04 | 11 pages, 5 figures |
-| **[NRR-Phi: Text-to-State Mapping for Ambiguity Preservation in LLM Inference](https://arxiv.org/abs/2601.19933v4)** | 2026-03-04 | <details><summary>25 pa...</summary><p>25 pages, 5 figures, 7 tables. Replacement synced to repository snapshot v38. Added a direct series-hub link in the abstract for cross-paper navigation: https://github.com/kei-saito-research/nrr-series-hub . Series numbering policy: paper3 is intentionally skipped and never reused</p></details> |
-| **[Markov-Based Modelling for Reservoir Management: Assessing Reliability and Resilience](https://arxiv.org/abs/2603.04278v1)** | 2026-03-04 | 36 pages, 5 figures |
-| **[A Unified Framework for Joint Detection of Lacunes and Enlarged Perivascular Spaces](https://arxiv.org/abs/2603.04243v1)** | 2026-03-04 |  |
+| **[FMint-SDE: A Multimodal Foundation Model for Accelerating Numerical Simulation of SDEs via Error Correction](https://arxiv.org/abs/2510.27173v2)** | 2026-03-05 |  |
+| **[MatRIS: Toward Reliable and Efficient Pretrained Machine Learning Interatomic Potentials](https://arxiv.org/abs/2603.02002v2)** | 2026-03-05 | <details><summary>28 pa...</summary><p>28 pages, 9 figures, 12 tables</p></details> |
+| **[Empirical Stability Analysis of Kolmogorov-Arnold Networks in Hard-Constrained Recurrent Physics-Informed Discovery](https://arxiv.org/abs/2602.09988v2)** | 2026-03-05 | <details><summary>5 pag...</summary><p>5 pages, 1 figure, 1 table, accepted as Poster at AI&PDE ICLR 2026 Workshop</p></details> |
+| **[On the Polynomial Kernelizations of Finding a Shortest Path with Positive Disjunctive Constraints](https://arxiv.org/abs/2309.04346v2)** | 2026-03-05 | <details><summary>Accep...</summary><p>Accepted to Information and Computation, 18 pages</p></details> |
 
 ## Molecular Generation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[NeuCLIP: Efficient Large-Scale CLIP Training with Neural Normalizer Optimization](https://arxiv.org/abs/2511.08417v2)** | 2026-03-04 | <details><summary>Accep...</summary><p>Accepted to 40th International Conference on Learning Representations. 32 pages, 5 figures</p></details> |
-| **[Benchmarking ECG FMs: A Reality Check Across Clinical Tasks](https://arxiv.org/abs/2509.25095v2)** | 2026-03-04 | <details><summary>Accep...</summary><p>Accepted at ICLR 2026. OpenReview: https://openreview.net/forum?id=xXRqWpt3Xr</p></details> |
-| **[What Does Flow Matching Bring To TD Learning?](https://arxiv.org/abs/2603.04333v1)** | 2026-03-04 |  |
-| **[Gaussian Mixture-Based Inverse Perception Contract for Uncertainty-Aware Robot Navigation](https://arxiv.org/abs/2603.04329v1)** | 2026-03-04 | <details><summary>8 pag...</summary><p>8 pages, 5 figures. Accepted to ACC 2026 (American Control Conference)</p></details> |
-| **[SPRINT: Semi-supervised Prototypical Representation for Few-Shot Class-Incremental Tabular Learning](https://arxiv.org/abs/2603.04321v1)** | 2026-03-04 | Under Review |
-| **[SycoEval-EM: Sycophancy Evaluation of Large Language Models in Simulated Clinical Encounters for Emergency Care](https://arxiv.org/abs/2601.16529v2)** | 2026-03-04 | 11 pages, 5 figures |
-| **[NRR-Phi: Text-to-State Mapping for Ambiguity Preservation in LLM Inference](https://arxiv.org/abs/2601.19933v4)** | 2026-03-04 | <details><summary>25 pa...</summary><p>25 pages, 5 figures, 7 tables. Replacement synced to repository snapshot v38. Added a direct series-hub link in the abstract for cross-paper navigation: https://github.com/kei-saito-research/nrr-series-hub . Series numbering policy: paper3 is intentionally skipped and never reused</p></details> |
-| **[Markov-Based Modelling for Reservoir Management: Assessing Reliability and Resilience](https://arxiv.org/abs/2603.04278v1)** | 2026-03-04 | 36 pages, 5 figures |
-| **[A Unified Framework for Joint Detection of Lacunes and Enlarged Perivascular Spaces](https://arxiv.org/abs/2603.04243v1)** | 2026-03-04 |  |
-| **[Beyond Edge Deletion: A Comprehensive Approach to Counterfactual Explanation in Graph Neural Networks](https://arxiv.org/abs/2603.04209v1)** | 2026-03-04 |  |
+| **[Empirical Stability Analysis of Kolmogorov-Arnold Networks in Hard-Constrained Recurrent Physics-Informed Discovery](https://arxiv.org/abs/2602.09988v2)** | 2026-03-05 | <details><summary>5 pag...</summary><p>5 pages, 1 figure, 1 table, accepted as Poster at AI&PDE ICLR 2026 Workshop</p></details> |
+| **[On the Polynomial Kernelizations of Finding a Shortest Path with Positive Disjunctive Constraints](https://arxiv.org/abs/2309.04346v2)** | 2026-03-05 | <details><summary>Accep...</summary><p>Accepted to Information and Computation, 18 pages</p></details> |
+| **[BabyHuBERT: Multilingual Self-Supervised Learning for Segmenting Speakers in Child-Centered Long-Form Recordings](https://arxiv.org/abs/2509.15001v2)** | 2026-03-05 | 5 pages, 1 figure |
+| **[Computational Complexity of Alignments](https://arxiv.org/abs/2603.05331v1)** | 2026-03-05 | <details><summary>46 pa...</summary><p>46 pages, 5 figures, submitted to Fundamenta Informaticae</p></details> |
+| **[Med-V1: Small Language Models for Zero-shot and Scalable Biomedical Evidence Attribution](https://arxiv.org/abs/2603.05308v1)** | 2026-03-05 |  |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[NeuCLIP: Efficient Large-Scale CLIP Training with Neural Normalizer Optimization](https://arxiv.org/abs/2511.08417v2)** | 2026-03-04 | <details><summary>Accep...</summary><p>Accepted to 40th International Conference on Learning Representations. 32 pages, 5 figures</p></details> |
-| **[Benchmarking ECG FMs: A Reality Check Across Clinical Tasks](https://arxiv.org/abs/2509.25095v2)** | 2026-03-04 | <details><summary>Accep...</summary><p>Accepted at ICLR 2026. OpenReview: https://openreview.net/forum?id=xXRqWpt3Xr</p></details> |
-| **[What Does Flow Matching Bring To TD Learning?](https://arxiv.org/abs/2603.04333v1)** | 2026-03-04 |  |
-| **[Gaussian Mixture-Based Inverse Perception Contract for Uncertainty-Aware Robot Navigation](https://arxiv.org/abs/2603.04329v1)** | 2026-03-04 | <details><summary>8 pag...</summary><p>8 pages, 5 figures. Accepted to ACC 2026 (American Control Conference)</p></details> |
-| **[SPRINT: Semi-supervised Prototypical Representation for Few-Shot Class-Incremental Tabular Learning](https://arxiv.org/abs/2603.04321v1)** | 2026-03-04 | Under Review |
-| **[SycoEval-EM: Sycophancy Evaluation of Large Language Models in Simulated Clinical Encounters for Emergency Care](https://arxiv.org/abs/2601.16529v2)** | 2026-03-04 | 11 pages, 5 figures |
-| **[NRR-Phi: Text-to-State Mapping for Ambiguity Preservation in LLM Inference](https://arxiv.org/abs/2601.19933v4)** | 2026-03-04 | <details><summary>25 pa...</summary><p>25 pages, 5 figures, 7 tables. Replacement synced to repository snapshot v38. Added a direct series-hub link in the abstract for cross-paper navigation: https://github.com/kei-saito-research/nrr-series-hub . Series numbering policy: paper3 is intentionally skipped and never reused</p></details> |
-| **[Markov-Based Modelling for Reservoir Management: Assessing Reliability and Resilience](https://arxiv.org/abs/2603.04278v1)** | 2026-03-04 | 36 pages, 5 figures |
-| **[A Unified Framework for Joint Detection of Lacunes and Enlarged Perivascular Spaces](https://arxiv.org/abs/2603.04243v1)** | 2026-03-04 |  |
-| **[Beyond Edge Deletion: A Comprehensive Approach to Counterfactual Explanation in Graph Neural Networks](https://arxiv.org/abs/2603.04209v1)** | 2026-03-04 |  |
+| **[Empirical Stability Analysis of Kolmogorov-Arnold Networks in Hard-Constrained Recurrent Physics-Informed Discovery](https://arxiv.org/abs/2602.09988v2)** | 2026-03-05 | <details><summary>5 pag...</summary><p>5 pages, 1 figure, 1 table, accepted as Poster at AI&PDE ICLR 2026 Workshop</p></details> |
+| **[On the Polynomial Kernelizations of Finding a Shortest Path with Positive Disjunctive Constraints](https://arxiv.org/abs/2309.04346v2)** | 2026-03-05 | <details><summary>Accep...</summary><p>Accepted to Information and Computation, 18 pages</p></details> |
+| **[BabyHuBERT: Multilingual Self-Supervised Learning for Segmenting Speakers in Child-Centered Long-Form Recordings](https://arxiv.org/abs/2509.15001v2)** | 2026-03-05 | 5 pages, 1 figure |
+| **[Preserving Continuous Symmetry in Discrete Spaces: Geometric-Aware Quantization for SO(3)-Equivariant GNNs](https://arxiv.org/abs/2603.05343v1)** | 2026-03-05 |  |
+| **[Computational Complexity of Alignments](https://arxiv.org/abs/2603.05331v1)** | 2026-03-05 | <details><summary>46 pa...</summary><p>46 pages, 5 figures, submitted to Fundamenta Informaticae</p></details> |
 
 ## Diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Helios: Real Real-Time Long Video Generation Model](https://arxiv.org/abs/2603.04379v1)** | 2026-03-04 | <details><summary>Page:...</summary><p>Page: pku-yuangroup.github.io/Helios-Page</p></details> |
-| **[NeuCLIP: Efficient Large-Scale CLIP Training with Neural Normalizer Optimization](https://arxiv.org/abs/2511.08417v2)** | 2026-03-04 | <details><summary>Accep...</summary><p>Accepted to 40th International Conference on Learning Representations. 32 pages, 5 figures</p></details> |
-| **[Low-Resource Guidance for Controllable Latent Audio Diffusion](https://arxiv.org/abs/2603.04366v1)** | 2026-03-04 | <details><summary>Accep...</summary><p>Accepted at ICASSP 2026</p></details> |
-| **[Benchmarking ECG FMs: A Reality Check Across Clinical Tasks](https://arxiv.org/abs/2509.25095v2)** | 2026-03-04 | <details><summary>Accep...</summary><p>Accepted at ICLR 2026. OpenReview: https://openreview.net/forum?id=xXRqWpt3Xr</p></details> |
-| **[Do We Need All the Synthetic Data? Targeted Image Augmentation via Diffusion Models](https://arxiv.org/abs/2505.21574v3)** | 2026-03-04 |  |
-| **[Enhancing Authorship Attribution with Synthetic Paintings](https://arxiv.org/abs/2603.04343v1)** | 2026-03-04 | <details><summary>Accep...</summary><p>Accepted for publication at the 24th IEEE International Conference on Machine Learning and Applications (ICMLA 2025)</p></details> |
-| **[Balancing Fidelity, Utility, and Privacy in Synthetic Cardiac MRI Generation: A Comparative Study](https://arxiv.org/abs/2603.04340v1)** | 2026-03-04 | <details><summary>7 pag...</summary><p>7 pages, 4 figures, Preprint</p></details> |
-| **[ArtHOI: Articulated Human-Object Interaction Synthesis by 4D Reconstruction from Video Priors](https://arxiv.org/abs/2603.04338v1)** | 2026-03-04 | <details><summary>Proje...</summary><p>Project Page: https://arthoi.github.io/</p></details> |
-| **[What Does Flow Matching Bring To TD Learning?](https://arxiv.org/abs/2603.04333v1)** | 2026-03-04 |  |
-| **[Gaussian Mixture-Based Inverse Perception Contract for Uncertainty-Aware Robot Navigation](https://arxiv.org/abs/2603.04329v1)** | 2026-03-04 | <details><summary>8 pag...</summary><p>8 pages, 5 figures. Accepted to ACC 2026 (American Control Conference)</p></details> |
-| **[SPRINT: Semi-supervised Prototypical Representation for Few-Shot Class-Incremental Tabular Learning](https://arxiv.org/abs/2603.04321v1)** | 2026-03-04 | Under Review |
-| **[SycoEval-EM: Sycophancy Evaluation of Large Language Models in Simulated Clinical Encounters for Emergency Care](https://arxiv.org/abs/2601.16529v2)** | 2026-03-04 | 11 pages, 5 figures |
-| **[Dual Diffusion Models for Multi-modal Guided 3D Avatar Generation](https://arxiv.org/abs/2603.04307v1)** | 2026-03-04 | 18 pages, 10 figures |
-| **[NRR-Phi: Text-to-State Mapping for Ambiguity Preservation in LLM Inference](https://arxiv.org/abs/2601.19933v4)** | 2026-03-04 | <details><summary>25 pa...</summary><p>25 pages, 5 figures, 7 tables. Replacement synced to repository snapshot v38. Added a direct series-hub link in the abstract for cross-paper navigation: https://github.com/kei-saito-research/nrr-series-hub . Series numbering policy: paper3 is intentionally skipped and never reused</p></details> |
+| **[Accelerating Text-to-Video Generation with Calibrated Sparse Attention](https://arxiv.org/abs/2603.05503v1)** | 2026-03-05 |  |
+| **[Observing and Controlling Features in Vision-Language-Action Models](https://arxiv.org/abs/2603.05487v1)** | 2026-03-05 |  |
+| **[Beyond Scattered Acceptance: Fast and Coherent Inference for DLMs via Longest Stable Prefixes](https://arxiv.org/abs/2603.05454v1)** | 2026-03-05 | <details><summary>Accep...</summary><p>Accepted at ICLR 2026</p></details> |
+| **[RealWonder: Real-Time Physical Action-Conditioned Video Generation](https://arxiv.org/abs/2603.05449v1)** | 2026-03-05 | <details><summary>The f...</summary><p>The first two authors contributed equally. The last two authors advised equally. Project website: https://liuwei283.github.io/RealWonder/</p></details> |
+| **[OSPO: Object-Centric Self-Improving Preference Optimization for Text-to-Image Generation](https://arxiv.org/abs/2506.02015v3)** | 2026-03-05 | 11 pages, 6 figures |
+| **[Differentially Private and Scalable Estimation of the Network Principal Component](https://arxiv.org/abs/2505.03858v2)** | 2026-03-05 |  |
+| **[On the Necessity of Learnable Sheaf Laplacians](https://arxiv.org/abs/2603.05395v1)** | 2026-03-05 |  |
 
 ## Object Counting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[NeuCLIP: Efficient Large-Scale CLIP Training with Neural Normalizer Optimization](https://arxiv.org/abs/2511.08417v2)** | 2026-03-04 | <details><summary>Accep...</summary><p>Accepted to 40th International Conference on Learning Representations. 32 pages, 5 figures</p></details> |
-| **[Benchmarking ECG FMs: A Reality Check Across Clinical Tasks](https://arxiv.org/abs/2509.25095v2)** | 2026-03-04 | <details><summary>Accep...</summary><p>Accepted at ICLR 2026. OpenReview: https://openreview.net/forum?id=xXRqWpt3Xr</p></details> |
-| **[What Does Flow Matching Bring To TD Learning?](https://arxiv.org/abs/2603.04333v1)** | 2026-03-04 |  |
-| **[Gaussian Mixture-Based Inverse Perception Contract for Uncertainty-Aware Robot Navigation](https://arxiv.org/abs/2603.04329v1)** | 2026-03-04 | <details><summary>8 pag...</summary><p>8 pages, 5 figures. Accepted to ACC 2026 (American Control Conference)</p></details> |
-| **[SPRINT: Semi-supervised Prototypical Representation for Few-Shot Class-Incremental Tabular Learning](https://arxiv.org/abs/2603.04321v1)** | 2026-03-04 | Under Review |
-| **[SycoEval-EM: Sycophancy Evaluation of Large Language Models in Simulated Clinical Encounters for Emergency Care](https://arxiv.org/abs/2601.16529v2)** | 2026-03-04 | 11 pages, 5 figures |
-| **[NRR-Phi: Text-to-State Mapping for Ambiguity Preservation in LLM Inference](https://arxiv.org/abs/2601.19933v4)** | 2026-03-04 | <details><summary>25 pa...</summary><p>25 pages, 5 figures, 7 tables. Replacement synced to repository snapshot v38. Added a direct series-hub link in the abstract for cross-paper navigation: https://github.com/kei-saito-research/nrr-series-hub . Series numbering policy: paper3 is intentionally skipped and never reused</p></details> |
-| **[Markov-Based Modelling for Reservoir Management: Assessing Reliability and Resilience](https://arxiv.org/abs/2603.04278v1)** | 2026-03-04 | 36 pages, 5 figures |
-| **[A Unified Framework for Joint Detection of Lacunes and Enlarged Perivascular Spaces](https://arxiv.org/abs/2603.04243v1)** | 2026-03-04 |  |
-| **[Beyond Edge Deletion: A Comprehensive Approach to Counterfactual Explanation in Graph Neural Networks](https://arxiv.org/abs/2603.04209v1)** | 2026-03-04 |  |
+| **[Empirical Stability Analysis of Kolmogorov-Arnold Networks in Hard-Constrained Recurrent Physics-Informed Discovery](https://arxiv.org/abs/2602.09988v2)** | 2026-03-05 | <details><summary>5 pag...</summary><p>5 pages, 1 figure, 1 table, accepted as Poster at AI&PDE ICLR 2026 Workshop</p></details> |
+| **[On the Polynomial Kernelizations of Finding a Shortest Path with Positive Disjunctive Constraints](https://arxiv.org/abs/2309.04346v2)** | 2026-03-05 | <details><summary>Accep...</summary><p>Accepted to Information and Computation, 18 pages</p></details> |
+| **[BabyHuBERT: Multilingual Self-Supervised Learning for Segmenting Speakers in Child-Centered Long-Form Recordings](https://arxiv.org/abs/2509.15001v2)** | 2026-03-05 | 5 pages, 1 figure |
+| **[Computational Complexity of Alignments](https://arxiv.org/abs/2603.05331v1)** | 2026-03-05 | <details><summary>46 pa...</summary><p>46 pages, 5 figures, submitted to Fundamenta Informaticae</p></details> |
+| **[Med-V1: Small Language Models for Zero-shot and Scalable Biomedical Evidence Attribution](https://arxiv.org/abs/2603.05308v1)** | 2026-03-05 |  |
 
 ## Image Caption
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[NeuCLIP: Efficient Large-Scale CLIP Training with Neural Normalizer Optimization](https://arxiv.org/abs/2511.08417v2)** | 2026-03-04 | <details><summary>Accep...</summary><p>Accepted to 40th International Conference on Learning Representations. 32 pages, 5 figures</p></details> |
-| **[Benchmarking ECG FMs: A Reality Check Across Clinical Tasks](https://arxiv.org/abs/2509.25095v2)** | 2026-03-04 | <details><summary>Accep...</summary><p>Accepted at ICLR 2026. OpenReview: https://openreview.net/forum?id=xXRqWpt3Xr</p></details> |
-| **[What Does Flow Matching Bring To TD Learning?](https://arxiv.org/abs/2603.04333v1)** | 2026-03-04 |  |
-| **[Gaussian Mixture-Based Inverse Perception Contract for Uncertainty-Aware Robot Navigation](https://arxiv.org/abs/2603.04329v1)** | 2026-03-04 | <details><summary>8 pag...</summary><p>8 pages, 5 figures. Accepted to ACC 2026 (American Control Conference)</p></details> |
-| **[SPRINT: Semi-supervised Prototypical Representation for Few-Shot Class-Incremental Tabular Learning](https://arxiv.org/abs/2603.04321v1)** | 2026-03-04 | Under Review |
-| **[SycoEval-EM: Sycophancy Evaluation of Large Language Models in Simulated Clinical Encounters for Emergency Care](https://arxiv.org/abs/2601.16529v2)** | 2026-03-04 | 11 pages, 5 figures |
-| **[NRR-Phi: Text-to-State Mapping for Ambiguity Preservation in LLM Inference](https://arxiv.org/abs/2601.19933v4)** | 2026-03-04 | <details><summary>25 pa...</summary><p>25 pages, 5 figures, 7 tables. Replacement synced to repository snapshot v38. Added a direct series-hub link in the abstract for cross-paper navigation: https://github.com/kei-saito-research/nrr-series-hub . Series numbering policy: paper3 is intentionally skipped and never reused</p></details> |
-| **[Markov-Based Modelling for Reservoir Management: Assessing Reliability and Resilience](https://arxiv.org/abs/2603.04278v1)** | 2026-03-04 | 36 pages, 5 figures |
-| **[A Unified Framework for Joint Detection of Lacunes and Enlarged Perivascular Spaces](https://arxiv.org/abs/2603.04243v1)** | 2026-03-04 |  |
-| **[Beyond Edge Deletion: A Comprehensive Approach to Counterfactual Explanation in Graph Neural Networks](https://arxiv.org/abs/2603.04209v1)** | 2026-03-04 |  |
+| **[Empirical Stability Analysis of Kolmogorov-Arnold Networks in Hard-Constrained Recurrent Physics-Informed Discovery](https://arxiv.org/abs/2602.09988v2)** | 2026-03-05 | <details><summary>5 pag...</summary><p>5 pages, 1 figure, 1 table, accepted as Poster at AI&PDE ICLR 2026 Workshop</p></details> |
+| **[On the Polynomial Kernelizations of Finding a Shortest Path with Positive Disjunctive Constraints](https://arxiv.org/abs/2309.04346v2)** | 2026-03-05 | <details><summary>Accep...</summary><p>Accepted to Information and Computation, 18 pages</p></details> |
+| **[BabyHuBERT: Multilingual Self-Supervised Learning for Segmenting Speakers in Child-Centered Long-Form Recordings](https://arxiv.org/abs/2509.15001v2)** | 2026-03-05 | 5 pages, 1 figure |
+| **[Computational Complexity of Alignments](https://arxiv.org/abs/2603.05331v1)** | 2026-03-05 | <details><summary>46 pa...</summary><p>46 pages, 5 figures, submitted to Fundamenta Informaticae</p></details> |
+| **[Med-V1: Small Language Models for Zero-shot and Scalable Biomedical Evidence Attribution](https://arxiv.org/abs/2603.05308v1)** | 2026-03-05 |  |
 
 ## Describe
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[NeuCLIP: Efficient Large-Scale CLIP Training with Neural Normalizer Optimization](https://arxiv.org/abs/2511.08417v2)** | 2026-03-04 | <details><summary>Accep...</summary><p>Accepted to 40th International Conference on Learning Representations. 32 pages, 5 figures</p></details> |
-| **[Cognition Envelopes for Bounded Decision Making in Autonomous UAS Operations](https://arxiv.org/abs/2510.26905v3)** | 2026-03-04 | 12 pages, 9 figures |
-| **[Benchmarking ECG FMs: A Reality Check Across Clinical Tasks](https://arxiv.org/abs/2509.25095v2)** | 2026-03-04 | <details><summary>Accep...</summary><p>Accepted at ICLR 2026. OpenReview: https://openreview.net/forum?id=xXRqWpt3Xr</p></details> |
-| **[What Does Flow Matching Bring To TD Learning?](https://arxiv.org/abs/2603.04333v1)** | 2026-03-04 |  |
-| **[Gaussian Mixture-Based Inverse Perception Contract for Uncertainty-Aware Robot Navigation](https://arxiv.org/abs/2603.04329v1)** | 2026-03-04 | <details><summary>8 pag...</summary><p>8 pages, 5 figures. Accepted to ACC 2026 (American Control Conference)</p></details> |
-| **[SPRINT: Semi-supervised Prototypical Representation for Few-Shot Class-Incremental Tabular Learning](https://arxiv.org/abs/2603.04321v1)** | 2026-03-04 | Under Review |
-| **[SycoEval-EM: Sycophancy Evaluation of Large Language Models in Simulated Clinical Encounters for Emergency Care](https://arxiv.org/abs/2601.16529v2)** | 2026-03-04 | 11 pages, 5 figures |
-| **[NRR-Phi: Text-to-State Mapping for Ambiguity Preservation in LLM Inference](https://arxiv.org/abs/2601.19933v4)** | 2026-03-04 | <details><summary>25 pa...</summary><p>25 pages, 5 figures, 7 tables. Replacement synced to repository snapshot v38. Added a direct series-hub link in the abstract for cross-paper navigation: https://github.com/kei-saito-research/nrr-series-hub . Series numbering policy: paper3 is intentionally skipped and never reused</p></details> |
-| **[Planner Aware Path Learning in Diffusion Language Models Training](https://arxiv.org/abs/2509.23405v2)** | 2026-03-04 | <details><summary>Camer...</summary><p>Camera ready version for ICLR2026</p></details> |
+| **[HALP: Detecting Hallucinations in Vision-Language Models without Generating a Single Token](https://arxiv.org/abs/2603.05465v1)** | 2026-03-05 |  |
+| **[SAIL: Similarity-Aware Guidance and Inter-Caption Augmentation-based Learning for Weakly-Supervised Dense Video Captioning](https://arxiv.org/abs/2603.05437v1)** | 2026-03-05 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026</p></details> |
+| **[An interpretable prototype parts-based neural network for medical tabular data](https://arxiv.org/abs/2603.05423v1)** | 2026-03-05 | <details><summary>Proc....</summary><p>Proc. of EXPLIMED at ECAI 2025</p></details> |
+| **[Kiwi-Edit: Versatile Video Editing via Instruction and Reference Guidance](https://arxiv.org/abs/2603.02175v2)** | 2026-03-05 | <details><summary>Proje...</summary><p>Project page: https://showlab.github.io/Kiwi-Edit/; Huggingface Demo: https://huggingface.co/spaces/linyq/KiwiEdit</p></details> |
+| **[ROScopter: A Multirotor Autopilot based on ROSflight 2.0](https://arxiv.org/abs/2603.05404v1)** | 2026-03-05 |  |
 
 ## Light Weight
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[NeuCLIP: Efficient Large-Scale CLIP Training with Neural Normalizer Optimization](https://arxiv.org/abs/2511.08417v2)** | 2026-03-04 | <details><summary>Accep...</summary><p>Accepted to 40th International Conference on Learning Representations. 32 pages, 5 figures</p></details> |
-| **[Benchmarking ECG FMs: A Reality Check Across Clinical Tasks](https://arxiv.org/abs/2509.25095v2)** | 2026-03-04 | <details><summary>Accep...</summary><p>Accepted at ICLR 2026. OpenReview: https://openreview.net/forum?id=xXRqWpt3Xr</p></details> |
-| **[What Does Flow Matching Bring To TD Learning?](https://arxiv.org/abs/2603.04333v1)** | 2026-03-04 |  |
-| **[Gaussian Mixture-Based Inverse Perception Contract for Uncertainty-Aware Robot Navigation](https://arxiv.org/abs/2603.04329v1)** | 2026-03-04 | <details><summary>8 pag...</summary><p>8 pages, 5 figures. Accepted to ACC 2026 (American Control Conference)</p></details> |
-| **[SPRINT: Semi-supervised Prototypical Representation for Few-Shot Class-Incremental Tabular Learning](https://arxiv.org/abs/2603.04321v1)** | 2026-03-04 | Under Review |
-| **[SycoEval-EM: Sycophancy Evaluation of Large Language Models in Simulated Clinical Encounters for Emergency Care](https://arxiv.org/abs/2601.16529v2)** | 2026-03-04 | 11 pages, 5 figures |
-| **[NRR-Phi: Text-to-State Mapping for Ambiguity Preservation in LLM Inference](https://arxiv.org/abs/2601.19933v4)** | 2026-03-04 | <details><summary>25 pa...</summary><p>25 pages, 5 figures, 7 tables. Replacement synced to repository snapshot v38. Added a direct series-hub link in the abstract for cross-paper navigation: https://github.com/kei-saito-research/nrr-series-hub . Series numbering policy: paper3 is intentionally skipped and never reused</p></details> |
-| **[Markov-Based Modelling for Reservoir Management: Assessing Reliability and Resilience](https://arxiv.org/abs/2603.04278v1)** | 2026-03-04 | 36 pages, 5 figures |
-| **[A Unified Framework for Joint Detection of Lacunes and Enlarged Perivascular Spaces](https://arxiv.org/abs/2603.04243v1)** | 2026-03-04 |  |
-| **[Beyond Edge Deletion: A Comprehensive Approach to Counterfactual Explanation in Graph Neural Networks](https://arxiv.org/abs/2603.04209v1)** | 2026-03-04 |  |
+| **[Empirical Stability Analysis of Kolmogorov-Arnold Networks in Hard-Constrained Recurrent Physics-Informed Discovery](https://arxiv.org/abs/2602.09988v2)** | 2026-03-05 | <details><summary>5 pag...</summary><p>5 pages, 1 figure, 1 table, accepted as Poster at AI&PDE ICLR 2026 Workshop</p></details> |
+| **[On the Polynomial Kernelizations of Finding a Shortest Path with Positive Disjunctive Constraints](https://arxiv.org/abs/2309.04346v2)** | 2026-03-05 | <details><summary>Accep...</summary><p>Accepted to Information and Computation, 18 pages</p></details> |
+| **[BabyHuBERT: Multilingual Self-Supervised Learning for Segmenting Speakers in Child-Centered Long-Form Recordings](https://arxiv.org/abs/2509.15001v2)** | 2026-03-05 | 5 pages, 1 figure |
+| **[Computational Complexity of Alignments](https://arxiv.org/abs/2603.05331v1)** | 2026-03-05 | <details><summary>46 pa...</summary><p>46 pages, 5 figures, submitted to Fundamenta Informaticae</p></details> |
+| **[Med-V1: Small Language Models for Zero-shot and Scalable Biomedical Evidence Attribution](https://arxiv.org/abs/2603.05308v1)** | 2026-03-05 |  |
 
 ## Class Incremental
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[NeuCLIP: Efficient Large-Scale CLIP Training with Neural Normalizer Optimization](https://arxiv.org/abs/2511.08417v2)** | 2026-03-04 | <details><summary>Accep...</summary><p>Accepted to 40th International Conference on Learning Representations. 32 pages, 5 figures</p></details> |
-| **[Benchmarking ECG FMs: A Reality Check Across Clinical Tasks](https://arxiv.org/abs/2509.25095v2)** | 2026-03-04 | <details><summary>Accep...</summary><p>Accepted at ICLR 2026. OpenReview: https://openreview.net/forum?id=xXRqWpt3Xr</p></details> |
-| **[What Does Flow Matching Bring To TD Learning?](https://arxiv.org/abs/2603.04333v1)** | 2026-03-04 |  |
-| **[Gaussian Mixture-Based Inverse Perception Contract for Uncertainty-Aware Robot Navigation](https://arxiv.org/abs/2603.04329v1)** | 2026-03-04 | <details><summary>8 pag...</summary><p>8 pages, 5 figures. Accepted to ACC 2026 (American Control Conference)</p></details> |
-| **[SPRINT: Semi-supervised Prototypical Representation for Few-Shot Class-Incremental Tabular Learning](https://arxiv.org/abs/2603.04321v1)** | 2026-03-04 | Under Review |
-| **[SycoEval-EM: Sycophancy Evaluation of Large Language Models in Simulated Clinical Encounters for Emergency Care](https://arxiv.org/abs/2601.16529v2)** | 2026-03-04 | 11 pages, 5 figures |
-| **[NRR-Phi: Text-to-State Mapping for Ambiguity Preservation in LLM Inference](https://arxiv.org/abs/2601.19933v4)** | 2026-03-04 | <details><summary>25 pa...</summary><p>25 pages, 5 figures, 7 tables. Replacement synced to repository snapshot v38. Added a direct series-hub link in the abstract for cross-paper navigation: https://github.com/kei-saito-research/nrr-series-hub . Series numbering policy: paper3 is intentionally skipped and never reused</p></details> |
-| **[Markov-Based Modelling for Reservoir Management: Assessing Reliability and Resilience](https://arxiv.org/abs/2603.04278v1)** | 2026-03-04 | 36 pages, 5 figures |
-| **[A Unified Framework for Joint Detection of Lacunes and Enlarged Perivascular Spaces](https://arxiv.org/abs/2603.04243v1)** | 2026-03-04 |  |
-| **[Beyond Edge Deletion: A Comprehensive Approach to Counterfactual Explanation in Graph Neural Networks](https://arxiv.org/abs/2603.04209v1)** | 2026-03-04 |  |
+| **[Empirical Stability Analysis of Kolmogorov-Arnold Networks in Hard-Constrained Recurrent Physics-Informed Discovery](https://arxiv.org/abs/2602.09988v2)** | 2026-03-05 | <details><summary>5 pag...</summary><p>5 pages, 1 figure, 1 table, accepted as Poster at AI&PDE ICLR 2026 Workshop</p></details> |
+| **[On the Polynomial Kernelizations of Finding a Shortest Path with Positive Disjunctive Constraints](https://arxiv.org/abs/2309.04346v2)** | 2026-03-05 | <details><summary>Accep...</summary><p>Accepted to Information and Computation, 18 pages</p></details> |
+| **[BabyHuBERT: Multilingual Self-Supervised Learning for Segmenting Speakers in Child-Centered Long-Form Recordings](https://arxiv.org/abs/2509.15001v2)** | 2026-03-05 | 5 pages, 1 figure |
+| **[Computational Complexity of Alignments](https://arxiv.org/abs/2603.05331v1)** | 2026-03-05 | <details><summary>46 pa...</summary><p>46 pages, 5 figures, submitted to Fundamenta Informaticae</p></details> |
+| **[Med-V1: Small Language Models for Zero-shot and Scalable Biomedical Evidence Attribution](https://arxiv.org/abs/2603.05308v1)** | 2026-03-05 |  |
 
