@@ -1,5 +1,5 @@
 ---
-title: Latest 50 Papers - March 13, 2026
+title: Latest 50 Papers - March 14, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/JiamingZang/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,127 +7,97 @@ labels: documentation
 ## Molecular
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[V2M-Zero: Zero-Pair Time-Aligned Video-to-Music Generation](https://arxiv.org/abs/2603.11042v1)** | 2026-03-11 | <details><summary>Proje...</summary><p>Project page: https://genjib.github.io/v2m_zero/</p></details> |
-| **[New properties of the $\varphi$-representation of integers](https://arxiv.org/abs/2509.16150v2)** | 2026-03-11 |  |
-| **[Time-to-Event Modeling with Pseudo-Observations in Federated Settings](https://arxiv.org/abs/2507.20558v3)** | 2026-03-11 | 30 pages, 5 figures |
-| **[Task-Aware Delegation Cues for LLM Agents](https://arxiv.org/abs/2603.11011v1)** | 2026-03-11 | <details><summary>Accep...</summary><p>Accepeted by CHI'26 Workshop on Developing Standards and Documentation For LLM Use as Simulated Research Participants</p></details> |
-| **[Learning What Reinforcement Learning Can't: Interleaved Online Fine-Tuning for Hardest Questions](https://arxiv.org/abs/2506.07527v3)** | 2026-03-11 | 12 pages, 5 figures |
-| **[Compiler.next: A Search-Based Compiler to Power the AI-Native Future of Software Engineering](https://arxiv.org/abs/2510.24799v2)** | 2026-03-11 | <details><summary>31 pa...</summary><p>31 pages, 5 figures, submitted to ACM Transactions on Software Engineering and Methodology</p></details> |
-| **[FRIEND: Federated Learning for Joint Optimization of multi-RIS Configuration and Eavesdropper Intelligent Detection in B5G Networks](https://arxiv.org/abs/2603.10977v1)** | 2026-03-11 | <details><summary>8 pag...</summary><p>8 pages with 5 figures and 2 tables. Accepted in 29th Conference on Innovation in Clouds, Internet and Networks (ICIN 2026)</p></details> |
-| **[ZACH-ViT: Regime-Dependent Inductive Bias in Compact Vision Transformers for Medical Imaging](https://arxiv.org/abs/2602.17929v2)** | 2026-03-11 | <details><summary>24 pa...</summary><p>24 pages, 15 figures, 5 tables. Code and models available at https://github.com/Bluesman79/ZACH-ViT</p></details> |
-| **[Reference Architecture of a Quantum-Centric Supercomputer](https://arxiv.org/abs/2603.10970v1)** | 2026-03-11 | 19 pages, 5 figures |
+| **[Attend Before Attention: Efficient and Scalable Video Understanding via Autoregressive Gazing](https://arxiv.org/abs/2603.12254v1)** | 2026-03-12 | <details><summary>CVPR ...</summary><p>CVPR 2026. Project page: https://autogaze.github.io/</p></details> |
+| **[A Two-Stage Dual-Modality Model for Facial Emotional Expression Recognition](https://arxiv.org/abs/2603.12221v1)** | 2026-03-12 | 10 pages, 4 figures |
+| **[Bounding the Fragmentation of B-Trees Subject to Batched Insertions](https://arxiv.org/abs/2603.12211v1)** | 2026-03-12 | <details><summary>To ap...</summary><p>To appear at PODS 2026, 30 pages, 5 figures</p></details> |
+| **[IndexCache: Accelerating Sparse Attention via Cross-Layer Index Reuse](https://arxiv.org/abs/2603.12201v1)** | 2026-03-12 |  |
+| **[Reference Architecture of a Quantum-Centric Supercomputer](https://arxiv.org/abs/2603.10970v2)** | 2026-03-12 | <details><summary>20 pa...</summary><p>20 pages, 5 figures, minor fixes</p></details> |
+| **[QAQ: Bidirectional Semantic Coherence for Selecting High-Quality Synthetic Code Instructions](https://arxiv.org/abs/2603.12165v1)** | 2026-03-12 | <details><summary>12 pa...</summary><p>12 pages, 5 figures. Under review at ACL 2026</p></details> |
 
 ## Molecular Generation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[V2M-Zero: Zero-Pair Time-Aligned Video-to-Music Generation](https://arxiv.org/abs/2603.11042v1)** | 2026-03-11 | <details><summary>Proje...</summary><p>Project page: https://genjib.github.io/v2m_zero/</p></details> |
-| **[New properties of the $\varphi$-representation of integers](https://arxiv.org/abs/2509.16150v2)** | 2026-03-11 |  |
-| **[Time-to-Event Modeling with Pseudo-Observations in Federated Settings](https://arxiv.org/abs/2507.20558v3)** | 2026-03-11 | 30 pages, 5 figures |
-| **[Task-Aware Delegation Cues for LLM Agents](https://arxiv.org/abs/2603.11011v1)** | 2026-03-11 | <details><summary>Accep...</summary><p>Accepeted by CHI'26 Workshop on Developing Standards and Documentation For LLM Use as Simulated Research Participants</p></details> |
-| **[Learning What Reinforcement Learning Can't: Interleaved Online Fine-Tuning for Hardest Questions](https://arxiv.org/abs/2506.07527v3)** | 2026-03-11 | 12 pages, 5 figures |
-| **[Compiler.next: A Search-Based Compiler to Power the AI-Native Future of Software Engineering](https://arxiv.org/abs/2510.24799v2)** | 2026-03-11 | <details><summary>31 pa...</summary><p>31 pages, 5 figures, submitted to ACM Transactions on Software Engineering and Methodology</p></details> |
-| **[FRIEND: Federated Learning for Joint Optimization of multi-RIS Configuration and Eavesdropper Intelligent Detection in B5G Networks](https://arxiv.org/abs/2603.10977v1)** | 2026-03-11 | <details><summary>8 pag...</summary><p>8 pages with 5 figures and 2 tables. Accepted in 29th Conference on Innovation in Clouds, Internet and Networks (ICIN 2026)</p></details> |
-| **[ZACH-ViT: Regime-Dependent Inductive Bias in Compact Vision Transformers for Medical Imaging](https://arxiv.org/abs/2602.17929v2)** | 2026-03-11 | <details><summary>24 pa...</summary><p>24 pages, 15 figures, 5 tables. Code and models available at https://github.com/Bluesman79/ZACH-ViT</p></details> |
-| **[Reference Architecture of a Quantum-Centric Supercomputer](https://arxiv.org/abs/2603.10970v1)** | 2026-03-11 | 19 pages, 5 figures |
-| **[BLITZRANK: Principled Zero-shot Ranking Agents with Tournament Graphs](https://arxiv.org/abs/2602.05448v3)** | 2026-03-11 |  |
+| **[Attend Before Attention: Efficient and Scalable Video Understanding via Autoregressive Gazing](https://arxiv.org/abs/2603.12254v1)** | 2026-03-12 | <details><summary>CVPR ...</summary><p>CVPR 2026. Project page: https://autogaze.github.io/</p></details> |
+| **[A Two-Stage Dual-Modality Model for Facial Emotional Expression Recognition](https://arxiv.org/abs/2603.12221v1)** | 2026-03-12 | 10 pages, 4 figures |
+| **[Bounding the Fragmentation of B-Trees Subject to Batched Insertions](https://arxiv.org/abs/2603.12211v1)** | 2026-03-12 | <details><summary>To ap...</summary><p>To appear at PODS 2026, 30 pages, 5 figures</p></details> |
+| **[IndexCache: Accelerating Sparse Attention via Cross-Layer Index Reuse](https://arxiv.org/abs/2603.12201v1)** | 2026-03-12 |  |
+| **[Reference Architecture of a Quantum-Centric Supercomputer](https://arxiv.org/abs/2603.10970v2)** | 2026-03-12 | <details><summary>20 pa...</summary><p>20 pages, 5 figures, minor fixes</p></details> |
+| **[QAQ: Bidirectional Semantic Coherence for Selecting High-Quality Synthetic Code Instructions](https://arxiv.org/abs/2603.12165v1)** | 2026-03-12 | <details><summary>12 pa...</summary><p>12 pages, 5 figures. Under review at ACL 2026</p></details> |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[V2M-Zero: Zero-Pair Time-Aligned Video-to-Music Generation](https://arxiv.org/abs/2603.11042v1)** | 2026-03-11 | <details><summary>Proje...</summary><p>Project page: https://genjib.github.io/v2m_zero/</p></details> |
-| **[New properties of the $\varphi$-representation of integers](https://arxiv.org/abs/2509.16150v2)** | 2026-03-11 |  |
-| **[Time-to-Event Modeling with Pseudo-Observations in Federated Settings](https://arxiv.org/abs/2507.20558v3)** | 2026-03-11 | 30 pages, 5 figures |
-| **[Task-Aware Delegation Cues for LLM Agents](https://arxiv.org/abs/2603.11011v1)** | 2026-03-11 | <details><summary>Accep...</summary><p>Accepeted by CHI'26 Workshop on Developing Standards and Documentation For LLM Use as Simulated Research Participants</p></details> |
-| **[Federated Learning-driven Beam Management in LEO 6G Non-Terrestrial Networks](https://arxiv.org/abs/2603.10983v1)** | 2026-03-11 | <details><summary>2 pag...</summary><p>2 pages with 2 figures and 1 table. Accepted in 2026 International Applied Computational Electromagnetics Society (ACES) Symposium</p></details> |
-| **[Resource Allocation in Hybrid Radio-Optical IoT Networks using GNN with Multi-task Learning](https://arxiv.org/abs/2511.07428v2)** | 2026-03-11 | <details><summary>Accep...</summary><p>Accepted for publications in IEEE Transactions on Machine Learning in Communications and Networking (TMLCN) 20 pages, 17 figures, 3 tables</p></details> |
-| **[Learning What Reinforcement Learning Can't: Interleaved Online Fine-Tuning for Hardest Questions](https://arxiv.org/abs/2506.07527v3)** | 2026-03-11 | 12 pages, 5 figures |
-| **[Compiler.next: A Search-Based Compiler to Power the AI-Native Future of Software Engineering](https://arxiv.org/abs/2510.24799v2)** | 2026-03-11 | <details><summary>31 pa...</summary><p>31 pages, 5 figures, submitted to ACM Transactions on Software Engineering and Methodology</p></details> |
-| **[FRIEND: Federated Learning for Joint Optimization of multi-RIS Configuration and Eavesdropper Intelligent Detection in B5G Networks](https://arxiv.org/abs/2603.10977v1)** | 2026-03-11 | <details><summary>8 pag...</summary><p>8 pages with 5 figures and 2 tables. Accepted in 29th Conference on Innovation in Clouds, Internet and Networks (ICIN 2026)</p></details> |
-| **[ZACH-ViT: Regime-Dependent Inductive Bias in Compact Vision Transformers for Medical Imaging](https://arxiv.org/abs/2602.17929v2)** | 2026-03-11 | <details><summary>24 pa...</summary><p>24 pages, 15 figures, 5 tables. Code and models available at https://github.com/Bluesman79/ZACH-ViT</p></details> |
-| **[Reference Architecture of a Quantum-Centric Supercomputer](https://arxiv.org/abs/2603.10970v1)** | 2026-03-11 | 19 pages, 5 figures |
+| **[Attend Before Attention: Efficient and Scalable Video Understanding via Autoregressive Gazing](https://arxiv.org/abs/2603.12254v1)** | 2026-03-12 | <details><summary>CVPR ...</summary><p>CVPR 2026. Project page: https://autogaze.github.io/</p></details> |
+| **[A Two-Stage Dual-Modality Model for Facial Emotional Expression Recognition](https://arxiv.org/abs/2603.12221v1)** | 2026-03-12 | 10 pages, 4 figures |
+| **[Bounding the Fragmentation of B-Trees Subject to Batched Insertions](https://arxiv.org/abs/2603.12211v1)** | 2026-03-12 | <details><summary>To ap...</summary><p>To appear at PODS 2026, 30 pages, 5 figures</p></details> |
+| **[IndexCache: Accelerating Sparse Attention via Cross-Layer Index Reuse](https://arxiv.org/abs/2603.12201v1)** | 2026-03-12 |  |
+| **[Reference Architecture of a Quantum-Centric Supercomputer](https://arxiv.org/abs/2603.10970v2)** | 2026-03-12 | <details><summary>20 pa...</summary><p>20 pages, 5 figures, minor fixes</p></details> |
+| **[QAQ: Bidirectional Semantic Coherence for Selecting High-Quality Synthetic Code Instructions](https://arxiv.org/abs/2603.12165v1)** | 2026-03-12 | <details><summary>12 pa...</summary><p>12 pages, 5 figures. Under review at ACL 2026</p></details> |
 
 ## Diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[LiTo: Surface Light Field Tokenization](https://arxiv.org/abs/2603.11047v1)** | 2026-03-11 | <details><summary>ICLR ...</summary><p>ICLR 2026; Project page: https://apple.github.io/ml-lito/</p></details> |
-| **[Neural Field Thermal Tomography: A Differentiable Physics Framework for Non-Destructive Evaluation](https://arxiv.org/abs/2603.11045v1)** | 2026-03-11 | 27 pages, 15 figures |
-| **[V2M-Zero: Zero-Pair Time-Aligned Video-to-Music Generation](https://arxiv.org/abs/2603.11042v1)** | 2026-03-11 | <details><summary>Proje...</summary><p>Project page: https://genjib.github.io/v2m_zero/</p></details> |
-| **[New properties of the $\varphi$-representation of integers](https://arxiv.org/abs/2509.16150v2)** | 2026-03-11 |  |
-| **[Time-to-Event Modeling with Pseudo-Observations in Federated Settings](https://arxiv.org/abs/2507.20558v3)** | 2026-03-11 | 30 pages, 5 figures |
-| **[Moving On, Even When You're Broken: Fail-Active Trajectory Generation via Diffusion Policies Conditioned on Embodiment and Task](https://arxiv.org/abs/2602.02895v2)** | 2026-03-11 | <details><summary>To be...</summary><p>To be published in the 2026 IEEE International Conference on Robotics & Automation</p></details> |
-| **[Pixel Motion Diffusion is What We Need for Robot Control](https://arxiv.org/abs/2509.22652v2)** | 2026-03-11 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026. Project page: https://eronguyen.github.io/DAWN</p></details> |
-| **[Task-Aware Delegation Cues for LLM Agents](https://arxiv.org/abs/2603.11011v1)** | 2026-03-11 | <details><summary>Accep...</summary><p>Accepeted by CHI'26 Workshop on Developing Standards and Documentation For LLM Use as Simulated Research Participants</p></details> |
-| **[The Discrete Charm of the MLP: Binary Routing of Continuous Signals in Transformer Feed-Forward Layers](https://arxiv.org/abs/2603.10985v1)** | 2026-03-11 |  |
-| **[PPGuide: Steering Diffusion Policies with Performance Predictive Guidance](https://arxiv.org/abs/2603.10980v1)** | 2026-03-11 | Accepted by ICRA'26 |
-| **[Learning What Reinforcement Learning Can't: Interleaved Online Fine-Tuning for Hardest Questions](https://arxiv.org/abs/2506.07527v3)** | 2026-03-11 | 12 pages, 5 figures |
-| **[Compiler.next: A Search-Based Compiler to Power the AI-Native Future of Software Engineering](https://arxiv.org/abs/2510.24799v2)** | 2026-03-11 | <details><summary>31 pa...</summary><p>31 pages, 5 figures, submitted to ACM Transactions on Software Engineering and Methodology</p></details> |
+| **[DreamVideo-Omni: Omni-Motion Controlled Multi-Subject Video Customization with Latent Identity Reinforcement Learning](https://arxiv.org/abs/2603.12257v1)** | 2026-03-12 | <details><summary>Proje...</summary><p>Project Page: https://dreamvideo-omni.github.io</p></details> |
+| **[NeuralOS: Towards Simulating Operating Systems via Neural Generative Models](https://arxiv.org/abs/2507.08800v2)** | 2026-03-12 | ICLR 2026 |
+| **[Attend Before Attention: Efficient and Scalable Video Understanding via Autoregressive Gazing](https://arxiv.org/abs/2603.12254v1)** | 2026-03-12 | <details><summary>CVPR ...</summary><p>CVPR 2026. Project page: https://autogaze.github.io/</p></details> |
+| **[EndoCoT: Scaling Endogenous Chain-of-Thought Reasoning in Diffusion Models](https://arxiv.org/abs/2603.12252v1)** | 2026-03-12 | 23 pages, 18 figures |
+| **[DVD: Deterministic Video Depth Estimation with Generative Priors](https://arxiv.org/abs/2603.12250v1)** | 2026-03-12 | <details><summary>Proje...</summary><p>Project: https://dvd-project.github.io/</p></details> |
+| **[One Model, Many Budgets: Elastic Latent Interfaces for Diffusion Transformers](https://arxiv.org/abs/2603.12245v1)** | 2026-03-12 | <details><summary>Proje...</summary><p>Project page: https://snap-research.github.io/elit/</p></details> |
+| **[BiGain: Unified Token Compression for Joint Generation and Classification](https://arxiv.org/abs/2603.12240v1)** | 2026-03-12 | <details><summary>CVPR ...</summary><p>CVPR 2026. Code: https://github.com/Greenoso/BiGain</p></details> |
+| **[HOG-Diff: Higher-Order Guided Diffusion for Graph Generation](https://arxiv.org/abs/2502.04308v3)** | 2026-03-12 | <details><summary>Accep...</summary><p>Accepted at ICLR 2026</p></details> |
+| **[A Two-Stage Dual-Modality Model for Facial Emotional Expression Recognition](https://arxiv.org/abs/2603.12221v1)** | 2026-03-12 | 10 pages, 4 figures |
+| **[Bounding the Fragmentation of B-Trees Subject to Batched Insertions](https://arxiv.org/abs/2603.12211v1)** | 2026-03-12 | <details><summary>To ap...</summary><p>To appear at PODS 2026, 30 pages, 5 figures</p></details> |
+| **[IndexCache: Accelerating Sparse Attention via Cross-Layer Index Reuse](https://arxiv.org/abs/2603.12201v1)** | 2026-03-12 |  |
+| **[Reference Architecture of a Quantum-Centric Supercomputer](https://arxiv.org/abs/2603.10970v2)** | 2026-03-12 | <details><summary>20 pa...</summary><p>20 pages, 5 figures, minor fixes</p></details> |
 
 ## Object Counting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[V2M-Zero: Zero-Pair Time-Aligned Video-to-Music Generation](https://arxiv.org/abs/2603.11042v1)** | 2026-03-11 | <details><summary>Proje...</summary><p>Project page: https://genjib.github.io/v2m_zero/</p></details> |
-| **[New properties of the $\varphi$-representation of integers](https://arxiv.org/abs/2509.16150v2)** | 2026-03-11 |  |
-| **[Time-to-Event Modeling with Pseudo-Observations in Federated Settings](https://arxiv.org/abs/2507.20558v3)** | 2026-03-11 | 30 pages, 5 figures |
-| **[Task-Aware Delegation Cues for LLM Agents](https://arxiv.org/abs/2603.11011v1)** | 2026-03-11 | <details><summary>Accep...</summary><p>Accepeted by CHI'26 Workshop on Developing Standards and Documentation For LLM Use as Simulated Research Participants</p></details> |
-| **[Learning What Reinforcement Learning Can't: Interleaved Online Fine-Tuning for Hardest Questions](https://arxiv.org/abs/2506.07527v3)** | 2026-03-11 | 12 pages, 5 figures |
-| **[Compiler.next: A Search-Based Compiler to Power the AI-Native Future of Software Engineering](https://arxiv.org/abs/2510.24799v2)** | 2026-03-11 | <details><summary>31 pa...</summary><p>31 pages, 5 figures, submitted to ACM Transactions on Software Engineering and Methodology</p></details> |
-| **[FRIEND: Federated Learning for Joint Optimization of multi-RIS Configuration and Eavesdropper Intelligent Detection in B5G Networks](https://arxiv.org/abs/2603.10977v1)** | 2026-03-11 | <details><summary>8 pag...</summary><p>8 pages with 5 figures and 2 tables. Accepted in 29th Conference on Innovation in Clouds, Internet and Networks (ICIN 2026)</p></details> |
-| **[ZACH-ViT: Regime-Dependent Inductive Bias in Compact Vision Transformers for Medical Imaging](https://arxiv.org/abs/2602.17929v2)** | 2026-03-11 | <details><summary>24 pa...</summary><p>24 pages, 15 figures, 5 tables. Code and models available at https://github.com/Bluesman79/ZACH-ViT</p></details> |
-| **[Reference Architecture of a Quantum-Centric Supercomputer](https://arxiv.org/abs/2603.10970v1)** | 2026-03-11 | 19 pages, 5 figures |
-| **[BLITZRANK: Principled Zero-shot Ranking Agents with Tournament Graphs](https://arxiv.org/abs/2602.05448v3)** | 2026-03-11 |  |
+| **[Attend Before Attention: Efficient and Scalable Video Understanding via Autoregressive Gazing](https://arxiv.org/abs/2603.12254v1)** | 2026-03-12 | <details><summary>CVPR ...</summary><p>CVPR 2026. Project page: https://autogaze.github.io/</p></details> |
+| **[A Two-Stage Dual-Modality Model for Facial Emotional Expression Recognition](https://arxiv.org/abs/2603.12221v1)** | 2026-03-12 | 10 pages, 4 figures |
+| **[Bounding the Fragmentation of B-Trees Subject to Batched Insertions](https://arxiv.org/abs/2603.12211v1)** | 2026-03-12 | <details><summary>To ap...</summary><p>To appear at PODS 2026, 30 pages, 5 figures</p></details> |
+| **[IndexCache: Accelerating Sparse Attention via Cross-Layer Index Reuse](https://arxiv.org/abs/2603.12201v1)** | 2026-03-12 |  |
+| **[Reference Architecture of a Quantum-Centric Supercomputer](https://arxiv.org/abs/2603.10970v2)** | 2026-03-12 | <details><summary>20 pa...</summary><p>20 pages, 5 figures, minor fixes</p></details> |
+| **[QAQ: Bidirectional Semantic Coherence for Selecting High-Quality Synthetic Code Instructions](https://arxiv.org/abs/2603.12165v1)** | 2026-03-12 | <details><summary>12 pa...</summary><p>12 pages, 5 figures. Under review at ACL 2026</p></details> |
 
 ## Image Caption
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[V2M-Zero: Zero-Pair Time-Aligned Video-to-Music Generation](https://arxiv.org/abs/2603.11042v1)** | 2026-03-11 | <details><summary>Proje...</summary><p>Project page: https://genjib.github.io/v2m_zero/</p></details> |
-| **[New properties of the $\varphi$-representation of integers](https://arxiv.org/abs/2509.16150v2)** | 2026-03-11 |  |
-| **[Time-to-Event Modeling with Pseudo-Observations in Federated Settings](https://arxiv.org/abs/2507.20558v3)** | 2026-03-11 | 30 pages, 5 figures |
-| **[Task-Aware Delegation Cues for LLM Agents](https://arxiv.org/abs/2603.11011v1)** | 2026-03-11 | <details><summary>Accep...</summary><p>Accepeted by CHI'26 Workshop on Developing Standards and Documentation For LLM Use as Simulated Research Participants</p></details> |
-| **[Learning What Reinforcement Learning Can't: Interleaved Online Fine-Tuning for Hardest Questions](https://arxiv.org/abs/2506.07527v3)** | 2026-03-11 | 12 pages, 5 figures |
-| **[Compiler.next: A Search-Based Compiler to Power the AI-Native Future of Software Engineering](https://arxiv.org/abs/2510.24799v2)** | 2026-03-11 | <details><summary>31 pa...</summary><p>31 pages, 5 figures, submitted to ACM Transactions on Software Engineering and Methodology</p></details> |
-| **[FRIEND: Federated Learning for Joint Optimization of multi-RIS Configuration and Eavesdropper Intelligent Detection in B5G Networks](https://arxiv.org/abs/2603.10977v1)** | 2026-03-11 | <details><summary>8 pag...</summary><p>8 pages with 5 figures and 2 tables. Accepted in 29th Conference on Innovation in Clouds, Internet and Networks (ICIN 2026)</p></details> |
-| **[ZACH-ViT: Regime-Dependent Inductive Bias in Compact Vision Transformers for Medical Imaging](https://arxiv.org/abs/2602.17929v2)** | 2026-03-11 | <details><summary>24 pa...</summary><p>24 pages, 15 figures, 5 tables. Code and models available at https://github.com/Bluesman79/ZACH-ViT</p></details> |
-| **[Reference Architecture of a Quantum-Centric Supercomputer](https://arxiv.org/abs/2603.10970v1)** | 2026-03-11 | 19 pages, 5 figures |
-| **[BLITZRANK: Principled Zero-shot Ranking Agents with Tournament Graphs](https://arxiv.org/abs/2602.05448v3)** | 2026-03-11 |  |
+| **[Attend Before Attention: Efficient and Scalable Video Understanding via Autoregressive Gazing](https://arxiv.org/abs/2603.12254v1)** | 2026-03-12 | <details><summary>CVPR ...</summary><p>CVPR 2026. Project page: https://autogaze.github.io/</p></details> |
+| **[A Two-Stage Dual-Modality Model for Facial Emotional Expression Recognition](https://arxiv.org/abs/2603.12221v1)** | 2026-03-12 | 10 pages, 4 figures |
+| **[Bounding the Fragmentation of B-Trees Subject to Batched Insertions](https://arxiv.org/abs/2603.12211v1)** | 2026-03-12 | <details><summary>To ap...</summary><p>To appear at PODS 2026, 30 pages, 5 figures</p></details> |
+| **[IndexCache: Accelerating Sparse Attention via Cross-Layer Index Reuse](https://arxiv.org/abs/2603.12201v1)** | 2026-03-12 |  |
+| **[Reference Architecture of a Quantum-Centric Supercomputer](https://arxiv.org/abs/2603.10970v2)** | 2026-03-12 | <details><summary>20 pa...</summary><p>20 pages, 5 figures, minor fixes</p></details> |
+| **[QAQ: Bidirectional Semantic Coherence for Selecting High-Quality Synthetic Code Instructions](https://arxiv.org/abs/2603.12165v1)** | 2026-03-12 | <details><summary>12 pa...</summary><p>12 pages, 5 figures. Under review at ACL 2026</p></details> |
 
 ## Describe
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Differential Privacy in Machine Learning: A Survey from Symbolic AI to LLMs](https://arxiv.org/abs/2506.11687v2)** | 2026-03-11 |  |
-| **[V2M-Zero: Zero-Pair Time-Aligned Video-to-Music Generation](https://arxiv.org/abs/2603.11042v1)** | 2026-03-11 | <details><summary>Proje...</summary><p>Project page: https://genjib.github.io/v2m_zero/</p></details> |
-| **[New properties of the $\varphi$-representation of integers](https://arxiv.org/abs/2509.16150v2)** | 2026-03-11 |  |
-| **[Separating Oblivious and Adaptive Differential Privacy under Continual Observation](https://arxiv.org/abs/2603.11029v1)** | 2026-03-11 |  |
-| **[Time-to-Event Modeling with Pseudo-Observations in Federated Settings](https://arxiv.org/abs/2507.20558v3)** | 2026-03-11 | 30 pages, 5 figures |
-| **[Task-Aware Delegation Cues for LLM Agents](https://arxiv.org/abs/2603.11011v1)** | 2026-03-11 | <details><summary>Accep...</summary><p>Accepeted by CHI'26 Workshop on Developing Standards and Documentation For LLM Use as Simulated Research Participants</p></details> |
-| **[RCTs & Human Uplift Studies: Methodological Challenges and Practical Solutions for Frontier AI Evaluation](https://arxiv.org/abs/2603.11001v1)** | 2026-03-11 |  |
-| **[Learning What Reinforcement Learning Can't: Interleaved Online Fine-Tuning for Hardest Questions](https://arxiv.org/abs/2506.07527v3)** | 2026-03-11 | 12 pages, 5 figures |
-| **[Compiler.next: A Search-Based Compiler to Power the AI-Native Future of Software Engineering](https://arxiv.org/abs/2510.24799v2)** | 2026-03-11 | <details><summary>31 pa...</summary><p>31 pages, 5 figures, submitted to ACM Transactions on Software Engineering and Methodology</p></details> |
+| **[Attend Before Attention: Efficient and Scalable Video Understanding via Autoregressive Gazing](https://arxiv.org/abs/2603.12254v1)** | 2026-03-12 | <details><summary>CVPR ...</summary><p>CVPR 2026. Project page: https://autogaze.github.io/</p></details> |
+| **[A Two-Stage Dual-Modality Model for Facial Emotional Expression Recognition](https://arxiv.org/abs/2603.12221v1)** | 2026-03-12 | 10 pages, 4 figures |
+| **[Bounding the Fragmentation of B-Trees Subject to Batched Insertions](https://arxiv.org/abs/2603.12211v1)** | 2026-03-12 | <details><summary>To ap...</summary><p>To appear at PODS 2026, 30 pages, 5 figures</p></details> |
+| **[Coalgebraic Path Constraints](https://arxiv.org/abs/2603.12204v1)** | 2026-03-12 |  |
+| **[IndexCache: Accelerating Sparse Attention via Cross-Layer Index Reuse](https://arxiv.org/abs/2603.12201v1)** | 2026-03-12 |  |
+| **[Reference Architecture of a Quantum-Centric Supercomputer](https://arxiv.org/abs/2603.10970v2)** | 2026-03-12 | <details><summary>20 pa...</summary><p>20 pages, 5 figures, minor fixes</p></details> |
+| **[QAQ: Bidirectional Semantic Coherence for Selecting High-Quality Synthetic Code Instructions](https://arxiv.org/abs/2603.12165v1)** | 2026-03-12 | <details><summary>12 pa...</summary><p>12 pages, 5 figures. Under review at ACL 2026</p></details> |
 
 ## Light Weight
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[V2M-Zero: Zero-Pair Time-Aligned Video-to-Music Generation](https://arxiv.org/abs/2603.11042v1)** | 2026-03-11 | <details><summary>Proje...</summary><p>Project page: https://genjib.github.io/v2m_zero/</p></details> |
-| **[New properties of the $\varphi$-representation of integers](https://arxiv.org/abs/2509.16150v2)** | 2026-03-11 |  |
-| **[Time-to-Event Modeling with Pseudo-Observations in Federated Settings](https://arxiv.org/abs/2507.20558v3)** | 2026-03-11 | 30 pages, 5 figures |
-| **[Task-Aware Delegation Cues for LLM Agents](https://arxiv.org/abs/2603.11011v1)** | 2026-03-11 | <details><summary>Accep...</summary><p>Accepeted by CHI'26 Workshop on Developing Standards and Documentation For LLM Use as Simulated Research Participants</p></details> |
-| **[Learning What Reinforcement Learning Can't: Interleaved Online Fine-Tuning for Hardest Questions](https://arxiv.org/abs/2506.07527v3)** | 2026-03-11 | 12 pages, 5 figures |
-| **[Compiler.next: A Search-Based Compiler to Power the AI-Native Future of Software Engineering](https://arxiv.org/abs/2510.24799v2)** | 2026-03-11 | <details><summary>31 pa...</summary><p>31 pages, 5 figures, submitted to ACM Transactions on Software Engineering and Methodology</p></details> |
-| **[FRIEND: Federated Learning for Joint Optimization of multi-RIS Configuration and Eavesdropper Intelligent Detection in B5G Networks](https://arxiv.org/abs/2603.10977v1)** | 2026-03-11 | <details><summary>8 pag...</summary><p>8 pages with 5 figures and 2 tables. Accepted in 29th Conference on Innovation in Clouds, Internet and Networks (ICIN 2026)</p></details> |
-| **[ZACH-ViT: Regime-Dependent Inductive Bias in Compact Vision Transformers for Medical Imaging](https://arxiv.org/abs/2602.17929v2)** | 2026-03-11 | <details><summary>24 pa...</summary><p>24 pages, 15 figures, 5 tables. Code and models available at https://github.com/Bluesman79/ZACH-ViT</p></details> |
-| **[Reference Architecture of a Quantum-Centric Supercomputer](https://arxiv.org/abs/2603.10970v1)** | 2026-03-11 | 19 pages, 5 figures |
-| **[BLITZRANK: Principled Zero-shot Ranking Agents with Tournament Graphs](https://arxiv.org/abs/2602.05448v3)** | 2026-03-11 |  |
+| **[Attend Before Attention: Efficient and Scalable Video Understanding via Autoregressive Gazing](https://arxiv.org/abs/2603.12254v1)** | 2026-03-12 | <details><summary>CVPR ...</summary><p>CVPR 2026. Project page: https://autogaze.github.io/</p></details> |
+| **[A Two-Stage Dual-Modality Model for Facial Emotional Expression Recognition](https://arxiv.org/abs/2603.12221v1)** | 2026-03-12 | 10 pages, 4 figures |
+| **[Bounding the Fragmentation of B-Trees Subject to Batched Insertions](https://arxiv.org/abs/2603.12211v1)** | 2026-03-12 | <details><summary>To ap...</summary><p>To appear at PODS 2026, 30 pages, 5 figures</p></details> |
+| **[IndexCache: Accelerating Sparse Attention via Cross-Layer Index Reuse](https://arxiv.org/abs/2603.12201v1)** | 2026-03-12 |  |
+| **[Reference Architecture of a Quantum-Centric Supercomputer](https://arxiv.org/abs/2603.10970v2)** | 2026-03-12 | <details><summary>20 pa...</summary><p>20 pages, 5 figures, minor fixes</p></details> |
+| **[QAQ: Bidirectional Semantic Coherence for Selecting High-Quality Synthetic Code Instructions](https://arxiv.org/abs/2603.12165v1)** | 2026-03-12 | <details><summary>12 pa...</summary><p>12 pages, 5 figures. Under review at ACL 2026</p></details> |
 
 ## Class Incremental
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[V2M-Zero: Zero-Pair Time-Aligned Video-to-Music Generation](https://arxiv.org/abs/2603.11042v1)** | 2026-03-11 | <details><summary>Proje...</summary><p>Project page: https://genjib.github.io/v2m_zero/</p></details> |
-| **[New properties of the $\varphi$-representation of integers](https://arxiv.org/abs/2509.16150v2)** | 2026-03-11 |  |
-| **[Time-to-Event Modeling with Pseudo-Observations in Federated Settings](https://arxiv.org/abs/2507.20558v3)** | 2026-03-11 | 30 pages, 5 figures |
-| **[Task-Aware Delegation Cues for LLM Agents](https://arxiv.org/abs/2603.11011v1)** | 2026-03-11 | <details><summary>Accep...</summary><p>Accepeted by CHI'26 Workshop on Developing Standards and Documentation For LLM Use as Simulated Research Participants</p></details> |
-| **[Learning What Reinforcement Learning Can't: Interleaved Online Fine-Tuning for Hardest Questions](https://arxiv.org/abs/2506.07527v3)** | 2026-03-11 | 12 pages, 5 figures |
-| **[Compiler.next: A Search-Based Compiler to Power the AI-Native Future of Software Engineering](https://arxiv.org/abs/2510.24799v2)** | 2026-03-11 | <details><summary>31 pa...</summary><p>31 pages, 5 figures, submitted to ACM Transactions on Software Engineering and Methodology</p></details> |
-| **[FRIEND: Federated Learning for Joint Optimization of multi-RIS Configuration and Eavesdropper Intelligent Detection in B5G Networks](https://arxiv.org/abs/2603.10977v1)** | 2026-03-11 | <details><summary>8 pag...</summary><p>8 pages with 5 figures and 2 tables. Accepted in 29th Conference on Innovation in Clouds, Internet and Networks (ICIN 2026)</p></details> |
-| **[ZACH-ViT: Regime-Dependent Inductive Bias in Compact Vision Transformers for Medical Imaging](https://arxiv.org/abs/2602.17929v2)** | 2026-03-11 | <details><summary>24 pa...</summary><p>24 pages, 15 figures, 5 tables. Code and models available at https://github.com/Bluesman79/ZACH-ViT</p></details> |
-| **[Reference Architecture of a Quantum-Centric Supercomputer](https://arxiv.org/abs/2603.10970v1)** | 2026-03-11 | 19 pages, 5 figures |
-| **[BLITZRANK: Principled Zero-shot Ranking Agents with Tournament Graphs](https://arxiv.org/abs/2602.05448v3)** | 2026-03-11 |  |
+| **[Attend Before Attention: Efficient and Scalable Video Understanding via Autoregressive Gazing](https://arxiv.org/abs/2603.12254v1)** | 2026-03-12 | <details><summary>CVPR ...</summary><p>CVPR 2026. Project page: https://autogaze.github.io/</p></details> |
+| **[A Two-Stage Dual-Modality Model for Facial Emotional Expression Recognition](https://arxiv.org/abs/2603.12221v1)** | 2026-03-12 | 10 pages, 4 figures |
+| **[Bounding the Fragmentation of B-Trees Subject to Batched Insertions](https://arxiv.org/abs/2603.12211v1)** | 2026-03-12 | <details><summary>To ap...</summary><p>To appear at PODS 2026, 30 pages, 5 figures</p></details> |
+| **[IndexCache: Accelerating Sparse Attention via Cross-Layer Index Reuse](https://arxiv.org/abs/2603.12201v1)** | 2026-03-12 |  |
+| **[Reference Architecture of a Quantum-Centric Supercomputer](https://arxiv.org/abs/2603.10970v2)** | 2026-03-12 | <details><summary>20 pa...</summary><p>20 pages, 5 figures, minor fixes</p></details> |
+| **[QAQ: Bidirectional Semantic Coherence for Selecting High-Quality Synthetic Code Instructions](https://arxiv.org/abs/2603.12165v1)** | 2026-03-12 | <details><summary>12 pa...</summary><p>12 pages, 5 figures. Under review at ACL 2026</p></details> |
 
