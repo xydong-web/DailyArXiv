@@ -1,5 +1,5 @@
 ---
-title: Latest 50 Papers - March 16, 2026
+title: Latest 50 Papers - March 17, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/JiamingZang/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,97 +7,66 @@ labels: documentation
 ## Molecular
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Attend Before Attention: Efficient and Scalable Video Understanding via Autoregressive Gazing](https://arxiv.org/abs/2603.12254v1)** | 2026-03-12 | <details><summary>CVPR ...</summary><p>CVPR 2026. Project page: https://autogaze.github.io/</p></details> |
-| **[A Two-Stage Dual-Modality Model for Facial Emotional Expression Recognition](https://arxiv.org/abs/2603.12221v1)** | 2026-03-12 | 10 pages, 4 figures |
-| **[Bounding the Fragmentation of B-Trees Subject to Batched Insertions](https://arxiv.org/abs/2603.12211v1)** | 2026-03-12 | <details><summary>To ap...</summary><p>To appear at PODS 2026, 30 pages, 5 figures</p></details> |
-| **[IndexCache: Accelerating Sparse Attention via Cross-Layer Index Reuse](https://arxiv.org/abs/2603.12201v1)** | 2026-03-12 |  |
-| **[Reference Architecture of a Quantum-Centric Supercomputer](https://arxiv.org/abs/2603.10970v2)** | 2026-03-12 | <details><summary>20 pa...</summary><p>20 pages, 5 figures, minor fixes</p></details> |
-| **[QAQ: Bidirectional Semantic Coherence for Selecting High-Quality Synthetic Code Instructions](https://arxiv.org/abs/2603.12165v1)** | 2026-03-12 | <details><summary>12 pa...</summary><p>12 pages, 5 figures. Under review at ACL 2026</p></details> |
+| **[Navig-AI-tion: Navigation by Contextual AI and Spatial Audio](https://arxiv.org/abs/2603.13200v1)** | 2026-03-13 | <details><summary>5 pag...</summary><p>5 pages, 2 figures, to be published in Extended Abstracts of the 2026 CHI Conference on Human Factors in Computing Systems (CHI EA '26), 6 pages appendix</p></details> |
+| **[Global Sensitivity Analysis for Engineering Design Based on Individual Conditional Expectations](https://arxiv.org/abs/2512.11946v3)** | 2026-03-13 | <details><summary>Publi...</summary><p>Published in Aerospace Science and Technology, 2026</p></details> |
+| **[Better Safe Than Sorry: Enhancing Arbitration Graphs for Safe and Robust Autonomous Decision-Making](https://arxiv.org/abs/2411.10170v3)** | 2026-03-13 | <details><summary>7 pag...</summary><p>7 pages, 5 figures, Presented at 2025 IEEE International Conference on Systems, Man, and Cybernetics (SMC), source code available at github.com/KIT-MRT/arbitration_graphs, v2: Added paragraph discussing the differences between arbitration graphs and behavior trees, v3: Updated version as presented at SMC</p></details> |
 
 ## Molecular Generation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Attend Before Attention: Efficient and Scalable Video Understanding via Autoregressive Gazing](https://arxiv.org/abs/2603.12254v1)** | 2026-03-12 | <details><summary>CVPR ...</summary><p>CVPR 2026. Project page: https://autogaze.github.io/</p></details> |
-| **[A Two-Stage Dual-Modality Model for Facial Emotional Expression Recognition](https://arxiv.org/abs/2603.12221v1)** | 2026-03-12 | 10 pages, 4 figures |
-| **[Bounding the Fragmentation of B-Trees Subject to Batched Insertions](https://arxiv.org/abs/2603.12211v1)** | 2026-03-12 | <details><summary>To ap...</summary><p>To appear at PODS 2026, 30 pages, 5 figures</p></details> |
-| **[IndexCache: Accelerating Sparse Attention via Cross-Layer Index Reuse](https://arxiv.org/abs/2603.12201v1)** | 2026-03-12 |  |
-| **[Reference Architecture of a Quantum-Centric Supercomputer](https://arxiv.org/abs/2603.10970v2)** | 2026-03-12 | <details><summary>20 pa...</summary><p>20 pages, 5 figures, minor fixes</p></details> |
-| **[QAQ: Bidirectional Semantic Coherence for Selecting High-Quality Synthetic Code Instructions](https://arxiv.org/abs/2603.12165v1)** | 2026-03-12 | <details><summary>12 pa...</summary><p>12 pages, 5 figures. Under review at ACL 2026</p></details> |
+| **[Navig-AI-tion: Navigation by Contextual AI and Spatial Audio](https://arxiv.org/abs/2603.13200v1)** | 2026-03-13 | <details><summary>5 pag...</summary><p>5 pages, 2 figures, to be published in Extended Abstracts of the 2026 CHI Conference on Human Factors in Computing Systems (CHI EA '26), 6 pages appendix</p></details> |
+| **[Global Sensitivity Analysis for Engineering Design Based on Individual Conditional Expectations](https://arxiv.org/abs/2512.11946v3)** | 2026-03-13 | <details><summary>Publi...</summary><p>Published in Aerospace Science and Technology, 2026</p></details> |
+| **[Better Safe Than Sorry: Enhancing Arbitration Graphs for Safe and Robust Autonomous Decision-Making](https://arxiv.org/abs/2411.10170v3)** | 2026-03-13 | <details><summary>7 pag...</summary><p>7 pages, 5 figures, Presented at 2025 IEEE International Conference on Systems, Man, and Cybernetics (SMC), source code available at github.com/KIT-MRT/arbitration_graphs, v2: Added paragraph discussing the differences between arbitration graphs and behavior trees, v3: Updated version as presented at SMC</p></details> |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Attend Before Attention: Efficient and Scalable Video Understanding via Autoregressive Gazing](https://arxiv.org/abs/2603.12254v1)** | 2026-03-12 | <details><summary>CVPR ...</summary><p>CVPR 2026. Project page: https://autogaze.github.io/</p></details> |
-| **[A Two-Stage Dual-Modality Model for Facial Emotional Expression Recognition](https://arxiv.org/abs/2603.12221v1)** | 2026-03-12 | 10 pages, 4 figures |
-| **[Bounding the Fragmentation of B-Trees Subject to Batched Insertions](https://arxiv.org/abs/2603.12211v1)** | 2026-03-12 | <details><summary>To ap...</summary><p>To appear at PODS 2026, 30 pages, 5 figures</p></details> |
-| **[IndexCache: Accelerating Sparse Attention via Cross-Layer Index Reuse](https://arxiv.org/abs/2603.12201v1)** | 2026-03-12 |  |
-| **[Reference Architecture of a Quantum-Centric Supercomputer](https://arxiv.org/abs/2603.10970v2)** | 2026-03-12 | <details><summary>20 pa...</summary><p>20 pages, 5 figures, minor fixes</p></details> |
-| **[QAQ: Bidirectional Semantic Coherence for Selecting High-Quality Synthetic Code Instructions](https://arxiv.org/abs/2603.12165v1)** | 2026-03-12 | <details><summary>12 pa...</summary><p>12 pages, 5 figures. Under review at ACL 2026</p></details> |
+| **[Navig-AI-tion: Navigation by Contextual AI and Spatial Audio](https://arxiv.org/abs/2603.13200v1)** | 2026-03-13 | <details><summary>5 pag...</summary><p>5 pages, 2 figures, to be published in Extended Abstracts of the 2026 CHI Conference on Human Factors in Computing Systems (CHI EA '26), 6 pages appendix</p></details> |
+| **[Global Sensitivity Analysis for Engineering Design Based on Individual Conditional Expectations](https://arxiv.org/abs/2512.11946v3)** | 2026-03-13 | <details><summary>Publi...</summary><p>Published in Aerospace Science and Technology, 2026</p></details> |
+| **[Better Safe Than Sorry: Enhancing Arbitration Graphs for Safe and Robust Autonomous Decision-Making](https://arxiv.org/abs/2411.10170v3)** | 2026-03-13 | <details><summary>7 pag...</summary><p>7 pages, 5 figures, Presented at 2025 IEEE International Conference on Systems, Man, and Cybernetics (SMC), source code available at github.com/KIT-MRT/arbitration_graphs, v2: Added paragraph discussing the differences between arbitration graphs and behavior trees, v3: Updated version as presented at SMC</p></details> |
 
 ## Diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[DreamVideo-Omni: Omni-Motion Controlled Multi-Subject Video Customization with Latent Identity Reinforcement Learning](https://arxiv.org/abs/2603.12257v1)** | 2026-03-12 | <details><summary>Proje...</summary><p>Project Page: https://dreamvideo-omni.github.io</p></details> |
-| **[NeuralOS: Towards Simulating Operating Systems via Neural Generative Models](https://arxiv.org/abs/2507.08800v2)** | 2026-03-12 | ICLR 2026 |
-| **[Attend Before Attention: Efficient and Scalable Video Understanding via Autoregressive Gazing](https://arxiv.org/abs/2603.12254v1)** | 2026-03-12 | <details><summary>CVPR ...</summary><p>CVPR 2026. Project page: https://autogaze.github.io/</p></details> |
-| **[EndoCoT: Scaling Endogenous Chain-of-Thought Reasoning in Diffusion Models](https://arxiv.org/abs/2603.12252v1)** | 2026-03-12 | 23 pages, 18 figures |
-| **[DVD: Deterministic Video Depth Estimation with Generative Priors](https://arxiv.org/abs/2603.12250v1)** | 2026-03-12 | <details><summary>Proje...</summary><p>Project: https://dvd-project.github.io/</p></details> |
-| **[One Model, Many Budgets: Elastic Latent Interfaces for Diffusion Transformers](https://arxiv.org/abs/2603.12245v1)** | 2026-03-12 | <details><summary>Proje...</summary><p>Project page: https://snap-research.github.io/elit/</p></details> |
-| **[BiGain: Unified Token Compression for Joint Generation and Classification](https://arxiv.org/abs/2603.12240v1)** | 2026-03-12 | <details><summary>CVPR ...</summary><p>CVPR 2026. Code: https://github.com/Greenoso/BiGain</p></details> |
-| **[HOG-Diff: Higher-Order Guided Diffusion for Graph Generation](https://arxiv.org/abs/2502.04308v3)** | 2026-03-12 | <details><summary>Accep...</summary><p>Accepted at ICLR 2026</p></details> |
-| **[A Two-Stage Dual-Modality Model for Facial Emotional Expression Recognition](https://arxiv.org/abs/2603.12221v1)** | 2026-03-12 | 10 pages, 4 figures |
-| **[Bounding the Fragmentation of B-Trees Subject to Batched Insertions](https://arxiv.org/abs/2603.12211v1)** | 2026-03-12 | <details><summary>To ap...</summary><p>To appear at PODS 2026, 30 pages, 5 figures</p></details> |
-| **[IndexCache: Accelerating Sparse Attention via Cross-Layer Index Reuse](https://arxiv.org/abs/2603.12201v1)** | 2026-03-12 |  |
-| **[Reference Architecture of a Quantum-Centric Supercomputer](https://arxiv.org/abs/2603.10970v2)** | 2026-03-12 | <details><summary>20 pa...</summary><p>20 pages, 5 figures, minor fixes</p></details> |
+| **[PhysMoDPO: Physically-Plausible Humanoid Motion with Preference Optimization](https://arxiv.org/abs/2603.13228v1)** | 2026-03-13 |  |
+| **[MaDiS: Taming Masked Diffusion Language Models for Sign Language Generation](https://arxiv.org/abs/2601.19577v2)** | 2026-03-13 |  |
+| **[Let Your Image Move with Your Motion! -- Implicit Multi-Object Multi-Motion Transfer](https://arxiv.org/abs/2603.01000v2)** | 2026-03-13 | <details><summary>15 pa...</summary><p>15 pages, 11 figures, cvpr 2026, see https://ethan-li123.github.io/FlexiMMT_page/</p></details> |
+| **[Navig-AI-tion: Navigation by Contextual AI and Spatial Audio](https://arxiv.org/abs/2603.13200v1)** | 2026-03-13 | <details><summary>5 pag...</summary><p>5 pages, 2 figures, to be published in Extended Abstracts of the 2026 CHI Conference on Human Factors in Computing Systems (CHI EA '26), 6 pages appendix</p></details> |
+| **[Global Sensitivity Analysis for Engineering Design Based on Individual Conditional Expectations](https://arxiv.org/abs/2512.11946v3)** | 2026-03-13 | <details><summary>Publi...</summary><p>Published in Aerospace Science and Technology, 2026</p></details> |
+| **[Diffusion-Based Feature Denoising and Using NNMF for Robust Brain Tumor Classification](https://arxiv.org/abs/2603.13182v1)** | 2026-03-13 | 30 pages, 29 figures |
 
 ## Object Counting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Attend Before Attention: Efficient and Scalable Video Understanding via Autoregressive Gazing](https://arxiv.org/abs/2603.12254v1)** | 2026-03-12 | <details><summary>CVPR ...</summary><p>CVPR 2026. Project page: https://autogaze.github.io/</p></details> |
-| **[A Two-Stage Dual-Modality Model for Facial Emotional Expression Recognition](https://arxiv.org/abs/2603.12221v1)** | 2026-03-12 | 10 pages, 4 figures |
-| **[Bounding the Fragmentation of B-Trees Subject to Batched Insertions](https://arxiv.org/abs/2603.12211v1)** | 2026-03-12 | <details><summary>To ap...</summary><p>To appear at PODS 2026, 30 pages, 5 figures</p></details> |
-| **[IndexCache: Accelerating Sparse Attention via Cross-Layer Index Reuse](https://arxiv.org/abs/2603.12201v1)** | 2026-03-12 |  |
-| **[Reference Architecture of a Quantum-Centric Supercomputer](https://arxiv.org/abs/2603.10970v2)** | 2026-03-12 | <details><summary>20 pa...</summary><p>20 pages, 5 figures, minor fixes</p></details> |
-| **[QAQ: Bidirectional Semantic Coherence for Selecting High-Quality Synthetic Code Instructions](https://arxiv.org/abs/2603.12165v1)** | 2026-03-12 | <details><summary>12 pa...</summary><p>12 pages, 5 figures. Under review at ACL 2026</p></details> |
+| **[Navig-AI-tion: Navigation by Contextual AI and Spatial Audio](https://arxiv.org/abs/2603.13200v1)** | 2026-03-13 | <details><summary>5 pag...</summary><p>5 pages, 2 figures, to be published in Extended Abstracts of the 2026 CHI Conference on Human Factors in Computing Systems (CHI EA '26), 6 pages appendix</p></details> |
+| **[Global Sensitivity Analysis for Engineering Design Based on Individual Conditional Expectations](https://arxiv.org/abs/2512.11946v3)** | 2026-03-13 | <details><summary>Publi...</summary><p>Published in Aerospace Science and Technology, 2026</p></details> |
+| **[Better Safe Than Sorry: Enhancing Arbitration Graphs for Safe and Robust Autonomous Decision-Making](https://arxiv.org/abs/2411.10170v3)** | 2026-03-13 | <details><summary>7 pag...</summary><p>7 pages, 5 figures, Presented at 2025 IEEE International Conference on Systems, Man, and Cybernetics (SMC), source code available at github.com/KIT-MRT/arbitration_graphs, v2: Added paragraph discussing the differences between arbitration graphs and behavior trees, v3: Updated version as presented at SMC</p></details> |
 
 ## Image Caption
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Attend Before Attention: Efficient and Scalable Video Understanding via Autoregressive Gazing](https://arxiv.org/abs/2603.12254v1)** | 2026-03-12 | <details><summary>CVPR ...</summary><p>CVPR 2026. Project page: https://autogaze.github.io/</p></details> |
-| **[A Two-Stage Dual-Modality Model for Facial Emotional Expression Recognition](https://arxiv.org/abs/2603.12221v1)** | 2026-03-12 | 10 pages, 4 figures |
-| **[Bounding the Fragmentation of B-Trees Subject to Batched Insertions](https://arxiv.org/abs/2603.12211v1)** | 2026-03-12 | <details><summary>To ap...</summary><p>To appear at PODS 2026, 30 pages, 5 figures</p></details> |
-| **[IndexCache: Accelerating Sparse Attention via Cross-Layer Index Reuse](https://arxiv.org/abs/2603.12201v1)** | 2026-03-12 |  |
-| **[Reference Architecture of a Quantum-Centric Supercomputer](https://arxiv.org/abs/2603.10970v2)** | 2026-03-12 | <details><summary>20 pa...</summary><p>20 pages, 5 figures, minor fixes</p></details> |
-| **[QAQ: Bidirectional Semantic Coherence for Selecting High-Quality Synthetic Code Instructions](https://arxiv.org/abs/2603.12165v1)** | 2026-03-12 | <details><summary>12 pa...</summary><p>12 pages, 5 figures. Under review at ACL 2026</p></details> |
+| **[Navig-AI-tion: Navigation by Contextual AI and Spatial Audio](https://arxiv.org/abs/2603.13200v1)** | 2026-03-13 | <details><summary>5 pag...</summary><p>5 pages, 2 figures, to be published in Extended Abstracts of the 2026 CHI Conference on Human Factors in Computing Systems (CHI EA '26), 6 pages appendix</p></details> |
+| **[Global Sensitivity Analysis for Engineering Design Based on Individual Conditional Expectations](https://arxiv.org/abs/2512.11946v3)** | 2026-03-13 | <details><summary>Publi...</summary><p>Published in Aerospace Science and Technology, 2026</p></details> |
+| **[Better Safe Than Sorry: Enhancing Arbitration Graphs for Safe and Robust Autonomous Decision-Making](https://arxiv.org/abs/2411.10170v3)** | 2026-03-13 | <details><summary>7 pag...</summary><p>7 pages, 5 figures, Presented at 2025 IEEE International Conference on Systems, Man, and Cybernetics (SMC), source code available at github.com/KIT-MRT/arbitration_graphs, v2: Added paragraph discussing the differences between arbitration graphs and behavior trees, v3: Updated version as presented at SMC</p></details> |
 
 ## Describe
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Attend Before Attention: Efficient and Scalable Video Understanding via Autoregressive Gazing](https://arxiv.org/abs/2603.12254v1)** | 2026-03-12 | <details><summary>CVPR ...</summary><p>CVPR 2026. Project page: https://autogaze.github.io/</p></details> |
-| **[A Two-Stage Dual-Modality Model for Facial Emotional Expression Recognition](https://arxiv.org/abs/2603.12221v1)** | 2026-03-12 | 10 pages, 4 figures |
-| **[Bounding the Fragmentation of B-Trees Subject to Batched Insertions](https://arxiv.org/abs/2603.12211v1)** | 2026-03-12 | <details><summary>To ap...</summary><p>To appear at PODS 2026, 30 pages, 5 figures</p></details> |
-| **[Coalgebraic Path Constraints](https://arxiv.org/abs/2603.12204v1)** | 2026-03-12 |  |
-| **[IndexCache: Accelerating Sparse Attention via Cross-Layer Index Reuse](https://arxiv.org/abs/2603.12201v1)** | 2026-03-12 |  |
-| **[Reference Architecture of a Quantum-Centric Supercomputer](https://arxiv.org/abs/2603.10970v2)** | 2026-03-12 | <details><summary>20 pa...</summary><p>20 pages, 5 figures, minor fixes</p></details> |
-| **[QAQ: Bidirectional Semantic Coherence for Selecting High-Quality Synthetic Code Instructions](https://arxiv.org/abs/2603.12165v1)** | 2026-03-12 | <details><summary>12 pa...</summary><p>12 pages, 5 figures. Under review at ACL 2026</p></details> |
+| **[Navig-AI-tion: Navigation by Contextual AI and Spatial Audio](https://arxiv.org/abs/2603.13200v1)** | 2026-03-13 | <details><summary>5 pag...</summary><p>5 pages, 2 figures, to be published in Extended Abstracts of the 2026 CHI Conference on Human Factors in Computing Systems (CHI EA '26), 6 pages appendix</p></details> |
+| **[Global Sensitivity Analysis for Engineering Design Based on Individual Conditional Expectations](https://arxiv.org/abs/2512.11946v3)** | 2026-03-13 | <details><summary>Publi...</summary><p>Published in Aerospace Science and Technology, 2026</p></details> |
+| **[Lattice Discrete Particle Model (LDPM): Comparison of Various Time Integration Solvers and Implementations](https://arxiv.org/abs/2603.13190v1)** | 2026-03-13 | <details><summary>28 pa...</summary><p>28 pages, 15 tables, 8 figures</p></details> |
 
 ## Light Weight
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Attend Before Attention: Efficient and Scalable Video Understanding via Autoregressive Gazing](https://arxiv.org/abs/2603.12254v1)** | 2026-03-12 | <details><summary>CVPR ...</summary><p>CVPR 2026. Project page: https://autogaze.github.io/</p></details> |
-| **[A Two-Stage Dual-Modality Model for Facial Emotional Expression Recognition](https://arxiv.org/abs/2603.12221v1)** | 2026-03-12 | 10 pages, 4 figures |
-| **[Bounding the Fragmentation of B-Trees Subject to Batched Insertions](https://arxiv.org/abs/2603.12211v1)** | 2026-03-12 | <details><summary>To ap...</summary><p>To appear at PODS 2026, 30 pages, 5 figures</p></details> |
-| **[IndexCache: Accelerating Sparse Attention via Cross-Layer Index Reuse](https://arxiv.org/abs/2603.12201v1)** | 2026-03-12 |  |
-| **[Reference Architecture of a Quantum-Centric Supercomputer](https://arxiv.org/abs/2603.10970v2)** | 2026-03-12 | <details><summary>20 pa...</summary><p>20 pages, 5 figures, minor fixes</p></details> |
-| **[QAQ: Bidirectional Semantic Coherence for Selecting High-Quality Synthetic Code Instructions](https://arxiv.org/abs/2603.12165v1)** | 2026-03-12 | <details><summary>12 pa...</summary><p>12 pages, 5 figures. Under review at ACL 2026</p></details> |
+| **[Navig-AI-tion: Navigation by Contextual AI and Spatial Audio](https://arxiv.org/abs/2603.13200v1)** | 2026-03-13 | <details><summary>5 pag...</summary><p>5 pages, 2 figures, to be published in Extended Abstracts of the 2026 CHI Conference on Human Factors in Computing Systems (CHI EA '26), 6 pages appendix</p></details> |
+| **[Global Sensitivity Analysis for Engineering Design Based on Individual Conditional Expectations](https://arxiv.org/abs/2512.11946v3)** | 2026-03-13 | <details><summary>Publi...</summary><p>Published in Aerospace Science and Technology, 2026</p></details> |
+| **[Better Safe Than Sorry: Enhancing Arbitration Graphs for Safe and Robust Autonomous Decision-Making](https://arxiv.org/abs/2411.10170v3)** | 2026-03-13 | <details><summary>7 pag...</summary><p>7 pages, 5 figures, Presented at 2025 IEEE International Conference on Systems, Man, and Cybernetics (SMC), source code available at github.com/KIT-MRT/arbitration_graphs, v2: Added paragraph discussing the differences between arbitration graphs and behavior trees, v3: Updated version as presented at SMC</p></details> |
 
 ## Class Incremental
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Attend Before Attention: Efficient and Scalable Video Understanding via Autoregressive Gazing](https://arxiv.org/abs/2603.12254v1)** | 2026-03-12 | <details><summary>CVPR ...</summary><p>CVPR 2026. Project page: https://autogaze.github.io/</p></details> |
-| **[A Two-Stage Dual-Modality Model for Facial Emotional Expression Recognition](https://arxiv.org/abs/2603.12221v1)** | 2026-03-12 | 10 pages, 4 figures |
-| **[Bounding the Fragmentation of B-Trees Subject to Batched Insertions](https://arxiv.org/abs/2603.12211v1)** | 2026-03-12 | <details><summary>To ap...</summary><p>To appear at PODS 2026, 30 pages, 5 figures</p></details> |
-| **[IndexCache: Accelerating Sparse Attention via Cross-Layer Index Reuse](https://arxiv.org/abs/2603.12201v1)** | 2026-03-12 |  |
-| **[Reference Architecture of a Quantum-Centric Supercomputer](https://arxiv.org/abs/2603.10970v2)** | 2026-03-12 | <details><summary>20 pa...</summary><p>20 pages, 5 figures, minor fixes</p></details> |
-| **[QAQ: Bidirectional Semantic Coherence for Selecting High-Quality Synthetic Code Instructions](https://arxiv.org/abs/2603.12165v1)** | 2026-03-12 | <details><summary>12 pa...</summary><p>12 pages, 5 figures. Under review at ACL 2026</p></details> |
+| **[Navig-AI-tion: Navigation by Contextual AI and Spatial Audio](https://arxiv.org/abs/2603.13200v1)** | 2026-03-13 | <details><summary>5 pag...</summary><p>5 pages, 2 figures, to be published in Extended Abstracts of the 2026 CHI Conference on Human Factors in Computing Systems (CHI EA '26), 6 pages appendix</p></details> |
+| **[Global Sensitivity Analysis for Engineering Design Based on Individual Conditional Expectations](https://arxiv.org/abs/2512.11946v3)** | 2026-03-13 | <details><summary>Publi...</summary><p>Published in Aerospace Science and Technology, 2026</p></details> |
+| **[Better Safe Than Sorry: Enhancing Arbitration Graphs for Safe and Robust Autonomous Decision-Making](https://arxiv.org/abs/2411.10170v3)** | 2026-03-13 | <details><summary>7 pag...</summary><p>7 pages, 5 figures, Presented at 2025 IEEE International Conference on Systems, Man, and Cybernetics (SMC), source code available at github.com/KIT-MRT/arbitration_graphs, v2: Added paragraph discussing the differences between arbitration graphs and behavior trees, v3: Updated version as presented at SMC</p></details> |
 
