@@ -1,5 +1,5 @@
 ---
-title: Latest 50 Papers - March 19, 2026
+title: Latest 50 Papers - March 20, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/JiamingZang/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,113 +7,88 @@ labels: documentation
 ## Molecular
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[BrickSim: A Physics-Based Simulator for Manipulating Interlocking Brick Assemblies](https://arxiv.org/abs/2603.16853v1)** | 2026-03-17 | 9 pages, 9 figures |
-| **[Internalizing Agency from Reflective Experience](https://arxiv.org/abs/2603.16843v1)** | 2026-03-17 | <details><summary>17 pa...</summary><p>17 pages, 5 figures; Submitted to ICML 2026</p></details> |
-| **[Real-Time Decoding of Movement Onset and Offset for Brain-Controlled Rehabilitation Exoskeleton](https://arxiv.org/abs/2603.16825v1)** | 2026-03-17 | <details><summary>Accep...</summary><p>Accepted to ICRA 2026. 8 pages, 5 figures. Project page available at https://mitrakanishka.github.io/projects/startstop-bci/</p></details> |
-| **[The independence ratio of 4-cycle-free planar graphs](https://arxiv.org/abs/2305.02414v2)** | 2026-03-17 | 14 pages, 4 figures |
-| **[Predicting Biomedical Interactions with Probabilistic Model Selection for Graph Neural Networks](https://arxiv.org/abs/2211.13231v3)** | 2026-03-17 |  |
-| **[Model Medicine: A Clinical Framework for Understanding, Diagnosing, and Treating AI Models](https://arxiv.org/abs/2603.04722v2)** | 2026-03-17 | <details><summary>56 pa...</summary><p>56 pages, 7 figures. Project page: https://jihoonjeong.github.io/model-medicine/</p></details> |
-| **[RaDAR: Relation-aware Diffusion-Asymmetric Graph Contrastive Learning for Recommendation](https://arxiv.org/abs/2603.16800v1)** | 2026-03-17 | <details><summary>12 pa...</summary><p>12 pages, 5 figures. Accepted at WWW 2026</p></details> |
-| **[Improving Code Comprehension through Cognitive-Load Aware Automated Refactoring for Novice Programmers](https://arxiv.org/abs/2603.16791v1)** | 2026-03-17 | <details><summary>Inter...</summary><p>International Conference on Evaluation and Assessment in Software Engineering (EASE), 2026</p></details> |
-| **[LANCE: Low Rank Activation Compression for Efficient On-Device Continual Learning](https://arxiv.org/abs/2509.21617v2)** | 2026-03-17 | 26 pages, 6 figures |
+| **[Unified Policy Value Decomposition for Rapid Adaptation](https://arxiv.org/abs/2603.17947v1)** | 2026-03-18 |  |
+| **[RoboForge: Physically Optimized Text-guided Whole-Body Locomotion for Humanoids](https://arxiv.org/abs/2603.17927v1)** | 2026-03-18 | <details><summary>10 pa...</summary><p>10 pages, 5 figures,submitted to IROS 2026</p></details> |
+| **[Edit Spillover as a Probe: Do Image Editing Models Implicitly Understand World Relations?](https://arxiv.org/abs/2603.17876v1)** | 2026-03-18 |  |
+| **[Mitigating LLM Hallucinations through Domain-Grounded Tiered Retrieval](https://arxiv.org/abs/2603.17872v1)** | 2026-03-18 | <details><summary>14 Pa...</summary><p>14 Pages, 5 Figures, 4 Tables</p></details> |
+| **[RHYME-XT: A Neural Operator for Spatiotemporal Control Systems](https://arxiv.org/abs/2603.17867v1)** | 2026-03-18 | <details><summary>6 pag...</summary><p>6 pages, 5 figures. Submitted to IEEE Control Systems Letters (L-CSS) and CDC 2026</p></details> |
 
 ## Molecular Generation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[BrickSim: A Physics-Based Simulator for Manipulating Interlocking Brick Assemblies](https://arxiv.org/abs/2603.16853v1)** | 2026-03-17 | 9 pages, 9 figures |
-| **[Internalizing Agency from Reflective Experience](https://arxiv.org/abs/2603.16843v1)** | 2026-03-17 | <details><summary>17 pa...</summary><p>17 pages, 5 figures; Submitted to ICML 2026</p></details> |
-| **[Real-Time Decoding of Movement Onset and Offset for Brain-Controlled Rehabilitation Exoskeleton](https://arxiv.org/abs/2603.16825v1)** | 2026-03-17 | <details><summary>Accep...</summary><p>Accepted to ICRA 2026. 8 pages, 5 figures. Project page available at https://mitrakanishka.github.io/projects/startstop-bci/</p></details> |
-| **[The independence ratio of 4-cycle-free planar graphs](https://arxiv.org/abs/2305.02414v2)** | 2026-03-17 | 14 pages, 4 figures |
-| **[Model Medicine: A Clinical Framework for Understanding, Diagnosing, and Treating AI Models](https://arxiv.org/abs/2603.04722v2)** | 2026-03-17 | <details><summary>56 pa...</summary><p>56 pages, 7 figures. Project page: https://jihoonjeong.github.io/model-medicine/</p></details> |
-| **[RaDAR: Relation-aware Diffusion-Asymmetric Graph Contrastive Learning for Recommendation](https://arxiv.org/abs/2603.16800v1)** | 2026-03-17 | <details><summary>12 pa...</summary><p>12 pages, 5 figures. Accepted at WWW 2026</p></details> |
-| **[Improving Code Comprehension through Cognitive-Load Aware Automated Refactoring for Novice Programmers](https://arxiv.org/abs/2603.16791v1)** | 2026-03-17 | <details><summary>Inter...</summary><p>International Conference on Evaluation and Assessment in Software Engineering (EASE), 2026</p></details> |
-| **[LANCE: Low Rank Activation Compression for Efficient On-Device Continual Learning](https://arxiv.org/abs/2509.21617v2)** | 2026-03-17 | 26 pages, 6 figures |
+| **[Unified Policy Value Decomposition for Rapid Adaptation](https://arxiv.org/abs/2603.17947v1)** | 2026-03-18 |  |
+| **[RoboForge: Physically Optimized Text-guided Whole-Body Locomotion for Humanoids](https://arxiv.org/abs/2603.17927v1)** | 2026-03-18 | <details><summary>10 pa...</summary><p>10 pages, 5 figures,submitted to IROS 2026</p></details> |
+| **[Edit Spillover as a Probe: Do Image Editing Models Implicitly Understand World Relations?](https://arxiv.org/abs/2603.17876v1)** | 2026-03-18 |  |
+| **[Mitigating LLM Hallucinations through Domain-Grounded Tiered Retrieval](https://arxiv.org/abs/2603.17872v1)** | 2026-03-18 | <details><summary>14 Pa...</summary><p>14 Pages, 5 Figures, 4 Tables</p></details> |
+| **[RHYME-XT: A Neural Operator for Spatiotemporal Control Systems](https://arxiv.org/abs/2603.17867v1)** | 2026-03-18 | <details><summary>6 pag...</summary><p>6 pages, 5 figures. Submitted to IEEE Control Systems Letters (L-CSS) and CDC 2026</p></details> |
+| **[Dynamic-ICP: Doppler-Aware Iterative Closest Point Registration for Dynamic Scenes](https://arxiv.org/abs/2511.20292v3)** | 2026-03-18 | 8 pages, 5 figures |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[BrickSim: A Physics-Based Simulator for Manipulating Interlocking Brick Assemblies](https://arxiv.org/abs/2603.16853v1)** | 2026-03-17 | 9 pages, 9 figures |
-| **[Internalizing Agency from Reflective Experience](https://arxiv.org/abs/2603.16843v1)** | 2026-03-17 | <details><summary>17 pa...</summary><p>17 pages, 5 figures; Submitted to ICML 2026</p></details> |
-| **[Real-Time Decoding of Movement Onset and Offset for Brain-Controlled Rehabilitation Exoskeleton](https://arxiv.org/abs/2603.16825v1)** | 2026-03-17 | <details><summary>Accep...</summary><p>Accepted to ICRA 2026. 8 pages, 5 figures. Project page available at https://mitrakanishka.github.io/projects/startstop-bci/</p></details> |
-| **[The independence ratio of 4-cycle-free planar graphs](https://arxiv.org/abs/2305.02414v2)** | 2026-03-17 | 14 pages, 4 figures |
-| **[Predicting Biomedical Interactions with Probabilistic Model Selection for Graph Neural Networks](https://arxiv.org/abs/2211.13231v3)** | 2026-03-17 |  |
-| **[Model Medicine: A Clinical Framework for Understanding, Diagnosing, and Treating AI Models](https://arxiv.org/abs/2603.04722v2)** | 2026-03-17 | <details><summary>56 pa...</summary><p>56 pages, 7 figures. Project page: https://jihoonjeong.github.io/model-medicine/</p></details> |
-| **[RaDAR: Relation-aware Diffusion-Asymmetric Graph Contrastive Learning for Recommendation](https://arxiv.org/abs/2603.16800v1)** | 2026-03-17 | <details><summary>12 pa...</summary><p>12 pages, 5 figures. Accepted at WWW 2026</p></details> |
-| **[Improving Code Comprehension through Cognitive-Load Aware Automated Refactoring for Novice Programmers](https://arxiv.org/abs/2603.16791v1)** | 2026-03-17 | <details><summary>Inter...</summary><p>International Conference on Evaluation and Assessment in Software Engineering (EASE), 2026</p></details> |
-| **[LANCE: Low Rank Activation Compression for Efficient On-Device Continual Learning](https://arxiv.org/abs/2509.21617v2)** | 2026-03-17 | 26 pages, 6 figures |
+| **[Unified Policy Value Decomposition for Rapid Adaptation](https://arxiv.org/abs/2603.17947v1)** | 2026-03-18 |  |
+| **[RoboForge: Physically Optimized Text-guided Whole-Body Locomotion for Humanoids](https://arxiv.org/abs/2603.17927v1)** | 2026-03-18 | <details><summary>10 pa...</summary><p>10 pages, 5 figures,submitted to IROS 2026</p></details> |
+| **[Edit Spillover as a Probe: Do Image Editing Models Implicitly Understand World Relations?](https://arxiv.org/abs/2603.17876v1)** | 2026-03-18 |  |
+| **[Mitigating LLM Hallucinations through Domain-Grounded Tiered Retrieval](https://arxiv.org/abs/2603.17872v1)** | 2026-03-18 | <details><summary>14 Pa...</summary><p>14 Pages, 5 Figures, 4 Tables</p></details> |
+| **[RHYME-XT: A Neural Operator for Spatiotemporal Control Systems](https://arxiv.org/abs/2603.17867v1)** | 2026-03-18 | <details><summary>6 pag...</summary><p>6 pages, 5 figures. Submitted to IEEE Control Systems Letters (L-CSS) and CDC 2026</p></details> |
 
 ## Diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[WorldCam: Interactive Autoregressive 3D Gaming Worlds with Camera Pose as a Unifying Geometric Representation](https://arxiv.org/abs/2603.16871v1)** | 2026-03-17 | <details><summary>Proje...</summary><p>Project page is available at https://cvlab-kaist.github.io/WorldCam/</p></details> |
-| **[Demystifing Video Reasoning](https://arxiv.org/abs/2603.16870v1)** | 2026-03-17 | <details><summary>Homep...</summary><p>Homepage: https://www.wruisi.com/demystifying_video_reasoning</p></details> |
-| **[BrickSim: A Physics-Based Simulator for Manipulating Interlocking Brick Assemblies](https://arxiv.org/abs/2603.16853v1)** | 2026-03-17 | 9 pages, 9 figures |
-| **[Internalizing Agency from Reflective Experience](https://arxiv.org/abs/2603.16843v1)** | 2026-03-17 | <details><summary>17 pa...</summary><p>17 pages, 5 figures; Submitted to ICML 2026</p></details> |
-| **[Stochastic Resetting Accelerates Policy Convergence in Reinforcement Learning](https://arxiv.org/abs/2603.16842v1)** | 2026-03-17 | 18 pages, 17 figures |
-| **[Real-Time Decoding of Movement Onset and Offset for Brain-Controlled Rehabilitation Exoskeleton](https://arxiv.org/abs/2603.16825v1)** | 2026-03-17 | <details><summary>Accep...</summary><p>Accepted to ICRA 2026. 8 pages, 5 figures. Project page available at https://mitrakanishka.github.io/projects/startstop-bci/</p></details> |
-| **[The independence ratio of 4-cycle-free planar graphs](https://arxiv.org/abs/2305.02414v2)** | 2026-03-17 | 14 pages, 4 figures |
-| **[Model Medicine: A Clinical Framework for Understanding, Diagnosing, and Treating AI Models](https://arxiv.org/abs/2603.04722v2)** | 2026-03-17 | <details><summary>56 pa...</summary><p>56 pages, 7 figures. Project page: https://jihoonjeong.github.io/model-medicine/</p></details> |
-| **[Diffusion-DRF: Free, Rich, and Differentiable Reward for Video Diffusion Fine-Tuning](https://arxiv.org/abs/2601.04153v2)** | 2026-03-17 | <details><summary>Webpa...</summary><p>Webpage: https://snap-research.github.io/diffusion-drf/</p></details> |
-| **[RaDAR: Relation-aware Diffusion-Asymmetric Graph Contrastive Learning for Recommendation](https://arxiv.org/abs/2603.16800v1)** | 2026-03-17 | <details><summary>12 pa...</summary><p>12 pages, 5 figures. Accepted at WWW 2026</p></details> |
-| **[Adaptive Moments are Surprisingly Effective for Plug-and-Play Diffusion Sampling](https://arxiv.org/abs/2603.16797v1)** | 2026-03-17 |  |
+| **[The Unreasonable Effectiveness of Text Embedding Interpolation for Continuous Image Steering](https://arxiv.org/abs/2603.17998v1)** | 2026-03-18 | <details><summary>Proje...</summary><p>Project Page: https://yigitekin.github.io/diffusion-sliders</p></details> |
+| **[AHOY! Animatable Humans under Occlusion from YouTube Videos with Gaussian Splatting and Video Diffusion Priors](https://arxiv.org/abs/2603.17975v1)** | 2026-03-18 | <details><summary>Our p...</summary><p>Our project page is available at https://miraymen.github.io/ahoy/</p></details> |
+| **[Robust-ComBat: Mitigating Outlier Effects in Diffusion MRI Data Harmonization](https://arxiv.org/abs/2603.17968v1)** | 2026-03-18 | 20 pages, 8 figures |
+| **[LaDe: Unified Multi-Layered Graphic Media Generation and Decomposition](https://arxiv.org/abs/2603.17965v1)** | 2026-03-18 | <details><summary>18 pa...</summary><p>18 pages (main + supp)</p></details> |
+| **[HyperMotionX: The Dataset and Benchmark with DiT-Based Pose-Guided Human Image Animation of Complex Motions](https://arxiv.org/abs/2505.22977v2)** | 2026-03-18 | 17 pages, 7 figures |
+| **[Unified Policy Value Decomposition for Rapid Adaptation](https://arxiv.org/abs/2603.17947v1)** | 2026-03-18 |  |
+| **[RoboForge: Physically Optimized Text-guided Whole-Body Locomotion for Humanoids](https://arxiv.org/abs/2603.17927v1)** | 2026-03-18 | <details><summary>10 pa...</summary><p>10 pages, 5 figures,submitted to IROS 2026</p></details> |
+| **[Training Diffusion Language Models for Black-Box Optimization](https://arxiv.org/abs/2603.17919v1)** | 2026-03-18 | Preprint |
+| **[Global Optimization By Gradient From Hierarchical Score-Matching Spaces](https://arxiv.org/abs/2601.11639v3)** | 2026-03-18 | <details><summary>Corre...</summary><p>Correct inconsistencies in title capitalization, fix tiny error of one formula and modify it's formatting</p></details> |
 
 ## Object Counting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[BrickSim: A Physics-Based Simulator for Manipulating Interlocking Brick Assemblies](https://arxiv.org/abs/2603.16853v1)** | 2026-03-17 | 9 pages, 9 figures |
-| **[Internalizing Agency from Reflective Experience](https://arxiv.org/abs/2603.16843v1)** | 2026-03-17 | <details><summary>17 pa...</summary><p>17 pages, 5 figures; Submitted to ICML 2026</p></details> |
-| **[Real-Time Decoding of Movement Onset and Offset for Brain-Controlled Rehabilitation Exoskeleton](https://arxiv.org/abs/2603.16825v1)** | 2026-03-17 | <details><summary>Accep...</summary><p>Accepted to ICRA 2026. 8 pages, 5 figures. Project page available at https://mitrakanishka.github.io/projects/startstop-bci/</p></details> |
-| **[The independence ratio of 4-cycle-free planar graphs](https://arxiv.org/abs/2305.02414v2)** | 2026-03-17 | 14 pages, 4 figures |
-| **[Model Medicine: A Clinical Framework for Understanding, Diagnosing, and Treating AI Models](https://arxiv.org/abs/2603.04722v2)** | 2026-03-17 | <details><summary>56 pa...</summary><p>56 pages, 7 figures. Project page: https://jihoonjeong.github.io/model-medicine/</p></details> |
-| **[RaDAR: Relation-aware Diffusion-Asymmetric Graph Contrastive Learning for Recommendation](https://arxiv.org/abs/2603.16800v1)** | 2026-03-17 | <details><summary>12 pa...</summary><p>12 pages, 5 figures. Accepted at WWW 2026</p></details> |
-| **[Improving Code Comprehension through Cognitive-Load Aware Automated Refactoring for Novice Programmers](https://arxiv.org/abs/2603.16791v1)** | 2026-03-17 | <details><summary>Inter...</summary><p>International Conference on Evaluation and Assessment in Software Engineering (EASE), 2026</p></details> |
-| **[LANCE: Low Rank Activation Compression for Efficient On-Device Continual Learning](https://arxiv.org/abs/2509.21617v2)** | 2026-03-17 | 26 pages, 6 figures |
+| **[Unified Policy Value Decomposition for Rapid Adaptation](https://arxiv.org/abs/2603.17947v1)** | 2026-03-18 |  |
+| **[RoboForge: Physically Optimized Text-guided Whole-Body Locomotion for Humanoids](https://arxiv.org/abs/2603.17927v1)** | 2026-03-18 | <details><summary>10 pa...</summary><p>10 pages, 5 figures,submitted to IROS 2026</p></details> |
+| **[Edit Spillover as a Probe: Do Image Editing Models Implicitly Understand World Relations?](https://arxiv.org/abs/2603.17876v1)** | 2026-03-18 |  |
+| **[Mitigating LLM Hallucinations through Domain-Grounded Tiered Retrieval](https://arxiv.org/abs/2603.17872v1)** | 2026-03-18 | <details><summary>14 Pa...</summary><p>14 Pages, 5 Figures, 4 Tables</p></details> |
+| **[RHYME-XT: A Neural Operator for Spatiotemporal Control Systems](https://arxiv.org/abs/2603.17867v1)** | 2026-03-18 | <details><summary>6 pag...</summary><p>6 pages, 5 figures. Submitted to IEEE Control Systems Letters (L-CSS) and CDC 2026</p></details> |
+| **[Dynamic-ICP: Doppler-Aware Iterative Closest Point Registration for Dynamic Scenes](https://arxiv.org/abs/2511.20292v3)** | 2026-03-18 | 8 pages, 5 figures |
 
 ## Image Caption
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[BrickSim: A Physics-Based Simulator for Manipulating Interlocking Brick Assemblies](https://arxiv.org/abs/2603.16853v1)** | 2026-03-17 | 9 pages, 9 figures |
-| **[Internalizing Agency from Reflective Experience](https://arxiv.org/abs/2603.16843v1)** | 2026-03-17 | <details><summary>17 pa...</summary><p>17 pages, 5 figures; Submitted to ICML 2026</p></details> |
-| **[Real-Time Decoding of Movement Onset and Offset for Brain-Controlled Rehabilitation Exoskeleton](https://arxiv.org/abs/2603.16825v1)** | 2026-03-17 | <details><summary>Accep...</summary><p>Accepted to ICRA 2026. 8 pages, 5 figures. Project page available at https://mitrakanishka.github.io/projects/startstop-bci/</p></details> |
-| **[The independence ratio of 4-cycle-free planar graphs](https://arxiv.org/abs/2305.02414v2)** | 2026-03-17 | 14 pages, 4 figures |
-| **[Model Medicine: A Clinical Framework for Understanding, Diagnosing, and Treating AI Models](https://arxiv.org/abs/2603.04722v2)** | 2026-03-17 | <details><summary>56 pa...</summary><p>56 pages, 7 figures. Project page: https://jihoonjeong.github.io/model-medicine/</p></details> |
-| **[RaDAR: Relation-aware Diffusion-Asymmetric Graph Contrastive Learning for Recommendation](https://arxiv.org/abs/2603.16800v1)** | 2026-03-17 | <details><summary>12 pa...</summary><p>12 pages, 5 figures. Accepted at WWW 2026</p></details> |
-| **[Improving Code Comprehension through Cognitive-Load Aware Automated Refactoring for Novice Programmers](https://arxiv.org/abs/2603.16791v1)** | 2026-03-17 | <details><summary>Inter...</summary><p>International Conference on Evaluation and Assessment in Software Engineering (EASE), 2026</p></details> |
-| **[LANCE: Low Rank Activation Compression for Efficient On-Device Continual Learning](https://arxiv.org/abs/2509.21617v2)** | 2026-03-17 | 26 pages, 6 figures |
+| **[Unified Policy Value Decomposition for Rapid Adaptation](https://arxiv.org/abs/2603.17947v1)** | 2026-03-18 |  |
+| **[RoboForge: Physically Optimized Text-guided Whole-Body Locomotion for Humanoids](https://arxiv.org/abs/2603.17927v1)** | 2026-03-18 | <details><summary>10 pa...</summary><p>10 pages, 5 figures,submitted to IROS 2026</p></details> |
+| **[Edit Spillover as a Probe: Do Image Editing Models Implicitly Understand World Relations?](https://arxiv.org/abs/2603.17876v1)** | 2026-03-18 |  |
+| **[Mitigating LLM Hallucinations through Domain-Grounded Tiered Retrieval](https://arxiv.org/abs/2603.17872v1)** | 2026-03-18 | <details><summary>14 Pa...</summary><p>14 Pages, 5 Figures, 4 Tables</p></details> |
+| **[RHYME-XT: A Neural Operator for Spatiotemporal Control Systems](https://arxiv.org/abs/2603.17867v1)** | 2026-03-18 | <details><summary>6 pag...</summary><p>6 pages, 5 figures. Submitted to IEEE Control Systems Letters (L-CSS) and CDC 2026</p></details> |
+| **[Dynamic-ICP: Doppler-Aware Iterative Closest Point Registration for Dynamic Scenes](https://arxiv.org/abs/2511.20292v3)** | 2026-03-18 | 8 pages, 5 figures |
 
 ## Describe
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[BrickSim: A Physics-Based Simulator for Manipulating Interlocking Brick Assemblies](https://arxiv.org/abs/2603.16853v1)** | 2026-03-17 | 9 pages, 9 figures |
-| **[Internalizing Agency from Reflective Experience](https://arxiv.org/abs/2603.16843v1)** | 2026-03-17 | <details><summary>17 pa...</summary><p>17 pages, 5 figures; Submitted to ICML 2026</p></details> |
-| **[Real-Time Decoding of Movement Onset and Offset for Brain-Controlled Rehabilitation Exoskeleton](https://arxiv.org/abs/2603.16825v1)** | 2026-03-17 | <details><summary>Accep...</summary><p>Accepted to ICRA 2026. 8 pages, 5 figures. Project page available at https://mitrakanishka.github.io/projects/startstop-bci/</p></details> |
-| **[The independence ratio of 4-cycle-free planar graphs](https://arxiv.org/abs/2305.02414v2)** | 2026-03-17 | 14 pages, 4 figures |
-| **[Model Medicine: A Clinical Framework for Understanding, Diagnosing, and Treating AI Models](https://arxiv.org/abs/2603.04722v2)** | 2026-03-17 | <details><summary>56 pa...</summary><p>56 pages, 7 figures. Project page: https://jihoonjeong.github.io/model-medicine/</p></details> |
-| **[A low-data, low-cost, and open-source workflow for 3D printing lithographs for digital accessibility of microscopy images](https://arxiv.org/abs/2603.16801v1)** | 2026-03-17 | <details><summary>3 fig...</summary><p>3 figures, Abigale Stangl and Andrew K. Schulz are co-corresponding authors</p></details> |
-| **[RaDAR: Relation-aware Diffusion-Asymmetric Graph Contrastive Learning for Recommendation](https://arxiv.org/abs/2603.16800v1)** | 2026-03-17 | <details><summary>12 pa...</summary><p>12 pages, 5 figures. Accepted at WWW 2026</p></details> |
-| **[Improving Code Comprehension through Cognitive-Load Aware Automated Refactoring for Novice Programmers](https://arxiv.org/abs/2603.16791v1)** | 2026-03-17 | <details><summary>Inter...</summary><p>International Conference on Evaluation and Assessment in Software Engineering (EASE), 2026</p></details> |
+| **[Unified Policy Value Decomposition for Rapid Adaptation](https://arxiv.org/abs/2603.17947v1)** | 2026-03-18 |  |
+| **[RoboForge: Physically Optimized Text-guided Whole-Body Locomotion for Humanoids](https://arxiv.org/abs/2603.17927v1)** | 2026-03-18 | <details><summary>10 pa...</summary><p>10 pages, 5 figures,submitted to IROS 2026</p></details> |
+| **[Multi-Armed Sequential Hypothesis Testing by Betting](https://arxiv.org/abs/2603.17925v1)** | 2026-03-18 |  |
 
 ## Light Weight
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[BrickSim: A Physics-Based Simulator for Manipulating Interlocking Brick Assemblies](https://arxiv.org/abs/2603.16853v1)** | 2026-03-17 | 9 pages, 9 figures |
-| **[Internalizing Agency from Reflective Experience](https://arxiv.org/abs/2603.16843v1)** | 2026-03-17 | <details><summary>17 pa...</summary><p>17 pages, 5 figures; Submitted to ICML 2026</p></details> |
-| **[Real-Time Decoding of Movement Onset and Offset for Brain-Controlled Rehabilitation Exoskeleton](https://arxiv.org/abs/2603.16825v1)** | 2026-03-17 | <details><summary>Accep...</summary><p>Accepted to ICRA 2026. 8 pages, 5 figures. Project page available at https://mitrakanishka.github.io/projects/startstop-bci/</p></details> |
-| **[The independence ratio of 4-cycle-free planar graphs](https://arxiv.org/abs/2305.02414v2)** | 2026-03-17 | 14 pages, 4 figures |
-| **[Model Medicine: A Clinical Framework for Understanding, Diagnosing, and Treating AI Models](https://arxiv.org/abs/2603.04722v2)** | 2026-03-17 | <details><summary>56 pa...</summary><p>56 pages, 7 figures. Project page: https://jihoonjeong.github.io/model-medicine/</p></details> |
-| **[RaDAR: Relation-aware Diffusion-Asymmetric Graph Contrastive Learning for Recommendation](https://arxiv.org/abs/2603.16800v1)** | 2026-03-17 | <details><summary>12 pa...</summary><p>12 pages, 5 figures. Accepted at WWW 2026</p></details> |
-| **[Improving Code Comprehension through Cognitive-Load Aware Automated Refactoring for Novice Programmers](https://arxiv.org/abs/2603.16791v1)** | 2026-03-17 | <details><summary>Inter...</summary><p>International Conference on Evaluation and Assessment in Software Engineering (EASE), 2026</p></details> |
-| **[LANCE: Low Rank Activation Compression for Efficient On-Device Continual Learning](https://arxiv.org/abs/2509.21617v2)** | 2026-03-17 | 26 pages, 6 figures |
+| **[Unified Policy Value Decomposition for Rapid Adaptation](https://arxiv.org/abs/2603.17947v1)** | 2026-03-18 |  |
+| **[RoboForge: Physically Optimized Text-guided Whole-Body Locomotion for Humanoids](https://arxiv.org/abs/2603.17927v1)** | 2026-03-18 | <details><summary>10 pa...</summary><p>10 pages, 5 figures,submitted to IROS 2026</p></details> |
+| **[Edit Spillover as a Probe: Do Image Editing Models Implicitly Understand World Relations?](https://arxiv.org/abs/2603.17876v1)** | 2026-03-18 |  |
+| **[Mitigating LLM Hallucinations through Domain-Grounded Tiered Retrieval](https://arxiv.org/abs/2603.17872v1)** | 2026-03-18 | <details><summary>14 Pa...</summary><p>14 Pages, 5 Figures, 4 Tables</p></details> |
+| **[RHYME-XT: A Neural Operator for Spatiotemporal Control Systems](https://arxiv.org/abs/2603.17867v1)** | 2026-03-18 | <details><summary>6 pag...</summary><p>6 pages, 5 figures. Submitted to IEEE Control Systems Letters (L-CSS) and CDC 2026</p></details> |
+| **[Dynamic-ICP: Doppler-Aware Iterative Closest Point Registration for Dynamic Scenes](https://arxiv.org/abs/2511.20292v3)** | 2026-03-18 | 8 pages, 5 figures |
 
 ## Class Incremental
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[BrickSim: A Physics-Based Simulator for Manipulating Interlocking Brick Assemblies](https://arxiv.org/abs/2603.16853v1)** | 2026-03-17 | 9 pages, 9 figures |
-| **[Internalizing Agency from Reflective Experience](https://arxiv.org/abs/2603.16843v1)** | 2026-03-17 | <details><summary>17 pa...</summary><p>17 pages, 5 figures; Submitted to ICML 2026</p></details> |
-| **[Real-Time Decoding of Movement Onset and Offset for Brain-Controlled Rehabilitation Exoskeleton](https://arxiv.org/abs/2603.16825v1)** | 2026-03-17 | <details><summary>Accep...</summary><p>Accepted to ICRA 2026. 8 pages, 5 figures. Project page available at https://mitrakanishka.github.io/projects/startstop-bci/</p></details> |
-| **[The independence ratio of 4-cycle-free planar graphs](https://arxiv.org/abs/2305.02414v2)** | 2026-03-17 | 14 pages, 4 figures |
-| **[Model Medicine: A Clinical Framework for Understanding, Diagnosing, and Treating AI Models](https://arxiv.org/abs/2603.04722v2)** | 2026-03-17 | <details><summary>56 pa...</summary><p>56 pages, 7 figures. Project page: https://jihoonjeong.github.io/model-medicine/</p></details> |
-| **[RaDAR: Relation-aware Diffusion-Asymmetric Graph Contrastive Learning for Recommendation](https://arxiv.org/abs/2603.16800v1)** | 2026-03-17 | <details><summary>12 pa...</summary><p>12 pages, 5 figures. Accepted at WWW 2026</p></details> |
-| **[Improving Code Comprehension through Cognitive-Load Aware Automated Refactoring for Novice Programmers](https://arxiv.org/abs/2603.16791v1)** | 2026-03-17 | <details><summary>Inter...</summary><p>International Conference on Evaluation and Assessment in Software Engineering (EASE), 2026</p></details> |
-| **[LANCE: Low Rank Activation Compression for Efficient On-Device Continual Learning](https://arxiv.org/abs/2509.21617v2)** | 2026-03-17 | 26 pages, 6 figures |
+| **[Unified Policy Value Decomposition for Rapid Adaptation](https://arxiv.org/abs/2603.17947v1)** | 2026-03-18 |  |
+| **[RoboForge: Physically Optimized Text-guided Whole-Body Locomotion for Humanoids](https://arxiv.org/abs/2603.17927v1)** | 2026-03-18 | <details><summary>10 pa...</summary><p>10 pages, 5 figures,submitted to IROS 2026</p></details> |
+| **[Edit Spillover as a Probe: Do Image Editing Models Implicitly Understand World Relations?](https://arxiv.org/abs/2603.17876v1)** | 2026-03-18 |  |
+| **[Mitigating LLM Hallucinations through Domain-Grounded Tiered Retrieval](https://arxiv.org/abs/2603.17872v1)** | 2026-03-18 | <details><summary>14 Pa...</summary><p>14 Pages, 5 Figures, 4 Tables</p></details> |
+| **[RHYME-XT: A Neural Operator for Spatiotemporal Control Systems](https://arxiv.org/abs/2603.17867v1)** | 2026-03-18 | <details><summary>6 pag...</summary><p>6 pages, 5 figures. Submitted to IEEE Control Systems Letters (L-CSS) and CDC 2026</p></details> |
+| **[Dynamic-ICP: Doppler-Aware Iterative Closest Point Registration for Dynamic Scenes](https://arxiv.org/abs/2511.20292v3)** | 2026-03-18 | 8 pages, 5 figures |
 
