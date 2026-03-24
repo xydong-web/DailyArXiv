@@ -1,5 +1,5 @@
 ---
-title: Latest 50 Papers - March 24, 2026
+title: Latest 50 Papers - March 25, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/JiamingZang/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,124 +7,110 @@ labels: documentation
 ## Molecular
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[VideoSeek: Long-Horizon Video Agent with Tool-Guided Seeking](https://arxiv.org/abs/2603.20185v1)** | 2026-03-20 | <details><summary>Accep...</summary><p>Accepted at CVPR 2026</p></details> |
-| **[Kolmogorov-Arnold causal generative models](https://arxiv.org/abs/2603.20184v1)** | 2026-03-20 | <details><summary>14 pa...</summary><p>14 pages, 8 figures, 3 tables, 5 algorithms, preprint</p></details> |
-| **[Latent Action Diffusion for Cross-Embodiment Manipulation](https://arxiv.org/abs/2506.14608v4)** | 2026-03-20 | <details><summary>8 pag...</summary><p>8 pages, 5 figures. Accepted to the 2026 IEEE International Conference on Robotics & Automation (ICRA). Website: https://mimicrobotics.github.io/lad/</p></details> |
-| **[Measuring Faithfulness Depends on How You Measure: Classifier Sensitivity in LLM Chain-of-Thought Evaluation](https://arxiv.org/abs/2603.20172v1)** | 2026-03-20 | <details><summary>14 pa...</summary><p>14 pages, 4 figures, 5 tables</p></details> |
-| **[The Robot's Inner Critic: Self-Refinement of Social Behaviors through VLM-based Replanning](https://arxiv.org/abs/2603.20164v1)** | 2026-03-20 | <details><summary>Accep...</summary><p>Accepted to ICRA 2026. 8 pages, 9 figures, Project page: https://limjiyu99.github.io/inner-critic/</p></details> |
-| **[Current LLMs still cannot 'talk much' about grammar modules: Evidence from syntax](https://arxiv.org/abs/2603.20114v1)** | 2026-03-20 | 15 pages |
-| **[DETECT: Data-Driven Evaluation of Treatments Enabled by Classification Transformers](https://arxiv.org/abs/2511.07213v3)** | 2026-03-20 | <details><summary>5 pag...</summary><p>5 pages, 4 figures, 2 tables, presented and awarded Best Paper Runner-Up at the IEEE ICDM 2025 UGHS Symposium</p></details> |
-| **[Beyond Accuracy: Towards a Robust Evaluation Methodology for AI Systems for Language Education](https://arxiv.org/abs/2603.20088v1)** | 2026-03-20 |  |
-| **[Causal Learning in Biomedical Applications: Krebs Cycle as a Benchmark](https://arxiv.org/abs/2406.15189v3)** | 2026-03-20 |  |
-| **[The End of Rented Discovery: How AI Search Redistributes Power Between Hotels and Intermediaries](https://arxiv.org/abs/2603.20062v1)** | 2026-03-20 | <details><summary>13 pa...</summary><p>13 pages, 10 tables, Submitted to the 10th Hospitality Finance & Economics Conference (HFE 2026), Tokyo, Japan</p></details> |
+| **[ThinkJEPA: Empowering Latent World Models with Large Vision-Language Reasoning Model](https://arxiv.org/abs/2603.22281v1)** | 2026-03-23 | 10 pages, 5 figures |
+| **[The Price of Progress: Price Performance and the Future of AI](https://arxiv.org/abs/2511.23455v2)** | 2026-03-23 |  |
+| **[Characterizing High-Capacity Janus Aminobenzene-Graphene Anode for Sodium-Ion Batteries with Machine Learning](https://arxiv.org/abs/2603.22254v1)** | 2026-03-23 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, research article</p></details> |
+| **[Measuring Iterative Temporal Reasoning with Time Puzzles](https://arxiv.org/abs/2601.07148v3)** | 2026-03-23 | <details><summary>11 pa...</summary><p>11 pages, 4 tables, 3 figures</p></details> |
+| **[Evaluating the Reliability and Fidelity of Automated Judgment Systems of Large Language Models](https://arxiv.org/abs/2603.22214v1)** | 2026-03-23 |  |
+| **[Separators for intersection graphs of spheres](https://arxiv.org/abs/2603.22204v1)** | 2026-03-23 | <details><summary>14 pa...</summary><p>14 pages, 5 figures; to appear in SoCG 2026</p></details> |
+| **[Make Tracking Easy: Neural Motion Retargeting for Humanoid Whole-body Control](https://arxiv.org/abs/2603.22201v1)** | 2026-03-23 | <details><summary>Repor...</summary><p>Report, 12 pages, 5 figures, 4 tables</p></details> |
+| **[MARCUS: An agentic, multimodal vision-language model for cardiac diagnosis and management](https://arxiv.org/abs/2603.22179v1)** | 2026-03-23 |  |
 
 ## Molecular Generation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[VideoSeek: Long-Horizon Video Agent with Tool-Guided Seeking](https://arxiv.org/abs/2603.20185v1)** | 2026-03-20 | <details><summary>Accep...</summary><p>Accepted at CVPR 2026</p></details> |
-| **[Kolmogorov-Arnold causal generative models](https://arxiv.org/abs/2603.20184v1)** | 2026-03-20 | <details><summary>14 pa...</summary><p>14 pages, 8 figures, 3 tables, 5 algorithms, preprint</p></details> |
-| **[Latent Action Diffusion for Cross-Embodiment Manipulation](https://arxiv.org/abs/2506.14608v4)** | 2026-03-20 | <details><summary>8 pag...</summary><p>8 pages, 5 figures. Accepted to the 2026 IEEE International Conference on Robotics & Automation (ICRA). Website: https://mimicrobotics.github.io/lad/</p></details> |
-| **[Measuring Faithfulness Depends on How You Measure: Classifier Sensitivity in LLM Chain-of-Thought Evaluation](https://arxiv.org/abs/2603.20172v1)** | 2026-03-20 | <details><summary>14 pa...</summary><p>14 pages, 4 figures, 5 tables</p></details> |
-| **[The Robot's Inner Critic: Self-Refinement of Social Behaviors through VLM-based Replanning](https://arxiv.org/abs/2603.20164v1)** | 2026-03-20 | <details><summary>Accep...</summary><p>Accepted to ICRA 2026. 8 pages, 9 figures, Project page: https://limjiyu99.github.io/inner-critic/</p></details> |
-| **[Current LLMs still cannot 'talk much' about grammar modules: Evidence from syntax](https://arxiv.org/abs/2603.20114v1)** | 2026-03-20 | 15 pages |
-| **[DETECT: Data-Driven Evaluation of Treatments Enabled by Classification Transformers](https://arxiv.org/abs/2511.07213v3)** | 2026-03-20 | <details><summary>5 pag...</summary><p>5 pages, 4 figures, 2 tables, presented and awarded Best Paper Runner-Up at the IEEE ICDM 2025 UGHS Symposium</p></details> |
-| **[Beyond Accuracy: Towards a Robust Evaluation Methodology for AI Systems for Language Education](https://arxiv.org/abs/2603.20088v1)** | 2026-03-20 |  |
-| **[The End of Rented Discovery: How AI Search Redistributes Power Between Hotels and Intermediaries](https://arxiv.org/abs/2603.20062v1)** | 2026-03-20 | <details><summary>13 pa...</summary><p>13 pages, 10 tables, Submitted to the 10th Hospitality Finance & Economics Conference (HFE 2026), Tokyo, Japan</p></details> |
+| **[ThinkJEPA: Empowering Latent World Models with Large Vision-Language Reasoning Model](https://arxiv.org/abs/2603.22281v1)** | 2026-03-23 | 10 pages, 5 figures |
+| **[The Price of Progress: Price Performance and the Future of AI](https://arxiv.org/abs/2511.23455v2)** | 2026-03-23 |  |
+| **[Characterizing High-Capacity Janus Aminobenzene-Graphene Anode for Sodium-Ion Batteries with Machine Learning](https://arxiv.org/abs/2603.22254v1)** | 2026-03-23 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, research article</p></details> |
+| **[Measuring Iterative Temporal Reasoning with Time Puzzles](https://arxiv.org/abs/2601.07148v3)** | 2026-03-23 | <details><summary>11 pa...</summary><p>11 pages, 4 tables, 3 figures</p></details> |
+| **[Evaluating the Reliability and Fidelity of Automated Judgment Systems of Large Language Models](https://arxiv.org/abs/2603.22214v1)** | 2026-03-23 |  |
+| **[Separators for intersection graphs of spheres](https://arxiv.org/abs/2603.22204v1)** | 2026-03-23 | <details><summary>14 pa...</summary><p>14 pages, 5 figures; to appear in SoCG 2026</p></details> |
+| **[Make Tracking Easy: Neural Motion Retargeting for Humanoid Whole-body Control](https://arxiv.org/abs/2603.22201v1)** | 2026-03-23 | <details><summary>Repor...</summary><p>Report, 12 pages, 5 figures, 4 tables</p></details> |
+| **[MARCUS: An agentic, multimodal vision-language model for cardiac diagnosis and management](https://arxiv.org/abs/2603.22179v1)** | 2026-03-23 |  |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[VideoSeek: Long-Horizon Video Agent with Tool-Guided Seeking](https://arxiv.org/abs/2603.20185v1)** | 2026-03-20 | <details><summary>Accep...</summary><p>Accepted at CVPR 2026</p></details> |
-| **[Kolmogorov-Arnold causal generative models](https://arxiv.org/abs/2603.20184v1)** | 2026-03-20 | <details><summary>14 pa...</summary><p>14 pages, 8 figures, 3 tables, 5 algorithms, preprint</p></details> |
-| **[Latent Action Diffusion for Cross-Embodiment Manipulation](https://arxiv.org/abs/2506.14608v4)** | 2026-03-20 | <details><summary>8 pag...</summary><p>8 pages, 5 figures. Accepted to the 2026 IEEE International Conference on Robotics & Automation (ICRA). Website: https://mimicrobotics.github.io/lad/</p></details> |
-| **[Measuring Faithfulness Depends on How You Measure: Classifier Sensitivity in LLM Chain-of-Thought Evaluation](https://arxiv.org/abs/2603.20172v1)** | 2026-03-20 | <details><summary>14 pa...</summary><p>14 pages, 4 figures, 5 tables</p></details> |
-| **[The Robot's Inner Critic: Self-Refinement of Social Behaviors through VLM-based Replanning](https://arxiv.org/abs/2603.20164v1)** | 2026-03-20 | <details><summary>Accep...</summary><p>Accepted to ICRA 2026. 8 pages, 9 figures, Project page: https://limjiyu99.github.io/inner-critic/</p></details> |
-| **[Current LLMs still cannot 'talk much' about grammar modules: Evidence from syntax](https://arxiv.org/abs/2603.20114v1)** | 2026-03-20 | 15 pages |
-| **[DETECT: Data-Driven Evaluation of Treatments Enabled by Classification Transformers](https://arxiv.org/abs/2511.07213v3)** | 2026-03-20 | <details><summary>5 pag...</summary><p>5 pages, 4 figures, 2 tables, presented and awarded Best Paper Runner-Up at the IEEE ICDM 2025 UGHS Symposium</p></details> |
-| **[Beyond Accuracy: Towards a Robust Evaluation Methodology for AI Systems for Language Education](https://arxiv.org/abs/2603.20088v1)** | 2026-03-20 |  |
-| **[The End of Rented Discovery: How AI Search Redistributes Power Between Hotels and Intermediaries](https://arxiv.org/abs/2603.20062v1)** | 2026-03-20 | <details><summary>13 pa...</summary><p>13 pages, 10 tables, Submitted to the 10th Hospitality Finance & Economics Conference (HFE 2026), Tokyo, Japan</p></details> |
+| **[ThinkJEPA: Empowering Latent World Models with Large Vision-Language Reasoning Model](https://arxiv.org/abs/2603.22281v1)** | 2026-03-23 | 10 pages, 5 figures |
+| **[The Price of Progress: Price Performance and the Future of AI](https://arxiv.org/abs/2511.23455v2)** | 2026-03-23 |  |
+| **[Characterizing High-Capacity Janus Aminobenzene-Graphene Anode for Sodium-Ion Batteries with Machine Learning](https://arxiv.org/abs/2603.22254v1)** | 2026-03-23 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, research article</p></details> |
+| **[Measuring Iterative Temporal Reasoning with Time Puzzles](https://arxiv.org/abs/2601.07148v3)** | 2026-03-23 | <details><summary>11 pa...</summary><p>11 pages, 4 tables, 3 figures</p></details> |
+| **[Evaluating the Reliability and Fidelity of Automated Judgment Systems of Large Language Models](https://arxiv.org/abs/2603.22214v1)** | 2026-03-23 |  |
+| **[Separators for intersection graphs of spheres](https://arxiv.org/abs/2603.22204v1)** | 2026-03-23 | <details><summary>14 pa...</summary><p>14 pages, 5 figures; to appear in SoCG 2026</p></details> |
+| **[Make Tracking Easy: Neural Motion Retargeting for Humanoid Whole-body Control](https://arxiv.org/abs/2603.22201v1)** | 2026-03-23 | <details><summary>Repor...</summary><p>Report, 12 pages, 5 figures, 4 tables</p></details> |
+| **[MARCUS: An agentic, multimodal vision-language model for cardiac diagnosis and management](https://arxiv.org/abs/2603.22179v1)** | 2026-03-23 |  |
 
 ## Diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[LumosX: Relate Any Identities with Their Attributes for Personalized Video Generation](https://arxiv.org/abs/2603.20192v1)** | 2026-03-20 | <details><summary>ICLR ...</summary><p>ICLR 2026 Camera Ready Version. Code and Models: https://jiazheng-xing.github.io/lumosx-home/</p></details> |
-| **[Wildfire Spread Scenarios: Increasing Sample Diversity of Segmentation Diffusion Models with Training-Free Methods](https://arxiv.org/abs/2603.20188v1)** | 2026-03-20 | <details><summary>Accep...</summary><p>Accepted at NLDL 2026. This version contains small corrections compared to the initial publication, see appendix for details</p></details> |
-| **[VideoSeek: Long-Horizon Video Agent with Tool-Guided Seeking](https://arxiv.org/abs/2603.20185v1)** | 2026-03-20 | <details><summary>Accep...</summary><p>Accepted at CVPR 2026</p></details> |
-| **[Kolmogorov-Arnold causal generative models](https://arxiv.org/abs/2603.20184v1)** | 2026-03-20 | <details><summary>14 pa...</summary><p>14 pages, 8 figures, 3 tables, 5 algorithms, preprint</p></details> |
-| **[Latent Action Diffusion for Cross-Embodiment Manipulation](https://arxiv.org/abs/2506.14608v4)** | 2026-03-20 | <details><summary>8 pag...</summary><p>8 pages, 5 figures. Accepted to the 2026 IEEE International Conference on Robotics & Automation (ICRA). Website: https://mimicrobotics.github.io/lad/</p></details> |
-| **[LagerNVS: Latent Geometry for Fully Neural Real-time Novel View Synthesis](https://arxiv.org/abs/2603.20176v1)** | 2026-03-20 | <details><summary>IEEE ...</summary><p>IEEE CVF Conference on Computer Vision and Pattern Recognition 2026. Project page with code, models and examples: szymanowiczs.github.io/lagernvs</p></details> |
-| **[Measuring Faithfulness Depends on How You Measure: Classifier Sensitivity in LLM Chain-of-Thought Evaluation](https://arxiv.org/abs/2603.20172v1)** | 2026-03-20 | <details><summary>14 pa...</summary><p>14 pages, 4 figures, 5 tables</p></details> |
-| **[EgoForge: Goal-Directed Egocentric World Simulator](https://arxiv.org/abs/2603.20169v1)** | 2026-03-20 |  |
-| **[The Robot's Inner Critic: Self-Refinement of Social Behaviors through VLM-based Replanning](https://arxiv.org/abs/2603.20164v1)** | 2026-03-20 | <details><summary>Accep...</summary><p>Accepted to ICRA 2026. 8 pages, 9 figures, Project page: https://limjiyu99.github.io/inner-critic/</p></details> |
-| **[Beyond Single Tokens: Distilling Discrete Diffusion Models via Discrete MMD](https://arxiv.org/abs/2603.20155v1)** | 2026-03-20 |  |
-| **[Schrödinger Bridge Over A Compact Connected Lie Group](https://arxiv.org/abs/2603.14049v2)** | 2026-03-20 |  |
-| **[In-and-Out: Algorithmic Diffusion for Sampling Convex Bodies](https://arxiv.org/abs/2405.01425v4)** | 2026-03-20 | <details><summary>To ap...</summary><p>To appear in Random Structures & Algorithms; conference version appeared in NeurIPS 2024 (spotlight)</p></details> |
-| **[Current LLMs still cannot 'talk much' about grammar modules: Evidence from syntax](https://arxiv.org/abs/2603.20114v1)** | 2026-03-20 | 15 pages |
-| **[DETECT: Data-Driven Evaluation of Treatments Enabled by Classification Transformers](https://arxiv.org/abs/2511.07213v3)** | 2026-03-20 | <details><summary>5 pag...</summary><p>5 pages, 4 figures, 2 tables, presented and awarded Best Paper Runner-Up at the IEEE ICDM 2025 UGHS Symposium</p></details> |
+| **[WorldCache: Content-Aware Caching for Accelerated Video World Models](https://arxiv.org/abs/2603.22286v1)** | 2026-03-23 | 33 Pages |
+| **[End-to-End Training for Unified Tokenization and Latent Denoising](https://arxiv.org/abs/2603.22283v1)** | 2026-03-23 | <details><summary>First...</summary><p>First two authors contributed equally. Project: https://xingjianbai.com/unite-tokenization-generation/ Code: https://github.com/ShivamDuggal4/UNITE-tokenization-generation</p></details> |
+| **[ThinkJEPA: Empowering Latent World Models with Large Vision-Language Reasoning Model](https://arxiv.org/abs/2603.22281v1)** | 2026-03-23 | 10 pages, 5 figures |
+| **[Repurposing Geometric Foundation Models for Multi-view Diffusion](https://arxiv.org/abs/2603.22275v1)** | 2026-03-23 | <details><summary>proje...</summary><p>project website: https://cvlab-kaist.github.io/GLD/</p></details> |
+| **[DUO-VSR: Dual-Stream Distillation for One-Step Video Super-Resolution](https://arxiv.org/abs/2603.22271v1)** | 2026-03-23 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026</p></details> |
+| **[The Price of Progress: Price Performance and the Future of AI](https://arxiv.org/abs/2511.23455v2)** | 2026-03-23 |  |
+| **[Characterizing High-Capacity Janus Aminobenzene-Graphene Anode for Sodium-Ion Batteries with Machine Learning](https://arxiv.org/abs/2603.22254v1)** | 2026-03-23 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, research article</p></details> |
+| **[Video2Act: A Dual-System Video Diffusion Policy with Robotic Spatio-Motional Modeling](https://arxiv.org/abs/2512.03044v2)** | 2026-03-23 |  |
+| **[Measuring Iterative Temporal Reasoning with Time Puzzles](https://arxiv.org/abs/2601.07148v3)** | 2026-03-23 | <details><summary>11 pa...</summary><p>11 pages, 4 tables, 3 figures</p></details> |
+| **[Confidence-Based Decoding is Provably Efficient for Diffusion Language Models](https://arxiv.org/abs/2603.22248v1)** | 2026-03-23 |  |
+| **[MemDLM: Memory-Enhanced DLM Training](https://arxiv.org/abs/2603.22241v1)** | 2026-03-23 |  |
 
 ## Object Counting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[VideoSeek: Long-Horizon Video Agent with Tool-Guided Seeking](https://arxiv.org/abs/2603.20185v1)** | 2026-03-20 | <details><summary>Accep...</summary><p>Accepted at CVPR 2026</p></details> |
-| **[Kolmogorov-Arnold causal generative models](https://arxiv.org/abs/2603.20184v1)** | 2026-03-20 | <details><summary>14 pa...</summary><p>14 pages, 8 figures, 3 tables, 5 algorithms, preprint</p></details> |
-| **[Latent Action Diffusion for Cross-Embodiment Manipulation](https://arxiv.org/abs/2506.14608v4)** | 2026-03-20 | <details><summary>8 pag...</summary><p>8 pages, 5 figures. Accepted to the 2026 IEEE International Conference on Robotics & Automation (ICRA). Website: https://mimicrobotics.github.io/lad/</p></details> |
-| **[Measuring Faithfulness Depends on How You Measure: Classifier Sensitivity in LLM Chain-of-Thought Evaluation](https://arxiv.org/abs/2603.20172v1)** | 2026-03-20 | <details><summary>14 pa...</summary><p>14 pages, 4 figures, 5 tables</p></details> |
-| **[The Robot's Inner Critic: Self-Refinement of Social Behaviors through VLM-based Replanning](https://arxiv.org/abs/2603.20164v1)** | 2026-03-20 | <details><summary>Accep...</summary><p>Accepted to ICRA 2026. 8 pages, 9 figures, Project page: https://limjiyu99.github.io/inner-critic/</p></details> |
-| **[Current LLMs still cannot 'talk much' about grammar modules: Evidence from syntax](https://arxiv.org/abs/2603.20114v1)** | 2026-03-20 | 15 pages |
-| **[DETECT: Data-Driven Evaluation of Treatments Enabled by Classification Transformers](https://arxiv.org/abs/2511.07213v3)** | 2026-03-20 | <details><summary>5 pag...</summary><p>5 pages, 4 figures, 2 tables, presented and awarded Best Paper Runner-Up at the IEEE ICDM 2025 UGHS Symposium</p></details> |
-| **[Beyond Accuracy: Towards a Robust Evaluation Methodology for AI Systems for Language Education](https://arxiv.org/abs/2603.20088v1)** | 2026-03-20 |  |
-| **[The End of Rented Discovery: How AI Search Redistributes Power Between Hotels and Intermediaries](https://arxiv.org/abs/2603.20062v1)** | 2026-03-20 | <details><summary>13 pa...</summary><p>13 pages, 10 tables, Submitted to the 10th Hospitality Finance & Economics Conference (HFE 2026), Tokyo, Japan</p></details> |
+| **[ThinkJEPA: Empowering Latent World Models with Large Vision-Language Reasoning Model](https://arxiv.org/abs/2603.22281v1)** | 2026-03-23 | 10 pages, 5 figures |
+| **[The Price of Progress: Price Performance and the Future of AI](https://arxiv.org/abs/2511.23455v2)** | 2026-03-23 |  |
+| **[Characterizing High-Capacity Janus Aminobenzene-Graphene Anode for Sodium-Ion Batteries with Machine Learning](https://arxiv.org/abs/2603.22254v1)** | 2026-03-23 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, research article</p></details> |
+| **[Measuring Iterative Temporal Reasoning with Time Puzzles](https://arxiv.org/abs/2601.07148v3)** | 2026-03-23 | <details><summary>11 pa...</summary><p>11 pages, 4 tables, 3 figures</p></details> |
+| **[Evaluating the Reliability and Fidelity of Automated Judgment Systems of Large Language Models](https://arxiv.org/abs/2603.22214v1)** | 2026-03-23 |  |
+| **[Separators for intersection graphs of spheres](https://arxiv.org/abs/2603.22204v1)** | 2026-03-23 | <details><summary>14 pa...</summary><p>14 pages, 5 figures; to appear in SoCG 2026</p></details> |
+| **[Make Tracking Easy: Neural Motion Retargeting for Humanoid Whole-body Control](https://arxiv.org/abs/2603.22201v1)** | 2026-03-23 | <details><summary>Repor...</summary><p>Report, 12 pages, 5 figures, 4 tables</p></details> |
+| **[MARCUS: An agentic, multimodal vision-language model for cardiac diagnosis and management](https://arxiv.org/abs/2603.22179v1)** | 2026-03-23 |  |
 
 ## Image Caption
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[VideoSeek: Long-Horizon Video Agent with Tool-Guided Seeking](https://arxiv.org/abs/2603.20185v1)** | 2026-03-20 | <details><summary>Accep...</summary><p>Accepted at CVPR 2026</p></details> |
-| **[Kolmogorov-Arnold causal generative models](https://arxiv.org/abs/2603.20184v1)** | 2026-03-20 | <details><summary>14 pa...</summary><p>14 pages, 8 figures, 3 tables, 5 algorithms, preprint</p></details> |
-| **[Latent Action Diffusion for Cross-Embodiment Manipulation](https://arxiv.org/abs/2506.14608v4)** | 2026-03-20 | <details><summary>8 pag...</summary><p>8 pages, 5 figures. Accepted to the 2026 IEEE International Conference on Robotics & Automation (ICRA). Website: https://mimicrobotics.github.io/lad/</p></details> |
-| **[Measuring Faithfulness Depends on How You Measure: Classifier Sensitivity in LLM Chain-of-Thought Evaluation](https://arxiv.org/abs/2603.20172v1)** | 2026-03-20 | <details><summary>14 pa...</summary><p>14 pages, 4 figures, 5 tables</p></details> |
-| **[The Robot's Inner Critic: Self-Refinement of Social Behaviors through VLM-based Replanning](https://arxiv.org/abs/2603.20164v1)** | 2026-03-20 | <details><summary>Accep...</summary><p>Accepted to ICRA 2026. 8 pages, 9 figures, Project page: https://limjiyu99.github.io/inner-critic/</p></details> |
-| **[Current LLMs still cannot 'talk much' about grammar modules: Evidence from syntax](https://arxiv.org/abs/2603.20114v1)** | 2026-03-20 | 15 pages |
-| **[DETECT: Data-Driven Evaluation of Treatments Enabled by Classification Transformers](https://arxiv.org/abs/2511.07213v3)** | 2026-03-20 | <details><summary>5 pag...</summary><p>5 pages, 4 figures, 2 tables, presented and awarded Best Paper Runner-Up at the IEEE ICDM 2025 UGHS Symposium</p></details> |
-| **[Beyond Accuracy: Towards a Robust Evaluation Methodology for AI Systems for Language Education](https://arxiv.org/abs/2603.20088v1)** | 2026-03-20 |  |
-| **[The End of Rented Discovery: How AI Search Redistributes Power Between Hotels and Intermediaries](https://arxiv.org/abs/2603.20062v1)** | 2026-03-20 | <details><summary>13 pa...</summary><p>13 pages, 10 tables, Submitted to the 10th Hospitality Finance & Economics Conference (HFE 2026), Tokyo, Japan</p></details> |
+| **[ThinkJEPA: Empowering Latent World Models with Large Vision-Language Reasoning Model](https://arxiv.org/abs/2603.22281v1)** | 2026-03-23 | 10 pages, 5 figures |
+| **[The Dual Mechanisms of Spatial Reasoning in Vision-Language Models](https://arxiv.org/abs/2603.22278v1)** | 2026-03-23 | 26 pages, 35 figures |
+| **[The Price of Progress: Price Performance and the Future of AI](https://arxiv.org/abs/2511.23455v2)** | 2026-03-23 |  |
+| **[Characterizing High-Capacity Janus Aminobenzene-Graphene Anode for Sodium-Ion Batteries with Machine Learning](https://arxiv.org/abs/2603.22254v1)** | 2026-03-23 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, research article</p></details> |
+| **[Measuring Iterative Temporal Reasoning with Time Puzzles](https://arxiv.org/abs/2601.07148v3)** | 2026-03-23 | <details><summary>11 pa...</summary><p>11 pages, 4 tables, 3 figures</p></details> |
+| **[Evaluating the Reliability and Fidelity of Automated Judgment Systems of Large Language Models](https://arxiv.org/abs/2603.22214v1)** | 2026-03-23 |  |
+| **[Separators for intersection graphs of spheres](https://arxiv.org/abs/2603.22204v1)** | 2026-03-23 | <details><summary>14 pa...</summary><p>14 pages, 5 figures; to appear in SoCG 2026</p></details> |
+| **[Make Tracking Easy: Neural Motion Retargeting for Humanoid Whole-body Control](https://arxiv.org/abs/2603.22201v1)** | 2026-03-23 | <details><summary>Repor...</summary><p>Report, 12 pages, 5 figures, 4 tables</p></details> |
+| **[MARCUS: An agentic, multimodal vision-language model for cardiac diagnosis and management](https://arxiv.org/abs/2603.22179v1)** | 2026-03-23 |  |
 
 ## Describe
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[VideoSeek: Long-Horizon Video Agent with Tool-Guided Seeking](https://arxiv.org/abs/2603.20185v1)** | 2026-03-20 | <details><summary>Accep...</summary><p>Accepted at CVPR 2026</p></details> |
-| **[Kolmogorov-Arnold causal generative models](https://arxiv.org/abs/2603.20184v1)** | 2026-03-20 | <details><summary>14 pa...</summary><p>14 pages, 8 figures, 3 tables, 5 algorithms, preprint</p></details> |
-| **[Latent Action Diffusion for Cross-Embodiment Manipulation](https://arxiv.org/abs/2506.14608v4)** | 2026-03-20 | <details><summary>8 pag...</summary><p>8 pages, 5 figures. Accepted to the 2026 IEEE International Conference on Robotics & Automation (ICRA). Website: https://mimicrobotics.github.io/lad/</p></details> |
-| **[Measuring Faithfulness Depends on How You Measure: Classifier Sensitivity in LLM Chain-of-Thought Evaluation](https://arxiv.org/abs/2603.20172v1)** | 2026-03-20 | <details><summary>14 pa...</summary><p>14 pages, 4 figures, 5 tables</p></details> |
-| **[The Robot's Inner Critic: Self-Refinement of Social Behaviors through VLM-based Replanning](https://arxiv.org/abs/2603.20164v1)** | 2026-03-20 | <details><summary>Accep...</summary><p>Accepted to ICRA 2026. 8 pages, 9 figures, Project page: https://limjiyu99.github.io/inner-critic/</p></details> |
-| **[Community-Informed AI Models for Police Accountability](https://arxiv.org/abs/2402.01703v5)** | 2026-03-20 | <details><summary>33 pa...</summary><p>33 pages, 4 figures, 2 tables</p></details> |
-| **[Current LLMs still cannot 'talk much' about grammar modules: Evidence from syntax](https://arxiv.org/abs/2603.20114v1)** | 2026-03-20 | 15 pages |
-| **[Trojan horse hunt in deep forecasting models: Insights from the European Space Agency competition](https://arxiv.org/abs/2603.20108v1)** | 2026-03-20 | 43 pages, 18 figures |
-| **[Simulation-based Inference with the Python Package sbijax](https://arxiv.org/abs/2409.19435v2)** | 2026-03-20 |  |
-| **[DETECT: Data-Driven Evaluation of Treatments Enabled by Classification Transformers](https://arxiv.org/abs/2511.07213v3)** | 2026-03-20 | <details><summary>5 pag...</summary><p>5 pages, 4 figures, 2 tables, presented and awarded Best Paper Runner-Up at the IEEE ICDM 2025 UGHS Symposium</p></details> |
+| **[ThinkJEPA: Empowering Latent World Models with Large Vision-Language Reasoning Model](https://arxiv.org/abs/2603.22281v1)** | 2026-03-23 | 10 pages, 5 figures |
+| **[The Price of Progress: Price Performance and the Future of AI](https://arxiv.org/abs/2511.23455v2)** | 2026-03-23 |  |
+| **[Characterizing High-Capacity Janus Aminobenzene-Graphene Anode for Sodium-Ion Batteries with Machine Learning](https://arxiv.org/abs/2603.22254v1)** | 2026-03-23 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, research article</p></details> |
+| **[Measuring Iterative Temporal Reasoning with Time Puzzles](https://arxiv.org/abs/2601.07148v3)** | 2026-03-23 | <details><summary>11 pa...</summary><p>11 pages, 4 tables, 3 figures</p></details> |
+| **[Structure-aware divergences for comparing probability distributions](https://arxiv.org/abs/2603.22237v1)** | 2026-03-23 |  |
+| **[Evaluating the Reliability and Fidelity of Automated Judgment Systems of Large Language Models](https://arxiv.org/abs/2603.22214v1)** | 2026-03-23 |  |
 
 ## Light Weight
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[VideoSeek: Long-Horizon Video Agent with Tool-Guided Seeking](https://arxiv.org/abs/2603.20185v1)** | 2026-03-20 | <details><summary>Accep...</summary><p>Accepted at CVPR 2026</p></details> |
-| **[Kolmogorov-Arnold causal generative models](https://arxiv.org/abs/2603.20184v1)** | 2026-03-20 | <details><summary>14 pa...</summary><p>14 pages, 8 figures, 3 tables, 5 algorithms, preprint</p></details> |
-| **[Latent Action Diffusion for Cross-Embodiment Manipulation](https://arxiv.org/abs/2506.14608v4)** | 2026-03-20 | <details><summary>8 pag...</summary><p>8 pages, 5 figures. Accepted to the 2026 IEEE International Conference on Robotics & Automation (ICRA). Website: https://mimicrobotics.github.io/lad/</p></details> |
-| **[Measuring Faithfulness Depends on How You Measure: Classifier Sensitivity in LLM Chain-of-Thought Evaluation](https://arxiv.org/abs/2603.20172v1)** | 2026-03-20 | <details><summary>14 pa...</summary><p>14 pages, 4 figures, 5 tables</p></details> |
-| **[The Robot's Inner Critic: Self-Refinement of Social Behaviors through VLM-based Replanning](https://arxiv.org/abs/2603.20164v1)** | 2026-03-20 | <details><summary>Accep...</summary><p>Accepted to ICRA 2026. 8 pages, 9 figures, Project page: https://limjiyu99.github.io/inner-critic/</p></details> |
-| **[Current LLMs still cannot 'talk much' about grammar modules: Evidence from syntax](https://arxiv.org/abs/2603.20114v1)** | 2026-03-20 | 15 pages |
-| **[DETECT: Data-Driven Evaluation of Treatments Enabled by Classification Transformers](https://arxiv.org/abs/2511.07213v3)** | 2026-03-20 | <details><summary>5 pag...</summary><p>5 pages, 4 figures, 2 tables, presented and awarded Best Paper Runner-Up at the IEEE ICDM 2025 UGHS Symposium</p></details> |
-| **[Beyond Accuracy: Towards a Robust Evaluation Methodology for AI Systems for Language Education](https://arxiv.org/abs/2603.20088v1)** | 2026-03-20 |  |
-| **[The End of Rented Discovery: How AI Search Redistributes Power Between Hotels and Intermediaries](https://arxiv.org/abs/2603.20062v1)** | 2026-03-20 | <details><summary>13 pa...</summary><p>13 pages, 10 tables, Submitted to the 10th Hospitality Finance & Economics Conference (HFE 2026), Tokyo, Japan</p></details> |
+| **[ThinkJEPA: Empowering Latent World Models with Large Vision-Language Reasoning Model](https://arxiv.org/abs/2603.22281v1)** | 2026-03-23 | 10 pages, 5 figures |
+| **[The Price of Progress: Price Performance and the Future of AI](https://arxiv.org/abs/2511.23455v2)** | 2026-03-23 |  |
+| **[Characterizing High-Capacity Janus Aminobenzene-Graphene Anode for Sodium-Ion Batteries with Machine Learning](https://arxiv.org/abs/2603.22254v1)** | 2026-03-23 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, research article</p></details> |
+| **[Measuring Iterative Temporal Reasoning with Time Puzzles](https://arxiv.org/abs/2601.07148v3)** | 2026-03-23 | <details><summary>11 pa...</summary><p>11 pages, 4 tables, 3 figures</p></details> |
+| **[Evaluating the Reliability and Fidelity of Automated Judgment Systems of Large Language Models](https://arxiv.org/abs/2603.22214v1)** | 2026-03-23 |  |
+| **[Separators for intersection graphs of spheres](https://arxiv.org/abs/2603.22204v1)** | 2026-03-23 | <details><summary>14 pa...</summary><p>14 pages, 5 figures; to appear in SoCG 2026</p></details> |
+| **[Make Tracking Easy: Neural Motion Retargeting for Humanoid Whole-body Control](https://arxiv.org/abs/2603.22201v1)** | 2026-03-23 | <details><summary>Repor...</summary><p>Report, 12 pages, 5 figures, 4 tables</p></details> |
+| **[MARCUS: An agentic, multimodal vision-language model for cardiac diagnosis and management](https://arxiv.org/abs/2603.22179v1)** | 2026-03-23 |  |
 
 ## Class Incremental
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[VideoSeek: Long-Horizon Video Agent with Tool-Guided Seeking](https://arxiv.org/abs/2603.20185v1)** | 2026-03-20 | <details><summary>Accep...</summary><p>Accepted at CVPR 2026</p></details> |
-| **[Kolmogorov-Arnold causal generative models](https://arxiv.org/abs/2603.20184v1)** | 2026-03-20 | <details><summary>14 pa...</summary><p>14 pages, 8 figures, 3 tables, 5 algorithms, preprint</p></details> |
-| **[Latent Action Diffusion for Cross-Embodiment Manipulation](https://arxiv.org/abs/2506.14608v4)** | 2026-03-20 | <details><summary>8 pag...</summary><p>8 pages, 5 figures. Accepted to the 2026 IEEE International Conference on Robotics & Automation (ICRA). Website: https://mimicrobotics.github.io/lad/</p></details> |
-| **[Measuring Faithfulness Depends on How You Measure: Classifier Sensitivity in LLM Chain-of-Thought Evaluation](https://arxiv.org/abs/2603.20172v1)** | 2026-03-20 | <details><summary>14 pa...</summary><p>14 pages, 4 figures, 5 tables</p></details> |
-| **[The Robot's Inner Critic: Self-Refinement of Social Behaviors through VLM-based Replanning](https://arxiv.org/abs/2603.20164v1)** | 2026-03-20 | <details><summary>Accep...</summary><p>Accepted to ICRA 2026. 8 pages, 9 figures, Project page: https://limjiyu99.github.io/inner-critic/</p></details> |
-| **[Current LLMs still cannot 'talk much' about grammar modules: Evidence from syntax](https://arxiv.org/abs/2603.20114v1)** | 2026-03-20 | 15 pages |
-| **[DETECT: Data-Driven Evaluation of Treatments Enabled by Classification Transformers](https://arxiv.org/abs/2511.07213v3)** | 2026-03-20 | <details><summary>5 pag...</summary><p>5 pages, 4 figures, 2 tables, presented and awarded Best Paper Runner-Up at the IEEE ICDM 2025 UGHS Symposium</p></details> |
-| **[Beyond Accuracy: Towards a Robust Evaluation Methodology for AI Systems for Language Education](https://arxiv.org/abs/2603.20088v1)** | 2026-03-20 |  |
-| **[The End of Rented Discovery: How AI Search Redistributes Power Between Hotels and Intermediaries](https://arxiv.org/abs/2603.20062v1)** | 2026-03-20 | <details><summary>13 pa...</summary><p>13 pages, 10 tables, Submitted to the 10th Hospitality Finance & Economics Conference (HFE 2026), Tokyo, Japan</p></details> |
+| **[ThinkJEPA: Empowering Latent World Models with Large Vision-Language Reasoning Model](https://arxiv.org/abs/2603.22281v1)** | 2026-03-23 | 10 pages, 5 figures |
+| **[The Price of Progress: Price Performance and the Future of AI](https://arxiv.org/abs/2511.23455v2)** | 2026-03-23 |  |
+| **[Characterizing High-Capacity Janus Aminobenzene-Graphene Anode for Sodium-Ion Batteries with Machine Learning](https://arxiv.org/abs/2603.22254v1)** | 2026-03-23 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, research article</p></details> |
+| **[Measuring Iterative Temporal Reasoning with Time Puzzles](https://arxiv.org/abs/2601.07148v3)** | 2026-03-23 | <details><summary>11 pa...</summary><p>11 pages, 4 tables, 3 figures</p></details> |
+| **[Evaluating the Reliability and Fidelity of Automated Judgment Systems of Large Language Models](https://arxiv.org/abs/2603.22214v1)** | 2026-03-23 |  |
+| **[Separators for intersection graphs of spheres](https://arxiv.org/abs/2603.22204v1)** | 2026-03-23 | <details><summary>14 pa...</summary><p>14 pages, 5 figures; to appear in SoCG 2026</p></details> |
+| **[Make Tracking Easy: Neural Motion Retargeting for Humanoid Whole-body Control](https://arxiv.org/abs/2603.22201v1)** | 2026-03-23 | <details><summary>Repor...</summary><p>Report, 12 pages, 5 figures, 4 tables</p></details> |
+| **[MARCUS: An agentic, multimodal vision-language model for cardiac diagnosis and management](https://arxiv.org/abs/2603.22179v1)** | 2026-03-23 |  |
 
