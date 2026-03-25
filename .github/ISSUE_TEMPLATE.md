@@ -1,5 +1,5 @@
 ---
-title: Latest 50 Papers - March 25, 2026
+title: Latest 50 Papers - March 26, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/JiamingZang/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,110 +7,110 @@ labels: documentation
 ## Molecular
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[ThinkJEPA: Empowering Latent World Models with Large Vision-Language Reasoning Model](https://arxiv.org/abs/2603.22281v1)** | 2026-03-23 | 10 pages, 5 figures |
-| **[The Price of Progress: Price Performance and the Future of AI](https://arxiv.org/abs/2511.23455v2)** | 2026-03-23 |  |
-| **[Characterizing High-Capacity Janus Aminobenzene-Graphene Anode for Sodium-Ion Batteries with Machine Learning](https://arxiv.org/abs/2603.22254v1)** | 2026-03-23 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, research article</p></details> |
-| **[Measuring Iterative Temporal Reasoning with Time Puzzles](https://arxiv.org/abs/2601.07148v3)** | 2026-03-23 | <details><summary>11 pa...</summary><p>11 pages, 4 tables, 3 figures</p></details> |
-| **[Evaluating the Reliability and Fidelity of Automated Judgment Systems of Large Language Models](https://arxiv.org/abs/2603.22214v1)** | 2026-03-23 |  |
-| **[Separators for intersection graphs of spheres](https://arxiv.org/abs/2603.22204v1)** | 2026-03-23 | <details><summary>14 pa...</summary><p>14 pages, 5 figures; to appear in SoCG 2026</p></details> |
-| **[Make Tracking Easy: Neural Motion Retargeting for Humanoid Whole-body Control](https://arxiv.org/abs/2603.22201v1)** | 2026-03-23 | <details><summary>Repor...</summary><p>Report, 12 pages, 5 figures, 4 tables</p></details> |
-| **[MARCUS: An agentic, multimodal vision-language model for cardiac diagnosis and management](https://arxiv.org/abs/2603.22179v1)** | 2026-03-23 |  |
+| **[Estimating Flow Velocity and Vehicle Angle-of-Attack from Non-invasive Piezoelectric Structural Measurements Using Deep Learning](https://arxiv.org/abs/2603.23496v1)** | 2026-03-24 |  |
+| **[An Industrial-Scale Retrieval-Augmented Generation Framework for Requirements Engineering: Empirical Evaluation with Automotive Manufacturing Data](https://arxiv.org/abs/2603.20534v2)** | 2026-03-24 | 10 pages, 6 figures |
+| **[ProbeMDE: Uncertainty-Guided Active Proprioception for Monocular Depth Estimation in Surgical Robotics](https://arxiv.org/abs/2512.11773v4)** | 2026-03-24 | <details><summary>8 pag...</summary><p>8 pages, 5 figures. Accepted at ICRA 2026. Project page: https://brittonjordan.github.io/probe_mde/</p></details> |
+| **[Ecosystem Trust Profiles](https://arxiv.org/abs/2603.05521v2)** | 2026-03-24 | <details><summary>20 pa...</summary><p>20 pages, 2 figures, 10 definitions, 5 propositions, 3 lemmas (all with proofs); Version v2 corrects an imprecision in Lemma 1 and provides a better definition of the cross-ecosystem trust dilemma</p></details> |
+| **[GazeShift: Unsupervised Gaze Estimation and Dataset for VR](https://arxiv.org/abs/2603.07832v3)** | 2026-03-24 | Accepted to CVPR26 |
+| **[Bilevel Autoresearch: Meta-Autoresearching Itself](https://arxiv.org/abs/2603.23420v1)** | 2026-03-24 | <details><summary>13 pa...</summary><p>13 pages, 5 figures, 3 tables.This paper was primarily drafted by AI agents with human oversight and direction</p></details> |
 
 ## Molecular Generation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[ThinkJEPA: Empowering Latent World Models with Large Vision-Language Reasoning Model](https://arxiv.org/abs/2603.22281v1)** | 2026-03-23 | 10 pages, 5 figures |
-| **[The Price of Progress: Price Performance and the Future of AI](https://arxiv.org/abs/2511.23455v2)** | 2026-03-23 |  |
-| **[Characterizing High-Capacity Janus Aminobenzene-Graphene Anode for Sodium-Ion Batteries with Machine Learning](https://arxiv.org/abs/2603.22254v1)** | 2026-03-23 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, research article</p></details> |
-| **[Measuring Iterative Temporal Reasoning with Time Puzzles](https://arxiv.org/abs/2601.07148v3)** | 2026-03-23 | <details><summary>11 pa...</summary><p>11 pages, 4 tables, 3 figures</p></details> |
-| **[Evaluating the Reliability and Fidelity of Automated Judgment Systems of Large Language Models](https://arxiv.org/abs/2603.22214v1)** | 2026-03-23 |  |
-| **[Separators for intersection graphs of spheres](https://arxiv.org/abs/2603.22204v1)** | 2026-03-23 | <details><summary>14 pa...</summary><p>14 pages, 5 figures; to appear in SoCG 2026</p></details> |
-| **[Make Tracking Easy: Neural Motion Retargeting for Humanoid Whole-body Control](https://arxiv.org/abs/2603.22201v1)** | 2026-03-23 | <details><summary>Repor...</summary><p>Report, 12 pages, 5 figures, 4 tables</p></details> |
-| **[MARCUS: An agentic, multimodal vision-language model for cardiac diagnosis and management](https://arxiv.org/abs/2603.22179v1)** | 2026-03-23 |  |
+| **[Estimating Flow Velocity and Vehicle Angle-of-Attack from Non-invasive Piezoelectric Structural Measurements Using Deep Learning](https://arxiv.org/abs/2603.23496v1)** | 2026-03-24 |  |
+| **[An Industrial-Scale Retrieval-Augmented Generation Framework for Requirements Engineering: Empirical Evaluation with Automotive Manufacturing Data](https://arxiv.org/abs/2603.20534v2)** | 2026-03-24 | 10 pages, 6 figures |
+| **[ProbeMDE: Uncertainty-Guided Active Proprioception for Monocular Depth Estimation in Surgical Robotics](https://arxiv.org/abs/2512.11773v4)** | 2026-03-24 | <details><summary>8 pag...</summary><p>8 pages, 5 figures. Accepted at ICRA 2026. Project page: https://brittonjordan.github.io/probe_mde/</p></details> |
+| **[Ecosystem Trust Profiles](https://arxiv.org/abs/2603.05521v2)** | 2026-03-24 | <details><summary>20 pa...</summary><p>20 pages, 2 figures, 10 definitions, 5 propositions, 3 lemmas (all with proofs); Version v2 corrects an imprecision in Lemma 1 and provides a better definition of the cross-ecosystem trust dilemma</p></details> |
+| **[GazeShift: Unsupervised Gaze Estimation and Dataset for VR](https://arxiv.org/abs/2603.07832v3)** | 2026-03-24 | Accepted to CVPR26 |
+| **[Bilevel Autoresearch: Meta-Autoresearching Itself](https://arxiv.org/abs/2603.23420v1)** | 2026-03-24 | <details><summary>13 pa...</summary><p>13 pages, 5 figures, 3 tables.This paper was primarily drafted by AI agents with human oversight and direction</p></details> |
+| **[Towards a general-purpose foundation model for fMRI analysis](https://arxiv.org/abs/2506.11167v2)** | 2026-03-24 |  |
+| **[Sparse Weak-Form Discovery of Stochastic Generators](https://arxiv.org/abs/2603.20904v2)** | 2026-03-24 | 29 pages, 5 figures |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[ThinkJEPA: Empowering Latent World Models with Large Vision-Language Reasoning Model](https://arxiv.org/abs/2603.22281v1)** | 2026-03-23 | 10 pages, 5 figures |
-| **[The Price of Progress: Price Performance and the Future of AI](https://arxiv.org/abs/2511.23455v2)** | 2026-03-23 |  |
-| **[Characterizing High-Capacity Janus Aminobenzene-Graphene Anode for Sodium-Ion Batteries with Machine Learning](https://arxiv.org/abs/2603.22254v1)** | 2026-03-23 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, research article</p></details> |
-| **[Measuring Iterative Temporal Reasoning with Time Puzzles](https://arxiv.org/abs/2601.07148v3)** | 2026-03-23 | <details><summary>11 pa...</summary><p>11 pages, 4 tables, 3 figures</p></details> |
-| **[Evaluating the Reliability and Fidelity of Automated Judgment Systems of Large Language Models](https://arxiv.org/abs/2603.22214v1)** | 2026-03-23 |  |
-| **[Separators for intersection graphs of spheres](https://arxiv.org/abs/2603.22204v1)** | 2026-03-23 | <details><summary>14 pa...</summary><p>14 pages, 5 figures; to appear in SoCG 2026</p></details> |
-| **[Make Tracking Easy: Neural Motion Retargeting for Humanoid Whole-body Control](https://arxiv.org/abs/2603.22201v1)** | 2026-03-23 | <details><summary>Repor...</summary><p>Report, 12 pages, 5 figures, 4 tables</p></details> |
-| **[MARCUS: An agentic, multimodal vision-language model for cardiac diagnosis and management](https://arxiv.org/abs/2603.22179v1)** | 2026-03-23 |  |
+| **[Estimating Flow Velocity and Vehicle Angle-of-Attack from Non-invasive Piezoelectric Structural Measurements Using Deep Learning](https://arxiv.org/abs/2603.23496v1)** | 2026-03-24 |  |
+| **[An Industrial-Scale Retrieval-Augmented Generation Framework for Requirements Engineering: Empirical Evaluation with Automotive Manufacturing Data](https://arxiv.org/abs/2603.20534v2)** | 2026-03-24 | 10 pages, 6 figures |
+| **[ProbeMDE: Uncertainty-Guided Active Proprioception for Monocular Depth Estimation in Surgical Robotics](https://arxiv.org/abs/2512.11773v4)** | 2026-03-24 | <details><summary>8 pag...</summary><p>8 pages, 5 figures. Accepted at ICRA 2026. Project page: https://brittonjordan.github.io/probe_mde/</p></details> |
+| **[Ecosystem Trust Profiles](https://arxiv.org/abs/2603.05521v2)** | 2026-03-24 | <details><summary>20 pa...</summary><p>20 pages, 2 figures, 10 definitions, 5 propositions, 3 lemmas (all with proofs); Version v2 corrects an imprecision in Lemma 1 and provides a better definition of the cross-ecosystem trust dilemma</p></details> |
+| **[GazeShift: Unsupervised Gaze Estimation and Dataset for VR](https://arxiv.org/abs/2603.07832v3)** | 2026-03-24 | Accepted to CVPR26 |
+| **[Bilevel Autoresearch: Meta-Autoresearching Itself](https://arxiv.org/abs/2603.23420v1)** | 2026-03-24 | <details><summary>13 pa...</summary><p>13 pages, 5 figures, 3 tables.This paper was primarily drafted by AI agents with human oversight and direction</p></details> |
+| **[Graph Variate Neural Networks](https://arxiv.org/abs/2509.20311v2)** | 2026-03-24 |  |
+| **[Covariance Density Neural Networks](https://arxiv.org/abs/2505.11139v3)** | 2026-03-24 |  |
 
 ## Diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[WorldCache: Content-Aware Caching for Accelerated Video World Models](https://arxiv.org/abs/2603.22286v1)** | 2026-03-23 | 33 Pages |
-| **[End-to-End Training for Unified Tokenization and Latent Denoising](https://arxiv.org/abs/2603.22283v1)** | 2026-03-23 | <details><summary>First...</summary><p>First two authors contributed equally. Project: https://xingjianbai.com/unite-tokenization-generation/ Code: https://github.com/ShivamDuggal4/UNITE-tokenization-generation</p></details> |
-| **[ThinkJEPA: Empowering Latent World Models with Large Vision-Language Reasoning Model](https://arxiv.org/abs/2603.22281v1)** | 2026-03-23 | 10 pages, 5 figures |
-| **[Repurposing Geometric Foundation Models for Multi-view Diffusion](https://arxiv.org/abs/2603.22275v1)** | 2026-03-23 | <details><summary>proje...</summary><p>project website: https://cvlab-kaist.github.io/GLD/</p></details> |
-| **[DUO-VSR: Dual-Stream Distillation for One-Step Video Super-Resolution](https://arxiv.org/abs/2603.22271v1)** | 2026-03-23 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026</p></details> |
-| **[The Price of Progress: Price Performance and the Future of AI](https://arxiv.org/abs/2511.23455v2)** | 2026-03-23 |  |
-| **[Characterizing High-Capacity Janus Aminobenzene-Graphene Anode for Sodium-Ion Batteries with Machine Learning](https://arxiv.org/abs/2603.22254v1)** | 2026-03-23 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, research article</p></details> |
-| **[Video2Act: A Dual-System Video Diffusion Policy with Robotic Spatio-Motional Modeling](https://arxiv.org/abs/2512.03044v2)** | 2026-03-23 |  |
-| **[Measuring Iterative Temporal Reasoning with Time Puzzles](https://arxiv.org/abs/2601.07148v3)** | 2026-03-23 | <details><summary>11 pa...</summary><p>11 pages, 4 tables, 3 figures</p></details> |
-| **[Confidence-Based Decoding is Provably Efficient for Diffusion Language Models](https://arxiv.org/abs/2603.22248v1)** | 2026-03-23 |  |
-| **[MemDLM: Memory-Enhanced DLM Training](https://arxiv.org/abs/2603.22241v1)** | 2026-03-23 |  |
+| **[DA-Flow: Degradation-Aware Optical Flow Estimation with Diffusion Models](https://arxiv.org/abs/2603.23499v1)** | 2026-03-24 | <details><summary>Proje...</summary><p>Project page: https://cvlab-kaist.github.io/DA-Flow</p></details> |
+| **[Estimating Flow Velocity and Vehicle Angle-of-Attack from Non-invasive Piezoelectric Structural Measurements Using Deep Learning](https://arxiv.org/abs/2603.23496v1)** | 2026-03-24 |  |
+| **[Foveated Diffusion: Efficient Spatially Adaptive Image and Video Generation](https://arxiv.org/abs/2603.23491v1)** | 2026-03-24 | <details><summary>Proje...</summary><p>Project website at https://bchao1.github.io/foveated-diffusion</p></details> |
+| **[TETO: Tracking Events with Teacher Observation for Motion Estimation and Frame Interpolation](https://arxiv.org/abs/2603.23487v1)** | 2026-03-24 |  |
+| **[Task-Oriented Data Synthesis and Control-Rectify Sampling for Remote Sensing Semantic Segmentation](https://arxiv.org/abs/2512.16740v2)** | 2026-03-24 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026</p></details> |
+| **[An Industrial-Scale Retrieval-Augmented Generation Framework for Requirements Engineering: Empirical Evaluation with Automotive Manufacturing Data](https://arxiv.org/abs/2603.20534v2)** | 2026-03-24 | 10 pages, 6 figures |
+| **[2D implementation of Kinetic-diffusion Monte Carlo in Eiron](https://arxiv.org/abs/2509.19140v2)** | 2026-03-24 | <details><summary>9 pag...</summary><p>9 pages, 4 figures, minor textual changes and updating scaling of figures</p></details> |
+| **[InverFill: One-Step Inversion for Enhanced Few-Step Diffusion Inpainting](https://arxiv.org/abs/2603.23463v1)** | 2026-03-24 | <details><summary>Accep...</summary><p>Accepted to CVPR'26 (Main Conference)</p></details> |
+| **[RealMaster: Lifting Rendered Scenes into Photorealistic Video](https://arxiv.org/abs/2603.23462v1)** | 2026-03-24 | <details><summary>Proje...</summary><p>Project page: https://danacohen95.github.io/RealMaster/</p></details> |
+| **[ProbeMDE: Uncertainty-Guided Active Proprioception for Monocular Depth Estimation in Surgical Robotics](https://arxiv.org/abs/2512.11773v4)** | 2026-03-24 | <details><summary>8 pag...</summary><p>8 pages, 5 figures. Accepted at ICRA 2026. Project page: https://brittonjordan.github.io/probe_mde/</p></details> |
+| **[Ecosystem Trust Profiles](https://arxiv.org/abs/2603.05521v2)** | 2026-03-24 | <details><summary>20 pa...</summary><p>20 pages, 2 figures, 10 definitions, 5 propositions, 3 lemmas (all with proofs); Version v2 corrects an imprecision in Lemma 1 and provides a better definition of the cross-ecosystem trust dilemma</p></details> |
+| **[GazeShift: Unsupervised Gaze Estimation and Dataset for VR](https://arxiv.org/abs/2603.07832v3)** | 2026-03-24 | Accepted to CVPR26 |
 
 ## Object Counting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[ThinkJEPA: Empowering Latent World Models with Large Vision-Language Reasoning Model](https://arxiv.org/abs/2603.22281v1)** | 2026-03-23 | 10 pages, 5 figures |
-| **[The Price of Progress: Price Performance and the Future of AI](https://arxiv.org/abs/2511.23455v2)** | 2026-03-23 |  |
-| **[Characterizing High-Capacity Janus Aminobenzene-Graphene Anode for Sodium-Ion Batteries with Machine Learning](https://arxiv.org/abs/2603.22254v1)** | 2026-03-23 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, research article</p></details> |
-| **[Measuring Iterative Temporal Reasoning with Time Puzzles](https://arxiv.org/abs/2601.07148v3)** | 2026-03-23 | <details><summary>11 pa...</summary><p>11 pages, 4 tables, 3 figures</p></details> |
-| **[Evaluating the Reliability and Fidelity of Automated Judgment Systems of Large Language Models](https://arxiv.org/abs/2603.22214v1)** | 2026-03-23 |  |
-| **[Separators for intersection graphs of spheres](https://arxiv.org/abs/2603.22204v1)** | 2026-03-23 | <details><summary>14 pa...</summary><p>14 pages, 5 figures; to appear in SoCG 2026</p></details> |
-| **[Make Tracking Easy: Neural Motion Retargeting for Humanoid Whole-body Control](https://arxiv.org/abs/2603.22201v1)** | 2026-03-23 | <details><summary>Repor...</summary><p>Report, 12 pages, 5 figures, 4 tables</p></details> |
-| **[MARCUS: An agentic, multimodal vision-language model for cardiac diagnosis and management](https://arxiv.org/abs/2603.22179v1)** | 2026-03-23 |  |
+| **[Estimating Flow Velocity and Vehicle Angle-of-Attack from Non-invasive Piezoelectric Structural Measurements Using Deep Learning](https://arxiv.org/abs/2603.23496v1)** | 2026-03-24 |  |
+| **[An Industrial-Scale Retrieval-Augmented Generation Framework for Requirements Engineering: Empirical Evaluation with Automotive Manufacturing Data](https://arxiv.org/abs/2603.20534v2)** | 2026-03-24 | 10 pages, 6 figures |
+| **[ProbeMDE: Uncertainty-Guided Active Proprioception for Monocular Depth Estimation in Surgical Robotics](https://arxiv.org/abs/2512.11773v4)** | 2026-03-24 | <details><summary>8 pag...</summary><p>8 pages, 5 figures. Accepted at ICRA 2026. Project page: https://brittonjordan.github.io/probe_mde/</p></details> |
+| **[Ecosystem Trust Profiles](https://arxiv.org/abs/2603.05521v2)** | 2026-03-24 | <details><summary>20 pa...</summary><p>20 pages, 2 figures, 10 definitions, 5 propositions, 3 lemmas (all with proofs); Version v2 corrects an imprecision in Lemma 1 and provides a better definition of the cross-ecosystem trust dilemma</p></details> |
+| **[GazeShift: Unsupervised Gaze Estimation and Dataset for VR](https://arxiv.org/abs/2603.07832v3)** | 2026-03-24 | Accepted to CVPR26 |
+| **[Bilevel Autoresearch: Meta-Autoresearching Itself](https://arxiv.org/abs/2603.23420v1)** | 2026-03-24 | <details><summary>13 pa...</summary><p>13 pages, 5 figures, 3 tables.This paper was primarily drafted by AI agents with human oversight and direction</p></details> |
+| **[Towards a general-purpose foundation model for fMRI analysis](https://arxiv.org/abs/2506.11167v2)** | 2026-03-24 |  |
+| **[Sparse Weak-Form Discovery of Stochastic Generators](https://arxiv.org/abs/2603.20904v2)** | 2026-03-24 | 29 pages, 5 figures |
 
 ## Image Caption
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[ThinkJEPA: Empowering Latent World Models with Large Vision-Language Reasoning Model](https://arxiv.org/abs/2603.22281v1)** | 2026-03-23 | 10 pages, 5 figures |
-| **[The Dual Mechanisms of Spatial Reasoning in Vision-Language Models](https://arxiv.org/abs/2603.22278v1)** | 2026-03-23 | 26 pages, 35 figures |
-| **[The Price of Progress: Price Performance and the Future of AI](https://arxiv.org/abs/2511.23455v2)** | 2026-03-23 |  |
-| **[Characterizing High-Capacity Janus Aminobenzene-Graphene Anode for Sodium-Ion Batteries with Machine Learning](https://arxiv.org/abs/2603.22254v1)** | 2026-03-23 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, research article</p></details> |
-| **[Measuring Iterative Temporal Reasoning with Time Puzzles](https://arxiv.org/abs/2601.07148v3)** | 2026-03-23 | <details><summary>11 pa...</summary><p>11 pages, 4 tables, 3 figures</p></details> |
-| **[Evaluating the Reliability and Fidelity of Automated Judgment Systems of Large Language Models](https://arxiv.org/abs/2603.22214v1)** | 2026-03-23 |  |
-| **[Separators for intersection graphs of spheres](https://arxiv.org/abs/2603.22204v1)** | 2026-03-23 | <details><summary>14 pa...</summary><p>14 pages, 5 figures; to appear in SoCG 2026</p></details> |
-| **[Make Tracking Easy: Neural Motion Retargeting for Humanoid Whole-body Control](https://arxiv.org/abs/2603.22201v1)** | 2026-03-23 | <details><summary>Repor...</summary><p>Report, 12 pages, 5 figures, 4 tables</p></details> |
-| **[MARCUS: An agentic, multimodal vision-language model for cardiac diagnosis and management](https://arxiv.org/abs/2603.22179v1)** | 2026-03-23 |  |
+| **[Estimating Flow Velocity and Vehicle Angle-of-Attack from Non-invasive Piezoelectric Structural Measurements Using Deep Learning](https://arxiv.org/abs/2603.23496v1)** | 2026-03-24 |  |
+| **[An Industrial-Scale Retrieval-Augmented Generation Framework for Requirements Engineering: Empirical Evaluation with Automotive Manufacturing Data](https://arxiv.org/abs/2603.20534v2)** | 2026-03-24 | 10 pages, 6 figures |
+| **[ProbeMDE: Uncertainty-Guided Active Proprioception for Monocular Depth Estimation in Surgical Robotics](https://arxiv.org/abs/2512.11773v4)** | 2026-03-24 | <details><summary>8 pag...</summary><p>8 pages, 5 figures. Accepted at ICRA 2026. Project page: https://brittonjordan.github.io/probe_mde/</p></details> |
+| **[Ecosystem Trust Profiles](https://arxiv.org/abs/2603.05521v2)** | 2026-03-24 | <details><summary>20 pa...</summary><p>20 pages, 2 figures, 10 definitions, 5 propositions, 3 lemmas (all with proofs); Version v2 corrects an imprecision in Lemma 1 and provides a better definition of the cross-ecosystem trust dilemma</p></details> |
+| **[GazeShift: Unsupervised Gaze Estimation and Dataset for VR](https://arxiv.org/abs/2603.07832v3)** | 2026-03-24 | Accepted to CVPR26 |
+| **[Bilevel Autoresearch: Meta-Autoresearching Itself](https://arxiv.org/abs/2603.23420v1)** | 2026-03-24 | <details><summary>13 pa...</summary><p>13 pages, 5 figures, 3 tables.This paper was primarily drafted by AI agents with human oversight and direction</p></details> |
+| **[Towards a general-purpose foundation model for fMRI analysis](https://arxiv.org/abs/2506.11167v2)** | 2026-03-24 |  |
+| **[Sparse Weak-Form Discovery of Stochastic Generators](https://arxiv.org/abs/2603.20904v2)** | 2026-03-24 | 29 pages, 5 figures |
 
 ## Describe
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[ThinkJEPA: Empowering Latent World Models with Large Vision-Language Reasoning Model](https://arxiv.org/abs/2603.22281v1)** | 2026-03-23 | 10 pages, 5 figures |
-| **[The Price of Progress: Price Performance and the Future of AI](https://arxiv.org/abs/2511.23455v2)** | 2026-03-23 |  |
-| **[Characterizing High-Capacity Janus Aminobenzene-Graphene Anode for Sodium-Ion Batteries with Machine Learning](https://arxiv.org/abs/2603.22254v1)** | 2026-03-23 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, research article</p></details> |
-| **[Measuring Iterative Temporal Reasoning with Time Puzzles](https://arxiv.org/abs/2601.07148v3)** | 2026-03-23 | <details><summary>11 pa...</summary><p>11 pages, 4 tables, 3 figures</p></details> |
-| **[Structure-aware divergences for comparing probability distributions](https://arxiv.org/abs/2603.22237v1)** | 2026-03-23 |  |
-| **[Evaluating the Reliability and Fidelity of Automated Judgment Systems of Large Language Models](https://arxiv.org/abs/2603.22214v1)** | 2026-03-23 |  |
+| **[Estimating Flow Velocity and Vehicle Angle-of-Attack from Non-invasive Piezoelectric Structural Measurements Using Deep Learning](https://arxiv.org/abs/2603.23496v1)** | 2026-03-24 |  |
+| **[An Industrial-Scale Retrieval-Augmented Generation Framework for Requirements Engineering: Empirical Evaluation with Automotive Manufacturing Data](https://arxiv.org/abs/2603.20534v2)** | 2026-03-24 | 10 pages, 6 figures |
+| **[ProbeMDE: Uncertainty-Guided Active Proprioception for Monocular Depth Estimation in Surgical Robotics](https://arxiv.org/abs/2512.11773v4)** | 2026-03-24 | <details><summary>8 pag...</summary><p>8 pages, 5 figures. Accepted at ICRA 2026. Project page: https://brittonjordan.github.io/probe_mde/</p></details> |
+| **[Ecosystem Trust Profiles](https://arxiv.org/abs/2603.05521v2)** | 2026-03-24 | <details><summary>20 pa...</summary><p>20 pages, 2 figures, 10 definitions, 5 propositions, 3 lemmas (all with proofs); Version v2 corrects an imprecision in Lemma 1 and provides a better definition of the cross-ecosystem trust dilemma</p></details> |
+| **[GazeShift: Unsupervised Gaze Estimation and Dataset for VR](https://arxiv.org/abs/2603.07832v3)** | 2026-03-24 | Accepted to CVPR26 |
+| **[Bilevel Autoresearch: Meta-Autoresearching Itself](https://arxiv.org/abs/2603.23420v1)** | 2026-03-24 | <details><summary>13 pa...</summary><p>13 pages, 5 figures, 3 tables.This paper was primarily drafted by AI agents with human oversight and direction</p></details> |
+| **[Planning over MAPF Agent Dependencies via Multi-Dependency PIBT](https://arxiv.org/abs/2603.23405v1)** | 2026-03-24 |  |
+| **[Markov State--Space Modeling and Channel Characterization for DNA-Based Molecular Communication](https://arxiv.org/abs/2603.23394v1)** | 2026-03-24 | 13 pages |
 
 ## Light Weight
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[ThinkJEPA: Empowering Latent World Models with Large Vision-Language Reasoning Model](https://arxiv.org/abs/2603.22281v1)** | 2026-03-23 | 10 pages, 5 figures |
-| **[The Price of Progress: Price Performance and the Future of AI](https://arxiv.org/abs/2511.23455v2)** | 2026-03-23 |  |
-| **[Characterizing High-Capacity Janus Aminobenzene-Graphene Anode for Sodium-Ion Batteries with Machine Learning](https://arxiv.org/abs/2603.22254v1)** | 2026-03-23 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, research article</p></details> |
-| **[Measuring Iterative Temporal Reasoning with Time Puzzles](https://arxiv.org/abs/2601.07148v3)** | 2026-03-23 | <details><summary>11 pa...</summary><p>11 pages, 4 tables, 3 figures</p></details> |
-| **[Evaluating the Reliability and Fidelity of Automated Judgment Systems of Large Language Models](https://arxiv.org/abs/2603.22214v1)** | 2026-03-23 |  |
-| **[Separators for intersection graphs of spheres](https://arxiv.org/abs/2603.22204v1)** | 2026-03-23 | <details><summary>14 pa...</summary><p>14 pages, 5 figures; to appear in SoCG 2026</p></details> |
-| **[Make Tracking Easy: Neural Motion Retargeting for Humanoid Whole-body Control](https://arxiv.org/abs/2603.22201v1)** | 2026-03-23 | <details><summary>Repor...</summary><p>Report, 12 pages, 5 figures, 4 tables</p></details> |
-| **[MARCUS: An agentic, multimodal vision-language model for cardiac diagnosis and management](https://arxiv.org/abs/2603.22179v1)** | 2026-03-23 |  |
+| **[Estimating Flow Velocity and Vehicle Angle-of-Attack from Non-invasive Piezoelectric Structural Measurements Using Deep Learning](https://arxiv.org/abs/2603.23496v1)** | 2026-03-24 |  |
+| **[Dynamic Light Spanners in Doubling Metrics](https://arxiv.org/abs/2603.23490v1)** | 2026-03-24 |  |
+| **[An Industrial-Scale Retrieval-Augmented Generation Framework for Requirements Engineering: Empirical Evaluation with Automotive Manufacturing Data](https://arxiv.org/abs/2603.20534v2)** | 2026-03-24 | 10 pages, 6 figures |
+| **[ProbeMDE: Uncertainty-Guided Active Proprioception for Monocular Depth Estimation in Surgical Robotics](https://arxiv.org/abs/2512.11773v4)** | 2026-03-24 | <details><summary>8 pag...</summary><p>8 pages, 5 figures. Accepted at ICRA 2026. Project page: https://brittonjordan.github.io/probe_mde/</p></details> |
+| **[Ecosystem Trust Profiles](https://arxiv.org/abs/2603.05521v2)** | 2026-03-24 | <details><summary>20 pa...</summary><p>20 pages, 2 figures, 10 definitions, 5 propositions, 3 lemmas (all with proofs); Version v2 corrects an imprecision in Lemma 1 and provides a better definition of the cross-ecosystem trust dilemma</p></details> |
+| **[GazeShift: Unsupervised Gaze Estimation and Dataset for VR](https://arxiv.org/abs/2603.07832v3)** | 2026-03-24 | Accepted to CVPR26 |
+| **[Bilevel Autoresearch: Meta-Autoresearching Itself](https://arxiv.org/abs/2603.23420v1)** | 2026-03-24 | <details><summary>13 pa...</summary><p>13 pages, 5 figures, 3 tables.This paper was primarily drafted by AI agents with human oversight and direction</p></details> |
+| **[Towards a general-purpose foundation model for fMRI analysis](https://arxiv.org/abs/2506.11167v2)** | 2026-03-24 |  |
 
 ## Class Incremental
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[ThinkJEPA: Empowering Latent World Models with Large Vision-Language Reasoning Model](https://arxiv.org/abs/2603.22281v1)** | 2026-03-23 | 10 pages, 5 figures |
-| **[The Price of Progress: Price Performance and the Future of AI](https://arxiv.org/abs/2511.23455v2)** | 2026-03-23 |  |
-| **[Characterizing High-Capacity Janus Aminobenzene-Graphene Anode for Sodium-Ion Batteries with Machine Learning](https://arxiv.org/abs/2603.22254v1)** | 2026-03-23 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, research article</p></details> |
-| **[Measuring Iterative Temporal Reasoning with Time Puzzles](https://arxiv.org/abs/2601.07148v3)** | 2026-03-23 | <details><summary>11 pa...</summary><p>11 pages, 4 tables, 3 figures</p></details> |
-| **[Evaluating the Reliability and Fidelity of Automated Judgment Systems of Large Language Models](https://arxiv.org/abs/2603.22214v1)** | 2026-03-23 |  |
-| **[Separators for intersection graphs of spheres](https://arxiv.org/abs/2603.22204v1)** | 2026-03-23 | <details><summary>14 pa...</summary><p>14 pages, 5 figures; to appear in SoCG 2026</p></details> |
-| **[Make Tracking Easy: Neural Motion Retargeting for Humanoid Whole-body Control](https://arxiv.org/abs/2603.22201v1)** | 2026-03-23 | <details><summary>Repor...</summary><p>Report, 12 pages, 5 figures, 4 tables</p></details> |
-| **[MARCUS: An agentic, multimodal vision-language model for cardiac diagnosis and management](https://arxiv.org/abs/2603.22179v1)** | 2026-03-23 |  |
+| **[Estimating Flow Velocity and Vehicle Angle-of-Attack from Non-invasive Piezoelectric Structural Measurements Using Deep Learning](https://arxiv.org/abs/2603.23496v1)** | 2026-03-24 |  |
+| **[An Industrial-Scale Retrieval-Augmented Generation Framework for Requirements Engineering: Empirical Evaluation with Automotive Manufacturing Data](https://arxiv.org/abs/2603.20534v2)** | 2026-03-24 | 10 pages, 6 figures |
+| **[ProbeMDE: Uncertainty-Guided Active Proprioception for Monocular Depth Estimation in Surgical Robotics](https://arxiv.org/abs/2512.11773v4)** | 2026-03-24 | <details><summary>8 pag...</summary><p>8 pages, 5 figures. Accepted at ICRA 2026. Project page: https://brittonjordan.github.io/probe_mde/</p></details> |
+| **[Ecosystem Trust Profiles](https://arxiv.org/abs/2603.05521v2)** | 2026-03-24 | <details><summary>20 pa...</summary><p>20 pages, 2 figures, 10 definitions, 5 propositions, 3 lemmas (all with proofs); Version v2 corrects an imprecision in Lemma 1 and provides a better definition of the cross-ecosystem trust dilemma</p></details> |
+| **[GazeShift: Unsupervised Gaze Estimation and Dataset for VR](https://arxiv.org/abs/2603.07832v3)** | 2026-03-24 | Accepted to CVPR26 |
+| **[Bilevel Autoresearch: Meta-Autoresearching Itself](https://arxiv.org/abs/2603.23420v1)** | 2026-03-24 | <details><summary>13 pa...</summary><p>13 pages, 5 figures, 3 tables.This paper was primarily drafted by AI agents with human oversight and direction</p></details> |
+| **[Towards a general-purpose foundation model for fMRI analysis](https://arxiv.org/abs/2506.11167v2)** | 2026-03-24 |  |
+| **[Sparse Weak-Form Discovery of Stochastic Generators](https://arxiv.org/abs/2603.20904v2)** | 2026-03-24 | 29 pages, 5 figures |
 
