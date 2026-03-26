@@ -1,5 +1,5 @@
 ---
-title: Latest 50 Papers - March 26, 2026
+title: Latest 50 Papers - March 27, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/JiamingZang/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,110 +7,109 @@ labels: documentation
 ## Molecular
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Estimating Flow Velocity and Vehicle Angle-of-Attack from Non-invasive Piezoelectric Structural Measurements Using Deep Learning](https://arxiv.org/abs/2603.23496v1)** | 2026-03-24 |  |
-| **[An Industrial-Scale Retrieval-Augmented Generation Framework for Requirements Engineering: Empirical Evaluation with Automotive Manufacturing Data](https://arxiv.org/abs/2603.20534v2)** | 2026-03-24 | 10 pages, 6 figures |
-| **[ProbeMDE: Uncertainty-Guided Active Proprioception for Monocular Depth Estimation in Surgical Robotics](https://arxiv.org/abs/2512.11773v4)** | 2026-03-24 | <details><summary>8 pag...</summary><p>8 pages, 5 figures. Accepted at ICRA 2026. Project page: https://brittonjordan.github.io/probe_mde/</p></details> |
-| **[Ecosystem Trust Profiles](https://arxiv.org/abs/2603.05521v2)** | 2026-03-24 | <details><summary>20 pa...</summary><p>20 pages, 2 figures, 10 definitions, 5 propositions, 3 lemmas (all with proofs); Version v2 corrects an imprecision in Lemma 1 and provides a better definition of the cross-ecosystem trust dilemma</p></details> |
-| **[GazeShift: Unsupervised Gaze Estimation and Dataset for VR](https://arxiv.org/abs/2603.07832v3)** | 2026-03-24 | Accepted to CVPR26 |
-| **[Bilevel Autoresearch: Meta-Autoresearching Itself](https://arxiv.org/abs/2603.23420v1)** | 2026-03-24 | <details><summary>13 pa...</summary><p>13 pages, 5 figures, 3 tables.This paper was primarily drafted by AI agents with human oversight and direction</p></details> |
+| **[The Stochastic Gap: A Markovian Framework for Pre-Deployment Reliability and Oversight-Cost Auditing in Agentic Artificial Intelligence](https://arxiv.org/abs/2603.24582v1)** | 2026-03-25 | <details><summary>22 pa...</summary><p>22 pages, 5 figures, submitted to Engineering Applications of Artificial Intelligence</p></details> |
+| **[Fast Relax-and-Round Unit Commitment with Economic Horizons](https://arxiv.org/abs/2603.15934v2)** | 2026-03-25 | <details><summary>6 pag...</summary><p>6 pages (journal limit), 6 figures</p></details> |
+| **[The Free-Market Algorithm: Self-Organizing Optimization for Open-Ended Complex Systems](https://arxiv.org/abs/2603.24559v1)** | 2026-03-25 | <details><summary>26 pa...</summary><p>26 pages, 3 figures, 2 tables, draft</p></details> |
+| **[LensWalk: Agentic Video Understanding by Planning How You See in Videos](https://arxiv.org/abs/2603.24558v1)** | 2026-03-25 | <details><summary>To be...</summary><p>To be published in CVPR 2026</p></details> |
+| **[Multi-GPU Hybrid Particle-in-Cell Monte Carlo Simulations for Exascale Computing Systems](https://arxiv.org/abs/2603.24508v1)** | 2026-03-25 | <details><summary>Accep...</summary><p>Accepted by ICCS 2026 (The 26th International Conference on Computational Science), prepared in English, formatted according to the Springer LNCS templates and consists of 15 pages, which includes the main text, references, and figures</p></details> |
+| **[LLM-Powered Workflow Optimization for Multidisciplinary Software Development: An Automotive Industry Case Study](https://arxiv.org/abs/2603.21439v3)** | 2026-03-25 | <details><summary>Accep...</summary><p>Accepted to FSE 2026 Industrial Track</p></details> |
+| **[A faster polynomial-space algorithm for Hamiltonian cycle parameterized by treedepth](https://arxiv.org/abs/2603.24492v1)** | 2026-03-25 | 21 pages |
+| **[Leveraging Synthetic and Genetic Data to Improve Epidemic Forecasting](https://arxiv.org/abs/2603.24474v1)** | 2026-03-25 | <details><summary>36 pa...</summary><p>36 pages, 19 figures, 5 tables</p></details> |
 
 ## Molecular Generation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Estimating Flow Velocity and Vehicle Angle-of-Attack from Non-invasive Piezoelectric Structural Measurements Using Deep Learning](https://arxiv.org/abs/2603.23496v1)** | 2026-03-24 |  |
-| **[An Industrial-Scale Retrieval-Augmented Generation Framework for Requirements Engineering: Empirical Evaluation with Automotive Manufacturing Data](https://arxiv.org/abs/2603.20534v2)** | 2026-03-24 | 10 pages, 6 figures |
-| **[ProbeMDE: Uncertainty-Guided Active Proprioception for Monocular Depth Estimation in Surgical Robotics](https://arxiv.org/abs/2512.11773v4)** | 2026-03-24 | <details><summary>8 pag...</summary><p>8 pages, 5 figures. Accepted at ICRA 2026. Project page: https://brittonjordan.github.io/probe_mde/</p></details> |
-| **[Ecosystem Trust Profiles](https://arxiv.org/abs/2603.05521v2)** | 2026-03-24 | <details><summary>20 pa...</summary><p>20 pages, 2 figures, 10 definitions, 5 propositions, 3 lemmas (all with proofs); Version v2 corrects an imprecision in Lemma 1 and provides a better definition of the cross-ecosystem trust dilemma</p></details> |
-| **[GazeShift: Unsupervised Gaze Estimation and Dataset for VR](https://arxiv.org/abs/2603.07832v3)** | 2026-03-24 | Accepted to CVPR26 |
-| **[Bilevel Autoresearch: Meta-Autoresearching Itself](https://arxiv.org/abs/2603.23420v1)** | 2026-03-24 | <details><summary>13 pa...</summary><p>13 pages, 5 figures, 3 tables.This paper was primarily drafted by AI agents with human oversight and direction</p></details> |
-| **[Towards a general-purpose foundation model for fMRI analysis](https://arxiv.org/abs/2506.11167v2)** | 2026-03-24 |  |
-| **[Sparse Weak-Form Discovery of Stochastic Generators](https://arxiv.org/abs/2603.20904v2)** | 2026-03-24 | 29 pages, 5 figures |
+| **[The Stochastic Gap: A Markovian Framework for Pre-Deployment Reliability and Oversight-Cost Auditing in Agentic Artificial Intelligence](https://arxiv.org/abs/2603.24582v1)** | 2026-03-25 | <details><summary>22 pa...</summary><p>22 pages, 5 figures, submitted to Engineering Applications of Artificial Intelligence</p></details> |
+| **[Fast Relax-and-Round Unit Commitment with Economic Horizons](https://arxiv.org/abs/2603.15934v2)** | 2026-03-25 | <details><summary>6 pag...</summary><p>6 pages (journal limit), 6 figures</p></details> |
+| **[The Free-Market Algorithm: Self-Organizing Optimization for Open-Ended Complex Systems](https://arxiv.org/abs/2603.24559v1)** | 2026-03-25 | <details><summary>26 pa...</summary><p>26 pages, 3 figures, 2 tables, draft</p></details> |
+| **[LensWalk: Agentic Video Understanding by Planning How You See in Videos](https://arxiv.org/abs/2603.24558v1)** | 2026-03-25 | <details><summary>To be...</summary><p>To be published in CVPR 2026</p></details> |
+| **[Multi-GPU Hybrid Particle-in-Cell Monte Carlo Simulations for Exascale Computing Systems](https://arxiv.org/abs/2603.24508v1)** | 2026-03-25 | <details><summary>Accep...</summary><p>Accepted by ICCS 2026 (The 26th International Conference on Computational Science), prepared in English, formatted according to the Springer LNCS templates and consists of 15 pages, which includes the main text, references, and figures</p></details> |
+| **[LLM-Powered Workflow Optimization for Multidisciplinary Software Development: An Automotive Industry Case Study](https://arxiv.org/abs/2603.21439v3)** | 2026-03-25 | <details><summary>Accep...</summary><p>Accepted to FSE 2026 Industrial Track</p></details> |
+| **[A faster polynomial-space algorithm for Hamiltonian cycle parameterized by treedepth](https://arxiv.org/abs/2603.24492v1)** | 2026-03-25 | 21 pages |
+| **[Leveraging Synthetic and Genetic Data to Improve Epidemic Forecasting](https://arxiv.org/abs/2603.24474v1)** | 2026-03-25 | <details><summary>36 pa...</summary><p>36 pages, 19 figures, 5 tables</p></details> |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Estimating Flow Velocity and Vehicle Angle-of-Attack from Non-invasive Piezoelectric Structural Measurements Using Deep Learning](https://arxiv.org/abs/2603.23496v1)** | 2026-03-24 |  |
-| **[An Industrial-Scale Retrieval-Augmented Generation Framework for Requirements Engineering: Empirical Evaluation with Automotive Manufacturing Data](https://arxiv.org/abs/2603.20534v2)** | 2026-03-24 | 10 pages, 6 figures |
-| **[ProbeMDE: Uncertainty-Guided Active Proprioception for Monocular Depth Estimation in Surgical Robotics](https://arxiv.org/abs/2512.11773v4)** | 2026-03-24 | <details><summary>8 pag...</summary><p>8 pages, 5 figures. Accepted at ICRA 2026. Project page: https://brittonjordan.github.io/probe_mde/</p></details> |
-| **[Ecosystem Trust Profiles](https://arxiv.org/abs/2603.05521v2)** | 2026-03-24 | <details><summary>20 pa...</summary><p>20 pages, 2 figures, 10 definitions, 5 propositions, 3 lemmas (all with proofs); Version v2 corrects an imprecision in Lemma 1 and provides a better definition of the cross-ecosystem trust dilemma</p></details> |
-| **[GazeShift: Unsupervised Gaze Estimation and Dataset for VR](https://arxiv.org/abs/2603.07832v3)** | 2026-03-24 | Accepted to CVPR26 |
-| **[Bilevel Autoresearch: Meta-Autoresearching Itself](https://arxiv.org/abs/2603.23420v1)** | 2026-03-24 | <details><summary>13 pa...</summary><p>13 pages, 5 figures, 3 tables.This paper was primarily drafted by AI agents with human oversight and direction</p></details> |
-| **[Graph Variate Neural Networks](https://arxiv.org/abs/2509.20311v2)** | 2026-03-24 |  |
-| **[Covariance Density Neural Networks](https://arxiv.org/abs/2505.11139v3)** | 2026-03-24 |  |
+| **[The Stochastic Gap: A Markovian Framework for Pre-Deployment Reliability and Oversight-Cost Auditing in Agentic Artificial Intelligence](https://arxiv.org/abs/2603.24582v1)** | 2026-03-25 | <details><summary>22 pa...</summary><p>22 pages, 5 figures, submitted to Engineering Applications of Artificial Intelligence</p></details> |
+| **[Fast Relax-and-Round Unit Commitment with Economic Horizons](https://arxiv.org/abs/2603.15934v2)** | 2026-03-25 | <details><summary>6 pag...</summary><p>6 pages (journal limit), 6 figures</p></details> |
+| **[The Free-Market Algorithm: Self-Organizing Optimization for Open-Ended Complex Systems](https://arxiv.org/abs/2603.24559v1)** | 2026-03-25 | <details><summary>26 pa...</summary><p>26 pages, 3 figures, 2 tables, draft</p></details> |
+| **[LensWalk: Agentic Video Understanding by Planning How You See in Videos](https://arxiv.org/abs/2603.24558v1)** | 2026-03-25 | <details><summary>To be...</summary><p>To be published in CVPR 2026</p></details> |
+| **[Multi-GPU Hybrid Particle-in-Cell Monte Carlo Simulations for Exascale Computing Systems](https://arxiv.org/abs/2603.24508v1)** | 2026-03-25 | <details><summary>Accep...</summary><p>Accepted by ICCS 2026 (The 26th International Conference on Computational Science), prepared in English, formatted according to the Springer LNCS templates and consists of 15 pages, which includes the main text, references, and figures</p></details> |
+| **[LLM-Powered Workflow Optimization for Multidisciplinary Software Development: An Automotive Industry Case Study](https://arxiv.org/abs/2603.21439v3)** | 2026-03-25 | <details><summary>Accep...</summary><p>Accepted to FSE 2026 Industrial Track</p></details> |
+| **[A faster polynomial-space algorithm for Hamiltonian cycle parameterized by treedepth](https://arxiv.org/abs/2603.24492v1)** | 2026-03-25 | 21 pages |
+| **[Leveraging Synthetic and Genetic Data to Improve Epidemic Forecasting](https://arxiv.org/abs/2603.24474v1)** | 2026-03-25 | <details><summary>36 pa...</summary><p>36 pages, 19 figures, 5 tables</p></details> |
 
 ## Diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[DA-Flow: Degradation-Aware Optical Flow Estimation with Diffusion Models](https://arxiv.org/abs/2603.23499v1)** | 2026-03-24 | <details><summary>Proje...</summary><p>Project page: https://cvlab-kaist.github.io/DA-Flow</p></details> |
-| **[Estimating Flow Velocity and Vehicle Angle-of-Attack from Non-invasive Piezoelectric Structural Measurements Using Deep Learning](https://arxiv.org/abs/2603.23496v1)** | 2026-03-24 |  |
-| **[Foveated Diffusion: Efficient Spatially Adaptive Image and Video Generation](https://arxiv.org/abs/2603.23491v1)** | 2026-03-24 | <details><summary>Proje...</summary><p>Project website at https://bchao1.github.io/foveated-diffusion</p></details> |
-| **[TETO: Tracking Events with Teacher Observation for Motion Estimation and Frame Interpolation](https://arxiv.org/abs/2603.23487v1)** | 2026-03-24 |  |
-| **[Task-Oriented Data Synthesis and Control-Rectify Sampling for Remote Sensing Semantic Segmentation](https://arxiv.org/abs/2512.16740v2)** | 2026-03-24 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026</p></details> |
-| **[An Industrial-Scale Retrieval-Augmented Generation Framework for Requirements Engineering: Empirical Evaluation with Automotive Manufacturing Data](https://arxiv.org/abs/2603.20534v2)** | 2026-03-24 | 10 pages, 6 figures |
-| **[2D implementation of Kinetic-diffusion Monte Carlo in Eiron](https://arxiv.org/abs/2509.19140v2)** | 2026-03-24 | <details><summary>9 pag...</summary><p>9 pages, 4 figures, minor textual changes and updating scaling of figures</p></details> |
-| **[InverFill: One-Step Inversion for Enhanced Few-Step Diffusion Inpainting](https://arxiv.org/abs/2603.23463v1)** | 2026-03-24 | <details><summary>Accep...</summary><p>Accepted to CVPR'26 (Main Conference)</p></details> |
-| **[RealMaster: Lifting Rendered Scenes into Photorealistic Video](https://arxiv.org/abs/2603.23462v1)** | 2026-03-24 | <details><summary>Proje...</summary><p>Project page: https://danacohen95.github.io/RealMaster/</p></details> |
-| **[ProbeMDE: Uncertainty-Guided Active Proprioception for Monocular Depth Estimation in Surgical Robotics](https://arxiv.org/abs/2512.11773v4)** | 2026-03-24 | <details><summary>8 pag...</summary><p>8 pages, 5 figures. Accepted at ICRA 2026. Project page: https://brittonjordan.github.io/probe_mde/</p></details> |
-| **[Ecosystem Trust Profiles](https://arxiv.org/abs/2603.05521v2)** | 2026-03-24 | <details><summary>20 pa...</summary><p>20 pages, 2 figures, 10 definitions, 5 propositions, 3 lemmas (all with proofs); Version v2 corrects an imprecision in Lemma 1 and provides a better definition of the cross-ecosystem trust dilemma</p></details> |
-| **[GazeShift: Unsupervised Gaze Estimation and Dataset for VR](https://arxiv.org/abs/2603.07832v3)** | 2026-03-24 | Accepted to CVPR26 |
+| **[Polynomial Speedup in Diffusion Models with the Multilevel Euler-Maruyama Method](https://arxiv.org/abs/2603.24594v1)** | 2026-03-25 |  |
+| **[YingMusic-Singer: Controllable Singing Voice Synthesis with Flexible Lyric Manipulation and Annotation-free Melody Guidance](https://arxiv.org/abs/2603.24589v1)** | 2026-03-25 |  |
+| **[DreamerAD: Efficient Reinforcement Learning via Latent World Model for Autonomous Driving](https://arxiv.org/abs/2603.24587v1)** | 2026-03-25 | first version |
+| **[The Stochastic Gap: A Markovian Framework for Pre-Deployment Reliability and Oversight-Cost Auditing in Agentic Artificial Intelligence](https://arxiv.org/abs/2603.24582v1)** | 2026-03-25 | <details><summary>22 pa...</summary><p>22 pages, 5 figures, submitted to Engineering Applications of Artificial Intelligence</p></details> |
+| **[Fast Relax-and-Round Unit Commitment with Economic Horizons](https://arxiv.org/abs/2603.15934v2)** | 2026-03-25 | <details><summary>6 pag...</summary><p>6 pages (journal limit), 6 figures</p></details> |
+| **[Anti-I2V: Safeguarding your photos from malicious image-to-video generation](https://arxiv.org/abs/2603.24570v1)** | 2026-03-25 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026 (Main Conference)</p></details> |
+| **[The Free-Market Algorithm: Self-Organizing Optimization for Open-Ended Complex Systems](https://arxiv.org/abs/2603.24559v1)** | 2026-03-25 | <details><summary>26 pa...</summary><p>26 pages, 3 figures, 2 tables, draft</p></details> |
+| **[LensWalk: Agentic Video Understanding by Planning How You See in Videos](https://arxiv.org/abs/2603.24558v1)** | 2026-03-25 | <details><summary>To be...</summary><p>To be published in CVPR 2026</p></details> |
+| **[Uni-DAD: Unified Distillation and Adaptation of Diffusion Models for Few-step Few-shot Image Generation](https://arxiv.org/abs/2511.18281v3)** | 2026-03-25 | <details><summary>Accep...</summary><p>Accepted at IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2026</p></details> |
+| **[SEGAR: Selective Enhancement for Generative Augmented Reality](https://arxiv.org/abs/2603.24541v1)** | 2026-03-25 |  |
 
 ## Object Counting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Estimating Flow Velocity and Vehicle Angle-of-Attack from Non-invasive Piezoelectric Structural Measurements Using Deep Learning](https://arxiv.org/abs/2603.23496v1)** | 2026-03-24 |  |
-| **[An Industrial-Scale Retrieval-Augmented Generation Framework for Requirements Engineering: Empirical Evaluation with Automotive Manufacturing Data](https://arxiv.org/abs/2603.20534v2)** | 2026-03-24 | 10 pages, 6 figures |
-| **[ProbeMDE: Uncertainty-Guided Active Proprioception for Monocular Depth Estimation in Surgical Robotics](https://arxiv.org/abs/2512.11773v4)** | 2026-03-24 | <details><summary>8 pag...</summary><p>8 pages, 5 figures. Accepted at ICRA 2026. Project page: https://brittonjordan.github.io/probe_mde/</p></details> |
-| **[Ecosystem Trust Profiles](https://arxiv.org/abs/2603.05521v2)** | 2026-03-24 | <details><summary>20 pa...</summary><p>20 pages, 2 figures, 10 definitions, 5 propositions, 3 lemmas (all with proofs); Version v2 corrects an imprecision in Lemma 1 and provides a better definition of the cross-ecosystem trust dilemma</p></details> |
-| **[GazeShift: Unsupervised Gaze Estimation and Dataset for VR](https://arxiv.org/abs/2603.07832v3)** | 2026-03-24 | Accepted to CVPR26 |
-| **[Bilevel Autoresearch: Meta-Autoresearching Itself](https://arxiv.org/abs/2603.23420v1)** | 2026-03-24 | <details><summary>13 pa...</summary><p>13 pages, 5 figures, 3 tables.This paper was primarily drafted by AI agents with human oversight and direction</p></details> |
-| **[Towards a general-purpose foundation model for fMRI analysis](https://arxiv.org/abs/2506.11167v2)** | 2026-03-24 |  |
-| **[Sparse Weak-Form Discovery of Stochastic Generators](https://arxiv.org/abs/2603.20904v2)** | 2026-03-24 | 29 pages, 5 figures |
+| **[The Stochastic Gap: A Markovian Framework for Pre-Deployment Reliability and Oversight-Cost Auditing in Agentic Artificial Intelligence](https://arxiv.org/abs/2603.24582v1)** | 2026-03-25 | <details><summary>22 pa...</summary><p>22 pages, 5 figures, submitted to Engineering Applications of Artificial Intelligence</p></details> |
+| **[Fast Relax-and-Round Unit Commitment with Economic Horizons](https://arxiv.org/abs/2603.15934v2)** | 2026-03-25 | <details><summary>6 pag...</summary><p>6 pages (journal limit), 6 figures</p></details> |
+| **[The Free-Market Algorithm: Self-Organizing Optimization for Open-Ended Complex Systems](https://arxiv.org/abs/2603.24559v1)** | 2026-03-25 | <details><summary>26 pa...</summary><p>26 pages, 3 figures, 2 tables, draft</p></details> |
+| **[LensWalk: Agentic Video Understanding by Planning How You See in Videos](https://arxiv.org/abs/2603.24558v1)** | 2026-03-25 | <details><summary>To be...</summary><p>To be published in CVPR 2026</p></details> |
+| **[Multi-GPU Hybrid Particle-in-Cell Monte Carlo Simulations for Exascale Computing Systems](https://arxiv.org/abs/2603.24508v1)** | 2026-03-25 | <details><summary>Accep...</summary><p>Accepted by ICCS 2026 (The 26th International Conference on Computational Science), prepared in English, formatted according to the Springer LNCS templates and consists of 15 pages, which includes the main text, references, and figures</p></details> |
+| **[LLM-Powered Workflow Optimization for Multidisciplinary Software Development: An Automotive Industry Case Study](https://arxiv.org/abs/2603.21439v3)** | 2026-03-25 | <details><summary>Accep...</summary><p>Accepted to FSE 2026 Industrial Track</p></details> |
+| **[A faster polynomial-space algorithm for Hamiltonian cycle parameterized by treedepth](https://arxiv.org/abs/2603.24492v1)** | 2026-03-25 | 21 pages |
+| **[Leveraging Synthetic and Genetic Data to Improve Epidemic Forecasting](https://arxiv.org/abs/2603.24474v1)** | 2026-03-25 | <details><summary>36 pa...</summary><p>36 pages, 19 figures, 5 tables</p></details> |
 
 ## Image Caption
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Estimating Flow Velocity and Vehicle Angle-of-Attack from Non-invasive Piezoelectric Structural Measurements Using Deep Learning](https://arxiv.org/abs/2603.23496v1)** | 2026-03-24 |  |
-| **[An Industrial-Scale Retrieval-Augmented Generation Framework for Requirements Engineering: Empirical Evaluation with Automotive Manufacturing Data](https://arxiv.org/abs/2603.20534v2)** | 2026-03-24 | 10 pages, 6 figures |
-| **[ProbeMDE: Uncertainty-Guided Active Proprioception for Monocular Depth Estimation in Surgical Robotics](https://arxiv.org/abs/2512.11773v4)** | 2026-03-24 | <details><summary>8 pag...</summary><p>8 pages, 5 figures. Accepted at ICRA 2026. Project page: https://brittonjordan.github.io/probe_mde/</p></details> |
-| **[Ecosystem Trust Profiles](https://arxiv.org/abs/2603.05521v2)** | 2026-03-24 | <details><summary>20 pa...</summary><p>20 pages, 2 figures, 10 definitions, 5 propositions, 3 lemmas (all with proofs); Version v2 corrects an imprecision in Lemma 1 and provides a better definition of the cross-ecosystem trust dilemma</p></details> |
-| **[GazeShift: Unsupervised Gaze Estimation and Dataset for VR](https://arxiv.org/abs/2603.07832v3)** | 2026-03-24 | Accepted to CVPR26 |
-| **[Bilevel Autoresearch: Meta-Autoresearching Itself](https://arxiv.org/abs/2603.23420v1)** | 2026-03-24 | <details><summary>13 pa...</summary><p>13 pages, 5 figures, 3 tables.This paper was primarily drafted by AI agents with human oversight and direction</p></details> |
-| **[Towards a general-purpose foundation model for fMRI analysis](https://arxiv.org/abs/2506.11167v2)** | 2026-03-24 |  |
-| **[Sparse Weak-Form Discovery of Stochastic Generators](https://arxiv.org/abs/2603.20904v2)** | 2026-03-24 | 29 pages, 5 figures |
+| **[The Stochastic Gap: A Markovian Framework for Pre-Deployment Reliability and Oversight-Cost Auditing in Agentic Artificial Intelligence](https://arxiv.org/abs/2603.24582v1)** | 2026-03-25 | <details><summary>22 pa...</summary><p>22 pages, 5 figures, submitted to Engineering Applications of Artificial Intelligence</p></details> |
+| **[Fast Relax-and-Round Unit Commitment with Economic Horizons](https://arxiv.org/abs/2603.15934v2)** | 2026-03-25 | <details><summary>6 pag...</summary><p>6 pages (journal limit), 6 figures</p></details> |
+| **[The Free-Market Algorithm: Self-Organizing Optimization for Open-Ended Complex Systems](https://arxiv.org/abs/2603.24559v1)** | 2026-03-25 | <details><summary>26 pa...</summary><p>26 pages, 3 figures, 2 tables, draft</p></details> |
+| **[LensWalk: Agentic Video Understanding by Planning How You See in Videos](https://arxiv.org/abs/2603.24558v1)** | 2026-03-25 | <details><summary>To be...</summary><p>To be published in CVPR 2026</p></details> |
+| **[Multi-GPU Hybrid Particle-in-Cell Monte Carlo Simulations for Exascale Computing Systems](https://arxiv.org/abs/2603.24508v1)** | 2026-03-25 | <details><summary>Accep...</summary><p>Accepted by ICCS 2026 (The 26th International Conference on Computational Science), prepared in English, formatted according to the Springer LNCS templates and consists of 15 pages, which includes the main text, references, and figures</p></details> |
+| **[LLM-Powered Workflow Optimization for Multidisciplinary Software Development: An Automotive Industry Case Study](https://arxiv.org/abs/2603.21439v3)** | 2026-03-25 | <details><summary>Accep...</summary><p>Accepted to FSE 2026 Industrial Track</p></details> |
+| **[A faster polynomial-space algorithm for Hamiltonian cycle parameterized by treedepth](https://arxiv.org/abs/2603.24492v1)** | 2026-03-25 | 21 pages |
+| **[Leveraging Synthetic and Genetic Data to Improve Epidemic Forecasting](https://arxiv.org/abs/2603.24474v1)** | 2026-03-25 | <details><summary>36 pa...</summary><p>36 pages, 19 figures, 5 tables</p></details> |
 
 ## Describe
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Estimating Flow Velocity and Vehicle Angle-of-Attack from Non-invasive Piezoelectric Structural Measurements Using Deep Learning](https://arxiv.org/abs/2603.23496v1)** | 2026-03-24 |  |
-| **[An Industrial-Scale Retrieval-Augmented Generation Framework for Requirements Engineering: Empirical Evaluation with Automotive Manufacturing Data](https://arxiv.org/abs/2603.20534v2)** | 2026-03-24 | 10 pages, 6 figures |
-| **[ProbeMDE: Uncertainty-Guided Active Proprioception for Monocular Depth Estimation in Surgical Robotics](https://arxiv.org/abs/2512.11773v4)** | 2026-03-24 | <details><summary>8 pag...</summary><p>8 pages, 5 figures. Accepted at ICRA 2026. Project page: https://brittonjordan.github.io/probe_mde/</p></details> |
-| **[Ecosystem Trust Profiles](https://arxiv.org/abs/2603.05521v2)** | 2026-03-24 | <details><summary>20 pa...</summary><p>20 pages, 2 figures, 10 definitions, 5 propositions, 3 lemmas (all with proofs); Version v2 corrects an imprecision in Lemma 1 and provides a better definition of the cross-ecosystem trust dilemma</p></details> |
-| **[GazeShift: Unsupervised Gaze Estimation and Dataset for VR](https://arxiv.org/abs/2603.07832v3)** | 2026-03-24 | Accepted to CVPR26 |
-| **[Bilevel Autoresearch: Meta-Autoresearching Itself](https://arxiv.org/abs/2603.23420v1)** | 2026-03-24 | <details><summary>13 pa...</summary><p>13 pages, 5 figures, 3 tables.This paper was primarily drafted by AI agents with human oversight and direction</p></details> |
-| **[Planning over MAPF Agent Dependencies via Multi-Dependency PIBT](https://arxiv.org/abs/2603.23405v1)** | 2026-03-24 |  |
-| **[Markov State--Space Modeling and Channel Characterization for DNA-Based Molecular Communication](https://arxiv.org/abs/2603.23394v1)** | 2026-03-24 | 13 pages |
+| **[The Stochastic Gap: A Markovian Framework for Pre-Deployment Reliability and Oversight-Cost Auditing in Agentic Artificial Intelligence](https://arxiv.org/abs/2603.24582v1)** | 2026-03-25 | <details><summary>22 pa...</summary><p>22 pages, 5 figures, submitted to Engineering Applications of Artificial Intelligence</p></details> |
+| **[Fast Relax-and-Round Unit Commitment with Economic Horizons](https://arxiv.org/abs/2603.15934v2)** | 2026-03-25 | <details><summary>6 pag...</summary><p>6 pages (journal limit), 6 figures</p></details> |
+| **[The Free-Market Algorithm: Self-Organizing Optimization for Open-Ended Complex Systems](https://arxiv.org/abs/2603.24559v1)** | 2026-03-25 | <details><summary>26 pa...</summary><p>26 pages, 3 figures, 2 tables, draft</p></details> |
+| **[LensWalk: Agentic Video Understanding by Planning How You See in Videos](https://arxiv.org/abs/2603.24558v1)** | 2026-03-25 | <details><summary>To be...</summary><p>To be published in CVPR 2026</p></details> |
+| **[Novel models of computation from novel physical substrates: a bosonic example](https://arxiv.org/abs/2603.24531v1)** | 2026-03-25 | 17 pages, 6 figures |
+| **[Multi-GPU Hybrid Particle-in-Cell Monte Carlo Simulations for Exascale Computing Systems](https://arxiv.org/abs/2603.24508v1)** | 2026-03-25 | <details><summary>Accep...</summary><p>Accepted by ICCS 2026 (The 26th International Conference on Computational Science), prepared in English, formatted according to the Springer LNCS templates and consists of 15 pages, which includes the main text, references, and figures</p></details> |
+| **[LLM-Powered Workflow Optimization for Multidisciplinary Software Development: An Automotive Industry Case Study](https://arxiv.org/abs/2603.21439v3)** | 2026-03-25 | <details><summary>Accep...</summary><p>Accepted to FSE 2026 Industrial Track</p></details> |
 
 ## Light Weight
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Estimating Flow Velocity and Vehicle Angle-of-Attack from Non-invasive Piezoelectric Structural Measurements Using Deep Learning](https://arxiv.org/abs/2603.23496v1)** | 2026-03-24 |  |
-| **[Dynamic Light Spanners in Doubling Metrics](https://arxiv.org/abs/2603.23490v1)** | 2026-03-24 |  |
-| **[An Industrial-Scale Retrieval-Augmented Generation Framework for Requirements Engineering: Empirical Evaluation with Automotive Manufacturing Data](https://arxiv.org/abs/2603.20534v2)** | 2026-03-24 | 10 pages, 6 figures |
-| **[ProbeMDE: Uncertainty-Guided Active Proprioception for Monocular Depth Estimation in Surgical Robotics](https://arxiv.org/abs/2512.11773v4)** | 2026-03-24 | <details><summary>8 pag...</summary><p>8 pages, 5 figures. Accepted at ICRA 2026. Project page: https://brittonjordan.github.io/probe_mde/</p></details> |
-| **[Ecosystem Trust Profiles](https://arxiv.org/abs/2603.05521v2)** | 2026-03-24 | <details><summary>20 pa...</summary><p>20 pages, 2 figures, 10 definitions, 5 propositions, 3 lemmas (all with proofs); Version v2 corrects an imprecision in Lemma 1 and provides a better definition of the cross-ecosystem trust dilemma</p></details> |
-| **[GazeShift: Unsupervised Gaze Estimation and Dataset for VR](https://arxiv.org/abs/2603.07832v3)** | 2026-03-24 | Accepted to CVPR26 |
-| **[Bilevel Autoresearch: Meta-Autoresearching Itself](https://arxiv.org/abs/2603.23420v1)** | 2026-03-24 | <details><summary>13 pa...</summary><p>13 pages, 5 figures, 3 tables.This paper was primarily drafted by AI agents with human oversight and direction</p></details> |
-| **[Towards a general-purpose foundation model for fMRI analysis](https://arxiv.org/abs/2506.11167v2)** | 2026-03-24 |  |
+| **[The Stochastic Gap: A Markovian Framework for Pre-Deployment Reliability and Oversight-Cost Auditing in Agentic Artificial Intelligence](https://arxiv.org/abs/2603.24582v1)** | 2026-03-25 | <details><summary>22 pa...</summary><p>22 pages, 5 figures, submitted to Engineering Applications of Artificial Intelligence</p></details> |
+| **[Fast Relax-and-Round Unit Commitment with Economic Horizons](https://arxiv.org/abs/2603.15934v2)** | 2026-03-25 | <details><summary>6 pag...</summary><p>6 pages (journal limit), 6 figures</p></details> |
+| **[The Free-Market Algorithm: Self-Organizing Optimization for Open-Ended Complex Systems](https://arxiv.org/abs/2603.24559v1)** | 2026-03-25 | <details><summary>26 pa...</summary><p>26 pages, 3 figures, 2 tables, draft</p></details> |
+| **[LensWalk: Agentic Video Understanding by Planning How You See in Videos](https://arxiv.org/abs/2603.24558v1)** | 2026-03-25 | <details><summary>To be...</summary><p>To be published in CVPR 2026</p></details> |
+| **[Multi-GPU Hybrid Particle-in-Cell Monte Carlo Simulations for Exascale Computing Systems](https://arxiv.org/abs/2603.24508v1)** | 2026-03-25 | <details><summary>Accep...</summary><p>Accepted by ICCS 2026 (The 26th International Conference on Computational Science), prepared in English, formatted according to the Springer LNCS templates and consists of 15 pages, which includes the main text, references, and figures</p></details> |
+| **[LLM-Powered Workflow Optimization for Multidisciplinary Software Development: An Automotive Industry Case Study](https://arxiv.org/abs/2603.21439v3)** | 2026-03-25 | <details><summary>Accep...</summary><p>Accepted to FSE 2026 Industrial Track</p></details> |
+| **[A faster polynomial-space algorithm for Hamiltonian cycle parameterized by treedepth](https://arxiv.org/abs/2603.24492v1)** | 2026-03-25 | 21 pages |
+| **[Leveraging Synthetic and Genetic Data to Improve Epidemic Forecasting](https://arxiv.org/abs/2603.24474v1)** | 2026-03-25 | <details><summary>36 pa...</summary><p>36 pages, 19 figures, 5 tables</p></details> |
 
 ## Class Incremental
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Estimating Flow Velocity and Vehicle Angle-of-Attack from Non-invasive Piezoelectric Structural Measurements Using Deep Learning](https://arxiv.org/abs/2603.23496v1)** | 2026-03-24 |  |
-| **[An Industrial-Scale Retrieval-Augmented Generation Framework for Requirements Engineering: Empirical Evaluation with Automotive Manufacturing Data](https://arxiv.org/abs/2603.20534v2)** | 2026-03-24 | 10 pages, 6 figures |
-| **[ProbeMDE: Uncertainty-Guided Active Proprioception for Monocular Depth Estimation in Surgical Robotics](https://arxiv.org/abs/2512.11773v4)** | 2026-03-24 | <details><summary>8 pag...</summary><p>8 pages, 5 figures. Accepted at ICRA 2026. Project page: https://brittonjordan.github.io/probe_mde/</p></details> |
-| **[Ecosystem Trust Profiles](https://arxiv.org/abs/2603.05521v2)** | 2026-03-24 | <details><summary>20 pa...</summary><p>20 pages, 2 figures, 10 definitions, 5 propositions, 3 lemmas (all with proofs); Version v2 corrects an imprecision in Lemma 1 and provides a better definition of the cross-ecosystem trust dilemma</p></details> |
-| **[GazeShift: Unsupervised Gaze Estimation and Dataset for VR](https://arxiv.org/abs/2603.07832v3)** | 2026-03-24 | Accepted to CVPR26 |
-| **[Bilevel Autoresearch: Meta-Autoresearching Itself](https://arxiv.org/abs/2603.23420v1)** | 2026-03-24 | <details><summary>13 pa...</summary><p>13 pages, 5 figures, 3 tables.This paper was primarily drafted by AI agents with human oversight and direction</p></details> |
-| **[Towards a general-purpose foundation model for fMRI analysis](https://arxiv.org/abs/2506.11167v2)** | 2026-03-24 |  |
-| **[Sparse Weak-Form Discovery of Stochastic Generators](https://arxiv.org/abs/2603.20904v2)** | 2026-03-24 | 29 pages, 5 figures |
+| **[The Stochastic Gap: A Markovian Framework for Pre-Deployment Reliability and Oversight-Cost Auditing in Agentic Artificial Intelligence](https://arxiv.org/abs/2603.24582v1)** | 2026-03-25 | <details><summary>22 pa...</summary><p>22 pages, 5 figures, submitted to Engineering Applications of Artificial Intelligence</p></details> |
+| **[Fast Relax-and-Round Unit Commitment with Economic Horizons](https://arxiv.org/abs/2603.15934v2)** | 2026-03-25 | <details><summary>6 pag...</summary><p>6 pages (journal limit), 6 figures</p></details> |
+| **[The Free-Market Algorithm: Self-Organizing Optimization for Open-Ended Complex Systems](https://arxiv.org/abs/2603.24559v1)** | 2026-03-25 | <details><summary>26 pa...</summary><p>26 pages, 3 figures, 2 tables, draft</p></details> |
+| **[LensWalk: Agentic Video Understanding by Planning How You See in Videos](https://arxiv.org/abs/2603.24558v1)** | 2026-03-25 | <details><summary>To be...</summary><p>To be published in CVPR 2026</p></details> |
+| **[Multi-GPU Hybrid Particle-in-Cell Monte Carlo Simulations for Exascale Computing Systems](https://arxiv.org/abs/2603.24508v1)** | 2026-03-25 | <details><summary>Accep...</summary><p>Accepted by ICCS 2026 (The 26th International Conference on Computational Science), prepared in English, formatted according to the Springer LNCS templates and consists of 15 pages, which includes the main text, references, and figures</p></details> |
+| **[LLM-Powered Workflow Optimization for Multidisciplinary Software Development: An Automotive Industry Case Study](https://arxiv.org/abs/2603.21439v3)** | 2026-03-25 | <details><summary>Accep...</summary><p>Accepted to FSE 2026 Industrial Track</p></details> |
+| **[A faster polynomial-space algorithm for Hamiltonian cycle parameterized by treedepth](https://arxiv.org/abs/2603.24492v1)** | 2026-03-25 | 21 pages |
+| **[Leveraging Synthetic and Genetic Data to Improve Epidemic Forecasting](https://arxiv.org/abs/2603.24474v1)** | 2026-03-25 | <details><summary>36 pa...</summary><p>36 pages, 19 figures, 5 tables</p></details> |
 
