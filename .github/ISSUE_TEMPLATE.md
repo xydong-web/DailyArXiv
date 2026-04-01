@@ -1,5 +1,5 @@
 ---
-title: Latest 50 Papers - April 01, 2026
+title: Latest 50 Papers - April 02, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/JiamingZang/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,109 +7,119 @@ labels: documentation
 ## Molecular
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Temporal Credit Is Free](https://arxiv.org/abs/2603.28750v1)** | 2026-03-30 | <details><summary>16 pa...</summary><p>16 pages, 4 figures, 5 tables</p></details> |
-| **[Object-Reconstruction-Aware Whole-body Control of Mobile Manipulators](https://arxiv.org/abs/2509.04094v2)** | 2026-03-30 | <details><summary>19 pa...</summary><p>19 pages, 17 figures, 5 tables. Under Review for the IEEE Transactions on Robotics (T-RO)</p></details> |
-| **[Pandora: Articulated 3D Scene Graphs from Egocentric Vision](https://arxiv.org/abs/2603.28732v1)** | 2026-03-30 | <details><summary>14 pa...</summary><p>14 pages, 5 figures. Presented at the 2025 British Machine Vision Conference (BMVC) in Sheffield, UK</p></details> |
-| **[SOLE-R1: Video-Language Reasoning as the Sole Reward for On-Robot Reinforcement Learning](https://arxiv.org/abs/2603.28730v1)** | 2026-03-30 |  |
-| **[Vision-Language Agents for Interactive Forest Change Analysis](https://arxiv.org/abs/2601.04497v2)** | 2026-03-30 | <details><summary>5 pag...</summary><p>5 pages, 4 figures, Accepted into IGARSS 2026</p></details> |
-| **[Measuring Complexity at the Requirements Stage: Spectral Metrics as Development Effort Predictors](https://arxiv.org/abs/2602.07182v4)** | 2026-03-30 | <details><summary>36 pa...</summary><p>36 pages, 4 figures, 5 tables</p></details> |
-| **[EpiScreen: Early Epilepsy Detection from Electronic Health Records with Large Language Models](https://arxiv.org/abs/2603.28698v1)** | 2026-03-30 | <details><summary>24 pa...</summary><p>24 pages, 5 figures, 4 tables</p></details> |
+| **[HapCompass: A Rotational Haptic Device for Contact-Rich Robotic Teleoperation](https://arxiv.org/abs/2603.30042v1)** | 2026-03-31 | <details><summary>Accep...</summary><p>Accepted to IEEE International Conference on Robotics and Automation (ICRA), 2026. 8 pages, 5 figures. Project page: https://ripl.github.io/HapCompass/</p></details> |
+| **[Benchmarking PhD-Level Coding in 3D Geometric Computer Vision](https://arxiv.org/abs/2603.30038v1)** | 2026-03-31 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026; Project page: https://geocodebench.github.io/</p></details> |
+| **[Can Commercial LLMs Be Parliamentary Political Companions? Comparing LLM Reasoning Against Romanian Legislative Expuneri de Motive](https://arxiv.org/abs/2603.30028v1)** | 2026-03-31 | 12 Figures |
+| **[DiffusionVL: Translating Any Autoregressive Models into Diffusion Vision Language Models](https://arxiv.org/abs/2512.15713v3)** | 2026-03-31 | <details><summary>12 pa...</summary><p>12 pages, 4 figures, conference or other essential info</p></details> |
+| **[Tracking Equivalent Mechanistic Interpretations Across Neural Networks](https://arxiv.org/abs/2603.30002v1)** | 2026-03-31 | <details><summary>32 pa...</summary><p>32 pages, 5 figures, ICLR 2026</p></details> |
+| **[SurgNavAR: An Augmented Reality Surgical Navigation Framework for Optical See-Through Head Mounted Displays](https://arxiv.org/abs/2603.29990v1)** | 2026-03-31 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
+| **[Structural Feature Engineering for Generative Engine Optimization: How Content Structure Shapes Citation Behavior](https://arxiv.org/abs/2603.29979v1)** | 2026-03-31 | <details><summary>12 pa...</summary><p>12 pages, 5 figures. This paper proposes GEO-SFE, a structural feature engineering framework for generative engine optimization</p></details> |
+| **[Do covariates explain why these groups differ? The choice of reference group can reverse conclusions in the Oaxaca-Blinder decomposition](https://arxiv.org/abs/2603.29972v1)** | 2026-03-31 | 21 pages, 5 figures |
 
 ## Molecular Generation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Temporal Credit Is Free](https://arxiv.org/abs/2603.28750v1)** | 2026-03-30 | <details><summary>16 pa...</summary><p>16 pages, 4 figures, 5 tables</p></details> |
-| **[Object-Reconstruction-Aware Whole-body Control of Mobile Manipulators](https://arxiv.org/abs/2509.04094v2)** | 2026-03-30 | <details><summary>19 pa...</summary><p>19 pages, 17 figures, 5 tables. Under Review for the IEEE Transactions on Robotics (T-RO)</p></details> |
-| **[Pandora: Articulated 3D Scene Graphs from Egocentric Vision](https://arxiv.org/abs/2603.28732v1)** | 2026-03-30 | <details><summary>14 pa...</summary><p>14 pages, 5 figures. Presented at the 2025 British Machine Vision Conference (BMVC) in Sheffield, UK</p></details> |
-| **[SOLE-R1: Video-Language Reasoning as the Sole Reward for On-Robot Reinforcement Learning](https://arxiv.org/abs/2603.28730v1)** | 2026-03-30 |  |
-| **[Vision-Language Agents for Interactive Forest Change Analysis](https://arxiv.org/abs/2601.04497v2)** | 2026-03-30 | <details><summary>5 pag...</summary><p>5 pages, 4 figures, Accepted into IGARSS 2026</p></details> |
-| **[Measuring Complexity at the Requirements Stage: Spectral Metrics as Development Effort Predictors](https://arxiv.org/abs/2602.07182v4)** | 2026-03-30 | <details><summary>36 pa...</summary><p>36 pages, 4 figures, 5 tables</p></details> |
-| **[EpiScreen: Early Epilepsy Detection from Electronic Health Records with Large Language Models](https://arxiv.org/abs/2603.28698v1)** | 2026-03-30 | <details><summary>24 pa...</summary><p>24 pages, 5 figures, 4 tables</p></details> |
-| **[Information-Theoretic Limits of Safety Verification for Self-Improving Systems](https://arxiv.org/abs/2603.28650v1)** | 2026-03-30 | <details><summary>27 pa...</summary><p>27 pages, 6 figures. Companion empirical paper: doi:10.5281/zenodo.19237566</p></details> |
+| **[HapCompass: A Rotational Haptic Device for Contact-Rich Robotic Teleoperation](https://arxiv.org/abs/2603.30042v1)** | 2026-03-31 | <details><summary>Accep...</summary><p>Accepted to IEEE International Conference on Robotics and Automation (ICRA), 2026. 8 pages, 5 figures. Project page: https://ripl.github.io/HapCompass/</p></details> |
+| **[Benchmarking PhD-Level Coding in 3D Geometric Computer Vision](https://arxiv.org/abs/2603.30038v1)** | 2026-03-31 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026; Project page: https://geocodebench.github.io/</p></details> |
+| **[Can Commercial LLMs Be Parliamentary Political Companions? Comparing LLM Reasoning Against Romanian Legislative Expuneri de Motive](https://arxiv.org/abs/2603.30028v1)** | 2026-03-31 | 12 Figures |
+| **[DiffusionVL: Translating Any Autoregressive Models into Diffusion Vision Language Models](https://arxiv.org/abs/2512.15713v3)** | 2026-03-31 | <details><summary>12 pa...</summary><p>12 pages, 4 figures, conference or other essential info</p></details> |
+| **[Tracking Equivalent Mechanistic Interpretations Across Neural Networks](https://arxiv.org/abs/2603.30002v1)** | 2026-03-31 | <details><summary>32 pa...</summary><p>32 pages, 5 figures, ICLR 2026</p></details> |
+| **[SurgNavAR: An Augmented Reality Surgical Navigation Framework for Optical See-Through Head Mounted Displays](https://arxiv.org/abs/2603.29990v1)** | 2026-03-31 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
+| **[Structural Feature Engineering for Generative Engine Optimization: How Content Structure Shapes Citation Behavior](https://arxiv.org/abs/2603.29979v1)** | 2026-03-31 | <details><summary>12 pa...</summary><p>12 pages, 5 figures. This paper proposes GEO-SFE, a structural feature engineering framework for generative engine optimization</p></details> |
+| **[Do covariates explain why these groups differ? The choice of reference group can reverse conclusions in the Oaxaca-Blinder decomposition](https://arxiv.org/abs/2603.29972v1)** | 2026-03-31 | 21 pages, 5 figures |
+| **[Four Generations of Quantum Biomedical Sensors](https://arxiv.org/abs/2603.29944v1)** | 2026-03-31 | <details><summary>22 pa...</summary><p>22 pages, 5 figures, 6 tables</p></details> |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Temporal Credit Is Free](https://arxiv.org/abs/2603.28750v1)** | 2026-03-30 | <details><summary>16 pa...</summary><p>16 pages, 4 figures, 5 tables</p></details> |
-| **[Object-Reconstruction-Aware Whole-body Control of Mobile Manipulators](https://arxiv.org/abs/2509.04094v2)** | 2026-03-30 | <details><summary>19 pa...</summary><p>19 pages, 17 figures, 5 tables. Under Review for the IEEE Transactions on Robotics (T-RO)</p></details> |
-| **[Pandora: Articulated 3D Scene Graphs from Egocentric Vision](https://arxiv.org/abs/2603.28732v1)** | 2026-03-30 | <details><summary>14 pa...</summary><p>14 pages, 5 figures. Presented at the 2025 British Machine Vision Conference (BMVC) in Sheffield, UK</p></details> |
-| **[SOLE-R1: Video-Language Reasoning as the Sole Reward for On-Robot Reinforcement Learning](https://arxiv.org/abs/2603.28730v1)** | 2026-03-30 |  |
-| **[Vision-Language Agents for Interactive Forest Change Analysis](https://arxiv.org/abs/2601.04497v2)** | 2026-03-30 | <details><summary>5 pag...</summary><p>5 pages, 4 figures, Accepted into IGARSS 2026</p></details> |
-| **[Measuring Complexity at the Requirements Stage: Spectral Metrics as Development Effort Predictors](https://arxiv.org/abs/2602.07182v4)** | 2026-03-30 | <details><summary>36 pa...</summary><p>36 pages, 4 figures, 5 tables</p></details> |
-| **[EpiScreen: Early Epilepsy Detection from Electronic Health Records with Large Language Models](https://arxiv.org/abs/2603.28698v1)** | 2026-03-30 | <details><summary>24 pa...</summary><p>24 pages, 5 figures, 4 tables</p></details> |
-| **[Information-Theoretic Limits of Safety Verification for Self-Improving Systems](https://arxiv.org/abs/2603.28650v1)** | 2026-03-30 | <details><summary>27 pa...</summary><p>27 pages, 6 figures. Companion empirical paper: doi:10.5281/zenodo.19237566</p></details> |
+| **[HapCompass: A Rotational Haptic Device for Contact-Rich Robotic Teleoperation](https://arxiv.org/abs/2603.30042v1)** | 2026-03-31 | <details><summary>Accep...</summary><p>Accepted to IEEE International Conference on Robotics and Automation (ICRA), 2026. 8 pages, 5 figures. Project page: https://ripl.github.io/HapCompass/</p></details> |
+| **[Benchmarking PhD-Level Coding in 3D Geometric Computer Vision](https://arxiv.org/abs/2603.30038v1)** | 2026-03-31 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026; Project page: https://geocodebench.github.io/</p></details> |
+| **[When Does Global Attention Help? A Unified Empirical Study on Atomistic Graph Learning](https://arxiv.org/abs/2510.05583v2)** | 2026-03-31 | <details><summary>44 pa...</summary><p>44 pages, 8 figures, 19 tables</p></details> |
+| **[Can Commercial LLMs Be Parliamentary Political Companions? Comparing LLM Reasoning Against Romanian Legislative Expuneri de Motive](https://arxiv.org/abs/2603.30028v1)** | 2026-03-31 | 12 Figures |
+| **[DiffusionVL: Translating Any Autoregressive Models into Diffusion Vision Language Models](https://arxiv.org/abs/2512.15713v3)** | 2026-03-31 | <details><summary>12 pa...</summary><p>12 pages, 4 figures, conference or other essential info</p></details> |
+| **[Tracking Equivalent Mechanistic Interpretations Across Neural Networks](https://arxiv.org/abs/2603.30002v1)** | 2026-03-31 | <details><summary>32 pa...</summary><p>32 pages, 5 figures, ICLR 2026</p></details> |
+| **[SurgNavAR: An Augmented Reality Surgical Navigation Framework for Optical See-Through Head Mounted Displays](https://arxiv.org/abs/2603.29990v1)** | 2026-03-31 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
+| **[Structural Feature Engineering for Generative Engine Optimization: How Content Structure Shapes Citation Behavior](https://arxiv.org/abs/2603.29979v1)** | 2026-03-31 | <details><summary>12 pa...</summary><p>12 pages, 5 figures. This paper proposes GEO-SFE, a structural feature engineering framework for generative engine optimization</p></details> |
+| **[Do covariates explain why these groups differ? The choice of reference group can reverse conclusions in the Oaxaca-Blinder decomposition](https://arxiv.org/abs/2603.29972v1)** | 2026-03-31 | 21 pages, 5 figures |
+| **[Learning Structural-Functional Brain Representations through Multi-Scale Adaptive Graph Attention for Cognitive Insight](https://arxiv.org/abs/2603.29967v1)** | 2026-03-31 | <details><summary>Prepr...</summary><p>Preprint version of the paper accepted to the IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2026). This is the author's accepted manuscript. The final published version will appear in IEEE Xplore</p></details> |
+| **[NeuroBRIDGE: Behavior-Conditioned Koopman Dynamics with Riemannian Alignment for Early Substance Use Initiation Prediction from Longitudinal Functional Connectome](https://arxiv.org/abs/2603.29960v1)** | 2026-03-31 | <details><summary>Prepr...</summary><p>Preprint version of the paper accepted to the IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2026). This is the author's accepted manuscript. The final published version will appear in IEEE Xplore</p></details> |
 
 ## Diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[HandX: Scaling Bimanual Motion and Interaction Generation](https://arxiv.org/abs/2603.28766v1)** | 2026-03-30 | <details><summary>CVPR ...</summary><p>CVPR 2026. Project Page: https://handx-project.github.io. Code: https://github.com/handx-project/HandX</p></details> |
-| **[Geometry-aware similarity metrics for neural representations on Riemannian and statistical manifolds](https://arxiv.org/abs/2603.28764v1)** | 2026-03-30 |  |
-| **[PoseDreamer: Scalable and Photorealistic Human Data Generation Pipeline with Diffusion Models](https://arxiv.org/abs/2603.28763v1)** | 2026-03-30 |  |
-| **[On-the-fly Repulsion in the Contextual Space for Rich Diversity in Diffusion Transformers](https://arxiv.org/abs/2603.28762v1)** | 2026-03-30 | <details><summary>Condi...</summary><p>Conditionally accepted to SIGGRAPH 2026. Project page: https://contextual-repulsion.github.io/</p></details> |
-| **[APPLE: Attribute-Preserving Pseudo-Labeling for Diffusion-Based Face Swapping](https://arxiv.org/abs/2601.15288v2)** | 2026-03-30 | <details><summary>Accep...</summary><p>Accepted at CVPR 2026. Project Page: https://cvlab-kaist.github.io/APPLE/</p></details> |
-| **[Temporal Credit Is Free](https://arxiv.org/abs/2603.28750v1)** | 2026-03-30 | <details><summary>16 pa...</summary><p>16 pages, 4 figures, 5 tables</p></details> |
-| **[Object-Reconstruction-Aware Whole-body Control of Mobile Manipulators](https://arxiv.org/abs/2509.04094v2)** | 2026-03-30 | <details><summary>19 pa...</summary><p>19 pages, 17 figures, 5 tables. Under Review for the IEEE Transactions on Robotics (T-RO)</p></details> |
-| **[Pandora: Articulated 3D Scene Graphs from Egocentric Vision](https://arxiv.org/abs/2603.28732v1)** | 2026-03-30 | <details><summary>14 pa...</summary><p>14 pages, 5 figures. Presented at the 2025 British Machine Vision Conference (BMVC) in Sheffield, UK</p></details> |
-| **[SOLE-R1: Video-Language Reasoning as the Sole Reward for On-Robot Reinforcement Learning](https://arxiv.org/abs/2603.28730v1)** | 2026-03-30 |  |
-| **[Stepwise Credit Assignment for GRPO on Flow-Matching Models](https://arxiv.org/abs/2603.28718v1)** | 2026-03-30 | <details><summary>Accep...</summary><p>Accepted to the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026 Project page: https://stepwiseflowgrpo.com</p></details> |
-| **[DreamLite: A Lightweight On-Device Unified Model for Image Generation and Editing](https://arxiv.org/abs/2603.28713v1)** | 2026-03-30 | <details><summary>https...</summary><p>https://carlofkl.github.io/dreamlite/</p></details> |
+| **[Video Models Reason Early: Exploiting Plan Commitment for Maze Solving](https://arxiv.org/abs/2603.30043v1)** | 2026-03-31 |  |
+| **[HapCompass: A Rotational Haptic Device for Contact-Rich Robotic Teleoperation](https://arxiv.org/abs/2603.30042v1)** | 2026-03-31 | <details><summary>Accep...</summary><p>Accepted to IEEE International Conference on Robotics and Automation (ICRA), 2026. 8 pages, 5 figures. Project page: https://ripl.github.io/HapCompass/</p></details> |
+| **[Benchmarking PhD-Level Coding in 3D Geometric Computer Vision](https://arxiv.org/abs/2603.30038v1)** | 2026-03-31 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026; Project page: https://geocodebench.github.io/</p></details> |
+| **[Can Commercial LLMs Be Parliamentary Political Companions? Comparing LLM Reasoning Against Romanian Legislative Expuneri de Motive](https://arxiv.org/abs/2603.30028v1)** | 2026-03-31 | 12 Figures |
+| **[DiffusionVL: Translating Any Autoregressive Models into Diffusion Vision Language Models](https://arxiv.org/abs/2512.15713v3)** | 2026-03-31 | <details><summary>12 pa...</summary><p>12 pages, 4 figures, conference or other essential info</p></details> |
+| **[LPNSR: Prior-Enhanced Diffusion Image Super-Resolution via LR-Guided Noise Prediction](https://arxiv.org/abs/2603.21045v3)** | 2026-03-31 |  |
+| **[Tracking Equivalent Mechanistic Interpretations Across Neural Networks](https://arxiv.org/abs/2603.30002v1)** | 2026-03-31 | <details><summary>32 pa...</summary><p>32 pages, 5 figures, ICLR 2026</p></details> |
+| **[SurgNavAR: An Augmented Reality Surgical Navigation Framework for Optical See-Through Head Mounted Displays](https://arxiv.org/abs/2603.29990v1)** | 2026-03-31 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
+| **[Structural Feature Engineering for Generative Engine Optimization: How Content Structure Shapes Citation Behavior](https://arxiv.org/abs/2603.29979v1)** | 2026-03-31 | <details><summary>12 pa...</summary><p>12 pages, 5 figures. This paper proposes GEO-SFE, a structural feature engineering framework for generative engine optimization</p></details> |
+| **[Do covariates explain why these groups differ? The choice of reference group can reverse conclusions in the Oaxaca-Blinder decomposition](https://arxiv.org/abs/2603.29972v1)** | 2026-03-31 | 21 pages, 5 figures |
 
 ## Object Counting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Temporal Credit Is Free](https://arxiv.org/abs/2603.28750v1)** | 2026-03-30 | <details><summary>16 pa...</summary><p>16 pages, 4 figures, 5 tables</p></details> |
-| **[Object-Reconstruction-Aware Whole-body Control of Mobile Manipulators](https://arxiv.org/abs/2509.04094v2)** | 2026-03-30 | <details><summary>19 pa...</summary><p>19 pages, 17 figures, 5 tables. Under Review for the IEEE Transactions on Robotics (T-RO)</p></details> |
-| **[Pandora: Articulated 3D Scene Graphs from Egocentric Vision](https://arxiv.org/abs/2603.28732v1)** | 2026-03-30 | <details><summary>14 pa...</summary><p>14 pages, 5 figures. Presented at the 2025 British Machine Vision Conference (BMVC) in Sheffield, UK</p></details> |
-| **[SOLE-R1: Video-Language Reasoning as the Sole Reward for On-Robot Reinforcement Learning](https://arxiv.org/abs/2603.28730v1)** | 2026-03-30 |  |
-| **[Vision-Language Agents for Interactive Forest Change Analysis](https://arxiv.org/abs/2601.04497v2)** | 2026-03-30 | <details><summary>5 pag...</summary><p>5 pages, 4 figures, Accepted into IGARSS 2026</p></details> |
-| **[Measuring Complexity at the Requirements Stage: Spectral Metrics as Development Effort Predictors](https://arxiv.org/abs/2602.07182v4)** | 2026-03-30 | <details><summary>36 pa...</summary><p>36 pages, 4 figures, 5 tables</p></details> |
-| **[EpiScreen: Early Epilepsy Detection from Electronic Health Records with Large Language Models](https://arxiv.org/abs/2603.28698v1)** | 2026-03-30 | <details><summary>24 pa...</summary><p>24 pages, 5 figures, 4 tables</p></details> |
-| **[Information-Theoretic Limits of Safety Verification for Self-Improving Systems](https://arxiv.org/abs/2603.28650v1)** | 2026-03-30 | <details><summary>27 pa...</summary><p>27 pages, 6 figures. Companion empirical paper: doi:10.5281/zenodo.19237566</p></details> |
+| **[HapCompass: A Rotational Haptic Device for Contact-Rich Robotic Teleoperation](https://arxiv.org/abs/2603.30042v1)** | 2026-03-31 | <details><summary>Accep...</summary><p>Accepted to IEEE International Conference on Robotics and Automation (ICRA), 2026. 8 pages, 5 figures. Project page: https://ripl.github.io/HapCompass/</p></details> |
+| **[Benchmarking PhD-Level Coding in 3D Geometric Computer Vision](https://arxiv.org/abs/2603.30038v1)** | 2026-03-31 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026; Project page: https://geocodebench.github.io/</p></details> |
+| **[Can Commercial LLMs Be Parliamentary Political Companions? Comparing LLM Reasoning Against Romanian Legislative Expuneri de Motive](https://arxiv.org/abs/2603.30028v1)** | 2026-03-31 | 12 Figures |
+| **[DiffusionVL: Translating Any Autoregressive Models into Diffusion Vision Language Models](https://arxiv.org/abs/2512.15713v3)** | 2026-03-31 | <details><summary>12 pa...</summary><p>12 pages, 4 figures, conference or other essential info</p></details> |
+| **[Tracking Equivalent Mechanistic Interpretations Across Neural Networks](https://arxiv.org/abs/2603.30002v1)** | 2026-03-31 | <details><summary>32 pa...</summary><p>32 pages, 5 figures, ICLR 2026</p></details> |
+| **[SurgNavAR: An Augmented Reality Surgical Navigation Framework for Optical See-Through Head Mounted Displays](https://arxiv.org/abs/2603.29990v1)** | 2026-03-31 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
+| **[Structural Feature Engineering for Generative Engine Optimization: How Content Structure Shapes Citation Behavior](https://arxiv.org/abs/2603.29979v1)** | 2026-03-31 | <details><summary>12 pa...</summary><p>12 pages, 5 figures. This paper proposes GEO-SFE, a structural feature engineering framework for generative engine optimization</p></details> |
+| **[Do covariates explain why these groups differ? The choice of reference group can reverse conclusions in the Oaxaca-Blinder decomposition](https://arxiv.org/abs/2603.29972v1)** | 2026-03-31 | 21 pages, 5 figures |
+| **[Four Generations of Quantum Biomedical Sensors](https://arxiv.org/abs/2603.29944v1)** | 2026-03-31 | <details><summary>22 pa...</summary><p>22 pages, 5 figures, 6 tables</p></details> |
 
 ## Image Caption
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Temporal Credit Is Free](https://arxiv.org/abs/2603.28750v1)** | 2026-03-30 | <details><summary>16 pa...</summary><p>16 pages, 4 figures, 5 tables</p></details> |
-| **[Object-Reconstruction-Aware Whole-body Control of Mobile Manipulators](https://arxiv.org/abs/2509.04094v2)** | 2026-03-30 | <details><summary>19 pa...</summary><p>19 pages, 17 figures, 5 tables. Under Review for the IEEE Transactions on Robotics (T-RO)</p></details> |
-| **[Pandora: Articulated 3D Scene Graphs from Egocentric Vision](https://arxiv.org/abs/2603.28732v1)** | 2026-03-30 | <details><summary>14 pa...</summary><p>14 pages, 5 figures. Presented at the 2025 British Machine Vision Conference (BMVC) in Sheffield, UK</p></details> |
-| **[SOLE-R1: Video-Language Reasoning as the Sole Reward for On-Robot Reinforcement Learning](https://arxiv.org/abs/2603.28730v1)** | 2026-03-30 |  |
-| **[Vision-Language Agents for Interactive Forest Change Analysis](https://arxiv.org/abs/2601.04497v2)** | 2026-03-30 | <details><summary>5 pag...</summary><p>5 pages, 4 figures, Accepted into IGARSS 2026</p></details> |
-| **[Measuring Complexity at the Requirements Stage: Spectral Metrics as Development Effort Predictors](https://arxiv.org/abs/2602.07182v4)** | 2026-03-30 | <details><summary>36 pa...</summary><p>36 pages, 4 figures, 5 tables</p></details> |
-| **[EpiScreen: Early Epilepsy Detection from Electronic Health Records with Large Language Models](https://arxiv.org/abs/2603.28698v1)** | 2026-03-30 | <details><summary>24 pa...</summary><p>24 pages, 5 figures, 4 tables</p></details> |
-| **[Information-Theoretic Limits of Safety Verification for Self-Improving Systems](https://arxiv.org/abs/2603.28650v1)** | 2026-03-30 | <details><summary>27 pa...</summary><p>27 pages, 6 figures. Companion empirical paper: doi:10.5281/zenodo.19237566</p></details> |
+| **[HapCompass: A Rotational Haptic Device for Contact-Rich Robotic Teleoperation](https://arxiv.org/abs/2603.30042v1)** | 2026-03-31 | <details><summary>Accep...</summary><p>Accepted to IEEE International Conference on Robotics and Automation (ICRA), 2026. 8 pages, 5 figures. Project page: https://ripl.github.io/HapCompass/</p></details> |
+| **[Benchmarking PhD-Level Coding in 3D Geometric Computer Vision](https://arxiv.org/abs/2603.30038v1)** | 2026-03-31 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026; Project page: https://geocodebench.github.io/</p></details> |
+| **[Can Commercial LLMs Be Parliamentary Political Companions? Comparing LLM Reasoning Against Romanian Legislative Expuneri de Motive](https://arxiv.org/abs/2603.30028v1)** | 2026-03-31 | 12 Figures |
+| **[DiffusionVL: Translating Any Autoregressive Models into Diffusion Vision Language Models](https://arxiv.org/abs/2512.15713v3)** | 2026-03-31 | <details><summary>12 pa...</summary><p>12 pages, 4 figures, conference or other essential info</p></details> |
+| **[Tracking Equivalent Mechanistic Interpretations Across Neural Networks](https://arxiv.org/abs/2603.30002v1)** | 2026-03-31 | <details><summary>32 pa...</summary><p>32 pages, 5 figures, ICLR 2026</p></details> |
+| **[SurgNavAR: An Augmented Reality Surgical Navigation Framework for Optical See-Through Head Mounted Displays](https://arxiv.org/abs/2603.29990v1)** | 2026-03-31 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
+| **[Structural Feature Engineering for Generative Engine Optimization: How Content Structure Shapes Citation Behavior](https://arxiv.org/abs/2603.29979v1)** | 2026-03-31 | <details><summary>12 pa...</summary><p>12 pages, 5 figures. This paper proposes GEO-SFE, a structural feature engineering framework for generative engine optimization</p></details> |
+| **[Do covariates explain why these groups differ? The choice of reference group can reverse conclusions in the Oaxaca-Blinder decomposition](https://arxiv.org/abs/2603.29972v1)** | 2026-03-31 | 21 pages, 5 figures |
+| **[Four Generations of Quantum Biomedical Sensors](https://arxiv.org/abs/2603.29944v1)** | 2026-03-31 | <details><summary>22 pa...</summary><p>22 pages, 5 figures, 6 tables</p></details> |
 
 ## Describe
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Temporal Credit Is Free](https://arxiv.org/abs/2603.28750v1)** | 2026-03-30 | <details><summary>16 pa...</summary><p>16 pages, 4 figures, 5 tables</p></details> |
-| **[Object-Reconstruction-Aware Whole-body Control of Mobile Manipulators](https://arxiv.org/abs/2509.04094v2)** | 2026-03-30 | <details><summary>19 pa...</summary><p>19 pages, 17 figures, 5 tables. Under Review for the IEEE Transactions on Robotics (T-RO)</p></details> |
-| **[Pandora: Articulated 3D Scene Graphs from Egocentric Vision](https://arxiv.org/abs/2603.28732v1)** | 2026-03-30 | <details><summary>14 pa...</summary><p>14 pages, 5 figures. Presented at the 2025 British Machine Vision Conference (BMVC) in Sheffield, UK</p></details> |
-| **[SOLE-R1: Video-Language Reasoning as the Sole Reward for On-Robot Reinforcement Learning](https://arxiv.org/abs/2603.28730v1)** | 2026-03-30 |  |
-| **[Vision-Language Agents for Interactive Forest Change Analysis](https://arxiv.org/abs/2601.04497v2)** | 2026-03-30 | <details><summary>5 pag...</summary><p>5 pages, 4 figures, Accepted into IGARSS 2026</p></details> |
-| **[Measuring Complexity at the Requirements Stage: Spectral Metrics as Development Effort Predictors](https://arxiv.org/abs/2602.07182v4)** | 2026-03-30 | <details><summary>36 pa...</summary><p>36 pages, 4 figures, 5 tables</p></details> |
-| **[EpiScreen: Early Epilepsy Detection from Electronic Health Records with Large Language Models](https://arxiv.org/abs/2603.28698v1)** | 2026-03-30 | <details><summary>24 pa...</summary><p>24 pages, 5 figures, 4 tables</p></details> |
+| **[HapCompass: A Rotational Haptic Device for Contact-Rich Robotic Teleoperation](https://arxiv.org/abs/2603.30042v1)** | 2026-03-31 | <details><summary>Accep...</summary><p>Accepted to IEEE International Conference on Robotics and Automation (ICRA), 2026. 8 pages, 5 figures. Project page: https://ripl.github.io/HapCompass/</p></details> |
+| **[Benchmarking PhD-Level Coding in 3D Geometric Computer Vision](https://arxiv.org/abs/2603.30038v1)** | 2026-03-31 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026; Project page: https://geocodebench.github.io/</p></details> |
+| **[Set Theory in the Foundation of Math; Internal Classes and External Sets](https://arxiv.org/abs/2209.07497v18)** | 2026-03-31 | <details><summary>6 pag...</summary><p>6 pages article + 17 pages slides; talk video: https://doi.org/10.5281/zenodo.18626525</p></details> |
+| **[Can Commercial LLMs Be Parliamentary Political Companions? Comparing LLM Reasoning Against Romanian Legislative Expuneri de Motive](https://arxiv.org/abs/2603.30028v1)** | 2026-03-31 | 12 Figures |
+| **[DiffusionVL: Translating Any Autoregressive Models into Diffusion Vision Language Models](https://arxiv.org/abs/2512.15713v3)** | 2026-03-31 | <details><summary>12 pa...</summary><p>12 pages, 4 figures, conference or other essential info</p></details> |
+| **[Tracking Equivalent Mechanistic Interpretations Across Neural Networks](https://arxiv.org/abs/2603.30002v1)** | 2026-03-31 | <details><summary>32 pa...</summary><p>32 pages, 5 figures, ICLR 2026</p></details> |
+| **[Phyelds: A Pythonic Framework for Aggregate Computing](https://arxiv.org/abs/2603.29999v1)** | 2026-03-31 |  |
+| **[SurgNavAR: An Augmented Reality Surgical Navigation Framework for Optical See-Through Head Mounted Displays](https://arxiv.org/abs/2603.29990v1)** | 2026-03-31 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
+| **[Structural Feature Engineering for Generative Engine Optimization: How Content Structure Shapes Citation Behavior](https://arxiv.org/abs/2603.29979v1)** | 2026-03-31 | <details><summary>12 pa...</summary><p>12 pages, 5 figures. This paper proposes GEO-SFE, a structural feature engineering framework for generative engine optimization</p></details> |
 
 ## Light Weight
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Temporal Credit Is Free](https://arxiv.org/abs/2603.28750v1)** | 2026-03-30 | <details><summary>16 pa...</summary><p>16 pages, 4 figures, 5 tables</p></details> |
-| **[Object-Reconstruction-Aware Whole-body Control of Mobile Manipulators](https://arxiv.org/abs/2509.04094v2)** | 2026-03-30 | <details><summary>19 pa...</summary><p>19 pages, 17 figures, 5 tables. Under Review for the IEEE Transactions on Robotics (T-RO)</p></details> |
-| **[Pandora: Articulated 3D Scene Graphs from Egocentric Vision](https://arxiv.org/abs/2603.28732v1)** | 2026-03-30 | <details><summary>14 pa...</summary><p>14 pages, 5 figures. Presented at the 2025 British Machine Vision Conference (BMVC) in Sheffield, UK</p></details> |
-| **[SOLE-R1: Video-Language Reasoning as the Sole Reward for On-Robot Reinforcement Learning](https://arxiv.org/abs/2603.28730v1)** | 2026-03-30 |  |
-| **[Vision-Language Agents for Interactive Forest Change Analysis](https://arxiv.org/abs/2601.04497v2)** | 2026-03-30 | <details><summary>5 pag...</summary><p>5 pages, 4 figures, Accepted into IGARSS 2026</p></details> |
-| **[Measuring Complexity at the Requirements Stage: Spectral Metrics as Development Effort Predictors](https://arxiv.org/abs/2602.07182v4)** | 2026-03-30 | <details><summary>36 pa...</summary><p>36 pages, 4 figures, 5 tables</p></details> |
-| **[EpiScreen: Early Epilepsy Detection from Electronic Health Records with Large Language Models](https://arxiv.org/abs/2603.28698v1)** | 2026-03-30 | <details><summary>24 pa...</summary><p>24 pages, 5 figures, 4 tables</p></details> |
-| **[Information-Theoretic Limits of Safety Verification for Self-Improving Systems](https://arxiv.org/abs/2603.28650v1)** | 2026-03-30 | <details><summary>27 pa...</summary><p>27 pages, 6 figures. Companion empirical paper: doi:10.5281/zenodo.19237566</p></details> |
+| **[HapCompass: A Rotational Haptic Device for Contact-Rich Robotic Teleoperation](https://arxiv.org/abs/2603.30042v1)** | 2026-03-31 | <details><summary>Accep...</summary><p>Accepted to IEEE International Conference on Robotics and Automation (ICRA), 2026. 8 pages, 5 figures. Project page: https://ripl.github.io/HapCompass/</p></details> |
+| **[Benchmarking PhD-Level Coding in 3D Geometric Computer Vision](https://arxiv.org/abs/2603.30038v1)** | 2026-03-31 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026; Project page: https://geocodebench.github.io/</p></details> |
+| **[Can Commercial LLMs Be Parliamentary Political Companions? Comparing LLM Reasoning Against Romanian Legislative Expuneri de Motive](https://arxiv.org/abs/2603.30028v1)** | 2026-03-31 | 12 Figures |
+| **[DiffusionVL: Translating Any Autoregressive Models into Diffusion Vision Language Models](https://arxiv.org/abs/2512.15713v3)** | 2026-03-31 | <details><summary>12 pa...</summary><p>12 pages, 4 figures, conference or other essential info</p></details> |
+| **[Tracking Equivalent Mechanistic Interpretations Across Neural Networks](https://arxiv.org/abs/2603.30002v1)** | 2026-03-31 | <details><summary>32 pa...</summary><p>32 pages, 5 figures, ICLR 2026</p></details> |
+| **[SurgNavAR: An Augmented Reality Surgical Navigation Framework for Optical See-Through Head Mounted Displays](https://arxiv.org/abs/2603.29990v1)** | 2026-03-31 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
+| **[Structural Feature Engineering for Generative Engine Optimization: How Content Structure Shapes Citation Behavior](https://arxiv.org/abs/2603.29979v1)** | 2026-03-31 | <details><summary>12 pa...</summary><p>12 pages, 5 figures. This paper proposes GEO-SFE, a structural feature engineering framework for generative engine optimization</p></details> |
+| **[Do covariates explain why these groups differ? The choice of reference group can reverse conclusions in the Oaxaca-Blinder decomposition](https://arxiv.org/abs/2603.29972v1)** | 2026-03-31 | 21 pages, 5 figures |
+| **[Four Generations of Quantum Biomedical Sensors](https://arxiv.org/abs/2603.29944v1)** | 2026-03-31 | <details><summary>22 pa...</summary><p>22 pages, 5 figures, 6 tables</p></details> |
 
 ## Class Incremental
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Temporal Credit Is Free](https://arxiv.org/abs/2603.28750v1)** | 2026-03-30 | <details><summary>16 pa...</summary><p>16 pages, 4 figures, 5 tables</p></details> |
-| **[Object-Reconstruction-Aware Whole-body Control of Mobile Manipulators](https://arxiv.org/abs/2509.04094v2)** | 2026-03-30 | <details><summary>19 pa...</summary><p>19 pages, 17 figures, 5 tables. Under Review for the IEEE Transactions on Robotics (T-RO)</p></details> |
-| **[Pandora: Articulated 3D Scene Graphs from Egocentric Vision](https://arxiv.org/abs/2603.28732v1)** | 2026-03-30 | <details><summary>14 pa...</summary><p>14 pages, 5 figures. Presented at the 2025 British Machine Vision Conference (BMVC) in Sheffield, UK</p></details> |
-| **[SOLE-R1: Video-Language Reasoning as the Sole Reward for On-Robot Reinforcement Learning](https://arxiv.org/abs/2603.28730v1)** | 2026-03-30 |  |
-| **[Vision-Language Agents for Interactive Forest Change Analysis](https://arxiv.org/abs/2601.04497v2)** | 2026-03-30 | <details><summary>5 pag...</summary><p>5 pages, 4 figures, Accepted into IGARSS 2026</p></details> |
-| **[Measuring Complexity at the Requirements Stage: Spectral Metrics as Development Effort Predictors](https://arxiv.org/abs/2602.07182v4)** | 2026-03-30 | <details><summary>36 pa...</summary><p>36 pages, 4 figures, 5 tables</p></details> |
-| **[EpiScreen: Early Epilepsy Detection from Electronic Health Records with Large Language Models](https://arxiv.org/abs/2603.28698v1)** | 2026-03-30 | <details><summary>24 pa...</summary><p>24 pages, 5 figures, 4 tables</p></details> |
-| **[Information-Theoretic Limits of Safety Verification for Self-Improving Systems](https://arxiv.org/abs/2603.28650v1)** | 2026-03-30 | <details><summary>27 pa...</summary><p>27 pages, 6 figures. Companion empirical paper: doi:10.5281/zenodo.19237566</p></details> |
+| **[HapCompass: A Rotational Haptic Device for Contact-Rich Robotic Teleoperation](https://arxiv.org/abs/2603.30042v1)** | 2026-03-31 | <details><summary>Accep...</summary><p>Accepted to IEEE International Conference on Robotics and Automation (ICRA), 2026. 8 pages, 5 figures. Project page: https://ripl.github.io/HapCompass/</p></details> |
+| **[Benchmarking PhD-Level Coding in 3D Geometric Computer Vision](https://arxiv.org/abs/2603.30038v1)** | 2026-03-31 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026; Project page: https://geocodebench.github.io/</p></details> |
+| **[Can Commercial LLMs Be Parliamentary Political Companions? Comparing LLM Reasoning Against Romanian Legislative Expuneri de Motive](https://arxiv.org/abs/2603.30028v1)** | 2026-03-31 | 12 Figures |
+| **[DiffusionVL: Translating Any Autoregressive Models into Diffusion Vision Language Models](https://arxiv.org/abs/2512.15713v3)** | 2026-03-31 | <details><summary>12 pa...</summary><p>12 pages, 4 figures, conference or other essential info</p></details> |
+| **[Tracking Equivalent Mechanistic Interpretations Across Neural Networks](https://arxiv.org/abs/2603.30002v1)** | 2026-03-31 | <details><summary>32 pa...</summary><p>32 pages, 5 figures, ICLR 2026</p></details> |
+| **[SurgNavAR: An Augmented Reality Surgical Navigation Framework for Optical See-Through Head Mounted Displays](https://arxiv.org/abs/2603.29990v1)** | 2026-03-31 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
+| **[Structural Feature Engineering for Generative Engine Optimization: How Content Structure Shapes Citation Behavior](https://arxiv.org/abs/2603.29979v1)** | 2026-03-31 | <details><summary>12 pa...</summary><p>12 pages, 5 figures. This paper proposes GEO-SFE, a structural feature engineering framework for generative engine optimization</p></details> |
+| **[Do covariates explain why these groups differ? The choice of reference group can reverse conclusions in the Oaxaca-Blinder decomposition](https://arxiv.org/abs/2603.29972v1)** | 2026-03-31 | 21 pages, 5 figures |
+| **[Four Generations of Quantum Biomedical Sensors](https://arxiv.org/abs/2603.29944v1)** | 2026-03-31 | <details><summary>22 pa...</summary><p>22 pages, 5 figures, 6 tables</p></details> |
 
