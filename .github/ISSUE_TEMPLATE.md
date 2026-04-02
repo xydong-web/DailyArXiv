@@ -1,5 +1,5 @@
 ---
-title: Latest 50 Papers - April 02, 2026
+title: Latest 50 Papers - April 03, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/JiamingZang/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,119 +7,116 @@ labels: documentation
 ## Molecular
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[HapCompass: A Rotational Haptic Device for Contact-Rich Robotic Teleoperation](https://arxiv.org/abs/2603.30042v1)** | 2026-03-31 | <details><summary>Accep...</summary><p>Accepted to IEEE International Conference on Robotics and Automation (ICRA), 2026. 8 pages, 5 figures. Project page: https://ripl.github.io/HapCompass/</p></details> |
-| **[Benchmarking PhD-Level Coding in 3D Geometric Computer Vision](https://arxiv.org/abs/2603.30038v1)** | 2026-03-31 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026; Project page: https://geocodebench.github.io/</p></details> |
-| **[Can Commercial LLMs Be Parliamentary Political Companions? Comparing LLM Reasoning Against Romanian Legislative Expuneri de Motive](https://arxiv.org/abs/2603.30028v1)** | 2026-03-31 | 12 Figures |
-| **[DiffusionVL: Translating Any Autoregressive Models into Diffusion Vision Language Models](https://arxiv.org/abs/2512.15713v3)** | 2026-03-31 | <details><summary>12 pa...</summary><p>12 pages, 4 figures, conference or other essential info</p></details> |
-| **[Tracking Equivalent Mechanistic Interpretations Across Neural Networks](https://arxiv.org/abs/2603.30002v1)** | 2026-03-31 | <details><summary>32 pa...</summary><p>32 pages, 5 figures, ICLR 2026</p></details> |
-| **[SurgNavAR: An Augmented Reality Surgical Navigation Framework for Optical See-Through Head Mounted Displays](https://arxiv.org/abs/2603.29990v1)** | 2026-03-31 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
-| **[Structural Feature Engineering for Generative Engine Optimization: How Content Structure Shapes Citation Behavior](https://arxiv.org/abs/2603.29979v1)** | 2026-03-31 | <details><summary>12 pa...</summary><p>12 pages, 5 figures. This paper proposes GEO-SFE, a structural feature engineering framework for generative engine optimization</p></details> |
-| **[Do covariates explain why these groups differ? The choice of reference group can reverse conclusions in the Oaxaca-Blinder decomposition](https://arxiv.org/abs/2603.29972v1)** | 2026-03-31 | 21 pages, 5 figures |
+| **[$\texttt{YC-Bench}$: Benchmarking AI Agents for Long-Term Planning and Consistent Execution](https://arxiv.org/abs/2604.01212v1)** | 2026-04-01 | 16 pages, 10 figures |
+| **[ORBIT: Scalable and Verifiable Data Generation for Search Agents on a Tight Budget](https://arxiv.org/abs/2604.01195v1)** | 2026-04-01 |  |
+| **[Implementation of Support Vector Machines using Reaction Networks](https://arxiv.org/abs/2503.19115v2)** | 2026-04-01 | <details><summary>28 pa...</summary><p>28 pages, 4 figures, 1 table</p></details> |
+| **[SA-CycleGAN-2.5D: Self-Attention CycleGAN with Tri-Planar Context for Multi-Site MRI Harmonization](https://arxiv.org/abs/2603.17219v2)** | 2026-04-01 | <details><summary>12 pa...</summary><p>12 pages, 5 figures, 5 tables. Submitted to MICCAI 2026</p></details> |
+| **[A ROS 2 Wrapper for Florence-2: Multi-Mode Local Vision-Language Inference for Robotic Systems](https://arxiv.org/abs/2604.01179v1)** | 2026-04-01 | 5 pages, 1 figure |
+| **[Bridging the Simulation-to-Experiment Gap with Generative Models using Adversarial Distribution Alignment](https://arxiv.org/abs/2604.01169v1)** | 2026-04-01 |  |
+| **[S0 Tuning: Zero-Overhead Adaptation of Hybrid Recurrent-Attention Models](https://arxiv.org/abs/2604.01168v1)** | 2026-04-01 | <details><summary>15 pa...</summary><p>15 pages (10 main + 5 appendix), 3 figures, code at https://github.com/jackyoung27/s0-tuning</p></details> |
+| **[Brainstacks: Cross-Domain Cognitive Capabilities via Frozen MoE-LoRA Stacks for Continual LLM Learning](https://arxiv.org/abs/2604.01152v1)** | 2026-04-01 | <details><summary>26 pa...</summary><p>26 pages, 13 figures, 4 tables</p></details> |
+| **[VT-Former: Efffcient Transformer-based Decoder for Varshamov-Tenengolts Codes](https://arxiv.org/abs/2502.21060v2)** | 2026-04-01 | <details><summary>9 pag...</summary><p>9 pages, 10 figures, 5 tables</p></details> |
 
 ## Molecular Generation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[HapCompass: A Rotational Haptic Device for Contact-Rich Robotic Teleoperation](https://arxiv.org/abs/2603.30042v1)** | 2026-03-31 | <details><summary>Accep...</summary><p>Accepted to IEEE International Conference on Robotics and Automation (ICRA), 2026. 8 pages, 5 figures. Project page: https://ripl.github.io/HapCompass/</p></details> |
-| **[Benchmarking PhD-Level Coding in 3D Geometric Computer Vision](https://arxiv.org/abs/2603.30038v1)** | 2026-03-31 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026; Project page: https://geocodebench.github.io/</p></details> |
-| **[Can Commercial LLMs Be Parliamentary Political Companions? Comparing LLM Reasoning Against Romanian Legislative Expuneri de Motive](https://arxiv.org/abs/2603.30028v1)** | 2026-03-31 | 12 Figures |
-| **[DiffusionVL: Translating Any Autoregressive Models into Diffusion Vision Language Models](https://arxiv.org/abs/2512.15713v3)** | 2026-03-31 | <details><summary>12 pa...</summary><p>12 pages, 4 figures, conference or other essential info</p></details> |
-| **[Tracking Equivalent Mechanistic Interpretations Across Neural Networks](https://arxiv.org/abs/2603.30002v1)** | 2026-03-31 | <details><summary>32 pa...</summary><p>32 pages, 5 figures, ICLR 2026</p></details> |
-| **[SurgNavAR: An Augmented Reality Surgical Navigation Framework for Optical See-Through Head Mounted Displays](https://arxiv.org/abs/2603.29990v1)** | 2026-03-31 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
-| **[Structural Feature Engineering for Generative Engine Optimization: How Content Structure Shapes Citation Behavior](https://arxiv.org/abs/2603.29979v1)** | 2026-03-31 | <details><summary>12 pa...</summary><p>12 pages, 5 figures. This paper proposes GEO-SFE, a structural feature engineering framework for generative engine optimization</p></details> |
-| **[Do covariates explain why these groups differ? The choice of reference group can reverse conclusions in the Oaxaca-Blinder decomposition](https://arxiv.org/abs/2603.29972v1)** | 2026-03-31 | 21 pages, 5 figures |
-| **[Four Generations of Quantum Biomedical Sensors](https://arxiv.org/abs/2603.29944v1)** | 2026-03-31 | <details><summary>22 pa...</summary><p>22 pages, 5 figures, 6 tables</p></details> |
+| **[$\texttt{YC-Bench}$: Benchmarking AI Agents for Long-Term Planning and Consistent Execution](https://arxiv.org/abs/2604.01212v1)** | 2026-04-01 | 16 pages, 10 figures |
+| **[ORBIT: Scalable and Verifiable Data Generation for Search Agents on a Tight Budget](https://arxiv.org/abs/2604.01195v1)** | 2026-04-01 |  |
+| **[SA-CycleGAN-2.5D: Self-Attention CycleGAN with Tri-Planar Context for Multi-Site MRI Harmonization](https://arxiv.org/abs/2603.17219v2)** | 2026-04-01 | <details><summary>12 pa...</summary><p>12 pages, 5 figures, 5 tables. Submitted to MICCAI 2026</p></details> |
+| **[A ROS 2 Wrapper for Florence-2: Multi-Mode Local Vision-Language Inference for Robotic Systems](https://arxiv.org/abs/2604.01179v1)** | 2026-04-01 | 5 pages, 1 figure |
+| **[S0 Tuning: Zero-Overhead Adaptation of Hybrid Recurrent-Attention Models](https://arxiv.org/abs/2604.01168v1)** | 2026-04-01 | <details><summary>15 pa...</summary><p>15 pages (10 main + 5 appendix), 3 figures, code at https://github.com/jackyoung27/s0-tuning</p></details> |
+| **[Brainstacks: Cross-Domain Cognitive Capabilities via Frozen MoE-LoRA Stacks for Continual LLM Learning](https://arxiv.org/abs/2604.01152v1)** | 2026-04-01 | <details><summary>26 pa...</summary><p>26 pages, 13 figures, 4 tables</p></details> |
+| **[VT-Former: Efffcient Transformer-based Decoder for Varshamov-Tenengolts Codes](https://arxiv.org/abs/2502.21060v2)** | 2026-04-01 | <details><summary>9 pag...</summary><p>9 pages, 10 figures, 5 tables</p></details> |
+| **[Escaping Flatland: A Placement Flow for Enabling 3D FPGAs](https://arxiv.org/abs/2604.01078v1)** | 2026-04-01 | <details><summary>7 Pag...</summary><p>7 Pages, 7 Figures. Accepted at DAC'26</p></details> |
+| **[Online Flow Time Minimization: Tight Bounds for Non-Preemptive Algorithms](https://arxiv.org/abs/2511.03485v3)** | 2026-04-01 |  |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[HapCompass: A Rotational Haptic Device for Contact-Rich Robotic Teleoperation](https://arxiv.org/abs/2603.30042v1)** | 2026-03-31 | <details><summary>Accep...</summary><p>Accepted to IEEE International Conference on Robotics and Automation (ICRA), 2026. 8 pages, 5 figures. Project page: https://ripl.github.io/HapCompass/</p></details> |
-| **[Benchmarking PhD-Level Coding in 3D Geometric Computer Vision](https://arxiv.org/abs/2603.30038v1)** | 2026-03-31 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026; Project page: https://geocodebench.github.io/</p></details> |
-| **[When Does Global Attention Help? A Unified Empirical Study on Atomistic Graph Learning](https://arxiv.org/abs/2510.05583v2)** | 2026-03-31 | <details><summary>44 pa...</summary><p>44 pages, 8 figures, 19 tables</p></details> |
-| **[Can Commercial LLMs Be Parliamentary Political Companions? Comparing LLM Reasoning Against Romanian Legislative Expuneri de Motive](https://arxiv.org/abs/2603.30028v1)** | 2026-03-31 | 12 Figures |
-| **[DiffusionVL: Translating Any Autoregressive Models into Diffusion Vision Language Models](https://arxiv.org/abs/2512.15713v3)** | 2026-03-31 | <details><summary>12 pa...</summary><p>12 pages, 4 figures, conference or other essential info</p></details> |
-| **[Tracking Equivalent Mechanistic Interpretations Across Neural Networks](https://arxiv.org/abs/2603.30002v1)** | 2026-03-31 | <details><summary>32 pa...</summary><p>32 pages, 5 figures, ICLR 2026</p></details> |
-| **[SurgNavAR: An Augmented Reality Surgical Navigation Framework for Optical See-Through Head Mounted Displays](https://arxiv.org/abs/2603.29990v1)** | 2026-03-31 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
-| **[Structural Feature Engineering for Generative Engine Optimization: How Content Structure Shapes Citation Behavior](https://arxiv.org/abs/2603.29979v1)** | 2026-03-31 | <details><summary>12 pa...</summary><p>12 pages, 5 figures. This paper proposes GEO-SFE, a structural feature engineering framework for generative engine optimization</p></details> |
-| **[Do covariates explain why these groups differ? The choice of reference group can reverse conclusions in the Oaxaca-Blinder decomposition](https://arxiv.org/abs/2603.29972v1)** | 2026-03-31 | 21 pages, 5 figures |
-| **[Learning Structural-Functional Brain Representations through Multi-Scale Adaptive Graph Attention for Cognitive Insight](https://arxiv.org/abs/2603.29967v1)** | 2026-03-31 | <details><summary>Prepr...</summary><p>Preprint version of the paper accepted to the IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2026). This is the author's accepted manuscript. The final published version will appear in IEEE Xplore</p></details> |
-| **[NeuroBRIDGE: Behavior-Conditioned Koopman Dynamics with Riemannian Alignment for Early Substance Use Initiation Prediction from Longitudinal Functional Connectome](https://arxiv.org/abs/2603.29960v1)** | 2026-03-31 | <details><summary>Prepr...</summary><p>Preprint version of the paper accepted to the IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2026). This is the author's accepted manuscript. The final published version will appear in IEEE Xplore</p></details> |
+| **[$\texttt{YC-Bench}$: Benchmarking AI Agents for Long-Term Planning and Consistent Execution](https://arxiv.org/abs/2604.01212v1)** | 2026-04-01 | 16 pages, 10 figures |
+| **[ORBIT: Scalable and Verifiable Data Generation for Search Agents on a Tight Budget](https://arxiv.org/abs/2604.01195v1)** | 2026-04-01 |  |
+| **[SA-CycleGAN-2.5D: Self-Attention CycleGAN with Tri-Planar Context for Multi-Site MRI Harmonization](https://arxiv.org/abs/2603.17219v2)** | 2026-04-01 | <details><summary>12 pa...</summary><p>12 pages, 5 figures, 5 tables. Submitted to MICCAI 2026</p></details> |
+| **[A ROS 2 Wrapper for Florence-2: Multi-Mode Local Vision-Language Inference for Robotic Systems](https://arxiv.org/abs/2604.01179v1)** | 2026-04-01 | 5 pages, 1 figure |
+| **[S0 Tuning: Zero-Overhead Adaptation of Hybrid Recurrent-Attention Models](https://arxiv.org/abs/2604.01168v1)** | 2026-04-01 | <details><summary>15 pa...</summary><p>15 pages (10 main + 5 appendix), 3 figures, code at https://github.com/jackyoung27/s0-tuning</p></details> |
+| **[Brainstacks: Cross-Domain Cognitive Capabilities via Frozen MoE-LoRA Stacks for Continual LLM Learning](https://arxiv.org/abs/2604.01152v1)** | 2026-04-01 | <details><summary>26 pa...</summary><p>26 pages, 13 figures, 4 tables</p></details> |
+| **[VT-Former: Efffcient Transformer-based Decoder for Varshamov-Tenengolts Codes](https://arxiv.org/abs/2502.21060v2)** | 2026-04-01 | <details><summary>9 pag...</summary><p>9 pages, 10 figures, 5 tables</p></details> |
+| **[Escaping Flatland: A Placement Flow for Enabling 3D FPGAs](https://arxiv.org/abs/2604.01078v1)** | 2026-04-01 | <details><summary>7 Pag...</summary><p>7 Pages, 7 Figures. Accepted at DAC'26</p></details> |
+| **[Online Flow Time Minimization: Tight Bounds for Non-Preemptive Algorithms](https://arxiv.org/abs/2511.03485v3)** | 2026-04-01 |  |
 
 ## Diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Video Models Reason Early: Exploiting Plan Commitment for Maze Solving](https://arxiv.org/abs/2603.30043v1)** | 2026-03-31 |  |
-| **[HapCompass: A Rotational Haptic Device for Contact-Rich Robotic Teleoperation](https://arxiv.org/abs/2603.30042v1)** | 2026-03-31 | <details><summary>Accep...</summary><p>Accepted to IEEE International Conference on Robotics and Automation (ICRA), 2026. 8 pages, 5 figures. Project page: https://ripl.github.io/HapCompass/</p></details> |
-| **[Benchmarking PhD-Level Coding in 3D Geometric Computer Vision](https://arxiv.org/abs/2603.30038v1)** | 2026-03-31 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026; Project page: https://geocodebench.github.io/</p></details> |
-| **[Can Commercial LLMs Be Parliamentary Political Companions? Comparing LLM Reasoning Against Romanian Legislative Expuneri de Motive](https://arxiv.org/abs/2603.30028v1)** | 2026-03-31 | 12 Figures |
-| **[DiffusionVL: Translating Any Autoregressive Models into Diffusion Vision Language Models](https://arxiv.org/abs/2512.15713v3)** | 2026-03-31 | <details><summary>12 pa...</summary><p>12 pages, 4 figures, conference or other essential info</p></details> |
-| **[LPNSR: Prior-Enhanced Diffusion Image Super-Resolution via LR-Guided Noise Prediction](https://arxiv.org/abs/2603.21045v3)** | 2026-03-31 |  |
-| **[Tracking Equivalent Mechanistic Interpretations Across Neural Networks](https://arxiv.org/abs/2603.30002v1)** | 2026-03-31 | <details><summary>32 pa...</summary><p>32 pages, 5 figures, ICLR 2026</p></details> |
-| **[SurgNavAR: An Augmented Reality Surgical Navigation Framework for Optical See-Through Head Mounted Displays](https://arxiv.org/abs/2603.29990v1)** | 2026-03-31 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
-| **[Structural Feature Engineering for Generative Engine Optimization: How Content Structure Shapes Citation Behavior](https://arxiv.org/abs/2603.29979v1)** | 2026-03-31 | <details><summary>12 pa...</summary><p>12 pages, 5 figures. This paper proposes GEO-SFE, a structural feature engineering framework for generative engine optimization</p></details> |
-| **[Do covariates explain why these groups differ? The choice of reference group can reverse conclusions in the Oaxaca-Blinder decomposition](https://arxiv.org/abs/2603.29972v1)** | 2026-03-31 | 21 pages, 5 figures |
+| **[$\texttt{YC-Bench}$: Benchmarking AI Agents for Long-Term Planning and Consistent Execution](https://arxiv.org/abs/2604.01212v1)** | 2026-04-01 | 16 pages, 10 figures |
+| **[TRACE: High-Fidelity 3D Scene Editing via Tangible Reconstruction and Geometry-Aligned Contextual Video Masking](https://arxiv.org/abs/2604.01207v1)** | 2026-04-01 | 22 pages, 9 figures |
+| **[Learning and Generating Mixed States Prepared by Shallow Channel Circuits](https://arxiv.org/abs/2604.01197v1)** | 2026-04-01 | <details><summary>44 pa...</summary><p>44 pages, 13 figures, 1 table</p></details> |
+| **[ORBIT: Scalable and Verifiable Data Generation for Search Agents on a Tight Budget](https://arxiv.org/abs/2604.01195v1)** | 2026-04-01 |  |
+| **[SA-CycleGAN-2.5D: Self-Attention CycleGAN with Tri-Planar Context for Multi-Site MRI Harmonization](https://arxiv.org/abs/2603.17219v2)** | 2026-04-01 | <details><summary>12 pa...</summary><p>12 pages, 5 figures, 5 tables. Submitted to MICCAI 2026</p></details> |
+| **[A ROS 2 Wrapper for Florence-2: Multi-Mode Local Vision-Language Inference for Robotic Systems](https://arxiv.org/abs/2604.01179v1)** | 2026-04-01 | 5 pages, 1 figure |
+| **[NeuroDDAF: Neural Dynamic Diffusion-Advection Fields with Evidential Fusion for Air Quality Forecasting](https://arxiv.org/abs/2604.01175v1)** | 2026-04-01 | <details><summary>This ...</summary><p>This manuscript is under review</p></details> |
+| **[S0 Tuning: Zero-Overhead Adaptation of Hybrid Recurrent-Attention Models](https://arxiv.org/abs/2604.01168v1)** | 2026-04-01 | <details><summary>15 pa...</summary><p>15 pages (10 main + 5 appendix), 3 figures, code at https://github.com/jackyoung27/s0-tuning</p></details> |
+| **[Brainstacks: Cross-Domain Cognitive Capabilities via Frozen MoE-LoRA Stacks for Continual LLM Learning](https://arxiv.org/abs/2604.01152v1)** | 2026-04-01 | <details><summary>26 pa...</summary><p>26 pages, 13 figures, 4 tables</p></details> |
+| **[Comparison of Structure Preserving Schemes for the Cahn-Hilliard-Navier-Stokes Equations with Degenerate Mobility and Adaptive Mesh Refinement](https://arxiv.org/abs/2602.08639v3)** | 2026-04-01 | 51 pages, 19 figures |
+| **[ActErase: A Training-Free Paradigm for Precise Concept Erasure via Activation Redirection](https://arxiv.org/abs/2601.00267v2)** | 2026-04-01 |  |
 
 ## Object Counting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[HapCompass: A Rotational Haptic Device for Contact-Rich Robotic Teleoperation](https://arxiv.org/abs/2603.30042v1)** | 2026-03-31 | <details><summary>Accep...</summary><p>Accepted to IEEE International Conference on Robotics and Automation (ICRA), 2026. 8 pages, 5 figures. Project page: https://ripl.github.io/HapCompass/</p></details> |
-| **[Benchmarking PhD-Level Coding in 3D Geometric Computer Vision](https://arxiv.org/abs/2603.30038v1)** | 2026-03-31 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026; Project page: https://geocodebench.github.io/</p></details> |
-| **[Can Commercial LLMs Be Parliamentary Political Companions? Comparing LLM Reasoning Against Romanian Legislative Expuneri de Motive](https://arxiv.org/abs/2603.30028v1)** | 2026-03-31 | 12 Figures |
-| **[DiffusionVL: Translating Any Autoregressive Models into Diffusion Vision Language Models](https://arxiv.org/abs/2512.15713v3)** | 2026-03-31 | <details><summary>12 pa...</summary><p>12 pages, 4 figures, conference or other essential info</p></details> |
-| **[Tracking Equivalent Mechanistic Interpretations Across Neural Networks](https://arxiv.org/abs/2603.30002v1)** | 2026-03-31 | <details><summary>32 pa...</summary><p>32 pages, 5 figures, ICLR 2026</p></details> |
-| **[SurgNavAR: An Augmented Reality Surgical Navigation Framework for Optical See-Through Head Mounted Displays](https://arxiv.org/abs/2603.29990v1)** | 2026-03-31 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
-| **[Structural Feature Engineering for Generative Engine Optimization: How Content Structure Shapes Citation Behavior](https://arxiv.org/abs/2603.29979v1)** | 2026-03-31 | <details><summary>12 pa...</summary><p>12 pages, 5 figures. This paper proposes GEO-SFE, a structural feature engineering framework for generative engine optimization</p></details> |
-| **[Do covariates explain why these groups differ? The choice of reference group can reverse conclusions in the Oaxaca-Blinder decomposition](https://arxiv.org/abs/2603.29972v1)** | 2026-03-31 | 21 pages, 5 figures |
-| **[Four Generations of Quantum Biomedical Sensors](https://arxiv.org/abs/2603.29944v1)** | 2026-03-31 | <details><summary>22 pa...</summary><p>22 pages, 5 figures, 6 tables</p></details> |
+| **[$\texttt{YC-Bench}$: Benchmarking AI Agents for Long-Term Planning and Consistent Execution](https://arxiv.org/abs/2604.01212v1)** | 2026-04-01 | 16 pages, 10 figures |
+| **[ORBIT: Scalable and Verifiable Data Generation for Search Agents on a Tight Budget](https://arxiv.org/abs/2604.01195v1)** | 2026-04-01 |  |
+| **[SA-CycleGAN-2.5D: Self-Attention CycleGAN with Tri-Planar Context for Multi-Site MRI Harmonization](https://arxiv.org/abs/2603.17219v2)** | 2026-04-01 | <details><summary>12 pa...</summary><p>12 pages, 5 figures, 5 tables. Submitted to MICCAI 2026</p></details> |
+| **[A ROS 2 Wrapper for Florence-2: Multi-Mode Local Vision-Language Inference for Robotic Systems](https://arxiv.org/abs/2604.01179v1)** | 2026-04-01 | 5 pages, 1 figure |
+| **[S0 Tuning: Zero-Overhead Adaptation of Hybrid Recurrent-Attention Models](https://arxiv.org/abs/2604.01168v1)** | 2026-04-01 | <details><summary>15 pa...</summary><p>15 pages (10 main + 5 appendix), 3 figures, code at https://github.com/jackyoung27/s0-tuning</p></details> |
+| **[Brainstacks: Cross-Domain Cognitive Capabilities via Frozen MoE-LoRA Stacks for Continual LLM Learning](https://arxiv.org/abs/2604.01152v1)** | 2026-04-01 | <details><summary>26 pa...</summary><p>26 pages, 13 figures, 4 tables</p></details> |
+| **[VT-Former: Efffcient Transformer-based Decoder for Varshamov-Tenengolts Codes](https://arxiv.org/abs/2502.21060v2)** | 2026-04-01 | <details><summary>9 pag...</summary><p>9 pages, 10 figures, 5 tables</p></details> |
+| **[Escaping Flatland: A Placement Flow for Enabling 3D FPGAs](https://arxiv.org/abs/2604.01078v1)** | 2026-04-01 | <details><summary>7 Pag...</summary><p>7 Pages, 7 Figures. Accepted at DAC'26</p></details> |
+| **[Online Flow Time Minimization: Tight Bounds for Non-Preemptive Algorithms](https://arxiv.org/abs/2511.03485v3)** | 2026-04-01 |  |
 
 ## Image Caption
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[HapCompass: A Rotational Haptic Device for Contact-Rich Robotic Teleoperation](https://arxiv.org/abs/2603.30042v1)** | 2026-03-31 | <details><summary>Accep...</summary><p>Accepted to IEEE International Conference on Robotics and Automation (ICRA), 2026. 8 pages, 5 figures. Project page: https://ripl.github.io/HapCompass/</p></details> |
-| **[Benchmarking PhD-Level Coding in 3D Geometric Computer Vision](https://arxiv.org/abs/2603.30038v1)** | 2026-03-31 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026; Project page: https://geocodebench.github.io/</p></details> |
-| **[Can Commercial LLMs Be Parliamentary Political Companions? Comparing LLM Reasoning Against Romanian Legislative Expuneri de Motive](https://arxiv.org/abs/2603.30028v1)** | 2026-03-31 | 12 Figures |
-| **[DiffusionVL: Translating Any Autoregressive Models into Diffusion Vision Language Models](https://arxiv.org/abs/2512.15713v3)** | 2026-03-31 | <details><summary>12 pa...</summary><p>12 pages, 4 figures, conference or other essential info</p></details> |
-| **[Tracking Equivalent Mechanistic Interpretations Across Neural Networks](https://arxiv.org/abs/2603.30002v1)** | 2026-03-31 | <details><summary>32 pa...</summary><p>32 pages, 5 figures, ICLR 2026</p></details> |
-| **[SurgNavAR: An Augmented Reality Surgical Navigation Framework for Optical See-Through Head Mounted Displays](https://arxiv.org/abs/2603.29990v1)** | 2026-03-31 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
-| **[Structural Feature Engineering for Generative Engine Optimization: How Content Structure Shapes Citation Behavior](https://arxiv.org/abs/2603.29979v1)** | 2026-03-31 | <details><summary>12 pa...</summary><p>12 pages, 5 figures. This paper proposes GEO-SFE, a structural feature engineering framework for generative engine optimization</p></details> |
-| **[Do covariates explain why these groups differ? The choice of reference group can reverse conclusions in the Oaxaca-Blinder decomposition](https://arxiv.org/abs/2603.29972v1)** | 2026-03-31 | 21 pages, 5 figures |
-| **[Four Generations of Quantum Biomedical Sensors](https://arxiv.org/abs/2603.29944v1)** | 2026-03-31 | <details><summary>22 pa...</summary><p>22 pages, 5 figures, 6 tables</p></details> |
+| **[$\texttt{YC-Bench}$: Benchmarking AI Agents for Long-Term Planning and Consistent Execution](https://arxiv.org/abs/2604.01212v1)** | 2026-04-01 | 16 pages, 10 figures |
+| **[ORBIT: Scalable and Verifiable Data Generation for Search Agents on a Tight Budget](https://arxiv.org/abs/2604.01195v1)** | 2026-04-01 |  |
+| **[SA-CycleGAN-2.5D: Self-Attention CycleGAN with Tri-Planar Context for Multi-Site MRI Harmonization](https://arxiv.org/abs/2603.17219v2)** | 2026-04-01 | <details><summary>12 pa...</summary><p>12 pages, 5 figures, 5 tables. Submitted to MICCAI 2026</p></details> |
+| **[A ROS 2 Wrapper for Florence-2: Multi-Mode Local Vision-Language Inference for Robotic Systems](https://arxiv.org/abs/2604.01179v1)** | 2026-04-01 | 5 pages, 1 figure |
+| **[S0 Tuning: Zero-Overhead Adaptation of Hybrid Recurrent-Attention Models](https://arxiv.org/abs/2604.01168v1)** | 2026-04-01 | <details><summary>15 pa...</summary><p>15 pages (10 main + 5 appendix), 3 figures, code at https://github.com/jackyoung27/s0-tuning</p></details> |
+| **[Brainstacks: Cross-Domain Cognitive Capabilities via Frozen MoE-LoRA Stacks for Continual LLM Learning](https://arxiv.org/abs/2604.01152v1)** | 2026-04-01 | <details><summary>26 pa...</summary><p>26 pages, 13 figures, 4 tables</p></details> |
+| **[VT-Former: Efffcient Transformer-based Decoder for Varshamov-Tenengolts Codes](https://arxiv.org/abs/2502.21060v2)** | 2026-04-01 | <details><summary>9 pag...</summary><p>9 pages, 10 figures, 5 tables</p></details> |
+| **[Escaping Flatland: A Placement Flow for Enabling 3D FPGAs](https://arxiv.org/abs/2604.01078v1)** | 2026-04-01 | <details><summary>7 Pag...</summary><p>7 Pages, 7 Figures. Accepted at DAC'26</p></details> |
+| **[Online Flow Time Minimization: Tight Bounds for Non-Preemptive Algorithms](https://arxiv.org/abs/2511.03485v3)** | 2026-04-01 |  |
 
 ## Describe
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[HapCompass: A Rotational Haptic Device for Contact-Rich Robotic Teleoperation](https://arxiv.org/abs/2603.30042v1)** | 2026-03-31 | <details><summary>Accep...</summary><p>Accepted to IEEE International Conference on Robotics and Automation (ICRA), 2026. 8 pages, 5 figures. Project page: https://ripl.github.io/HapCompass/</p></details> |
-| **[Benchmarking PhD-Level Coding in 3D Geometric Computer Vision](https://arxiv.org/abs/2603.30038v1)** | 2026-03-31 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026; Project page: https://geocodebench.github.io/</p></details> |
-| **[Set Theory in the Foundation of Math; Internal Classes and External Sets](https://arxiv.org/abs/2209.07497v18)** | 2026-03-31 | <details><summary>6 pag...</summary><p>6 pages article + 17 pages slides; talk video: https://doi.org/10.5281/zenodo.18626525</p></details> |
-| **[Can Commercial LLMs Be Parliamentary Political Companions? Comparing LLM Reasoning Against Romanian Legislative Expuneri de Motive](https://arxiv.org/abs/2603.30028v1)** | 2026-03-31 | 12 Figures |
-| **[DiffusionVL: Translating Any Autoregressive Models into Diffusion Vision Language Models](https://arxiv.org/abs/2512.15713v3)** | 2026-03-31 | <details><summary>12 pa...</summary><p>12 pages, 4 figures, conference or other essential info</p></details> |
-| **[Tracking Equivalent Mechanistic Interpretations Across Neural Networks](https://arxiv.org/abs/2603.30002v1)** | 2026-03-31 | <details><summary>32 pa...</summary><p>32 pages, 5 figures, ICLR 2026</p></details> |
-| **[Phyelds: A Pythonic Framework for Aggregate Computing](https://arxiv.org/abs/2603.29999v1)** | 2026-03-31 |  |
-| **[SurgNavAR: An Augmented Reality Surgical Navigation Framework for Optical See-Through Head Mounted Displays](https://arxiv.org/abs/2603.29990v1)** | 2026-03-31 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
-| **[Structural Feature Engineering for Generative Engine Optimization: How Content Structure Shapes Citation Behavior](https://arxiv.org/abs/2603.29979v1)** | 2026-03-31 | <details><summary>12 pa...</summary><p>12 pages, 5 figures. This paper proposes GEO-SFE, a structural feature engineering framework for generative engine optimization</p></details> |
+| **[$\texttt{YC-Bench}$: Benchmarking AI Agents for Long-Term Planning and Consistent Execution](https://arxiv.org/abs/2604.01212v1)** | 2026-04-01 | 16 pages, 10 figures |
+| **[ORBIT: Scalable and Verifiable Data Generation for Search Agents on a Tight Budget](https://arxiv.org/abs/2604.01195v1)** | 2026-04-01 |  |
+| **[SA-CycleGAN-2.5D: Self-Attention CycleGAN with Tri-Planar Context for Multi-Site MRI Harmonization](https://arxiv.org/abs/2603.17219v2)** | 2026-04-01 | <details><summary>12 pa...</summary><p>12 pages, 5 figures, 5 tables. Submitted to MICCAI 2026</p></details> |
+| **[A ROS 2 Wrapper for Florence-2: Multi-Mode Local Vision-Language Inference for Robotic Systems](https://arxiv.org/abs/2604.01179v1)** | 2026-04-01 | 5 pages, 1 figure |
+| **[S0 Tuning: Zero-Overhead Adaptation of Hybrid Recurrent-Attention Models](https://arxiv.org/abs/2604.01168v1)** | 2026-04-01 | <details><summary>15 pa...</summary><p>15 pages (10 main + 5 appendix), 3 figures, code at https://github.com/jackyoung27/s0-tuning</p></details> |
+| **[Brainstacks: Cross-Domain Cognitive Capabilities via Frozen MoE-LoRA Stacks for Continual LLM Learning](https://arxiv.org/abs/2604.01152v1)** | 2026-04-01 | <details><summary>26 pa...</summary><p>26 pages, 13 figures, 4 tables</p></details> |
 
 ## Light Weight
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[HapCompass: A Rotational Haptic Device for Contact-Rich Robotic Teleoperation](https://arxiv.org/abs/2603.30042v1)** | 2026-03-31 | <details><summary>Accep...</summary><p>Accepted to IEEE International Conference on Robotics and Automation (ICRA), 2026. 8 pages, 5 figures. Project page: https://ripl.github.io/HapCompass/</p></details> |
-| **[Benchmarking PhD-Level Coding in 3D Geometric Computer Vision](https://arxiv.org/abs/2603.30038v1)** | 2026-03-31 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026; Project page: https://geocodebench.github.io/</p></details> |
-| **[Can Commercial LLMs Be Parliamentary Political Companions? Comparing LLM Reasoning Against Romanian Legislative Expuneri de Motive](https://arxiv.org/abs/2603.30028v1)** | 2026-03-31 | 12 Figures |
-| **[DiffusionVL: Translating Any Autoregressive Models into Diffusion Vision Language Models](https://arxiv.org/abs/2512.15713v3)** | 2026-03-31 | <details><summary>12 pa...</summary><p>12 pages, 4 figures, conference or other essential info</p></details> |
-| **[Tracking Equivalent Mechanistic Interpretations Across Neural Networks](https://arxiv.org/abs/2603.30002v1)** | 2026-03-31 | <details><summary>32 pa...</summary><p>32 pages, 5 figures, ICLR 2026</p></details> |
-| **[SurgNavAR: An Augmented Reality Surgical Navigation Framework for Optical See-Through Head Mounted Displays](https://arxiv.org/abs/2603.29990v1)** | 2026-03-31 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
-| **[Structural Feature Engineering for Generative Engine Optimization: How Content Structure Shapes Citation Behavior](https://arxiv.org/abs/2603.29979v1)** | 2026-03-31 | <details><summary>12 pa...</summary><p>12 pages, 5 figures. This paper proposes GEO-SFE, a structural feature engineering framework for generative engine optimization</p></details> |
-| **[Do covariates explain why these groups differ? The choice of reference group can reverse conclusions in the Oaxaca-Blinder decomposition](https://arxiv.org/abs/2603.29972v1)** | 2026-03-31 | 21 pages, 5 figures |
-| **[Four Generations of Quantum Biomedical Sensors](https://arxiv.org/abs/2603.29944v1)** | 2026-03-31 | <details><summary>22 pa...</summary><p>22 pages, 5 figures, 6 tables</p></details> |
+| **[$\texttt{YC-Bench}$: Benchmarking AI Agents for Long-Term Planning and Consistent Execution](https://arxiv.org/abs/2604.01212v1)** | 2026-04-01 | 16 pages, 10 figures |
+| **[ORBIT: Scalable and Verifiable Data Generation for Search Agents on a Tight Budget](https://arxiv.org/abs/2604.01195v1)** | 2026-04-01 |  |
+| **[SA-CycleGAN-2.5D: Self-Attention CycleGAN with Tri-Planar Context for Multi-Site MRI Harmonization](https://arxiv.org/abs/2603.17219v2)** | 2026-04-01 | <details><summary>12 pa...</summary><p>12 pages, 5 figures, 5 tables. Submitted to MICCAI 2026</p></details> |
+| **[A ROS 2 Wrapper for Florence-2: Multi-Mode Local Vision-Language Inference for Robotic Systems](https://arxiv.org/abs/2604.01179v1)** | 2026-04-01 | 5 pages, 1 figure |
+| **[S0 Tuning: Zero-Overhead Adaptation of Hybrid Recurrent-Attention Models](https://arxiv.org/abs/2604.01168v1)** | 2026-04-01 | <details><summary>15 pa...</summary><p>15 pages (10 main + 5 appendix), 3 figures, code at https://github.com/jackyoung27/s0-tuning</p></details> |
+| **[Brainstacks: Cross-Domain Cognitive Capabilities via Frozen MoE-LoRA Stacks for Continual LLM Learning](https://arxiv.org/abs/2604.01152v1)** | 2026-04-01 | <details><summary>26 pa...</summary><p>26 pages, 13 figures, 4 tables</p></details> |
+| **[VT-Former: Efffcient Transformer-based Decoder for Varshamov-Tenengolts Codes](https://arxiv.org/abs/2502.21060v2)** | 2026-04-01 | <details><summary>9 pag...</summary><p>9 pages, 10 figures, 5 tables</p></details> |
+| **[Escaping Flatland: A Placement Flow for Enabling 3D FPGAs](https://arxiv.org/abs/2604.01078v1)** | 2026-04-01 | <details><summary>7 Pag...</summary><p>7 Pages, 7 Figures. Accepted at DAC'26</p></details> |
+| **[Online Flow Time Minimization: Tight Bounds for Non-Preemptive Algorithms](https://arxiv.org/abs/2511.03485v3)** | 2026-04-01 |  |
 
 ## Class Incremental
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[HapCompass: A Rotational Haptic Device for Contact-Rich Robotic Teleoperation](https://arxiv.org/abs/2603.30042v1)** | 2026-03-31 | <details><summary>Accep...</summary><p>Accepted to IEEE International Conference on Robotics and Automation (ICRA), 2026. 8 pages, 5 figures. Project page: https://ripl.github.io/HapCompass/</p></details> |
-| **[Benchmarking PhD-Level Coding in 3D Geometric Computer Vision](https://arxiv.org/abs/2603.30038v1)** | 2026-03-31 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026; Project page: https://geocodebench.github.io/</p></details> |
-| **[Can Commercial LLMs Be Parliamentary Political Companions? Comparing LLM Reasoning Against Romanian Legislative Expuneri de Motive](https://arxiv.org/abs/2603.30028v1)** | 2026-03-31 | 12 Figures |
-| **[DiffusionVL: Translating Any Autoregressive Models into Diffusion Vision Language Models](https://arxiv.org/abs/2512.15713v3)** | 2026-03-31 | <details><summary>12 pa...</summary><p>12 pages, 4 figures, conference or other essential info</p></details> |
-| **[Tracking Equivalent Mechanistic Interpretations Across Neural Networks](https://arxiv.org/abs/2603.30002v1)** | 2026-03-31 | <details><summary>32 pa...</summary><p>32 pages, 5 figures, ICLR 2026</p></details> |
-| **[SurgNavAR: An Augmented Reality Surgical Navigation Framework for Optical See-Through Head Mounted Displays](https://arxiv.org/abs/2603.29990v1)** | 2026-03-31 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
-| **[Structural Feature Engineering for Generative Engine Optimization: How Content Structure Shapes Citation Behavior](https://arxiv.org/abs/2603.29979v1)** | 2026-03-31 | <details><summary>12 pa...</summary><p>12 pages, 5 figures. This paper proposes GEO-SFE, a structural feature engineering framework for generative engine optimization</p></details> |
-| **[Do covariates explain why these groups differ? The choice of reference group can reverse conclusions in the Oaxaca-Blinder decomposition](https://arxiv.org/abs/2603.29972v1)** | 2026-03-31 | 21 pages, 5 figures |
-| **[Four Generations of Quantum Biomedical Sensors](https://arxiv.org/abs/2603.29944v1)** | 2026-03-31 | <details><summary>22 pa...</summary><p>22 pages, 5 figures, 6 tables</p></details> |
+| **[$\texttt{YC-Bench}$: Benchmarking AI Agents for Long-Term Planning and Consistent Execution](https://arxiv.org/abs/2604.01212v1)** | 2026-04-01 | 16 pages, 10 figures |
+| **[ORBIT: Scalable and Verifiable Data Generation for Search Agents on a Tight Budget](https://arxiv.org/abs/2604.01195v1)** | 2026-04-01 |  |
+| **[SA-CycleGAN-2.5D: Self-Attention CycleGAN with Tri-Planar Context for Multi-Site MRI Harmonization](https://arxiv.org/abs/2603.17219v2)** | 2026-04-01 | <details><summary>12 pa...</summary><p>12 pages, 5 figures, 5 tables. Submitted to MICCAI 2026</p></details> |
+| **[A ROS 2 Wrapper for Florence-2: Multi-Mode Local Vision-Language Inference for Robotic Systems](https://arxiv.org/abs/2604.01179v1)** | 2026-04-01 | 5 pages, 1 figure |
+| **[S0 Tuning: Zero-Overhead Adaptation of Hybrid Recurrent-Attention Models](https://arxiv.org/abs/2604.01168v1)** | 2026-04-01 | <details><summary>15 pa...</summary><p>15 pages (10 main + 5 appendix), 3 figures, code at https://github.com/jackyoung27/s0-tuning</p></details> |
+| **[Brainstacks: Cross-Domain Cognitive Capabilities via Frozen MoE-LoRA Stacks for Continual LLM Learning](https://arxiv.org/abs/2604.01152v1)** | 2026-04-01 | <details><summary>26 pa...</summary><p>26 pages, 13 figures, 4 tables</p></details> |
+| **[ProTPS: Prototype-Guided Text Prompt Selection for Continual Learning](https://arxiv.org/abs/2604.01116v1)** | 2026-04-01 |  |
+| **[VT-Former: Efffcient Transformer-based Decoder for Varshamov-Tenengolts Codes](https://arxiv.org/abs/2502.21060v2)** | 2026-04-01 | <details><summary>9 pag...</summary><p>9 pages, 10 figures, 5 tables</p></details> |
+| **[Escaping Flatland: A Placement Flow for Enabling 3D FPGAs](https://arxiv.org/abs/2604.01078v1)** | 2026-04-01 | <details><summary>7 Pag...</summary><p>7 Pages, 7 Figures. Accepted at DAC'26</p></details> |
 
