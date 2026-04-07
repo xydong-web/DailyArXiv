@@ -1,5 +1,5 @@
 ---
-title: Latest 50 Papers - April 07, 2026
+title: Latest 50 Papers - April 08, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/JiamingZang/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,105 +7,96 @@ labels: documentation
 ## Molecular
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[CoME-VL: Scaling Complementary Multi-Encoder Vision-Language Learning](https://arxiv.org/abs/2604.03231v1)** | 2026-04-03 | <details><summary>16 pa...</summary><p>16 pages, 10 figures, 5 tables</p></details> |
-| **[Kill-Chain Canaries: Stage-Level Tracking of Prompt Injection Across Attack Surfaces and Model Safety Tiers](https://arxiv.org/abs/2603.28013v2)** | 2026-04-03 | <details><summary>10 pa...</summary><p>10 pages, 8 figures. Benchmark code and run logs released</p></details> |
-| **[Detecting and Correcting Reference Hallucinations in Commercial LLMs and Deep Research Agents](https://arxiv.org/abs/2604.03173v1)** | 2026-04-03 | 25 pages |
-| **[EffiMiniVLM: A Compact Dual-Encoder Regression Framework](https://arxiv.org/abs/2604.03172v1)** | 2026-04-03 |  |
-| **[BibTeX Citation Hallucinations in Scientific Publishing Agents: Evaluation and Mitigation](https://arxiv.org/abs/2604.03159v1)** | 2026-04-03 | 37 pages |
-| **[Precision or Peril: A PoC of Python Code Quality from Quantized Large Language Models](https://arxiv.org/abs/2411.10656v2)** | 2026-04-03 |  |
-| **[SCC-Loc: A Unified Semantic Cascade Consensus Framework for UAV Thermal Geo-Localization](https://arxiv.org/abs/2604.03120v1)** | 2026-04-03 | <details><summary>15 pa...</summary><p>15 pages, 4 figures. Submitted to IEEE J-STARS</p></details> |
+| **[ClickAIXR: On-Device Multimodal Vision-Language Interaction with Real-World Objects in Extended Reality](https://arxiv.org/abs/2604.04905v1)** | 2026-04-06 |  |
+| **[MemMachine: A Ground-Truth-Preserving Memory System for Personalized AI Agents](https://arxiv.org/abs/2604.04853v1)** | 2026-04-06 | <details><summary>18 pa...</summary><p>18 pages, 16 tables, 3 figures</p></details> |
+| **[Heterogeneous Mean Field Game Framework for LEO Satellite-Assisted V2X Networks](https://arxiv.org/abs/2604.00621v2)** | 2026-04-06 | <details><summary>18 pa...</summary><p>18 pages, 7 figures, has been submitted to IEEE Transactions on Mobile Computing</p></details> |
+| **[Less Detail, Better Answers: Degradation-Driven Prompting for VQA](https://arxiv.org/abs/2604.04838v1)** | 2026-04-06 | <details><summary>11pag...</summary><p>11pages,5 figures,CVPRW</p></details> |
+| **[E-VLA: Event-Augmented Vision-Language-Action Model for Dark and Blurred Scenes](https://arxiv.org/abs/2604.04834v1)** | 2026-04-06 | <details><summary>Code ...</summary><p>Code and dataset will be available at https://github.com/JJayzee/E-VLA</p></details> |
+| **[SysTradeBench: An Iterative Build-Test-Patch Benchmark for Strategy-to-Code Trading Systems with Drift-Aware Diagnostics](https://arxiv.org/abs/2604.04812v1)** | 2026-04-06 | 16 pages, 5 figures |
 
 ## Molecular Generation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[CoME-VL: Scaling Complementary Multi-Encoder Vision-Language Learning](https://arxiv.org/abs/2604.03231v1)** | 2026-04-03 | <details><summary>16 pa...</summary><p>16 pages, 10 figures, 5 tables</p></details> |
-| **[Kill-Chain Canaries: Stage-Level Tracking of Prompt Injection Across Attack Surfaces and Model Safety Tiers](https://arxiv.org/abs/2603.28013v2)** | 2026-04-03 | <details><summary>10 pa...</summary><p>10 pages, 8 figures. Benchmark code and run logs released</p></details> |
-| **[Detecting and Correcting Reference Hallucinations in Commercial LLMs and Deep Research Agents](https://arxiv.org/abs/2604.03173v1)** | 2026-04-03 | 25 pages |
-| **[EffiMiniVLM: A Compact Dual-Encoder Regression Framework](https://arxiv.org/abs/2604.03172v1)** | 2026-04-03 |  |
-| **[BibTeX Citation Hallucinations in Scientific Publishing Agents: Evaluation and Mitigation](https://arxiv.org/abs/2604.03159v1)** | 2026-04-03 | 37 pages |
-| **[Precision or Peril: A PoC of Python Code Quality from Quantized Large Language Models](https://arxiv.org/abs/2411.10656v2)** | 2026-04-03 |  |
-| **[SCC-Loc: A Unified Semantic Cascade Consensus Framework for UAV Thermal Geo-Localization](https://arxiv.org/abs/2604.03120v1)** | 2026-04-03 | <details><summary>15 pa...</summary><p>15 pages, 4 figures. Submitted to IEEE J-STARS</p></details> |
+| **[ClickAIXR: On-Device Multimodal Vision-Language Interaction with Real-World Objects in Extended Reality](https://arxiv.org/abs/2604.04905v1)** | 2026-04-06 |  |
+| **[MemMachine: A Ground-Truth-Preserving Memory System for Personalized AI Agents](https://arxiv.org/abs/2604.04853v1)** | 2026-04-06 | <details><summary>18 pa...</summary><p>18 pages, 16 tables, 3 figures</p></details> |
+| **[Heterogeneous Mean Field Game Framework for LEO Satellite-Assisted V2X Networks](https://arxiv.org/abs/2604.00621v2)** | 2026-04-06 | <details><summary>18 pa...</summary><p>18 pages, 7 figures, has been submitted to IEEE Transactions on Mobile Computing</p></details> |
+| **[Less Detail, Better Answers: Degradation-Driven Prompting for VQA](https://arxiv.org/abs/2604.04838v1)** | 2026-04-06 | <details><summary>11pag...</summary><p>11pages,5 figures,CVPRW</p></details> |
+| **[E-VLA: Event-Augmented Vision-Language-Action Model for Dark and Blurred Scenes](https://arxiv.org/abs/2604.04834v1)** | 2026-04-06 | <details><summary>Code ...</summary><p>Code and dataset will be available at https://github.com/JJayzee/E-VLA</p></details> |
+| **[SysTradeBench: An Iterative Build-Test-Patch Benchmark for Strategy-to-Code Trading Systems with Drift-Aware Diagnostics](https://arxiv.org/abs/2604.04812v1)** | 2026-04-06 | 16 pages, 5 figures |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[CoME-VL: Scaling Complementary Multi-Encoder Vision-Language Learning](https://arxiv.org/abs/2604.03231v1)** | 2026-04-03 | <details><summary>16 pa...</summary><p>16 pages, 10 figures, 5 tables</p></details> |
-| **[Kill-Chain Canaries: Stage-Level Tracking of Prompt Injection Across Attack Surfaces and Model Safety Tiers](https://arxiv.org/abs/2603.28013v2)** | 2026-04-03 | <details><summary>10 pa...</summary><p>10 pages, 8 figures. Benchmark code and run logs released</p></details> |
-| **[Detecting and Correcting Reference Hallucinations in Commercial LLMs and Deep Research Agents](https://arxiv.org/abs/2604.03173v1)** | 2026-04-03 | 25 pages |
-| **[EffiMiniVLM: A Compact Dual-Encoder Regression Framework](https://arxiv.org/abs/2604.03172v1)** | 2026-04-03 |  |
-| **[BibTeX Citation Hallucinations in Scientific Publishing Agents: Evaluation and Mitigation](https://arxiv.org/abs/2604.03159v1)** | 2026-04-03 | 37 pages |
-| **[Precision or Peril: A PoC of Python Code Quality from Quantized Large Language Models](https://arxiv.org/abs/2411.10656v2)** | 2026-04-03 |  |
-| **[DSBD: Dual-Aligned Structural Basis Distillation for Graph Domain Adaptation](https://arxiv.org/abs/2604.03154v1)** | 2026-04-03 |  |
-| **[SCC-Loc: A Unified Semantic Cascade Consensus Framework for UAV Thermal Geo-Localization](https://arxiv.org/abs/2604.03120v1)** | 2026-04-03 | <details><summary>15 pa...</summary><p>15 pages, 4 figures. Submitted to IEEE J-STARS</p></details> |
+| **[General Geospatial Inference with a Population Dynamics Foundation Model](https://arxiv.org/abs/2411.07207v6)** | 2026-04-06 | <details><summary>updat...</summary><p>updated access information</p></details> |
+| **[Empowering Power Outage Prediction with Spatially Aware Hybrid Graph Neural Networks and Contrastive Learning](https://arxiv.org/abs/2604.04916v1)** | 2026-04-06 |  |
+| **[ClickAIXR: On-Device Multimodal Vision-Language Interaction with Real-World Objects in Extended Reality](https://arxiv.org/abs/2604.04905v1)** | 2026-04-06 |  |
+| **[MemMachine: A Ground-Truth-Preserving Memory System for Personalized AI Agents](https://arxiv.org/abs/2604.04853v1)** | 2026-04-06 | <details><summary>18 pa...</summary><p>18 pages, 16 tables, 3 figures</p></details> |
+| **[Heterogeneous Mean Field Game Framework for LEO Satellite-Assisted V2X Networks](https://arxiv.org/abs/2604.00621v2)** | 2026-04-06 | <details><summary>18 pa...</summary><p>18 pages, 7 figures, has been submitted to IEEE Transactions on Mobile Computing</p></details> |
+| **[Less Detail, Better Answers: Degradation-Driven Prompting for VQA](https://arxiv.org/abs/2604.04838v1)** | 2026-04-06 | <details><summary>11pag...</summary><p>11pages,5 figures,CVPRW</p></details> |
+| **[E-VLA: Event-Augmented Vision-Language-Action Model for Dark and Blurred Scenes](https://arxiv.org/abs/2604.04834v1)** | 2026-04-06 | <details><summary>Code ...</summary><p>Code and dataset will be available at https://github.com/JJayzee/E-VLA</p></details> |
+| **[SysTradeBench: An Iterative Build-Test-Patch Benchmark for Strategy-to-Code Trading Systems with Drift-Aware Diagnostics](https://arxiv.org/abs/2604.04812v1)** | 2026-04-06 | 16 pages, 5 figures |
 
 ## Diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[CoME-VL: Scaling Complementary Multi-Encoder Vision-Language Learning](https://arxiv.org/abs/2604.03231v1)** | 2026-04-03 | <details><summary>16 pa...</summary><p>16 pages, 10 figures, 5 tables</p></details> |
-| **[VOSR: A Vision-Only Generative Model for Image Super-Resolution](https://arxiv.org/abs/2604.03225v1)** | 2026-04-03 | Accepted by CVPR2026 |
-| **[Kill-Chain Canaries: Stage-Level Tracking of Prompt Injection Across Attack Surfaces and Model Safety Tiers](https://arxiv.org/abs/2603.28013v2)** | 2026-04-03 | <details><summary>10 pa...</summary><p>10 pages, 8 figures. Benchmark code and run logs released</p></details> |
-| **[The Compression Gap: Why Discrete Tokenization Limits Vision-Language-Action Model Scaling](https://arxiv.org/abs/2604.03191v1)** | 2026-04-03 | 11 pages, 1 figure |
-| **[Multi-View Video Diffusion Policy: A 3D Spatio-Temporal-Aware Video Action Model](https://arxiv.org/abs/2604.03181v1)** | 2026-04-03 | <details><summary>Proje...</summary><p>Project Website: https://lpy1219.github.io/MV-VDP-Web/</p></details> |
-| **[Detecting and Correcting Reference Hallucinations in Commercial LLMs and Deep Research Agents](https://arxiv.org/abs/2604.03173v1)** | 2026-04-03 | 25 pages |
-| **[EffiMiniVLM: A Compact Dual-Encoder Regression Framework](https://arxiv.org/abs/2604.03172v1)** | 2026-04-03 |  |
-| **[BibTeX Citation Hallucinations in Scientific Publishing Agents: Evaluation and Mitigation](https://arxiv.org/abs/2604.03159v1)** | 2026-04-03 | 37 pages |
-| **[Precision or Peril: A PoC of Python Code Quality from Quantized Large Language Models](https://arxiv.org/abs/2411.10656v2)** | 2026-04-03 |  |
-| **[SD-FSMIS: Adapting Stable Diffusion for Few-Shot Medical Image Segmentation](https://arxiv.org/abs/2604.03134v1)** | 2026-04-03 | CVPR2026 |
+| **[Vanast: Virtual Try-On with Human Image Animation via Synthetic Triplet Supervision](https://arxiv.org/abs/2604.04934v1)** | 2026-04-06 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026, Project Page: https://hyunsoocha.github.io/vanast/</p></details> |
+| **[Your Pre-trained Diffusion Model Secretly Knows Restoration](https://arxiv.org/abs/2604.04924v1)** | 2026-04-06 | <details><summary>Proje...</summary><p>Project page: https://sudraj2002.github.io/yptpage/</p></details> |
+| **[ClickAIXR: On-Device Multimodal Vision-Language Interaction with Real-World Objects in Extended Reality](https://arxiv.org/abs/2604.04905v1)** | 2026-04-06 |  |
+| **[Flow Map Language Models: One-step Language Modeling via Continuous Denoising](https://arxiv.org/abs/2602.16813v2)** | 2026-04-06 | 58 pages, 40 figures |
+| **[Beyond the Global Scores: Fine-Grained Token Grounding as a Robust Detector of LVLM Hallucinations](https://arxiv.org/abs/2604.04863v1)** | 2026-04-06 | <details><summary>Accep...</summary><p>Accepted at CVPR2026 Main Track</p></details> |
+| **[MemMachine: A Ground-Truth-Preserving Memory System for Personalized AI Agents](https://arxiv.org/abs/2604.04853v1)** | 2026-04-06 | <details><summary>18 pa...</summary><p>18 pages, 16 tables, 3 figures</p></details> |
+| **[Heterogeneous Mean Field Game Framework for LEO Satellite-Assisted V2X Networks](https://arxiv.org/abs/2604.00621v2)** | 2026-04-06 | <details><summary>18 pa...</summary><p>18 pages, 7 figures, has been submitted to IEEE Transactions on Mobile Computing</p></details> |
+| **[Controllable protein design with particle-based Feynman-Kac steering](https://arxiv.org/abs/2511.09216v2)** | 2026-04-06 | <details><summary>In ve...</summary><p>In version 2 we added an experiment on improving designability through steering towards lower delta G</p></details> |
+| **[Less Detail, Better Answers: Degradation-Driven Prompting for VQA](https://arxiv.org/abs/2604.04838v1)** | 2026-04-06 | <details><summary>11pag...</summary><p>11pages,5 figures,CVPRW</p></details> |
 
 ## Object Counting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[CoME-VL: Scaling Complementary Multi-Encoder Vision-Language Learning](https://arxiv.org/abs/2604.03231v1)** | 2026-04-03 | <details><summary>16 pa...</summary><p>16 pages, 10 figures, 5 tables</p></details> |
-| **[Kill-Chain Canaries: Stage-Level Tracking of Prompt Injection Across Attack Surfaces and Model Safety Tiers](https://arxiv.org/abs/2603.28013v2)** | 2026-04-03 | <details><summary>10 pa...</summary><p>10 pages, 8 figures. Benchmark code and run logs released</p></details> |
-| **[Detecting and Correcting Reference Hallucinations in Commercial LLMs and Deep Research Agents](https://arxiv.org/abs/2604.03173v1)** | 2026-04-03 | 25 pages |
-| **[EffiMiniVLM: A Compact Dual-Encoder Regression Framework](https://arxiv.org/abs/2604.03172v1)** | 2026-04-03 |  |
-| **[BibTeX Citation Hallucinations in Scientific Publishing Agents: Evaluation and Mitigation](https://arxiv.org/abs/2604.03159v1)** | 2026-04-03 | 37 pages |
-| **[Precision or Peril: A PoC of Python Code Quality from Quantized Large Language Models](https://arxiv.org/abs/2411.10656v2)** | 2026-04-03 |  |
-| **[SCC-Loc: A Unified Semantic Cascade Consensus Framework for UAV Thermal Geo-Localization](https://arxiv.org/abs/2604.03120v1)** | 2026-04-03 | <details><summary>15 pa...</summary><p>15 pages, 4 figures. Submitted to IEEE J-STARS</p></details> |
+| **[ClickAIXR: On-Device Multimodal Vision-Language Interaction with Real-World Objects in Extended Reality](https://arxiv.org/abs/2604.04905v1)** | 2026-04-06 |  |
+| **[MemMachine: A Ground-Truth-Preserving Memory System for Personalized AI Agents](https://arxiv.org/abs/2604.04853v1)** | 2026-04-06 | <details><summary>18 pa...</summary><p>18 pages, 16 tables, 3 figures</p></details> |
+| **[Heterogeneous Mean Field Game Framework for LEO Satellite-Assisted V2X Networks](https://arxiv.org/abs/2604.00621v2)** | 2026-04-06 | <details><summary>18 pa...</summary><p>18 pages, 7 figures, has been submitted to IEEE Transactions on Mobile Computing</p></details> |
+| **[Less Detail, Better Answers: Degradation-Driven Prompting for VQA](https://arxiv.org/abs/2604.04838v1)** | 2026-04-06 | <details><summary>11pag...</summary><p>11pages,5 figures,CVPRW</p></details> |
+| **[E-VLA: Event-Augmented Vision-Language-Action Model for Dark and Blurred Scenes](https://arxiv.org/abs/2604.04834v1)** | 2026-04-06 | <details><summary>Code ...</summary><p>Code and dataset will be available at https://github.com/JJayzee/E-VLA</p></details> |
+| **[SysTradeBench: An Iterative Build-Test-Patch Benchmark for Strategy-to-Code Trading Systems with Drift-Aware Diagnostics](https://arxiv.org/abs/2604.04812v1)** | 2026-04-06 | 16 pages, 5 figures |
 
 ## Image Caption
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[CoME-VL: Scaling Complementary Multi-Encoder Vision-Language Learning](https://arxiv.org/abs/2604.03231v1)** | 2026-04-03 | <details><summary>16 pa...</summary><p>16 pages, 10 figures, 5 tables</p></details> |
-| **[Kill-Chain Canaries: Stage-Level Tracking of Prompt Injection Across Attack Surfaces and Model Safety Tiers](https://arxiv.org/abs/2603.28013v2)** | 2026-04-03 | <details><summary>10 pa...</summary><p>10 pages, 8 figures. Benchmark code and run logs released</p></details> |
-| **[Detecting and Correcting Reference Hallucinations in Commercial LLMs and Deep Research Agents](https://arxiv.org/abs/2604.03173v1)** | 2026-04-03 | 25 pages |
-| **[EffiMiniVLM: A Compact Dual-Encoder Regression Framework](https://arxiv.org/abs/2604.03172v1)** | 2026-04-03 |  |
-| **[BibTeX Citation Hallucinations in Scientific Publishing Agents: Evaluation and Mitigation](https://arxiv.org/abs/2604.03159v1)** | 2026-04-03 | 37 pages |
-| **[Precision or Peril: A PoC of Python Code Quality from Quantized Large Language Models](https://arxiv.org/abs/2411.10656v2)** | 2026-04-03 |  |
-| **[SCC-Loc: A Unified Semantic Cascade Consensus Framework for UAV Thermal Geo-Localization](https://arxiv.org/abs/2604.03120v1)** | 2026-04-03 | <details><summary>15 pa...</summary><p>15 pages, 4 figures. Submitted to IEEE J-STARS</p></details> |
+| **[ClickAIXR: On-Device Multimodal Vision-Language Interaction with Real-World Objects in Extended Reality](https://arxiv.org/abs/2604.04905v1)** | 2026-04-06 |  |
+| **[MemMachine: A Ground-Truth-Preserving Memory System for Personalized AI Agents](https://arxiv.org/abs/2604.04853v1)** | 2026-04-06 | <details><summary>18 pa...</summary><p>18 pages, 16 tables, 3 figures</p></details> |
+| **[Heterogeneous Mean Field Game Framework for LEO Satellite-Assisted V2X Networks](https://arxiv.org/abs/2604.00621v2)** | 2026-04-06 | <details><summary>18 pa...</summary><p>18 pages, 7 figures, has been submitted to IEEE Transactions on Mobile Computing</p></details> |
+| **[Less Detail, Better Answers: Degradation-Driven Prompting for VQA](https://arxiv.org/abs/2604.04838v1)** | 2026-04-06 | <details><summary>11pag...</summary><p>11pages,5 figures,CVPRW</p></details> |
+| **[E-VLA: Event-Augmented Vision-Language-Action Model for Dark and Blurred Scenes](https://arxiv.org/abs/2604.04834v1)** | 2026-04-06 | <details><summary>Code ...</summary><p>Code and dataset will be available at https://github.com/JJayzee/E-VLA</p></details> |
+| **[SysTradeBench: An Iterative Build-Test-Patch Benchmark for Strategy-to-Code Trading Systems with Drift-Aware Diagnostics](https://arxiv.org/abs/2604.04812v1)** | 2026-04-06 | 16 pages, 5 figures |
 
 ## Describe
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[CoME-VL: Scaling Complementary Multi-Encoder Vision-Language Learning](https://arxiv.org/abs/2604.03231v1)** | 2026-04-03 | <details><summary>16 pa...</summary><p>16 pages, 10 figures, 5 tables</p></details> |
-| **[Kill-Chain Canaries: Stage-Level Tracking of Prompt Injection Across Attack Surfaces and Model Safety Tiers](https://arxiv.org/abs/2603.28013v2)** | 2026-04-03 | <details><summary>10 pa...</summary><p>10 pages, 8 figures. Benchmark code and run logs released</p></details> |
-| **[Detecting and Correcting Reference Hallucinations in Commercial LLMs and Deep Research Agents](https://arxiv.org/abs/2604.03173v1)** | 2026-04-03 | 25 pages |
-| **[EffiMiniVLM: A Compact Dual-Encoder Regression Framework](https://arxiv.org/abs/2604.03172v1)** | 2026-04-03 |  |
-| **[BibTeX Citation Hallucinations in Scientific Publishing Agents: Evaluation and Mitigation](https://arxiv.org/abs/2604.03159v1)** | 2026-04-03 | 37 pages |
-| **[Precision or Peril: A PoC of Python Code Quality from Quantized Large Language Models](https://arxiv.org/abs/2411.10656v2)** | 2026-04-03 |  |
-| **[AI-Assisted Unit Test Writing and Test-Driven Code Refactoring: A Case Study](https://arxiv.org/abs/2604.03135v1)** | 2026-04-03 | <details><summary>6 pag...</summary><p>6 pages, 3 figures, 2 tables</p></details> |
-| **[SCC-Loc: A Unified Semantic Cascade Consensus Framework for UAV Thermal Geo-Localization](https://arxiv.org/abs/2604.03120v1)** | 2026-04-03 | <details><summary>15 pa...</summary><p>15 pages, 4 figures. Submitted to IEEE J-STARS</p></details> |
+| **[Floralens: a Deep Learning Model for the Portuguese Native Flora](https://arxiv.org/abs/2403.12072v4)** | 2026-04-06 |  |
+| **[ClickAIXR: On-Device Multimodal Vision-Language Interaction with Real-World Objects in Extended Reality](https://arxiv.org/abs/2604.04905v1)** | 2026-04-06 |  |
+| **[StatsClaw: An AI-Collaborative Workflow for Statistical Software Development](https://arxiv.org/abs/2604.04871v1)** | 2026-04-06 |  |
+| **[MemMachine: A Ground-Truth-Preserving Memory System for Personalized AI Agents](https://arxiv.org/abs/2604.04853v1)** | 2026-04-06 | <details><summary>18 pa...</summary><p>18 pages, 16 tables, 3 figures</p></details> |
+| **[Heterogeneous Mean Field Game Framework for LEO Satellite-Assisted V2X Networks](https://arxiv.org/abs/2604.00621v2)** | 2026-04-06 | <details><summary>18 pa...</summary><p>18 pages, 7 figures, has been submitted to IEEE Transactions on Mobile Computing</p></details> |
+| **[Less Detail, Better Answers: Degradation-Driven Prompting for VQA](https://arxiv.org/abs/2604.04838v1)** | 2026-04-06 | <details><summary>11pag...</summary><p>11pages,5 figures,CVPRW</p></details> |
+| **[E-VLA: Event-Augmented Vision-Language-Action Model for Dark and Blurred Scenes](https://arxiv.org/abs/2604.04834v1)** | 2026-04-06 | <details><summary>Code ...</summary><p>Code and dataset will be available at https://github.com/JJayzee/E-VLA</p></details> |
 
 ## Light Weight
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[CoME-VL: Scaling Complementary Multi-Encoder Vision-Language Learning](https://arxiv.org/abs/2604.03231v1)** | 2026-04-03 | <details><summary>16 pa...</summary><p>16 pages, 10 figures, 5 tables</p></details> |
-| **[Kill-Chain Canaries: Stage-Level Tracking of Prompt Injection Across Attack Surfaces and Model Safety Tiers](https://arxiv.org/abs/2603.28013v2)** | 2026-04-03 | <details><summary>10 pa...</summary><p>10 pages, 8 figures. Benchmark code and run logs released</p></details> |
-| **[Detecting and Correcting Reference Hallucinations in Commercial LLMs and Deep Research Agents](https://arxiv.org/abs/2604.03173v1)** | 2026-04-03 | 25 pages |
-| **[EffiMiniVLM: A Compact Dual-Encoder Regression Framework](https://arxiv.org/abs/2604.03172v1)** | 2026-04-03 |  |
-| **[BibTeX Citation Hallucinations in Scientific Publishing Agents: Evaluation and Mitigation](https://arxiv.org/abs/2604.03159v1)** | 2026-04-03 | 37 pages |
-| **[Precision or Peril: A PoC of Python Code Quality from Quantized Large Language Models](https://arxiv.org/abs/2411.10656v2)** | 2026-04-03 |  |
-| **[SCC-Loc: A Unified Semantic Cascade Consensus Framework for UAV Thermal Geo-Localization](https://arxiv.org/abs/2604.03120v1)** | 2026-04-03 | <details><summary>15 pa...</summary><p>15 pages, 4 figures. Submitted to IEEE J-STARS</p></details> |
+| **[ClickAIXR: On-Device Multimodal Vision-Language Interaction with Real-World Objects in Extended Reality](https://arxiv.org/abs/2604.04905v1)** | 2026-04-06 |  |
+| **[MemMachine: A Ground-Truth-Preserving Memory System for Personalized AI Agents](https://arxiv.org/abs/2604.04853v1)** | 2026-04-06 | <details><summary>18 pa...</summary><p>18 pages, 16 tables, 3 figures</p></details> |
+| **[Heterogeneous Mean Field Game Framework for LEO Satellite-Assisted V2X Networks](https://arxiv.org/abs/2604.00621v2)** | 2026-04-06 | <details><summary>18 pa...</summary><p>18 pages, 7 figures, has been submitted to IEEE Transactions on Mobile Computing</p></details> |
+| **[Less Detail, Better Answers: Degradation-Driven Prompting for VQA](https://arxiv.org/abs/2604.04838v1)** | 2026-04-06 | <details><summary>11pag...</summary><p>11pages,5 figures,CVPRW</p></details> |
+| **[E-VLA: Event-Augmented Vision-Language-Action Model for Dark and Blurred Scenes](https://arxiv.org/abs/2604.04834v1)** | 2026-04-06 | <details><summary>Code ...</summary><p>Code and dataset will be available at https://github.com/JJayzee/E-VLA</p></details> |
+| **[SysTradeBench: An Iterative Build-Test-Patch Benchmark for Strategy-to-Code Trading Systems with Drift-Aware Diagnostics](https://arxiv.org/abs/2604.04812v1)** | 2026-04-06 | 16 pages, 5 figures |
 
 ## Class Incremental
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[CoME-VL: Scaling Complementary Multi-Encoder Vision-Language Learning](https://arxiv.org/abs/2604.03231v1)** | 2026-04-03 | <details><summary>16 pa...</summary><p>16 pages, 10 figures, 5 tables</p></details> |
-| **[Kill-Chain Canaries: Stage-Level Tracking of Prompt Injection Across Attack Surfaces and Model Safety Tiers](https://arxiv.org/abs/2603.28013v2)** | 2026-04-03 | <details><summary>10 pa...</summary><p>10 pages, 8 figures. Benchmark code and run logs released</p></details> |
-| **[ProtoFlow: Mitigating Forgetting in Class-Incremental Remote Sensing Segmentation via Low-Curvature Prototype Flow](https://arxiv.org/abs/2604.03212v1)** | 2026-04-03 |  |
-| **[Detecting and Correcting Reference Hallucinations in Commercial LLMs and Deep Research Agents](https://arxiv.org/abs/2604.03173v1)** | 2026-04-03 | 25 pages |
-| **[EffiMiniVLM: A Compact Dual-Encoder Regression Framework](https://arxiv.org/abs/2604.03172v1)** | 2026-04-03 |  |
-| **[BibTeX Citation Hallucinations in Scientific Publishing Agents: Evaluation and Mitigation](https://arxiv.org/abs/2604.03159v1)** | 2026-04-03 | 37 pages |
-| **[Precision or Peril: A PoC of Python Code Quality from Quantized Large Language Models](https://arxiv.org/abs/2411.10656v2)** | 2026-04-03 |  |
-| **[SCC-Loc: A Unified Semantic Cascade Consensus Framework for UAV Thermal Geo-Localization](https://arxiv.org/abs/2604.03120v1)** | 2026-04-03 | <details><summary>15 pa...</summary><p>15 pages, 4 figures. Submitted to IEEE J-STARS</p></details> |
+| **[ClickAIXR: On-Device Multimodal Vision-Language Interaction with Real-World Objects in Extended Reality](https://arxiv.org/abs/2604.04905v1)** | 2026-04-06 |  |
+| **[MemMachine: A Ground-Truth-Preserving Memory System for Personalized AI Agents](https://arxiv.org/abs/2604.04853v1)** | 2026-04-06 | <details><summary>18 pa...</summary><p>18 pages, 16 tables, 3 figures</p></details> |
+| **[Heterogeneous Mean Field Game Framework for LEO Satellite-Assisted V2X Networks](https://arxiv.org/abs/2604.00621v2)** | 2026-04-06 | <details><summary>18 pa...</summary><p>18 pages, 7 figures, has been submitted to IEEE Transactions on Mobile Computing</p></details> |
+| **[Less Detail, Better Answers: Degradation-Driven Prompting for VQA](https://arxiv.org/abs/2604.04838v1)** | 2026-04-06 | <details><summary>11pag...</summary><p>11pages,5 figures,CVPRW</p></details> |
+| **[E-VLA: Event-Augmented Vision-Language-Action Model for Dark and Blurred Scenes](https://arxiv.org/abs/2604.04834v1)** | 2026-04-06 | <details><summary>Code ...</summary><p>Code and dataset will be available at https://github.com/JJayzee/E-VLA</p></details> |
+| **[SysTradeBench: An Iterative Build-Test-Patch Benchmark for Strategy-to-Code Trading Systems with Drift-Aware Diagnostics](https://arxiv.org/abs/2604.04812v1)** | 2026-04-06 | 16 pages, 5 figures |
 
