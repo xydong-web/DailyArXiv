@@ -1,5 +1,5 @@
 ---
-title: Latest 50 Papers - April 09, 2026
+title: Latest 50 Papers - April 10, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/JiamingZang/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,136 +7,103 @@ labels: documentation
 ## Molecular
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Topological Characterization of Churn Flow and Unsupervised Correction to the Wu Flow-Regime Map in Small-Diameter Vertical Pipes](https://arxiv.org/abs/2604.06167v1)** | 2026-04-07 |  |
-| **[The Character Error Vector: Decomposable errors for page-level OCR evaluation](https://arxiv.org/abs/2604.06160v1)** | 2026-04-07 | <details><summary>6643 ...</summary><p>6643 words, 5 figures, 15 tables</p></details> |
-| **[MAESTRO: Adapting GUIs and Guiding Navigation with User Preferences in Conversational Agents with GUIs](https://arxiv.org/abs/2604.06134v1)** | 2026-04-07 | 10 pages, 5 figures |
-| **[On the $(\leq p)$-inversion diameter of oriented graphs](https://arxiv.org/abs/2604.04633v2)** | 2026-04-07 |  |
-| **[eVTOL Aircraft Energy Overhead Estimation under Conflict Resolution in High-Density Airspaces](https://arxiv.org/abs/2604.06093v1)** | 2026-04-07 | <details><summary>Accep...</summary><p>Accepted for presentation at the Integrated Communications, Navigation and Surveillance Conference (ICNS) 2026</p></details> |
-| **[Graph-PiT: Enhancing Structural Coherence in Part-Based Image Synthesis via Graph Priors](https://arxiv.org/abs/2604.06074v1)** | 2026-04-07 | <details><summary>11 pa...</summary><p>11 pages, 5 figures, Accepted by ICME 2026</p></details> |
-| **[$k$-Clustering via Iterative Randomized Rounding](https://arxiv.org/abs/2604.06046v1)** | 2026-04-07 | <details><summary>36 pa...</summary><p>36 pages, 0 figure. The abstract was abridged to meet the arXiv requirement</p></details> |
-| **[Further results on the lower bound on reduced Zagreb index of trees](https://arxiv.org/abs/2604.06044v1)** | 2026-04-07 |  |
-| **[Covering-radius and Collinearity- Minimizing Pilots for Channel Estimation in TDD Systems](https://arxiv.org/abs/2604.06041v1)** | 2026-04-07 | <details><summary>5page...</summary><p>5pages, 5 figures. This work has been submitted to the IEEE for possible publication</p></details> |
-| **[Value Mirror Descent for Reinforcement Learning](https://arxiv.org/abs/2604.06039v1)** | 2026-04-07 |  |
-| **[MM-tau-p$^2$: Persona-Adaptive Prompting for Robust Multi-Modal Agent Evaluation in Dual-Control Settings](https://arxiv.org/abs/2603.09643v4)** | 2026-04-07 | <details><summary>A ben...</summary><p>A benchmark for evaluating multimodal both voice and text LLM agents in dualcontrol settings. We introduce persona adaptive prompting and 12 new metrics to assess robustness safety efficiency and recovery in customer support scenarios</p></details> |
-| **[CritBench: A Framework for Evaluating Cybersecurity Capabilities of Large Language Models in IEC 61850 Digital Substation Environments](https://arxiv.org/abs/2604.06019v1)** | 2026-04-07 | <details><summary>16 pa...</summary><p>16 pages, 4 figures, 3 tables. Submitted to the 3rd ACM SIGEnergy Workshop on Cybersecurity and Privacy of Energy Systems (ACM EnergySP '26)</p></details> |
+| **[The Non-Gaussian Weak-Lensing Likelihood: A Multivariate Copula Construction and Impact on Cosmological Constraints](https://arxiv.org/abs/2604.07336v1)** | 2026-04-08 | 15 pages, 5 figures |
+| **[A Dynamic Prognostic Prediction Method for Colorectal Cancer Liver Metastasis](https://arxiv.org/abs/2505.03123v3)** | 2026-04-08 | <details><summary>Accep...</summary><p>Accepted to IEEE International Conference on Multimedia and Expo (ICME) 2026</p></details> |
+| **[Delay-Doppler Channel Estimation using Arbitrarily Modulated Data Transmissions](https://arxiv.org/abs/2604.07308v1)** | 2026-04-08 | <details><summary>7 pag...</summary><p>7 pages, 5 figures, to be submitted to IEEE</p></details> |
+| **[Splatblox: Traversability-Aware Gaussian Splatting for Outdoor Robot Navigation](https://arxiv.org/abs/2511.18525v2)** | 2026-04-08 |  |
+| **[Do MLLMs Really Understand Space? A Mathematical Reasoning Evaluation](https://arxiv.org/abs/2602.11635v2)** | 2026-04-08 |  |
+| **[Making Room for AI: Multi-GPU Molecular Dynamics with Deep Potentials in GROMACS](https://arxiv.org/abs/2604.07276v1)** | 2026-04-08 |  |
+| **[Diffusion-based Evolutionary Optimization for 3D Multi-Objective Molecular Generation](https://arxiv.org/abs/2505.11037v5)** | 2026-04-08 |  |
 
 ## Molecular Generation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Topological Characterization of Churn Flow and Unsupervised Correction to the Wu Flow-Regime Map in Small-Diameter Vertical Pipes](https://arxiv.org/abs/2604.06167v1)** | 2026-04-07 |  |
-| **[The Character Error Vector: Decomposable errors for page-level OCR evaluation](https://arxiv.org/abs/2604.06160v1)** | 2026-04-07 | <details><summary>6643 ...</summary><p>6643 words, 5 figures, 15 tables</p></details> |
-| **[MAESTRO: Adapting GUIs and Guiding Navigation with User Preferences in Conversational Agents with GUIs](https://arxiv.org/abs/2604.06134v1)** | 2026-04-07 | 10 pages, 5 figures |
-| **[On the $(\leq p)$-inversion diameter of oriented graphs](https://arxiv.org/abs/2604.04633v2)** | 2026-04-07 |  |
-| **[eVTOL Aircraft Energy Overhead Estimation under Conflict Resolution in High-Density Airspaces](https://arxiv.org/abs/2604.06093v1)** | 2026-04-07 | <details><summary>Accep...</summary><p>Accepted for presentation at the Integrated Communications, Navigation and Surveillance Conference (ICNS) 2026</p></details> |
-| **[Graph-PiT: Enhancing Structural Coherence in Part-Based Image Synthesis via Graph Priors](https://arxiv.org/abs/2604.06074v1)** | 2026-04-07 | <details><summary>11 pa...</summary><p>11 pages, 5 figures, Accepted by ICME 2026</p></details> |
-| **[$k$-Clustering via Iterative Randomized Rounding](https://arxiv.org/abs/2604.06046v1)** | 2026-04-07 | <details><summary>36 pa...</summary><p>36 pages, 0 figure. The abstract was abridged to meet the arXiv requirement</p></details> |
-| **[Covering-radius and Collinearity- Minimizing Pilots for Channel Estimation in TDD Systems](https://arxiv.org/abs/2604.06041v1)** | 2026-04-07 | <details><summary>5page...</summary><p>5pages, 5 figures. This work has been submitted to the IEEE for possible publication</p></details> |
-| **[Value Mirror Descent for Reinforcement Learning](https://arxiv.org/abs/2604.06039v1)** | 2026-04-07 |  |
-| **[MM-tau-p$^2$: Persona-Adaptive Prompting for Robust Multi-Modal Agent Evaluation in Dual-Control Settings](https://arxiv.org/abs/2603.09643v4)** | 2026-04-07 | <details><summary>A ben...</summary><p>A benchmark for evaluating multimodal both voice and text LLM agents in dualcontrol settings. We introduce persona adaptive prompting and 12 new metrics to assess robustness safety efficiency and recovery in customer support scenarios</p></details> |
-| **[CritBench: A Framework for Evaluating Cybersecurity Capabilities of Large Language Models in IEC 61850 Digital Substation Environments](https://arxiv.org/abs/2604.06019v1)** | 2026-04-07 | <details><summary>16 pa...</summary><p>16 pages, 4 figures, 3 tables. Submitted to the 3rd ACM SIGEnergy Workshop on Cybersecurity and Privacy of Energy Systems (ACM EnergySP '26)</p></details> |
+| **[The Non-Gaussian Weak-Lensing Likelihood: A Multivariate Copula Construction and Impact on Cosmological Constraints](https://arxiv.org/abs/2604.07336v1)** | 2026-04-08 | 15 pages, 5 figures |
+| **[A Dynamic Prognostic Prediction Method for Colorectal Cancer Liver Metastasis](https://arxiv.org/abs/2505.03123v3)** | 2026-04-08 | <details><summary>Accep...</summary><p>Accepted to IEEE International Conference on Multimedia and Expo (ICME) 2026</p></details> |
+| **[Delay-Doppler Channel Estimation using Arbitrarily Modulated Data Transmissions](https://arxiv.org/abs/2604.07308v1)** | 2026-04-08 | <details><summary>7 pag...</summary><p>7 pages, 5 figures, to be submitted to IEEE</p></details> |
+| **[Splatblox: Traversability-Aware Gaussian Splatting for Outdoor Robot Navigation](https://arxiv.org/abs/2511.18525v2)** | 2026-04-08 |  |
+| **[Do MLLMs Really Understand Space? A Mathematical Reasoning Evaluation](https://arxiv.org/abs/2602.11635v2)** | 2026-04-08 |  |
+| **[Diffusion-based Evolutionary Optimization for 3D Multi-Objective Molecular Generation](https://arxiv.org/abs/2505.11037v5)** | 2026-04-08 |  |
+| **[Agent-Driven Corpus Linguistics: A Framework for Autonomous Linguistic Discovery](https://arxiv.org/abs/2604.07189v1)** | 2026-04-08 |  |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Topological Characterization of Churn Flow and Unsupervised Correction to the Wu Flow-Regime Map in Small-Diameter Vertical Pipes](https://arxiv.org/abs/2604.06167v1)** | 2026-04-07 |  |
-| **[The Character Error Vector: Decomposable errors for page-level OCR evaluation](https://arxiv.org/abs/2604.06160v1)** | 2026-04-07 | <details><summary>6643 ...</summary><p>6643 words, 5 figures, 15 tables</p></details> |
-| **[MAESTRO: Adapting GUIs and Guiding Navigation with User Preferences in Conversational Agents with GUIs](https://arxiv.org/abs/2604.06134v1)** | 2026-04-07 | 10 pages, 5 figures |
-| **[On the $(\leq p)$-inversion diameter of oriented graphs](https://arxiv.org/abs/2604.04633v2)** | 2026-04-07 |  |
-| **[eVTOL Aircraft Energy Overhead Estimation under Conflict Resolution in High-Density Airspaces](https://arxiv.org/abs/2604.06093v1)** | 2026-04-07 | <details><summary>Accep...</summary><p>Accepted for presentation at the Integrated Communications, Navigation and Surveillance Conference (ICNS) 2026</p></details> |
-| **[Interpreting Temporal Graph Neural Networks with Koopman Theory](https://arxiv.org/abs/2410.13469v2)** | 2026-04-07 |  |
-| **[Graph-PiT: Enhancing Structural Coherence in Part-Based Image Synthesis via Graph Priors](https://arxiv.org/abs/2604.06074v1)** | 2026-04-07 | <details><summary>11 pa...</summary><p>11 pages, 5 figures, Accepted by ICME 2026</p></details> |
-| **[$k$-Clustering via Iterative Randomized Rounding](https://arxiv.org/abs/2604.06046v1)** | 2026-04-07 | <details><summary>36 pa...</summary><p>36 pages, 0 figure. The abstract was abridged to meet the arXiv requirement</p></details> |
-| **[Covering-radius and Collinearity- Minimizing Pilots for Channel Estimation in TDD Systems](https://arxiv.org/abs/2604.06041v1)** | 2026-04-07 | <details><summary>5page...</summary><p>5pages, 5 figures. This work has been submitted to the IEEE for possible publication</p></details> |
-| **[Value Mirror Descent for Reinforcement Learning](https://arxiv.org/abs/2604.06039v1)** | 2026-04-07 |  |
-| **[MM-tau-p$^2$: Persona-Adaptive Prompting for Robust Multi-Modal Agent Evaluation in Dual-Control Settings](https://arxiv.org/abs/2603.09643v4)** | 2026-04-07 | <details><summary>A ben...</summary><p>A benchmark for evaluating multimodal both voice and text LLM agents in dualcontrol settings. We introduce persona adaptive prompting and 12 new metrics to assess robustness safety efficiency and recovery in customer support scenarios</p></details> |
-| **[CritBench: A Framework for Evaluating Cybersecurity Capabilities of Large Language Models in IEC 61850 Digital Substation Environments](https://arxiv.org/abs/2604.06019v1)** | 2026-04-07 | <details><summary>16 pa...</summary><p>16 pages, 4 figures, 3 tables. Submitted to the 3rd ACM SIGEnergy Workshop on Cybersecurity and Privacy of Energy Systems (ACM EnergySP '26)</p></details> |
+| **[The Non-Gaussian Weak-Lensing Likelihood: A Multivariate Copula Construction and Impact on Cosmological Constraints](https://arxiv.org/abs/2604.07336v1)** | 2026-04-08 | 15 pages, 5 figures |
+| **[A Dynamic Prognostic Prediction Method for Colorectal Cancer Liver Metastasis](https://arxiv.org/abs/2505.03123v3)** | 2026-04-08 | <details><summary>Accep...</summary><p>Accepted to IEEE International Conference on Multimedia and Expo (ICME) 2026</p></details> |
+| **[Delay-Doppler Channel Estimation using Arbitrarily Modulated Data Transmissions](https://arxiv.org/abs/2604.07308v1)** | 2026-04-08 | <details><summary>7 pag...</summary><p>7 pages, 5 figures, to be submitted to IEEE</p></details> |
+| **[Splatblox: Traversability-Aware Gaussian Splatting for Outdoor Robot Navigation](https://arxiv.org/abs/2511.18525v2)** | 2026-04-08 |  |
+| **[Graph Neural ODE Digital Twins for Control-Oriented Reactor Thermal-Hydraulic Forecasting Under Partial Observability](https://arxiv.org/abs/2604.07292v1)** | 2026-04-08 |  |
+| **[Do MLLMs Really Understand Space? A Mathematical Reasoning Evaluation](https://arxiv.org/abs/2602.11635v2)** | 2026-04-08 |  |
+| **[BadImplant: Injection-based Multi-Targeted Graph Backdoor Attack](https://arxiv.org/abs/2601.15474v2)** | 2026-04-08 |  |
 
 ## Diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Topological Characterization of Churn Flow and Unsupervised Correction to the Wu Flow-Regime Map in Small-Diameter Vertical Pipes](https://arxiv.org/abs/2604.06167v1)** | 2026-04-07 |  |
-| **[DiffHDR: Re-Exposing LDR Videos with Video Diffusion Models](https://arxiv.org/abs/2604.06161v1)** | 2026-04-07 | <details><summary>Proje...</summary><p>Project page: https://yzmblog.github.io/projects/DiffHDR/</p></details> |
-| **[The Character Error Vector: Decomposable errors for page-level OCR evaluation](https://arxiv.org/abs/2604.06160v1)** | 2026-04-07 | <details><summary>6643 ...</summary><p>6643 words, 5 figures, 15 tables</p></details> |
-| **[MAESTRO: Adapting GUIs and Guiding Navigation with User Preferences in Conversational Agents with GUIs](https://arxiv.org/abs/2604.06134v1)** | 2026-04-07 | 10 pages, 5 figures |
-| **[Learning-Guided Force-Feedback Model Predictive Control with Obstacle Avoidance for Robotic Deburring](https://arxiv.org/abs/2604.06133v1)** | 2026-04-07 | <details><summary>Accep...</summary><p>Accepted to ICRA 2026</p></details> |
-| **[On the $(\leq p)$-inversion diameter of oriented graphs](https://arxiv.org/abs/2604.04633v2)** | 2026-04-07 |  |
-| **[SEM-ROVER: Semantic Voxel-Guided Diffusion for Large-Scale Driving Scene Generation](https://arxiv.org/abs/2604.06113v1)** | 2026-04-07 |  |
-| **[eVTOL Aircraft Energy Overhead Estimation under Conflict Resolution in High-Density Airspaces](https://arxiv.org/abs/2604.06093v1)** | 2026-04-07 | <details><summary>Accep...</summary><p>Accepted for presentation at the Integrated Communications, Navigation and Surveillance Conference (ICNS) 2026</p></details> |
-| **[Graph-PiT: Enhancing Structural Coherence in Part-Based Image Synthesis via Graph Priors](https://arxiv.org/abs/2604.06074v1)** | 2026-04-07 | <details><summary>11 pa...</summary><p>11 pages, 5 figures, Accepted by ICME 2026</p></details> |
-| **[Lipschitz regularity in Flow Matching and Diffusion Models: sharp sampling rates and functional inequalities](https://arxiv.org/abs/2604.06065v1)** | 2026-04-07 |  |
+| **[The Non-Gaussian Weak-Lensing Likelihood: A Multivariate Copula Construction and Impact on Cosmological Constraints](https://arxiv.org/abs/2604.07336v1)** | 2026-04-08 | 15 pages, 5 figures |
+| **[Distilling Photon-Counting CT into Routine Chest CT through Clinically Validated Degradation Modeling](https://arxiv.org/abs/2604.07329v1)** | 2026-04-08 |  |
+| **[A Dynamic Prognostic Prediction Method for Colorectal Cancer Liver Metastasis](https://arxiv.org/abs/2505.03123v3)** | 2026-04-08 | <details><summary>Accep...</summary><p>Accepted to IEEE International Conference on Multimedia and Expo (ICME) 2026</p></details> |
+| **[Delay-Doppler Channel Estimation using Arbitrarily Modulated Data Transmissions](https://arxiv.org/abs/2604.07308v1)** | 2026-04-08 | <details><summary>7 pag...</summary><p>7 pages, 5 figures, to be submitted to IEEE</p></details> |
+| **[Distributed Split Computing Using Diffusive Metrics for UAV Swarms](https://arxiv.org/abs/2503.16146v3)** | 2026-04-08 | <details><summary>Accep...</summary><p>Accepted for publication in Journal of Systems Architecture (Elsevier)</p></details> |
+| **[Computational bottlenecks for denoising diffusions](https://arxiv.org/abs/2503.08028v3)** | 2026-04-08 | 51 pages; 2 figures |
+| **[Splatblox: Traversability-Aware Gaussian Splatting for Outdoor Robot Navigation](https://arxiv.org/abs/2511.18525v2)** | 2026-04-08 |  |
+| **[Region-Graph Optimal Transport Routing for Mixture-of-Experts Whole-Slide Image Classification](https://arxiv.org/abs/2604.07298v1)** | 2026-04-08 | <details><summary>10 pa...</summary><p>10 pages, 2 figures, 2 tables</p></details> |
+| **[Do MLLMs Really Understand Space? A Mathematical Reasoning Evaluation](https://arxiv.org/abs/2602.11635v2)** | 2026-04-08 |  |
+| **[GenLCA: 3D Diffusion for Full-Body Avatars from In-the-Wild Videos](https://arxiv.org/abs/2604.07273v1)** | 2026-04-08 |  |
+| **[AstraNav-World: World Model for Foresight Control and Consistency](https://arxiv.org/abs/2512.21714v2)** | 2026-04-08 |  |
+| **[Geo-EVS: Geometry-Conditioned Extrapolative View Synthesis for Autonomous Driving](https://arxiv.org/abs/2604.07250v1)** | 2026-04-08 |  |
 
 ## Object Counting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Topological Characterization of Churn Flow and Unsupervised Correction to the Wu Flow-Regime Map in Small-Diameter Vertical Pipes](https://arxiv.org/abs/2604.06167v1)** | 2026-04-07 |  |
-| **[The Character Error Vector: Decomposable errors for page-level OCR evaluation](https://arxiv.org/abs/2604.06160v1)** | 2026-04-07 | <details><summary>6643 ...</summary><p>6643 words, 5 figures, 15 tables</p></details> |
-| **[MAESTRO: Adapting GUIs and Guiding Navigation with User Preferences in Conversational Agents with GUIs](https://arxiv.org/abs/2604.06134v1)** | 2026-04-07 | 10 pages, 5 figures |
-| **[On the $(\leq p)$-inversion diameter of oriented graphs](https://arxiv.org/abs/2604.04633v2)** | 2026-04-07 |  |
-| **[eVTOL Aircraft Energy Overhead Estimation under Conflict Resolution in High-Density Airspaces](https://arxiv.org/abs/2604.06093v1)** | 2026-04-07 | <details><summary>Accep...</summary><p>Accepted for presentation at the Integrated Communications, Navigation and Surveillance Conference (ICNS) 2026</p></details> |
-| **[Graph-PiT: Enhancing Structural Coherence in Part-Based Image Synthesis via Graph Priors](https://arxiv.org/abs/2604.06074v1)** | 2026-04-07 | <details><summary>11 pa...</summary><p>11 pages, 5 figures, Accepted by ICME 2026</p></details> |
-| **[$k$-Clustering via Iterative Randomized Rounding](https://arxiv.org/abs/2604.06046v1)** | 2026-04-07 | <details><summary>36 pa...</summary><p>36 pages, 0 figure. The abstract was abridged to meet the arXiv requirement</p></details> |
-| **[Covering-radius and Collinearity- Minimizing Pilots for Channel Estimation in TDD Systems](https://arxiv.org/abs/2604.06041v1)** | 2026-04-07 | <details><summary>5page...</summary><p>5pages, 5 figures. This work has been submitted to the IEEE for possible publication</p></details> |
-| **[Value Mirror Descent for Reinforcement Learning](https://arxiv.org/abs/2604.06039v1)** | 2026-04-07 |  |
-| **[MM-tau-p$^2$: Persona-Adaptive Prompting for Robust Multi-Modal Agent Evaluation in Dual-Control Settings](https://arxiv.org/abs/2603.09643v4)** | 2026-04-07 | <details><summary>A ben...</summary><p>A benchmark for evaluating multimodal both voice and text LLM agents in dualcontrol settings. We introduce persona adaptive prompting and 12 new metrics to assess robustness safety efficiency and recovery in customer support scenarios</p></details> |
-| **[CritBench: A Framework for Evaluating Cybersecurity Capabilities of Large Language Models in IEC 61850 Digital Substation Environments](https://arxiv.org/abs/2604.06019v1)** | 2026-04-07 | <details><summary>16 pa...</summary><p>16 pages, 4 figures, 3 tables. Submitted to the 3rd ACM SIGEnergy Workshop on Cybersecurity and Privacy of Energy Systems (ACM EnergySP '26)</p></details> |
+| **[The Non-Gaussian Weak-Lensing Likelihood: A Multivariate Copula Construction and Impact on Cosmological Constraints](https://arxiv.org/abs/2604.07336v1)** | 2026-04-08 | 15 pages, 5 figures |
+| **[A Dynamic Prognostic Prediction Method for Colorectal Cancer Liver Metastasis](https://arxiv.org/abs/2505.03123v3)** | 2026-04-08 | <details><summary>Accep...</summary><p>Accepted to IEEE International Conference on Multimedia and Expo (ICME) 2026</p></details> |
+| **[Delay-Doppler Channel Estimation using Arbitrarily Modulated Data Transmissions](https://arxiv.org/abs/2604.07308v1)** | 2026-04-08 | <details><summary>7 pag...</summary><p>7 pages, 5 figures, to be submitted to IEEE</p></details> |
+| **[Splatblox: Traversability-Aware Gaussian Splatting for Outdoor Robot Navigation](https://arxiv.org/abs/2511.18525v2)** | 2026-04-08 |  |
+| **[Do MLLMs Really Understand Space? A Mathematical Reasoning Evaluation](https://arxiv.org/abs/2602.11635v2)** | 2026-04-08 |  |
+| **[Agent-Driven Corpus Linguistics: A Framework for Autonomous Linguistic Discovery](https://arxiv.org/abs/2604.07189v1)** | 2026-04-08 |  |
 
 ## Image Caption
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Topological Characterization of Churn Flow and Unsupervised Correction to the Wu Flow-Regime Map in Small-Diameter Vertical Pipes](https://arxiv.org/abs/2604.06167v1)** | 2026-04-07 |  |
-| **[Sim-CLIP: Unsupervised Siamese Adversarial Fine-Tuning for Robust and Semantically-Rich Vision-Language Models](https://arxiv.org/abs/2407.14971v3)** | 2026-04-07 | <details><summary>Accep...</summary><p>Accepted at IJCNN 2026</p></details> |
-| **[The Character Error Vector: Decomposable errors for page-level OCR evaluation](https://arxiv.org/abs/2604.06160v1)** | 2026-04-07 | <details><summary>6643 ...</summary><p>6643 words, 5 figures, 15 tables</p></details> |
-| **[MAESTRO: Adapting GUIs and Guiding Navigation with User Preferences in Conversational Agents with GUIs](https://arxiv.org/abs/2604.06134v1)** | 2026-04-07 | 10 pages, 5 figures |
-| **[On the $(\leq p)$-inversion diameter of oriented graphs](https://arxiv.org/abs/2604.04633v2)** | 2026-04-07 |  |
-| **[eVTOL Aircraft Energy Overhead Estimation under Conflict Resolution in High-Density Airspaces](https://arxiv.org/abs/2604.06093v1)** | 2026-04-07 | <details><summary>Accep...</summary><p>Accepted for presentation at the Integrated Communications, Navigation and Surveillance Conference (ICNS) 2026</p></details> |
-| **[Graph-PiT: Enhancing Structural Coherence in Part-Based Image Synthesis via Graph Priors](https://arxiv.org/abs/2604.06074v1)** | 2026-04-07 | <details><summary>11 pa...</summary><p>11 pages, 5 figures, Accepted by ICME 2026</p></details> |
-| **[$k$-Clustering via Iterative Randomized Rounding](https://arxiv.org/abs/2604.06046v1)** | 2026-04-07 | <details><summary>36 pa...</summary><p>36 pages, 0 figure. The abstract was abridged to meet the arXiv requirement</p></details> |
-| **[Covering-radius and Collinearity- Minimizing Pilots for Channel Estimation in TDD Systems](https://arxiv.org/abs/2604.06041v1)** | 2026-04-07 | <details><summary>5page...</summary><p>5pages, 5 figures. This work has been submitted to the IEEE for possible publication</p></details> |
-| **[Value Mirror Descent for Reinforcement Learning](https://arxiv.org/abs/2604.06039v1)** | 2026-04-07 |  |
-| **[MM-tau-p$^2$: Persona-Adaptive Prompting for Robust Multi-Modal Agent Evaluation in Dual-Control Settings](https://arxiv.org/abs/2603.09643v4)** | 2026-04-07 | <details><summary>A ben...</summary><p>A benchmark for evaluating multimodal both voice and text LLM agents in dualcontrol settings. We introduce persona adaptive prompting and 12 new metrics to assess robustness safety efficiency and recovery in customer support scenarios</p></details> |
-| **[CritBench: A Framework for Evaluating Cybersecurity Capabilities of Large Language Models in IEC 61850 Digital Substation Environments](https://arxiv.org/abs/2604.06019v1)** | 2026-04-07 | <details><summary>16 pa...</summary><p>16 pages, 4 figures, 3 tables. Submitted to the 3rd ACM SIGEnergy Workshop on Cybersecurity and Privacy of Energy Systems (ACM EnergySP '26)</p></details> |
+| **[Appear2Meaning: A Cross-Cultural Benchmark for Structured Cultural Metadata Inference from Images](https://arxiv.org/abs/2604.07338v1)** | 2026-04-08 |  |
+| **[The Non-Gaussian Weak-Lensing Likelihood: A Multivariate Copula Construction and Impact on Cosmological Constraints](https://arxiv.org/abs/2604.07336v1)** | 2026-04-08 | 15 pages, 5 figures |
+| **[A Dynamic Prognostic Prediction Method for Colorectal Cancer Liver Metastasis](https://arxiv.org/abs/2505.03123v3)** | 2026-04-08 | <details><summary>Accep...</summary><p>Accepted to IEEE International Conference on Multimedia and Expo (ICME) 2026</p></details> |
+| **[Delay-Doppler Channel Estimation using Arbitrarily Modulated Data Transmissions](https://arxiv.org/abs/2604.07308v1)** | 2026-04-08 | <details><summary>7 pag...</summary><p>7 pages, 5 figures, to be submitted to IEEE</p></details> |
+| **[Splatblox: Traversability-Aware Gaussian Splatting for Outdoor Robot Navigation](https://arxiv.org/abs/2511.18525v2)** | 2026-04-08 |  |
+| **[Do MLLMs Really Understand Space? A Mathematical Reasoning Evaluation](https://arxiv.org/abs/2602.11635v2)** | 2026-04-08 |  |
+| **[Agent-Driven Corpus Linguistics: A Framework for Autonomous Linguistic Discovery](https://arxiv.org/abs/2604.07189v1)** | 2026-04-08 |  |
 
 ## Describe
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Paper Circle: An Open-source Multi-agent Research Discovery and Analysis Framework](https://arxiv.org/abs/2604.06170v1)** | 2026-04-07 | <details><summary>19 pa...</summary><p>19 pages, 7 figures, 8 tables, ACL main (Oral)</p></details> |
-| **[Topological Characterization of Churn Flow and Unsupervised Correction to the Wu Flow-Regime Map in Small-Diameter Vertical Pipes](https://arxiv.org/abs/2604.06167v1)** | 2026-04-07 |  |
-| **[The Character Error Vector: Decomposable errors for page-level OCR evaluation](https://arxiv.org/abs/2604.06160v1)** | 2026-04-07 | <details><summary>6643 ...</summary><p>6643 words, 5 figures, 15 tables</p></details> |
-| **[Shot-Based Quantum Encoding: A Data-Loading Paradigm for Quantum Neural Networks](https://arxiv.org/abs/2604.06135v1)** | 2026-04-07 | <details><summary>6 pag...</summary><p>6 pages, 2 figures, 0 tables</p></details> |
-| **[MAESTRO: Adapting GUIs and Guiding Navigation with User Preferences in Conversational Agents with GUIs](https://arxiv.org/abs/2604.06134v1)** | 2026-04-07 | 10 pages, 5 figures |
-| **[On the $(\leq p)$-inversion diameter of oriented graphs](https://arxiv.org/abs/2604.04633v2)** | 2026-04-07 |  |
-| **[eVTOL Aircraft Energy Overhead Estimation under Conflict Resolution in High-Density Airspaces](https://arxiv.org/abs/2604.06093v1)** | 2026-04-07 | <details><summary>Accep...</summary><p>Accepted for presentation at the Integrated Communications, Navigation and Surveillance Conference (ICNS) 2026</p></details> |
-| **[Routing Attacks in Ethereum PoS: A Systematic Exploration](https://arxiv.org/abs/2505.07713v2)** | 2026-04-07 | <details><summary>26 pa...</summary><p>26 pages, 10 figures, to be published in Financial Cryptography and Data Security 2026</p></details> |
-| **[A machine learning framework for uncovering stochastic nonlinear dynamics from noisy data](https://arxiv.org/abs/2604.06081v1)** | 2026-04-07 | <details><summary>25 pa...</summary><p>25 pages, 12 figures, 4 tables</p></details> |
-| **[Graph-PiT: Enhancing Structural Coherence in Part-Based Image Synthesis via Graph Priors](https://arxiv.org/abs/2604.06074v1)** | 2026-04-07 | <details><summary>11 pa...</summary><p>11 pages, 5 figures, Accepted by ICME 2026</p></details> |
+| **[The Non-Gaussian Weak-Lensing Likelihood: A Multivariate Copula Construction and Impact on Cosmological Constraints](https://arxiv.org/abs/2604.07336v1)** | 2026-04-08 | 15 pages, 5 figures |
+| **[A Dynamic Prognostic Prediction Method for Colorectal Cancer Liver Metastasis](https://arxiv.org/abs/2505.03123v3)** | 2026-04-08 | <details><summary>Accep...</summary><p>Accepted to IEEE International Conference on Multimedia and Expo (ICME) 2026</p></details> |
+| **[Delay-Doppler Channel Estimation using Arbitrarily Modulated Data Transmissions](https://arxiv.org/abs/2604.07308v1)** | 2026-04-08 | <details><summary>7 pag...</summary><p>7 pages, 5 figures, to be submitted to IEEE</p></details> |
+| **[Working Paper: Towards a Category-theoretic Comparative Framework for Artificial General Intelligence](https://arxiv.org/abs/2603.28906v2)** | 2026-04-08 | <details><summary>37 pa...</summary><p>37 pages, 7 figures, 1 table</p></details> |
+| **[Splatblox: Traversability-Aware Gaussian Splatting for Outdoor Robot Navigation](https://arxiv.org/abs/2511.18525v2)** | 2026-04-08 |  |
+| **[Multispectral representation of Distributed Acoustic Sensing data: a framework for physically interpretable feature extraction and visualization](https://arxiv.org/abs/2604.07290v1)** | 2026-04-08 |  |
+| **[Do MLLMs Really Understand Space? A Mathematical Reasoning Evaluation](https://arxiv.org/abs/2602.11635v2)** | 2026-04-08 |  |
+| **[Designing Safe and Accountable GenAI as a Learning Companion with Women Banned from Formal Education](https://arxiv.org/abs/2604.07253v1)** | 2026-04-08 | <details><summary>This ...</summary><p>This work has been accepted at ACM Conference on Fairness, Accountability, and Transparency 2026 as a full paper. Please cite the peer-reviewed version</p></details> |
+| **[Weaves, Wires, and Morphisms: Formalizing and Implementing the Algebra of Deep Learning](https://arxiv.org/abs/2604.07242v1)** | 2026-04-08 |  |
 
 ## Light Weight
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Topological Characterization of Churn Flow and Unsupervised Correction to the Wu Flow-Regime Map in Small-Diameter Vertical Pipes](https://arxiv.org/abs/2604.06167v1)** | 2026-04-07 |  |
-| **[The Character Error Vector: Decomposable errors for page-level OCR evaluation](https://arxiv.org/abs/2604.06160v1)** | 2026-04-07 | <details><summary>6643 ...</summary><p>6643 words, 5 figures, 15 tables</p></details> |
-| **[MAESTRO: Adapting GUIs and Guiding Navigation with User Preferences in Conversational Agents with GUIs](https://arxiv.org/abs/2604.06134v1)** | 2026-04-07 | 10 pages, 5 figures |
-| **[On the $(\leq p)$-inversion diameter of oriented graphs](https://arxiv.org/abs/2604.04633v2)** | 2026-04-07 |  |
-| **[eVTOL Aircraft Energy Overhead Estimation under Conflict Resolution in High-Density Airspaces](https://arxiv.org/abs/2604.06093v1)** | 2026-04-07 | <details><summary>Accep...</summary><p>Accepted for presentation at the Integrated Communications, Navigation and Surveillance Conference (ICNS) 2026</p></details> |
-| **[Graph-PiT: Enhancing Structural Coherence in Part-Based Image Synthesis via Graph Priors](https://arxiv.org/abs/2604.06074v1)** | 2026-04-07 | <details><summary>11 pa...</summary><p>11 pages, 5 figures, Accepted by ICME 2026</p></details> |
-| **[$k$-Clustering via Iterative Randomized Rounding](https://arxiv.org/abs/2604.06046v1)** | 2026-04-07 | <details><summary>36 pa...</summary><p>36 pages, 0 figure. The abstract was abridged to meet the arXiv requirement</p></details> |
-| **[Covering-radius and Collinearity- Minimizing Pilots for Channel Estimation in TDD Systems](https://arxiv.org/abs/2604.06041v1)** | 2026-04-07 | <details><summary>5page...</summary><p>5pages, 5 figures. This work has been submitted to the IEEE for possible publication</p></details> |
-| **[Value Mirror Descent for Reinforcement Learning](https://arxiv.org/abs/2604.06039v1)** | 2026-04-07 |  |
-| **[MM-tau-p$^2$: Persona-Adaptive Prompting for Robust Multi-Modal Agent Evaluation in Dual-Control Settings](https://arxiv.org/abs/2603.09643v4)** | 2026-04-07 | <details><summary>A ben...</summary><p>A benchmark for evaluating multimodal both voice and text LLM agents in dualcontrol settings. We introduce persona adaptive prompting and 12 new metrics to assess robustness safety efficiency and recovery in customer support scenarios</p></details> |
-| **[CritBench: A Framework for Evaluating Cybersecurity Capabilities of Large Language Models in IEC 61850 Digital Substation Environments](https://arxiv.org/abs/2604.06019v1)** | 2026-04-07 | <details><summary>16 pa...</summary><p>16 pages, 4 figures, 3 tables. Submitted to the 3rd ACM SIGEnergy Workshop on Cybersecurity and Privacy of Energy Systems (ACM EnergySP '26)</p></details> |
+| **[The Non-Gaussian Weak-Lensing Likelihood: A Multivariate Copula Construction and Impact on Cosmological Constraints](https://arxiv.org/abs/2604.07336v1)** | 2026-04-08 | 15 pages, 5 figures |
+| **[A Dynamic Prognostic Prediction Method for Colorectal Cancer Liver Metastasis](https://arxiv.org/abs/2505.03123v3)** | 2026-04-08 | <details><summary>Accep...</summary><p>Accepted to IEEE International Conference on Multimedia and Expo (ICME) 2026</p></details> |
+| **[Delay-Doppler Channel Estimation using Arbitrarily Modulated Data Transmissions](https://arxiv.org/abs/2604.07308v1)** | 2026-04-08 | <details><summary>7 pag...</summary><p>7 pages, 5 figures, to be submitted to IEEE</p></details> |
+| **[Splatblox: Traversability-Aware Gaussian Splatting for Outdoor Robot Navigation](https://arxiv.org/abs/2511.18525v2)** | 2026-04-08 |  |
+| **[Do MLLMs Really Understand Space? A Mathematical Reasoning Evaluation](https://arxiv.org/abs/2602.11635v2)** | 2026-04-08 |  |
+| **[Agent-Driven Corpus Linguistics: A Framework for Autonomous Linguistic Discovery](https://arxiv.org/abs/2604.07189v1)** | 2026-04-08 |  |
 
 ## Class Incremental
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Topological Characterization of Churn Flow and Unsupervised Correction to the Wu Flow-Regime Map in Small-Diameter Vertical Pipes](https://arxiv.org/abs/2604.06167v1)** | 2026-04-07 |  |
-| **[The Character Error Vector: Decomposable errors for page-level OCR evaluation](https://arxiv.org/abs/2604.06160v1)** | 2026-04-07 | <details><summary>6643 ...</summary><p>6643 words, 5 figures, 15 tables</p></details> |
-| **[MAESTRO: Adapting GUIs and Guiding Navigation with User Preferences in Conversational Agents with GUIs](https://arxiv.org/abs/2604.06134v1)** | 2026-04-07 | 10 pages, 5 figures |
-| **[On the $(\leq p)$-inversion diameter of oriented graphs](https://arxiv.org/abs/2604.04633v2)** | 2026-04-07 |  |
-| **[eVTOL Aircraft Energy Overhead Estimation under Conflict Resolution in High-Density Airspaces](https://arxiv.org/abs/2604.06093v1)** | 2026-04-07 | <details><summary>Accep...</summary><p>Accepted for presentation at the Integrated Communications, Navigation and Surveillance Conference (ICNS) 2026</p></details> |
-| **[Graph-PiT: Enhancing Structural Coherence in Part-Based Image Synthesis via Graph Priors](https://arxiv.org/abs/2604.06074v1)** | 2026-04-07 | <details><summary>11 pa...</summary><p>11 pages, 5 figures, Accepted by ICME 2026</p></details> |
-| **[$k$-Clustering via Iterative Randomized Rounding](https://arxiv.org/abs/2604.06046v1)** | 2026-04-07 | <details><summary>36 pa...</summary><p>36 pages, 0 figure. The abstract was abridged to meet the arXiv requirement</p></details> |
-| **[Covering-radius and Collinearity- Minimizing Pilots for Channel Estimation in TDD Systems](https://arxiv.org/abs/2604.06041v1)** | 2026-04-07 | <details><summary>5page...</summary><p>5pages, 5 figures. This work has been submitted to the IEEE for possible publication</p></details> |
-| **[Value Mirror Descent for Reinforcement Learning](https://arxiv.org/abs/2604.06039v1)** | 2026-04-07 |  |
-| **[MM-tau-p$^2$: Persona-Adaptive Prompting for Robust Multi-Modal Agent Evaluation in Dual-Control Settings](https://arxiv.org/abs/2603.09643v4)** | 2026-04-07 | <details><summary>A ben...</summary><p>A benchmark for evaluating multimodal both voice and text LLM agents in dualcontrol settings. We introduce persona adaptive prompting and 12 new metrics to assess robustness safety efficiency and recovery in customer support scenarios</p></details> |
-| **[CritBench: A Framework for Evaluating Cybersecurity Capabilities of Large Language Models in IEC 61850 Digital Substation Environments](https://arxiv.org/abs/2604.06019v1)** | 2026-04-07 | <details><summary>16 pa...</summary><p>16 pages, 4 figures, 3 tables. Submitted to the 3rd ACM SIGEnergy Workshop on Cybersecurity and Privacy of Energy Systems (ACM EnergySP '26)</p></details> |
+| **[The Non-Gaussian Weak-Lensing Likelihood: A Multivariate Copula Construction and Impact on Cosmological Constraints](https://arxiv.org/abs/2604.07336v1)** | 2026-04-08 | 15 pages, 5 figures |
+| **[A Dynamic Prognostic Prediction Method for Colorectal Cancer Liver Metastasis](https://arxiv.org/abs/2505.03123v3)** | 2026-04-08 | <details><summary>Accep...</summary><p>Accepted to IEEE International Conference on Multimedia and Expo (ICME) 2026</p></details> |
+| **[Delay-Doppler Channel Estimation using Arbitrarily Modulated Data Transmissions](https://arxiv.org/abs/2604.07308v1)** | 2026-04-08 | <details><summary>7 pag...</summary><p>7 pages, 5 figures, to be submitted to IEEE</p></details> |
+| **[Splatblox: Traversability-Aware Gaussian Splatting for Outdoor Robot Navigation](https://arxiv.org/abs/2511.18525v2)** | 2026-04-08 |  |
+| **[Do MLLMs Really Understand Space? A Mathematical Reasoning Evaluation](https://arxiv.org/abs/2602.11635v2)** | 2026-04-08 |  |
+| **[Agent-Driven Corpus Linguistics: A Framework for Autonomous Linguistic Discovery](https://arxiv.org/abs/2604.07189v1)** | 2026-04-08 |  |
 
