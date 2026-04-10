@@ -1,5 +1,5 @@
 ---
-title: Latest 50 Papers - April 10, 2026
+title: Latest 50 Papers - April 11, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/JiamingZang/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,103 +7,131 @@ labels: documentation
 ## Molecular
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[The Non-Gaussian Weak-Lensing Likelihood: A Multivariate Copula Construction and Impact on Cosmological Constraints](https://arxiv.org/abs/2604.07336v1)** | 2026-04-08 | 15 pages, 5 figures |
-| **[A Dynamic Prognostic Prediction Method for Colorectal Cancer Liver Metastasis](https://arxiv.org/abs/2505.03123v3)** | 2026-04-08 | <details><summary>Accep...</summary><p>Accepted to IEEE International Conference on Multimedia and Expo (ICME) 2026</p></details> |
-| **[Delay-Doppler Channel Estimation using Arbitrarily Modulated Data Transmissions](https://arxiv.org/abs/2604.07308v1)** | 2026-04-08 | <details><summary>7 pag...</summary><p>7 pages, 5 figures, to be submitted to IEEE</p></details> |
-| **[Splatblox: Traversability-Aware Gaussian Splatting for Outdoor Robot Navigation](https://arxiv.org/abs/2511.18525v2)** | 2026-04-08 |  |
-| **[Do MLLMs Really Understand Space? A Mathematical Reasoning Evaluation](https://arxiv.org/abs/2602.11635v2)** | 2026-04-08 |  |
-| **[Making Room for AI: Multi-GPU Molecular Dynamics with Deep Potentials in GROMACS](https://arxiv.org/abs/2604.07276v1)** | 2026-04-08 |  |
-| **[Diffusion-based Evolutionary Optimization for 3D Multi-Objective Molecular Generation](https://arxiv.org/abs/2505.11037v5)** | 2026-04-08 |  |
+| **[WebArbiter: A Principle-Guided Reasoning Process Reward Model for Web Agents](https://arxiv.org/abs/2601.21872v2)** | 2026-04-09 | <details><summary>Publi...</summary><p>Published as a conference paper at ICLR 2026. Extended version with additional experiments</p></details> |
+| **[Computing the Bottleneck Distance between Persistent Homology Transforms](https://arxiv.org/abs/2512.00821v2)** | 2026-04-09 |  |
+| **[Novel View Synthesis as Video Completion](https://arxiv.org/abs/2604.08500v1)** | 2026-04-09 | <details><summary>Proje...</summary><p>Project page: https://frame-crafter.github.io/</p></details> |
+| **[Bridging the Gap between Micro-scale Traffic Simulation and 4D Digital Cityscapes](https://arxiv.org/abs/2604.08497v1)** | 2026-04-09 |  |
+| **[Formalizing building-up constructions of self-dual codes through isotropic lines in Lean](https://arxiv.org/abs/2604.08485v1)** | 2026-04-09 | 27 pages |
+| **[Molecular diversity as a biosignature](https://arxiv.org/abs/2511.00525v2)** | 2026-04-09 |  |
+| **[OVS-DINO: Open-Vocabulary Segmentation via Structure-Aligned SAM-DINO with Language Guidance](https://arxiv.org/abs/2604.08461v1)** | 2026-04-09 | <details><summary>14 pa...</summary><p>14 pages, 12 figures, 5 tables</p></details> |
+| **[LITE: Lightweight Channel Gain Estimation with Reduced X-Haul CSI Signaling in O-RAN](https://arxiv.org/abs/2604.08458v1)** | 2026-04-09 |  |
+| **[CASE: Cadence-Aware Set Encoding for Large-Scale Next Basket Repurchase Recommendation](https://arxiv.org/abs/2604.06718v2)** | 2026-04-09 | <details><summary>Accep...</summary><p>Accepted at SIGIR 2026 Industry Track</p></details> |
+| **[AfriVoices-KE: A Multilingual Speech Dataset for Kenyan Languages](https://arxiv.org/abs/2604.08448v1)** | 2026-04-09 | <details><summary>10 pa...</summary><p>10 pages, 5 figures, 3 tables</p></details> |
+| **[Synthetic Data for any Differentiable Target](https://arxiv.org/abs/2604.08423v1)** | 2026-04-09 |  |
 
 ## Molecular Generation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[The Non-Gaussian Weak-Lensing Likelihood: A Multivariate Copula Construction and Impact on Cosmological Constraints](https://arxiv.org/abs/2604.07336v1)** | 2026-04-08 | 15 pages, 5 figures |
-| **[A Dynamic Prognostic Prediction Method for Colorectal Cancer Liver Metastasis](https://arxiv.org/abs/2505.03123v3)** | 2026-04-08 | <details><summary>Accep...</summary><p>Accepted to IEEE International Conference on Multimedia and Expo (ICME) 2026</p></details> |
-| **[Delay-Doppler Channel Estimation using Arbitrarily Modulated Data Transmissions](https://arxiv.org/abs/2604.07308v1)** | 2026-04-08 | <details><summary>7 pag...</summary><p>7 pages, 5 figures, to be submitted to IEEE</p></details> |
-| **[Splatblox: Traversability-Aware Gaussian Splatting for Outdoor Robot Navigation](https://arxiv.org/abs/2511.18525v2)** | 2026-04-08 |  |
-| **[Do MLLMs Really Understand Space? A Mathematical Reasoning Evaluation](https://arxiv.org/abs/2602.11635v2)** | 2026-04-08 |  |
-| **[Diffusion-based Evolutionary Optimization for 3D Multi-Objective Molecular Generation](https://arxiv.org/abs/2505.11037v5)** | 2026-04-08 |  |
-| **[Agent-Driven Corpus Linguistics: A Framework for Autonomous Linguistic Discovery](https://arxiv.org/abs/2604.07189v1)** | 2026-04-08 |  |
+| **[WebArbiter: A Principle-Guided Reasoning Process Reward Model for Web Agents](https://arxiv.org/abs/2601.21872v2)** | 2026-04-09 | <details><summary>Publi...</summary><p>Published as a conference paper at ICLR 2026. Extended version with additional experiments</p></details> |
+| **[Computing the Bottleneck Distance between Persistent Homology Transforms](https://arxiv.org/abs/2512.00821v2)** | 2026-04-09 |  |
+| **[Novel View Synthesis as Video Completion](https://arxiv.org/abs/2604.08500v1)** | 2026-04-09 | <details><summary>Proje...</summary><p>Project page: https://frame-crafter.github.io/</p></details> |
+| **[Bridging the Gap between Micro-scale Traffic Simulation and 4D Digital Cityscapes](https://arxiv.org/abs/2604.08497v1)** | 2026-04-09 |  |
+| **[Formalizing building-up constructions of self-dual codes through isotropic lines in Lean](https://arxiv.org/abs/2604.08485v1)** | 2026-04-09 | 27 pages |
+| **[OVS-DINO: Open-Vocabulary Segmentation via Structure-Aligned SAM-DINO with Language Guidance](https://arxiv.org/abs/2604.08461v1)** | 2026-04-09 | <details><summary>14 pa...</summary><p>14 pages, 12 figures, 5 tables</p></details> |
+| **[LITE: Lightweight Channel Gain Estimation with Reduced X-Haul CSI Signaling in O-RAN](https://arxiv.org/abs/2604.08458v1)** | 2026-04-09 |  |
+| **[CASE: Cadence-Aware Set Encoding for Large-Scale Next Basket Repurchase Recommendation](https://arxiv.org/abs/2604.06718v2)** | 2026-04-09 | <details><summary>Accep...</summary><p>Accepted at SIGIR 2026 Industry Track</p></details> |
+| **[AfriVoices-KE: A Multilingual Speech Dataset for Kenyan Languages](https://arxiv.org/abs/2604.08448v1)** | 2026-04-09 | <details><summary>10 pa...</summary><p>10 pages, 5 figures, 3 tables</p></details> |
+| **[Synthetic Data for any Differentiable Target](https://arxiv.org/abs/2604.08423v1)** | 2026-04-09 |  |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[The Non-Gaussian Weak-Lensing Likelihood: A Multivariate Copula Construction and Impact on Cosmological Constraints](https://arxiv.org/abs/2604.07336v1)** | 2026-04-08 | 15 pages, 5 figures |
-| **[A Dynamic Prognostic Prediction Method for Colorectal Cancer Liver Metastasis](https://arxiv.org/abs/2505.03123v3)** | 2026-04-08 | <details><summary>Accep...</summary><p>Accepted to IEEE International Conference on Multimedia and Expo (ICME) 2026</p></details> |
-| **[Delay-Doppler Channel Estimation using Arbitrarily Modulated Data Transmissions](https://arxiv.org/abs/2604.07308v1)** | 2026-04-08 | <details><summary>7 pag...</summary><p>7 pages, 5 figures, to be submitted to IEEE</p></details> |
-| **[Splatblox: Traversability-Aware Gaussian Splatting for Outdoor Robot Navigation](https://arxiv.org/abs/2511.18525v2)** | 2026-04-08 |  |
-| **[Graph Neural ODE Digital Twins for Control-Oriented Reactor Thermal-Hydraulic Forecasting Under Partial Observability](https://arxiv.org/abs/2604.07292v1)** | 2026-04-08 |  |
-| **[Do MLLMs Really Understand Space? A Mathematical Reasoning Evaluation](https://arxiv.org/abs/2602.11635v2)** | 2026-04-08 |  |
-| **[BadImplant: Injection-based Multi-Targeted Graph Backdoor Attack](https://arxiv.org/abs/2601.15474v2)** | 2026-04-08 |  |
+| **[WebArbiter: A Principle-Guided Reasoning Process Reward Model for Web Agents](https://arxiv.org/abs/2601.21872v2)** | 2026-04-09 | <details><summary>Publi...</summary><p>Published as a conference paper at ICLR 2026. Extended version with additional experiments</p></details> |
+| **[Computing the Bottleneck Distance between Persistent Homology Transforms](https://arxiv.org/abs/2512.00821v2)** | 2026-04-09 |  |
+| **[Novel View Synthesis as Video Completion](https://arxiv.org/abs/2604.08500v1)** | 2026-04-09 | <details><summary>Proje...</summary><p>Project page: https://frame-crafter.github.io/</p></details> |
+| **[Bridging the Gap between Micro-scale Traffic Simulation and 4D Digital Cityscapes](https://arxiv.org/abs/2604.08497v1)** | 2026-04-09 |  |
+| **[Formalizing building-up constructions of self-dual codes through isotropic lines in Lean](https://arxiv.org/abs/2604.08485v1)** | 2026-04-09 | 27 pages |
+| **[Persistence-Augmented Neural Networks](https://arxiv.org/abs/2604.08469v1)** | 2026-04-09 |  |
+| **[OVS-DINO: Open-Vocabulary Segmentation via Structure-Aligned SAM-DINO with Language Guidance](https://arxiv.org/abs/2604.08461v1)** | 2026-04-09 | <details><summary>14 pa...</summary><p>14 pages, 12 figures, 5 tables</p></details> |
+| **[LITE: Lightweight Channel Gain Estimation with Reduced X-Haul CSI Signaling in O-RAN](https://arxiv.org/abs/2604.08458v1)** | 2026-04-09 |  |
+| **[CASE: Cadence-Aware Set Encoding for Large-Scale Next Basket Repurchase Recommendation](https://arxiv.org/abs/2604.06718v2)** | 2026-04-09 | <details><summary>Accep...</summary><p>Accepted at SIGIR 2026 Industry Track</p></details> |
+| **[AfriVoices-KE: A Multilingual Speech Dataset for Kenyan Languages](https://arxiv.org/abs/2604.08448v1)** | 2026-04-09 | <details><summary>10 pa...</summary><p>10 pages, 5 figures, 3 tables</p></details> |
+| **[Synthetic Data for any Differentiable Target](https://arxiv.org/abs/2604.08423v1)** | 2026-04-09 |  |
 
 ## Diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[The Non-Gaussian Weak-Lensing Likelihood: A Multivariate Copula Construction and Impact on Cosmological Constraints](https://arxiv.org/abs/2604.07336v1)** | 2026-04-08 | 15 pages, 5 figures |
-| **[Distilling Photon-Counting CT into Routine Chest CT through Clinically Validated Degradation Modeling](https://arxiv.org/abs/2604.07329v1)** | 2026-04-08 |  |
-| **[A Dynamic Prognostic Prediction Method for Colorectal Cancer Liver Metastasis](https://arxiv.org/abs/2505.03123v3)** | 2026-04-08 | <details><summary>Accep...</summary><p>Accepted to IEEE International Conference on Multimedia and Expo (ICME) 2026</p></details> |
-| **[Delay-Doppler Channel Estimation using Arbitrarily Modulated Data Transmissions](https://arxiv.org/abs/2604.07308v1)** | 2026-04-08 | <details><summary>7 pag...</summary><p>7 pages, 5 figures, to be submitted to IEEE</p></details> |
-| **[Distributed Split Computing Using Diffusive Metrics for UAV Swarms](https://arxiv.org/abs/2503.16146v3)** | 2026-04-08 | <details><summary>Accep...</summary><p>Accepted for publication in Journal of Systems Architecture (Elsevier)</p></details> |
-| **[Computational bottlenecks for denoising diffusions](https://arxiv.org/abs/2503.08028v3)** | 2026-04-08 | 51 pages; 2 figures |
-| **[Splatblox: Traversability-Aware Gaussian Splatting for Outdoor Robot Navigation](https://arxiv.org/abs/2511.18525v2)** | 2026-04-08 |  |
-| **[Region-Graph Optimal Transport Routing for Mixture-of-Experts Whole-Slide Image Classification](https://arxiv.org/abs/2604.07298v1)** | 2026-04-08 | <details><summary>10 pa...</summary><p>10 pages, 2 figures, 2 tables</p></details> |
-| **[Do MLLMs Really Understand Space? A Mathematical Reasoning Evaluation](https://arxiv.org/abs/2602.11635v2)** | 2026-04-08 |  |
-| **[GenLCA: 3D Diffusion for Full-Body Avatars from In-the-Wild Videos](https://arxiv.org/abs/2604.07273v1)** | 2026-04-08 |  |
-| **[AstraNav-World: World Model for Foresight Control and Consistency](https://arxiv.org/abs/2512.21714v2)** | 2026-04-08 |  |
-| **[Geo-EVS: Geometry-Conditioned Extrapolative View Synthesis for Autonomous Driving](https://arxiv.org/abs/2604.07250v1)** | 2026-04-08 |  |
+| **[When Numbers Speak: Aligning Textual Numerals and Visual Instances in Text-to-Video Diffusion Models](https://arxiv.org/abs/2604.08546v1)** | 2026-04-09 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026. Project page: https://h-embodvis.github.io/NUMINA</p></details> |
+| **[SIM1: Physics-Aligned Simulator as Zero-Shot Data Scaler in Deformable Worlds](https://arxiv.org/abs/2604.08544v1)** | 2026-04-09 | <details><summary>Websi...</summary><p>Website: https://internrobotics.github.io/sim1.github.io/</p></details> |
+| **[RewardFlow: Generate Images by Optimizing What You Reward](https://arxiv.org/abs/2604.08536v1)** | 2026-04-09 | <details><summary>CVPR ...</summary><p>CVPR 2026. Project page: https://plan-lab.github.io/rewardflow</p></details> |
+| **[WebArbiter: A Principle-Guided Reasoning Process Reward Model for Web Agents](https://arxiv.org/abs/2601.21872v2)** | 2026-04-09 | <details><summary>Publi...</summary><p>Published as a conference paper at ICLR 2026. Extended version with additional experiments</p></details> |
+| **[Computing the Bottleneck Distance between Persistent Homology Transforms](https://arxiv.org/abs/2512.00821v2)** | 2026-04-09 |  |
+| **[Novel View Synthesis as Video Completion](https://arxiv.org/abs/2604.08500v1)** | 2026-04-09 | <details><summary>Proje...</summary><p>Project page: https://frame-crafter.github.io/</p></details> |
+| **[Bridging the Gap between Micro-scale Traffic Simulation and 4D Digital Cityscapes](https://arxiv.org/abs/2604.08497v1)** | 2026-04-09 |  |
+| **[Formalizing building-up constructions of self-dual codes through isotropic lines in Lean](https://arxiv.org/abs/2604.08485v1)** | 2026-04-09 | 27 pages |
+| **[Privacy Attacks on Image AutoRegressive Models](https://arxiv.org/abs/2502.02514v5)** | 2026-04-09 | Accepted at ICML2025 |
+| **[OVS-DINO: Open-Vocabulary Segmentation via Structure-Aligned SAM-DINO with Language Guidance](https://arxiv.org/abs/2604.08461v1)** | 2026-04-09 | <details><summary>14 pa...</summary><p>14 pages, 12 figures, 5 tables</p></details> |
+| **[LITE: Lightweight Channel Gain Estimation with Reduced X-Haul CSI Signaling in O-RAN](https://arxiv.org/abs/2604.08458v1)** | 2026-04-09 |  |
+| **[CASE: Cadence-Aware Set Encoding for Large-Scale Next Basket Repurchase Recommendation](https://arxiv.org/abs/2604.06718v2)** | 2026-04-09 | <details><summary>Accep...</summary><p>Accepted at SIGIR 2026 Industry Track</p></details> |
+| **[AfriVoices-KE: A Multilingual Speech Dataset for Kenyan Languages](https://arxiv.org/abs/2604.08448v1)** | 2026-04-09 | <details><summary>10 pa...</summary><p>10 pages, 5 figures, 3 tables</p></details> |
 
 ## Object Counting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[The Non-Gaussian Weak-Lensing Likelihood: A Multivariate Copula Construction and Impact on Cosmological Constraints](https://arxiv.org/abs/2604.07336v1)** | 2026-04-08 | 15 pages, 5 figures |
-| **[A Dynamic Prognostic Prediction Method for Colorectal Cancer Liver Metastasis](https://arxiv.org/abs/2505.03123v3)** | 2026-04-08 | <details><summary>Accep...</summary><p>Accepted to IEEE International Conference on Multimedia and Expo (ICME) 2026</p></details> |
-| **[Delay-Doppler Channel Estimation using Arbitrarily Modulated Data Transmissions](https://arxiv.org/abs/2604.07308v1)** | 2026-04-08 | <details><summary>7 pag...</summary><p>7 pages, 5 figures, to be submitted to IEEE</p></details> |
-| **[Splatblox: Traversability-Aware Gaussian Splatting for Outdoor Robot Navigation](https://arxiv.org/abs/2511.18525v2)** | 2026-04-08 |  |
-| **[Do MLLMs Really Understand Space? A Mathematical Reasoning Evaluation](https://arxiv.org/abs/2602.11635v2)** | 2026-04-08 |  |
-| **[Agent-Driven Corpus Linguistics: A Framework for Autonomous Linguistic Discovery](https://arxiv.org/abs/2604.07189v1)** | 2026-04-08 |  |
+| **[WebArbiter: A Principle-Guided Reasoning Process Reward Model for Web Agents](https://arxiv.org/abs/2601.21872v2)** | 2026-04-09 | <details><summary>Publi...</summary><p>Published as a conference paper at ICLR 2026. Extended version with additional experiments</p></details> |
+| **[Computing the Bottleneck Distance between Persistent Homology Transforms](https://arxiv.org/abs/2512.00821v2)** | 2026-04-09 |  |
+| **[Novel View Synthesis as Video Completion](https://arxiv.org/abs/2604.08500v1)** | 2026-04-09 | <details><summary>Proje...</summary><p>Project page: https://frame-crafter.github.io/</p></details> |
+| **[Bridging the Gap between Micro-scale Traffic Simulation and 4D Digital Cityscapes](https://arxiv.org/abs/2604.08497v1)** | 2026-04-09 |  |
+| **[Formalizing building-up constructions of self-dual codes through isotropic lines in Lean](https://arxiv.org/abs/2604.08485v1)** | 2026-04-09 | 27 pages |
+| **[OVS-DINO: Open-Vocabulary Segmentation via Structure-Aligned SAM-DINO with Language Guidance](https://arxiv.org/abs/2604.08461v1)** | 2026-04-09 | <details><summary>14 pa...</summary><p>14 pages, 12 figures, 5 tables</p></details> |
+| **[LITE: Lightweight Channel Gain Estimation with Reduced X-Haul CSI Signaling in O-RAN](https://arxiv.org/abs/2604.08458v1)** | 2026-04-09 |  |
+| **[CASE: Cadence-Aware Set Encoding for Large-Scale Next Basket Repurchase Recommendation](https://arxiv.org/abs/2604.06718v2)** | 2026-04-09 | <details><summary>Accep...</summary><p>Accepted at SIGIR 2026 Industry Track</p></details> |
+| **[AfriVoices-KE: A Multilingual Speech Dataset for Kenyan Languages](https://arxiv.org/abs/2604.08448v1)** | 2026-04-09 | <details><summary>10 pa...</summary><p>10 pages, 5 figures, 3 tables</p></details> |
+| **[Synthetic Data for any Differentiable Target](https://arxiv.org/abs/2604.08423v1)** | 2026-04-09 |  |
 
 ## Image Caption
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Appear2Meaning: A Cross-Cultural Benchmark for Structured Cultural Metadata Inference from Images](https://arxiv.org/abs/2604.07338v1)** | 2026-04-08 |  |
-| **[The Non-Gaussian Weak-Lensing Likelihood: A Multivariate Copula Construction and Impact on Cosmological Constraints](https://arxiv.org/abs/2604.07336v1)** | 2026-04-08 | 15 pages, 5 figures |
-| **[A Dynamic Prognostic Prediction Method for Colorectal Cancer Liver Metastasis](https://arxiv.org/abs/2505.03123v3)** | 2026-04-08 | <details><summary>Accep...</summary><p>Accepted to IEEE International Conference on Multimedia and Expo (ICME) 2026</p></details> |
-| **[Delay-Doppler Channel Estimation using Arbitrarily Modulated Data Transmissions](https://arxiv.org/abs/2604.07308v1)** | 2026-04-08 | <details><summary>7 pag...</summary><p>7 pages, 5 figures, to be submitted to IEEE</p></details> |
-| **[Splatblox: Traversability-Aware Gaussian Splatting for Outdoor Robot Navigation](https://arxiv.org/abs/2511.18525v2)** | 2026-04-08 |  |
-| **[Do MLLMs Really Understand Space? A Mathematical Reasoning Evaluation](https://arxiv.org/abs/2602.11635v2)** | 2026-04-08 |  |
-| **[Agent-Driven Corpus Linguistics: A Framework for Autonomous Linguistic Discovery](https://arxiv.org/abs/2604.07189v1)** | 2026-04-08 |  |
+| **[WebArbiter: A Principle-Guided Reasoning Process Reward Model for Web Agents](https://arxiv.org/abs/2601.21872v2)** | 2026-04-09 | <details><summary>Publi...</summary><p>Published as a conference paper at ICLR 2026. Extended version with additional experiments</p></details> |
+| **[Computing the Bottleneck Distance between Persistent Homology Transforms](https://arxiv.org/abs/2512.00821v2)** | 2026-04-09 |  |
+| **[Novel View Synthesis as Video Completion](https://arxiv.org/abs/2604.08500v1)** | 2026-04-09 | <details><summary>Proje...</summary><p>Project page: https://frame-crafter.github.io/</p></details> |
+| **[Bridging the Gap between Micro-scale Traffic Simulation and 4D Digital Cityscapes](https://arxiv.org/abs/2604.08497v1)** | 2026-04-09 |  |
+| **[Formalizing building-up constructions of self-dual codes through isotropic lines in Lean](https://arxiv.org/abs/2604.08485v1)** | 2026-04-09 | 27 pages |
+| **[OVS-DINO: Open-Vocabulary Segmentation via Structure-Aligned SAM-DINO with Language Guidance](https://arxiv.org/abs/2604.08461v1)** | 2026-04-09 | <details><summary>14 pa...</summary><p>14 pages, 12 figures, 5 tables</p></details> |
+| **[LITE: Lightweight Channel Gain Estimation with Reduced X-Haul CSI Signaling in O-RAN](https://arxiv.org/abs/2604.08458v1)** | 2026-04-09 |  |
+| **[CASE: Cadence-Aware Set Encoding for Large-Scale Next Basket Repurchase Recommendation](https://arxiv.org/abs/2604.06718v2)** | 2026-04-09 | <details><summary>Accep...</summary><p>Accepted at SIGIR 2026 Industry Track</p></details> |
+| **[AfriVoices-KE: A Multilingual Speech Dataset for Kenyan Languages](https://arxiv.org/abs/2604.08448v1)** | 2026-04-09 | <details><summary>10 pa...</summary><p>10 pages, 5 figures, 3 tables</p></details> |
+| **[Synthetic Data for any Differentiable Target](https://arxiv.org/abs/2604.08423v1)** | 2026-04-09 |  |
 
 ## Describe
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[The Non-Gaussian Weak-Lensing Likelihood: A Multivariate Copula Construction and Impact on Cosmological Constraints](https://arxiv.org/abs/2604.07336v1)** | 2026-04-08 | 15 pages, 5 figures |
-| **[A Dynamic Prognostic Prediction Method for Colorectal Cancer Liver Metastasis](https://arxiv.org/abs/2505.03123v3)** | 2026-04-08 | <details><summary>Accep...</summary><p>Accepted to IEEE International Conference on Multimedia and Expo (ICME) 2026</p></details> |
-| **[Delay-Doppler Channel Estimation using Arbitrarily Modulated Data Transmissions](https://arxiv.org/abs/2604.07308v1)** | 2026-04-08 | <details><summary>7 pag...</summary><p>7 pages, 5 figures, to be submitted to IEEE</p></details> |
-| **[Working Paper: Towards a Category-theoretic Comparative Framework for Artificial General Intelligence](https://arxiv.org/abs/2603.28906v2)** | 2026-04-08 | <details><summary>37 pa...</summary><p>37 pages, 7 figures, 1 table</p></details> |
-| **[Splatblox: Traversability-Aware Gaussian Splatting for Outdoor Robot Navigation](https://arxiv.org/abs/2511.18525v2)** | 2026-04-08 |  |
-| **[Multispectral representation of Distributed Acoustic Sensing data: a framework for physically interpretable feature extraction and visualization](https://arxiv.org/abs/2604.07290v1)** | 2026-04-08 |  |
-| **[Do MLLMs Really Understand Space? A Mathematical Reasoning Evaluation](https://arxiv.org/abs/2602.11635v2)** | 2026-04-08 |  |
-| **[Designing Safe and Accountable GenAI as a Learning Companion with Women Banned from Formal Education](https://arxiv.org/abs/2604.07253v1)** | 2026-04-08 | <details><summary>This ...</summary><p>This work has been accepted at ACM Conference on Fairness, Accountability, and Transparency 2026 as a full paper. Please cite the peer-reviewed version</p></details> |
-| **[Weaves, Wires, and Morphisms: Formalizing and Implementing the Algebra of Deep Learning](https://arxiv.org/abs/2604.07242v1)** | 2026-04-08 |  |
+| **[WebArbiter: A Principle-Guided Reasoning Process Reward Model for Web Agents](https://arxiv.org/abs/2601.21872v2)** | 2026-04-09 | <details><summary>Publi...</summary><p>Published as a conference paper at ICLR 2026. Extended version with additional experiments</p></details> |
+| **[Computing the Bottleneck Distance between Persistent Homology Transforms](https://arxiv.org/abs/2512.00821v2)** | 2026-04-09 |  |
+| **[Novel View Synthesis as Video Completion](https://arxiv.org/abs/2604.08500v1)** | 2026-04-09 | <details><summary>Proje...</summary><p>Project page: https://frame-crafter.github.io/</p></details> |
+| **[Bridging the Gap between Micro-scale Traffic Simulation and 4D Digital Cityscapes](https://arxiv.org/abs/2604.08497v1)** | 2026-04-09 |  |
+| **[Formalizing building-up constructions of self-dual codes through isotropic lines in Lean](https://arxiv.org/abs/2604.08485v1)** | 2026-04-09 | 27 pages |
+| **[Faithful GRPO: Improving Visual Spatial Reasoning in Multimodal Language Models via Constrained Policy Optimization](https://arxiv.org/abs/2604.08476v1)** | 2026-04-09 |  |
+| **[Persistence-Augmented Neural Networks](https://arxiv.org/abs/2604.08469v1)** | 2026-04-09 |  |
+| **[OVS-DINO: Open-Vocabulary Segmentation via Structure-Aligned SAM-DINO with Language Guidance](https://arxiv.org/abs/2604.08461v1)** | 2026-04-09 | <details><summary>14 pa...</summary><p>14 pages, 12 figures, 5 tables</p></details> |
+| **[LITE: Lightweight Channel Gain Estimation with Reduced X-Haul CSI Signaling in O-RAN](https://arxiv.org/abs/2604.08458v1)** | 2026-04-09 |  |
+| **[CASE: Cadence-Aware Set Encoding for Large-Scale Next Basket Repurchase Recommendation](https://arxiv.org/abs/2604.06718v2)** | 2026-04-09 | <details><summary>Accep...</summary><p>Accepted at SIGIR 2026 Industry Track</p></details> |
 
 ## Light Weight
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[The Non-Gaussian Weak-Lensing Likelihood: A Multivariate Copula Construction and Impact on Cosmological Constraints](https://arxiv.org/abs/2604.07336v1)** | 2026-04-08 | 15 pages, 5 figures |
-| **[A Dynamic Prognostic Prediction Method for Colorectal Cancer Liver Metastasis](https://arxiv.org/abs/2505.03123v3)** | 2026-04-08 | <details><summary>Accep...</summary><p>Accepted to IEEE International Conference on Multimedia and Expo (ICME) 2026</p></details> |
-| **[Delay-Doppler Channel Estimation using Arbitrarily Modulated Data Transmissions](https://arxiv.org/abs/2604.07308v1)** | 2026-04-08 | <details><summary>7 pag...</summary><p>7 pages, 5 figures, to be submitted to IEEE</p></details> |
-| **[Splatblox: Traversability-Aware Gaussian Splatting for Outdoor Robot Navigation](https://arxiv.org/abs/2511.18525v2)** | 2026-04-08 |  |
-| **[Do MLLMs Really Understand Space? A Mathematical Reasoning Evaluation](https://arxiv.org/abs/2602.11635v2)** | 2026-04-08 |  |
-| **[Agent-Driven Corpus Linguistics: A Framework for Autonomous Linguistic Discovery](https://arxiv.org/abs/2604.07189v1)** | 2026-04-08 |  |
+| **[WebArbiter: A Principle-Guided Reasoning Process Reward Model for Web Agents](https://arxiv.org/abs/2601.21872v2)** | 2026-04-09 | <details><summary>Publi...</summary><p>Published as a conference paper at ICLR 2026. Extended version with additional experiments</p></details> |
+| **[Computing the Bottleneck Distance between Persistent Homology Transforms](https://arxiv.org/abs/2512.00821v2)** | 2026-04-09 |  |
+| **[Novel View Synthesis as Video Completion](https://arxiv.org/abs/2604.08500v1)** | 2026-04-09 | <details><summary>Proje...</summary><p>Project page: https://frame-crafter.github.io/</p></details> |
+| **[Bridging the Gap between Micro-scale Traffic Simulation and 4D Digital Cityscapes](https://arxiv.org/abs/2604.08497v1)** | 2026-04-09 |  |
+| **[Formalizing building-up constructions of self-dual codes through isotropic lines in Lean](https://arxiv.org/abs/2604.08485v1)** | 2026-04-09 | 27 pages |
+| **[OVS-DINO: Open-Vocabulary Segmentation via Structure-Aligned SAM-DINO with Language Guidance](https://arxiv.org/abs/2604.08461v1)** | 2026-04-09 | <details><summary>14 pa...</summary><p>14 pages, 12 figures, 5 tables</p></details> |
+| **[LITE: Lightweight Channel Gain Estimation with Reduced X-Haul CSI Signaling in O-RAN](https://arxiv.org/abs/2604.08458v1)** | 2026-04-09 |  |
+| **[CASE: Cadence-Aware Set Encoding for Large-Scale Next Basket Repurchase Recommendation](https://arxiv.org/abs/2604.06718v2)** | 2026-04-09 | <details><summary>Accep...</summary><p>Accepted at SIGIR 2026 Industry Track</p></details> |
+| **[AfriVoices-KE: A Multilingual Speech Dataset for Kenyan Languages](https://arxiv.org/abs/2604.08448v1)** | 2026-04-09 | <details><summary>10 pa...</summary><p>10 pages, 5 figures, 3 tables</p></details> |
+| **[Synthetic Data for any Differentiable Target](https://arxiv.org/abs/2604.08423v1)** | 2026-04-09 |  |
 
 ## Class Incremental
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[The Non-Gaussian Weak-Lensing Likelihood: A Multivariate Copula Construction and Impact on Cosmological Constraints](https://arxiv.org/abs/2604.07336v1)** | 2026-04-08 | 15 pages, 5 figures |
-| **[A Dynamic Prognostic Prediction Method for Colorectal Cancer Liver Metastasis](https://arxiv.org/abs/2505.03123v3)** | 2026-04-08 | <details><summary>Accep...</summary><p>Accepted to IEEE International Conference on Multimedia and Expo (ICME) 2026</p></details> |
-| **[Delay-Doppler Channel Estimation using Arbitrarily Modulated Data Transmissions](https://arxiv.org/abs/2604.07308v1)** | 2026-04-08 | <details><summary>7 pag...</summary><p>7 pages, 5 figures, to be submitted to IEEE</p></details> |
-| **[Splatblox: Traversability-Aware Gaussian Splatting for Outdoor Robot Navigation](https://arxiv.org/abs/2511.18525v2)** | 2026-04-08 |  |
-| **[Do MLLMs Really Understand Space? A Mathematical Reasoning Evaluation](https://arxiv.org/abs/2602.11635v2)** | 2026-04-08 |  |
-| **[Agent-Driven Corpus Linguistics: A Framework for Autonomous Linguistic Discovery](https://arxiv.org/abs/2604.07189v1)** | 2026-04-08 |  |
+| **[WebArbiter: A Principle-Guided Reasoning Process Reward Model for Web Agents](https://arxiv.org/abs/2601.21872v2)** | 2026-04-09 | <details><summary>Publi...</summary><p>Published as a conference paper at ICLR 2026. Extended version with additional experiments</p></details> |
+| **[Computing the Bottleneck Distance between Persistent Homology Transforms](https://arxiv.org/abs/2512.00821v2)** | 2026-04-09 |  |
+| **[Novel View Synthesis as Video Completion](https://arxiv.org/abs/2604.08500v1)** | 2026-04-09 | <details><summary>Proje...</summary><p>Project page: https://frame-crafter.github.io/</p></details> |
+| **[Bridging the Gap between Micro-scale Traffic Simulation and 4D Digital Cityscapes](https://arxiv.org/abs/2604.08497v1)** | 2026-04-09 |  |
+| **[Formalizing building-up constructions of self-dual codes through isotropic lines in Lean](https://arxiv.org/abs/2604.08485v1)** | 2026-04-09 | 27 pages |
+| **[OVS-DINO: Open-Vocabulary Segmentation via Structure-Aligned SAM-DINO with Language Guidance](https://arxiv.org/abs/2604.08461v1)** | 2026-04-09 | <details><summary>14 pa...</summary><p>14 pages, 12 figures, 5 tables</p></details> |
+| **[LITE: Lightweight Channel Gain Estimation with Reduced X-Haul CSI Signaling in O-RAN](https://arxiv.org/abs/2604.08458v1)** | 2026-04-09 |  |
+| **[CASE: Cadence-Aware Set Encoding for Large-Scale Next Basket Repurchase Recommendation](https://arxiv.org/abs/2604.06718v2)** | 2026-04-09 | <details><summary>Accep...</summary><p>Accepted at SIGIR 2026 Industry Track</p></details> |
+| **[AfriVoices-KE: A Multilingual Speech Dataset for Kenyan Languages](https://arxiv.org/abs/2604.08448v1)** | 2026-04-09 | <details><summary>10 pa...</summary><p>10 pages, 5 figures, 3 tables</p></details> |
+| **[Synthetic Data for any Differentiable Target](https://arxiv.org/abs/2604.08423v1)** | 2026-04-09 |  |
 
