@@ -1,5 +1,5 @@
 ---
-title: Latest 50 Papers - April 13, 2026
+title: Latest 50 Papers - April 14, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/JiamingZang/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,131 +7,98 @@ labels: documentation
 ## Molecular
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[WebArbiter: A Principle-Guided Reasoning Process Reward Model for Web Agents](https://arxiv.org/abs/2601.21872v2)** | 2026-04-09 | <details><summary>Publi...</summary><p>Published as a conference paper at ICLR 2026. Extended version with additional experiments</p></details> |
-| **[Computing the Bottleneck Distance between Persistent Homology Transforms](https://arxiv.org/abs/2512.00821v2)** | 2026-04-09 |  |
-| **[Novel View Synthesis as Video Completion](https://arxiv.org/abs/2604.08500v1)** | 2026-04-09 | <details><summary>Proje...</summary><p>Project page: https://frame-crafter.github.io/</p></details> |
-| **[Bridging the Gap between Micro-scale Traffic Simulation and 4D Digital Cityscapes](https://arxiv.org/abs/2604.08497v1)** | 2026-04-09 |  |
-| **[Formalizing building-up constructions of self-dual codes through isotropic lines in Lean](https://arxiv.org/abs/2604.08485v1)** | 2026-04-09 | 27 pages |
-| **[Molecular diversity as a biosignature](https://arxiv.org/abs/2511.00525v2)** | 2026-04-09 |  |
-| **[OVS-DINO: Open-Vocabulary Segmentation via Structure-Aligned SAM-DINO with Language Guidance](https://arxiv.org/abs/2604.08461v1)** | 2026-04-09 | <details><summary>14 pa...</summary><p>14 pages, 12 figures, 5 tables</p></details> |
-| **[LITE: Lightweight Channel Gain Estimation with Reduced X-Haul CSI Signaling in O-RAN](https://arxiv.org/abs/2604.08458v1)** | 2026-04-09 |  |
-| **[CASE: Cadence-Aware Set Encoding for Large-Scale Next Basket Repurchase Recommendation](https://arxiv.org/abs/2604.06718v2)** | 2026-04-09 | <details><summary>Accep...</summary><p>Accepted at SIGIR 2026 Industry Track</p></details> |
-| **[AfriVoices-KE: A Multilingual Speech Dataset for Kenyan Languages](https://arxiv.org/abs/2604.08448v1)** | 2026-04-09 | <details><summary>10 pa...</summary><p>10 pages, 5 figures, 3 tables</p></details> |
-| **[Synthetic Data for any Differentiable Target](https://arxiv.org/abs/2604.08423v1)** | 2026-04-09 |  |
+| **[A Physically-Informed Subgraph Isomorphism Approach to Molecular Docking Using Quantum Annealers](https://arxiv.org/abs/2604.09540v1)** | 2026-04-10 | 7 pages, 3 figures |
+| **[Event-Driven Temporal Graph Networks for Asynchronous Multi-Agent Cyber Defense in NetForge_RL](https://arxiv.org/abs/2604.09523v1)** | 2026-04-10 | <details><summary>26 pa...</summary><p>26 pages, 14 figures, 5 tables</p></details> |
+| **[Policy-Aware Edge LLM-RAG Framework for Internet of Battlefield Things Mission Orchestration](https://arxiv.org/abs/2604.09493v1)** | 2026-04-10 | <details><summary>10 pa...</summary><p>10 pages, 5 figures, Accepted at AIS 2026</p></details> |
+| **[Incremental Semantics-Aided Meshing from LiDAR-Inertial Odometry and RGB Direct Label Transfer](https://arxiv.org/abs/2604.09478v1)** | 2026-04-10 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, 2 tables. Accepted in ISPRS Archives 2026</p></details> |
+| **[Realizing Immersive Volumetric Video: A Multimodal Framework for 6-DoF VR Engagement](https://arxiv.org/abs/2604.09473v1)** | 2026-04-10 | <details><summary>Journ...</summary><p>Journal extension of CVPR 2025. See also arXiv:2503.14359 . Project page and code: https://github.com/Metaverse-AI-Lab-THU/ImViD</p></details> |
+| **[Confidence Without Competence in AI-Assisted Knowledge Work](https://arxiv.org/abs/2604.09444v1)** | 2026-04-10 | <details><summary>25 pa...</summary><p>25 pages, 13 figures, 5 tables</p></details> |
+| **[Physics-guided surrogate learning enables zero-shot control of turbulent wings](https://arxiv.org/abs/2604.09434v1)** | 2026-04-10 |  |
 
 ## Molecular Generation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[WebArbiter: A Principle-Guided Reasoning Process Reward Model for Web Agents](https://arxiv.org/abs/2601.21872v2)** | 2026-04-09 | <details><summary>Publi...</summary><p>Published as a conference paper at ICLR 2026. Extended version with additional experiments</p></details> |
-| **[Computing the Bottleneck Distance between Persistent Homology Transforms](https://arxiv.org/abs/2512.00821v2)** | 2026-04-09 |  |
-| **[Novel View Synthesis as Video Completion](https://arxiv.org/abs/2604.08500v1)** | 2026-04-09 | <details><summary>Proje...</summary><p>Project page: https://frame-crafter.github.io/</p></details> |
-| **[Bridging the Gap between Micro-scale Traffic Simulation and 4D Digital Cityscapes](https://arxiv.org/abs/2604.08497v1)** | 2026-04-09 |  |
-| **[Formalizing building-up constructions of self-dual codes through isotropic lines in Lean](https://arxiv.org/abs/2604.08485v1)** | 2026-04-09 | 27 pages |
-| **[OVS-DINO: Open-Vocabulary Segmentation via Structure-Aligned SAM-DINO with Language Guidance](https://arxiv.org/abs/2604.08461v1)** | 2026-04-09 | <details><summary>14 pa...</summary><p>14 pages, 12 figures, 5 tables</p></details> |
-| **[LITE: Lightweight Channel Gain Estimation with Reduced X-Haul CSI Signaling in O-RAN](https://arxiv.org/abs/2604.08458v1)** | 2026-04-09 |  |
-| **[CASE: Cadence-Aware Set Encoding for Large-Scale Next Basket Repurchase Recommendation](https://arxiv.org/abs/2604.06718v2)** | 2026-04-09 | <details><summary>Accep...</summary><p>Accepted at SIGIR 2026 Industry Track</p></details> |
-| **[AfriVoices-KE: A Multilingual Speech Dataset for Kenyan Languages](https://arxiv.org/abs/2604.08448v1)** | 2026-04-09 | <details><summary>10 pa...</summary><p>10 pages, 5 figures, 3 tables</p></details> |
-| **[Synthetic Data for any Differentiable Target](https://arxiv.org/abs/2604.08423v1)** | 2026-04-09 |  |
+| **[Event-Driven Temporal Graph Networks for Asynchronous Multi-Agent Cyber Defense in NetForge_RL](https://arxiv.org/abs/2604.09523v1)** | 2026-04-10 | <details><summary>26 pa...</summary><p>26 pages, 14 figures, 5 tables</p></details> |
+| **[Policy-Aware Edge LLM-RAG Framework for Internet of Battlefield Things Mission Orchestration](https://arxiv.org/abs/2604.09493v1)** | 2026-04-10 | <details><summary>10 pa...</summary><p>10 pages, 5 figures, Accepted at AIS 2026</p></details> |
+| **[Incremental Semantics-Aided Meshing from LiDAR-Inertial Odometry and RGB Direct Label Transfer](https://arxiv.org/abs/2604.09478v1)** | 2026-04-10 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, 2 tables. Accepted in ISPRS Archives 2026</p></details> |
+| **[Realizing Immersive Volumetric Video: A Multimodal Framework for 6-DoF VR Engagement](https://arxiv.org/abs/2604.09473v1)** | 2026-04-10 | <details><summary>Journ...</summary><p>Journal extension of CVPR 2025. See also arXiv:2503.14359 . Project page and code: https://github.com/Metaverse-AI-Lab-THU/ImViD</p></details> |
+| **[Confidence Without Competence in AI-Assisted Knowledge Work](https://arxiv.org/abs/2604.09444v1)** | 2026-04-10 | <details><summary>25 pa...</summary><p>25 pages, 13 figures, 5 tables</p></details> |
+| **[Physics-guided surrogate learning enables zero-shot control of turbulent wings](https://arxiv.org/abs/2604.09434v1)** | 2026-04-10 |  |
+| **[A scalable estimator of higher-order information in complex dynamical systems](https://arxiv.org/abs/2506.18498v2)** | 2026-04-10 | <details><summary>12 pa...</summary><p>12 pages, 5 figures + appendix</p></details> |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[WebArbiter: A Principle-Guided Reasoning Process Reward Model for Web Agents](https://arxiv.org/abs/2601.21872v2)** | 2026-04-09 | <details><summary>Publi...</summary><p>Published as a conference paper at ICLR 2026. Extended version with additional experiments</p></details> |
-| **[Computing the Bottleneck Distance between Persistent Homology Transforms](https://arxiv.org/abs/2512.00821v2)** | 2026-04-09 |  |
-| **[Novel View Synthesis as Video Completion](https://arxiv.org/abs/2604.08500v1)** | 2026-04-09 | <details><summary>Proje...</summary><p>Project page: https://frame-crafter.github.io/</p></details> |
-| **[Bridging the Gap between Micro-scale Traffic Simulation and 4D Digital Cityscapes](https://arxiv.org/abs/2604.08497v1)** | 2026-04-09 |  |
-| **[Formalizing building-up constructions of self-dual codes through isotropic lines in Lean](https://arxiv.org/abs/2604.08485v1)** | 2026-04-09 | 27 pages |
-| **[Persistence-Augmented Neural Networks](https://arxiv.org/abs/2604.08469v1)** | 2026-04-09 |  |
-| **[OVS-DINO: Open-Vocabulary Segmentation via Structure-Aligned SAM-DINO with Language Guidance](https://arxiv.org/abs/2604.08461v1)** | 2026-04-09 | <details><summary>14 pa...</summary><p>14 pages, 12 figures, 5 tables</p></details> |
-| **[LITE: Lightweight Channel Gain Estimation with Reduced X-Haul CSI Signaling in O-RAN](https://arxiv.org/abs/2604.08458v1)** | 2026-04-09 |  |
-| **[CASE: Cadence-Aware Set Encoding for Large-Scale Next Basket Repurchase Recommendation](https://arxiv.org/abs/2604.06718v2)** | 2026-04-09 | <details><summary>Accep...</summary><p>Accepted at SIGIR 2026 Industry Track</p></details> |
-| **[AfriVoices-KE: A Multilingual Speech Dataset for Kenyan Languages](https://arxiv.org/abs/2604.08448v1)** | 2026-04-09 | <details><summary>10 pa...</summary><p>10 pages, 5 figures, 3 tables</p></details> |
-| **[Synthetic Data for any Differentiable Target](https://arxiv.org/abs/2604.08423v1)** | 2026-04-09 |  |
+| **[Event-Driven Temporal Graph Networks for Asynchronous Multi-Agent Cyber Defense in NetForge_RL](https://arxiv.org/abs/2604.09523v1)** | 2026-04-10 | <details><summary>26 pa...</summary><p>26 pages, 14 figures, 5 tables</p></details> |
+| **[Policy-Aware Edge LLM-RAG Framework for Internet of Battlefield Things Mission Orchestration](https://arxiv.org/abs/2604.09493v1)** | 2026-04-10 | <details><summary>10 pa...</summary><p>10 pages, 5 figures, Accepted at AIS 2026</p></details> |
+| **[Incremental Semantics-Aided Meshing from LiDAR-Inertial Odometry and RGB Direct Label Transfer](https://arxiv.org/abs/2604.09478v1)** | 2026-04-10 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, 2 tables. Accepted in ISPRS Archives 2026</p></details> |
+| **[Realizing Immersive Volumetric Video: A Multimodal Framework for 6-DoF VR Engagement](https://arxiv.org/abs/2604.09473v1)** | 2026-04-10 | <details><summary>Journ...</summary><p>Journal extension of CVPR 2025. See also arXiv:2503.14359 . Project page and code: https://github.com/Metaverse-AI-Lab-THU/ImViD</p></details> |
+| **[Confidence Without Competence in AI-Assisted Knowledge Work](https://arxiv.org/abs/2604.09444v1)** | 2026-04-10 | <details><summary>25 pa...</summary><p>25 pages, 13 figures, 5 tables</p></details> |
+| **[Physics-guided surrogate learning enables zero-shot control of turbulent wings](https://arxiv.org/abs/2604.09434v1)** | 2026-04-10 |  |
+| **[A scalable estimator of higher-order information in complex dynamical systems](https://arxiv.org/abs/2506.18498v2)** | 2026-04-10 | <details><summary>12 pa...</summary><p>12 pages, 5 figures + appendix</p></details> |
 
 ## Diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[When Numbers Speak: Aligning Textual Numerals and Visual Instances in Text-to-Video Diffusion Models](https://arxiv.org/abs/2604.08546v1)** | 2026-04-09 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026. Project page: https://h-embodvis.github.io/NUMINA</p></details> |
-| **[SIM1: Physics-Aligned Simulator as Zero-Shot Data Scaler in Deformable Worlds](https://arxiv.org/abs/2604.08544v1)** | 2026-04-09 | <details><summary>Websi...</summary><p>Website: https://internrobotics.github.io/sim1.github.io/</p></details> |
-| **[RewardFlow: Generate Images by Optimizing What You Reward](https://arxiv.org/abs/2604.08536v1)** | 2026-04-09 | <details><summary>CVPR ...</summary><p>CVPR 2026. Project page: https://plan-lab.github.io/rewardflow</p></details> |
-| **[WebArbiter: A Principle-Guided Reasoning Process Reward Model for Web Agents](https://arxiv.org/abs/2601.21872v2)** | 2026-04-09 | <details><summary>Publi...</summary><p>Published as a conference paper at ICLR 2026. Extended version with additional experiments</p></details> |
-| **[Computing the Bottleneck Distance between Persistent Homology Transforms](https://arxiv.org/abs/2512.00821v2)** | 2026-04-09 |  |
-| **[Novel View Synthesis as Video Completion](https://arxiv.org/abs/2604.08500v1)** | 2026-04-09 | <details><summary>Proje...</summary><p>Project page: https://frame-crafter.github.io/</p></details> |
-| **[Bridging the Gap between Micro-scale Traffic Simulation and 4D Digital Cityscapes](https://arxiv.org/abs/2604.08497v1)** | 2026-04-09 |  |
-| **[Formalizing building-up constructions of self-dual codes through isotropic lines in Lean](https://arxiv.org/abs/2604.08485v1)** | 2026-04-09 | 27 pages |
-| **[Privacy Attacks on Image AutoRegressive Models](https://arxiv.org/abs/2502.02514v5)** | 2026-04-09 | Accepted at ICML2025 |
-| **[OVS-DINO: Open-Vocabulary Segmentation via Structure-Aligned SAM-DINO with Language Guidance](https://arxiv.org/abs/2604.08461v1)** | 2026-04-09 | <details><summary>14 pa...</summary><p>14 pages, 12 figures, 5 tables</p></details> |
-| **[LITE: Lightweight Channel Gain Estimation with Reduced X-Haul CSI Signaling in O-RAN](https://arxiv.org/abs/2604.08458v1)** | 2026-04-09 |  |
-| **[CASE: Cadence-Aware Set Encoding for Large-Scale Next Basket Repurchase Recommendation](https://arxiv.org/abs/2604.06718v2)** | 2026-04-09 | <details><summary>Accep...</summary><p>Accepted at SIGIR 2026 Industry Track</p></details> |
-| **[AfriVoices-KE: A Multilingual Speech Dataset for Kenyan Languages](https://arxiv.org/abs/2604.08448v1)** | 2026-04-09 | <details><summary>10 pa...</summary><p>10 pages, 5 figures, 3 tables</p></details> |
+| **[Envisioning the Future, One Step at a Time](https://arxiv.org/abs/2604.09527v1)** | 2026-04-10 | <details><summary>CVPR ...</summary><p>CVPR 2026. For code and models, see http://compvis.github.io/myriad</p></details> |
+| **[Event-Driven Temporal Graph Networks for Asynchronous Multi-Agent Cyber Defense in NetForge_RL](https://arxiv.org/abs/2604.09523v1)** | 2026-04-10 | <details><summary>26 pa...</summary><p>26 pages, 14 figures, 5 tables</p></details> |
+| **[Policy-Aware Edge LLM-RAG Framework for Internet of Battlefield Things Mission Orchestration](https://arxiv.org/abs/2604.09493v1)** | 2026-04-10 | <details><summary>10 pa...</summary><p>10 pages, 5 figures, Accepted at AIS 2026</p></details> |
+| **[Incremental Semantics-Aided Meshing from LiDAR-Inertial Odometry and RGB Direct Label Transfer](https://arxiv.org/abs/2604.09478v1)** | 2026-04-10 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, 2 tables. Accepted in ISPRS Archives 2026</p></details> |
+| **[Realizing Immersive Volumetric Video: A Multimodal Framework for 6-DoF VR Engagement](https://arxiv.org/abs/2604.09473v1)** | 2026-04-10 | <details><summary>Journ...</summary><p>Journal extension of CVPR 2025. See also arXiv:2503.14359 . Project page and code: https://github.com/Metaverse-AI-Lab-THU/ImViD</p></details> |
+| **[CoMoVi: Co-Generation of 3D Human Motions and Realistic Videos](https://arxiv.org/abs/2601.10632v2)** | 2026-04-10 | <details><summary>Proje...</summary><p>Project Page: https://igl-hkust.github.io/CoMoVi/</p></details> |
+| **[ECHO: Efficient Chest X-ray Report Generation with One-step Block Diffusion](https://arxiv.org/abs/2604.09450v1)** | 2026-04-10 |  |
+| **[Confidence Without Competence in AI-Assisted Knowledge Work](https://arxiv.org/abs/2604.09444v1)** | 2026-04-10 | <details><summary>25 pa...</summary><p>25 pages, 13 figures, 5 tables</p></details> |
 
 ## Object Counting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[WebArbiter: A Principle-Guided Reasoning Process Reward Model for Web Agents](https://arxiv.org/abs/2601.21872v2)** | 2026-04-09 | <details><summary>Publi...</summary><p>Published as a conference paper at ICLR 2026. Extended version with additional experiments</p></details> |
-| **[Computing the Bottleneck Distance between Persistent Homology Transforms](https://arxiv.org/abs/2512.00821v2)** | 2026-04-09 |  |
-| **[Novel View Synthesis as Video Completion](https://arxiv.org/abs/2604.08500v1)** | 2026-04-09 | <details><summary>Proje...</summary><p>Project page: https://frame-crafter.github.io/</p></details> |
-| **[Bridging the Gap between Micro-scale Traffic Simulation and 4D Digital Cityscapes](https://arxiv.org/abs/2604.08497v1)** | 2026-04-09 |  |
-| **[Formalizing building-up constructions of self-dual codes through isotropic lines in Lean](https://arxiv.org/abs/2604.08485v1)** | 2026-04-09 | 27 pages |
-| **[OVS-DINO: Open-Vocabulary Segmentation via Structure-Aligned SAM-DINO with Language Guidance](https://arxiv.org/abs/2604.08461v1)** | 2026-04-09 | <details><summary>14 pa...</summary><p>14 pages, 12 figures, 5 tables</p></details> |
-| **[LITE: Lightweight Channel Gain Estimation with Reduced X-Haul CSI Signaling in O-RAN](https://arxiv.org/abs/2604.08458v1)** | 2026-04-09 |  |
-| **[CASE: Cadence-Aware Set Encoding for Large-Scale Next Basket Repurchase Recommendation](https://arxiv.org/abs/2604.06718v2)** | 2026-04-09 | <details><summary>Accep...</summary><p>Accepted at SIGIR 2026 Industry Track</p></details> |
-| **[AfriVoices-KE: A Multilingual Speech Dataset for Kenyan Languages](https://arxiv.org/abs/2604.08448v1)** | 2026-04-09 | <details><summary>10 pa...</summary><p>10 pages, 5 figures, 3 tables</p></details> |
-| **[Synthetic Data for any Differentiable Target](https://arxiv.org/abs/2604.08423v1)** | 2026-04-09 |  |
+| **[Event-Driven Temporal Graph Networks for Asynchronous Multi-Agent Cyber Defense in NetForge_RL](https://arxiv.org/abs/2604.09523v1)** | 2026-04-10 | <details><summary>26 pa...</summary><p>26 pages, 14 figures, 5 tables</p></details> |
+| **[Policy-Aware Edge LLM-RAG Framework for Internet of Battlefield Things Mission Orchestration](https://arxiv.org/abs/2604.09493v1)** | 2026-04-10 | <details><summary>10 pa...</summary><p>10 pages, 5 figures, Accepted at AIS 2026</p></details> |
+| **[Incremental Semantics-Aided Meshing from LiDAR-Inertial Odometry and RGB Direct Label Transfer](https://arxiv.org/abs/2604.09478v1)** | 2026-04-10 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, 2 tables. Accepted in ISPRS Archives 2026</p></details> |
+| **[Realizing Immersive Volumetric Video: A Multimodal Framework for 6-DoF VR Engagement](https://arxiv.org/abs/2604.09473v1)** | 2026-04-10 | <details><summary>Journ...</summary><p>Journal extension of CVPR 2025. See also arXiv:2503.14359 . Project page and code: https://github.com/Metaverse-AI-Lab-THU/ImViD</p></details> |
+| **[Confidence Without Competence in AI-Assisted Knowledge Work](https://arxiv.org/abs/2604.09444v1)** | 2026-04-10 | <details><summary>25 pa...</summary><p>25 pages, 13 figures, 5 tables</p></details> |
+| **[Physics-guided surrogate learning enables zero-shot control of turbulent wings](https://arxiv.org/abs/2604.09434v1)** | 2026-04-10 |  |
+| **[A scalable estimator of higher-order information in complex dynamical systems](https://arxiv.org/abs/2506.18498v2)** | 2026-04-10 | <details><summary>12 pa...</summary><p>12 pages, 5 figures + appendix</p></details> |
 
 ## Image Caption
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[WebArbiter: A Principle-Guided Reasoning Process Reward Model for Web Agents](https://arxiv.org/abs/2601.21872v2)** | 2026-04-09 | <details><summary>Publi...</summary><p>Published as a conference paper at ICLR 2026. Extended version with additional experiments</p></details> |
-| **[Computing the Bottleneck Distance between Persistent Homology Transforms](https://arxiv.org/abs/2512.00821v2)** | 2026-04-09 |  |
-| **[Novel View Synthesis as Video Completion](https://arxiv.org/abs/2604.08500v1)** | 2026-04-09 | <details><summary>Proje...</summary><p>Project page: https://frame-crafter.github.io/</p></details> |
-| **[Bridging the Gap between Micro-scale Traffic Simulation and 4D Digital Cityscapes](https://arxiv.org/abs/2604.08497v1)** | 2026-04-09 |  |
-| **[Formalizing building-up constructions of self-dual codes through isotropic lines in Lean](https://arxiv.org/abs/2604.08485v1)** | 2026-04-09 | 27 pages |
-| **[OVS-DINO: Open-Vocabulary Segmentation via Structure-Aligned SAM-DINO with Language Guidance](https://arxiv.org/abs/2604.08461v1)** | 2026-04-09 | <details><summary>14 pa...</summary><p>14 pages, 12 figures, 5 tables</p></details> |
-| **[LITE: Lightweight Channel Gain Estimation with Reduced X-Haul CSI Signaling in O-RAN](https://arxiv.org/abs/2604.08458v1)** | 2026-04-09 |  |
-| **[CASE: Cadence-Aware Set Encoding for Large-Scale Next Basket Repurchase Recommendation](https://arxiv.org/abs/2604.06718v2)** | 2026-04-09 | <details><summary>Accep...</summary><p>Accepted at SIGIR 2026 Industry Track</p></details> |
-| **[AfriVoices-KE: A Multilingual Speech Dataset for Kenyan Languages](https://arxiv.org/abs/2604.08448v1)** | 2026-04-09 | <details><summary>10 pa...</summary><p>10 pages, 5 figures, 3 tables</p></details> |
-| **[Synthetic Data for any Differentiable Target](https://arxiv.org/abs/2604.08423v1)** | 2026-04-09 |  |
+| **[Event-Driven Temporal Graph Networks for Asynchronous Multi-Agent Cyber Defense in NetForge_RL](https://arxiv.org/abs/2604.09523v1)** | 2026-04-10 | <details><summary>26 pa...</summary><p>26 pages, 14 figures, 5 tables</p></details> |
+| **[Policy-Aware Edge LLM-RAG Framework for Internet of Battlefield Things Mission Orchestration](https://arxiv.org/abs/2604.09493v1)** | 2026-04-10 | <details><summary>10 pa...</summary><p>10 pages, 5 figures, Accepted at AIS 2026</p></details> |
+| **[Incremental Semantics-Aided Meshing from LiDAR-Inertial Odometry and RGB Direct Label Transfer](https://arxiv.org/abs/2604.09478v1)** | 2026-04-10 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, 2 tables. Accepted in ISPRS Archives 2026</p></details> |
+| **[Realizing Immersive Volumetric Video: A Multimodal Framework for 6-DoF VR Engagement](https://arxiv.org/abs/2604.09473v1)** | 2026-04-10 | <details><summary>Journ...</summary><p>Journal extension of CVPR 2025. See also arXiv:2503.14359 . Project page and code: https://github.com/Metaverse-AI-Lab-THU/ImViD</p></details> |
+| **[Confidence Without Competence in AI-Assisted Knowledge Work](https://arxiv.org/abs/2604.09444v1)** | 2026-04-10 | <details><summary>25 pa...</summary><p>25 pages, 13 figures, 5 tables</p></details> |
+| **[Physics-guided surrogate learning enables zero-shot control of turbulent wings](https://arxiv.org/abs/2604.09434v1)** | 2026-04-10 |  |
+| **[A scalable estimator of higher-order information in complex dynamical systems](https://arxiv.org/abs/2506.18498v2)** | 2026-04-10 | <details><summary>12 pa...</summary><p>12 pages, 5 figures + appendix</p></details> |
 
 ## Describe
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[WebArbiter: A Principle-Guided Reasoning Process Reward Model for Web Agents](https://arxiv.org/abs/2601.21872v2)** | 2026-04-09 | <details><summary>Publi...</summary><p>Published as a conference paper at ICLR 2026. Extended version with additional experiments</p></details> |
-| **[Computing the Bottleneck Distance between Persistent Homology Transforms](https://arxiv.org/abs/2512.00821v2)** | 2026-04-09 |  |
-| **[Novel View Synthesis as Video Completion](https://arxiv.org/abs/2604.08500v1)** | 2026-04-09 | <details><summary>Proje...</summary><p>Project page: https://frame-crafter.github.io/</p></details> |
-| **[Bridging the Gap between Micro-scale Traffic Simulation and 4D Digital Cityscapes](https://arxiv.org/abs/2604.08497v1)** | 2026-04-09 |  |
-| **[Formalizing building-up constructions of self-dual codes through isotropic lines in Lean](https://arxiv.org/abs/2604.08485v1)** | 2026-04-09 | 27 pages |
-| **[Faithful GRPO: Improving Visual Spatial Reasoning in Multimodal Language Models via Constrained Policy Optimization](https://arxiv.org/abs/2604.08476v1)** | 2026-04-09 |  |
-| **[Persistence-Augmented Neural Networks](https://arxiv.org/abs/2604.08469v1)** | 2026-04-09 |  |
-| **[OVS-DINO: Open-Vocabulary Segmentation via Structure-Aligned SAM-DINO with Language Guidance](https://arxiv.org/abs/2604.08461v1)** | 2026-04-09 | <details><summary>14 pa...</summary><p>14 pages, 12 figures, 5 tables</p></details> |
-| **[LITE: Lightweight Channel Gain Estimation with Reduced X-Haul CSI Signaling in O-RAN](https://arxiv.org/abs/2604.08458v1)** | 2026-04-09 |  |
-| **[CASE: Cadence-Aware Set Encoding for Large-Scale Next Basket Repurchase Recommendation](https://arxiv.org/abs/2604.06718v2)** | 2026-04-09 | <details><summary>Accep...</summary><p>Accepted at SIGIR 2026 Industry Track</p></details> |
+| **[Event-Driven Temporal Graph Networks for Asynchronous Multi-Agent Cyber Defense in NetForge_RL](https://arxiv.org/abs/2604.09523v1)** | 2026-04-10 | <details><summary>26 pa...</summary><p>26 pages, 14 figures, 5 tables</p></details> |
+| **[RIRF: Reasoning Image Restoration Framework](https://arxiv.org/abs/2604.09511v1)** | 2026-04-10 |  |
+| **[Policy-Aware Edge LLM-RAG Framework for Internet of Battlefield Things Mission Orchestration](https://arxiv.org/abs/2604.09493v1)** | 2026-04-10 | <details><summary>10 pa...</summary><p>10 pages, 5 figures, Accepted at AIS 2026</p></details> |
+| **[Do Generalized-Gamma Scale Mixtures of Normals Fit Large Image Datasets?](https://arxiv.org/abs/2512.17038v3)** | 2026-04-10 | <details><summary>22 pa...</summary><p>22 pages main text, 21 figures, 7 tables, 10 pages appendix</p></details> |
+| **[Incremental Semantics-Aided Meshing from LiDAR-Inertial Odometry and RGB Direct Label Transfer](https://arxiv.org/abs/2604.09478v1)** | 2026-04-10 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, 2 tables. Accepted in ISPRS Archives 2026</p></details> |
 
 ## Light Weight
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[WebArbiter: A Principle-Guided Reasoning Process Reward Model for Web Agents](https://arxiv.org/abs/2601.21872v2)** | 2026-04-09 | <details><summary>Publi...</summary><p>Published as a conference paper at ICLR 2026. Extended version with additional experiments</p></details> |
-| **[Computing the Bottleneck Distance between Persistent Homology Transforms](https://arxiv.org/abs/2512.00821v2)** | 2026-04-09 |  |
-| **[Novel View Synthesis as Video Completion](https://arxiv.org/abs/2604.08500v1)** | 2026-04-09 | <details><summary>Proje...</summary><p>Project page: https://frame-crafter.github.io/</p></details> |
-| **[Bridging the Gap between Micro-scale Traffic Simulation and 4D Digital Cityscapes](https://arxiv.org/abs/2604.08497v1)** | 2026-04-09 |  |
-| **[Formalizing building-up constructions of self-dual codes through isotropic lines in Lean](https://arxiv.org/abs/2604.08485v1)** | 2026-04-09 | 27 pages |
-| **[OVS-DINO: Open-Vocabulary Segmentation via Structure-Aligned SAM-DINO with Language Guidance](https://arxiv.org/abs/2604.08461v1)** | 2026-04-09 | <details><summary>14 pa...</summary><p>14 pages, 12 figures, 5 tables</p></details> |
-| **[LITE: Lightweight Channel Gain Estimation with Reduced X-Haul CSI Signaling in O-RAN](https://arxiv.org/abs/2604.08458v1)** | 2026-04-09 |  |
-| **[CASE: Cadence-Aware Set Encoding for Large-Scale Next Basket Repurchase Recommendation](https://arxiv.org/abs/2604.06718v2)** | 2026-04-09 | <details><summary>Accep...</summary><p>Accepted at SIGIR 2026 Industry Track</p></details> |
-| **[AfriVoices-KE: A Multilingual Speech Dataset for Kenyan Languages](https://arxiv.org/abs/2604.08448v1)** | 2026-04-09 | <details><summary>10 pa...</summary><p>10 pages, 5 figures, 3 tables</p></details> |
-| **[Synthetic Data for any Differentiable Target](https://arxiv.org/abs/2604.08423v1)** | 2026-04-09 |  |
+| **[Event-Driven Temporal Graph Networks for Asynchronous Multi-Agent Cyber Defense in NetForge_RL](https://arxiv.org/abs/2604.09523v1)** | 2026-04-10 | <details><summary>26 pa...</summary><p>26 pages, 14 figures, 5 tables</p></details> |
+| **[Policy-Aware Edge LLM-RAG Framework for Internet of Battlefield Things Mission Orchestration](https://arxiv.org/abs/2604.09493v1)** | 2026-04-10 | <details><summary>10 pa...</summary><p>10 pages, 5 figures, Accepted at AIS 2026</p></details> |
+| **[Incremental Semantics-Aided Meshing from LiDAR-Inertial Odometry and RGB Direct Label Transfer](https://arxiv.org/abs/2604.09478v1)** | 2026-04-10 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, 2 tables. Accepted in ISPRS Archives 2026</p></details> |
+| **[Realizing Immersive Volumetric Video: A Multimodal Framework for 6-DoF VR Engagement](https://arxiv.org/abs/2604.09473v1)** | 2026-04-10 | <details><summary>Journ...</summary><p>Journal extension of CVPR 2025. See also arXiv:2503.14359 . Project page and code: https://github.com/Metaverse-AI-Lab-THU/ImViD</p></details> |
+| **[Confidence Without Competence in AI-Assisted Knowledge Work](https://arxiv.org/abs/2604.09444v1)** | 2026-04-10 | <details><summary>25 pa...</summary><p>25 pages, 13 figures, 5 tables</p></details> |
+| **[Physics-guided surrogate learning enables zero-shot control of turbulent wings](https://arxiv.org/abs/2604.09434v1)** | 2026-04-10 |  |
+| **[A scalable estimator of higher-order information in complex dynamical systems](https://arxiv.org/abs/2506.18498v2)** | 2026-04-10 | <details><summary>12 pa...</summary><p>12 pages, 5 figures + appendix</p></details> |
 
 ## Class Incremental
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[WebArbiter: A Principle-Guided Reasoning Process Reward Model for Web Agents](https://arxiv.org/abs/2601.21872v2)** | 2026-04-09 | <details><summary>Publi...</summary><p>Published as a conference paper at ICLR 2026. Extended version with additional experiments</p></details> |
-| **[Computing the Bottleneck Distance between Persistent Homology Transforms](https://arxiv.org/abs/2512.00821v2)** | 2026-04-09 |  |
-| **[Novel View Synthesis as Video Completion](https://arxiv.org/abs/2604.08500v1)** | 2026-04-09 | <details><summary>Proje...</summary><p>Project page: https://frame-crafter.github.io/</p></details> |
-| **[Bridging the Gap between Micro-scale Traffic Simulation and 4D Digital Cityscapes](https://arxiv.org/abs/2604.08497v1)** | 2026-04-09 |  |
-| **[Formalizing building-up constructions of self-dual codes through isotropic lines in Lean](https://arxiv.org/abs/2604.08485v1)** | 2026-04-09 | 27 pages |
-| **[OVS-DINO: Open-Vocabulary Segmentation via Structure-Aligned SAM-DINO with Language Guidance](https://arxiv.org/abs/2604.08461v1)** | 2026-04-09 | <details><summary>14 pa...</summary><p>14 pages, 12 figures, 5 tables</p></details> |
-| **[LITE: Lightweight Channel Gain Estimation with Reduced X-Haul CSI Signaling in O-RAN](https://arxiv.org/abs/2604.08458v1)** | 2026-04-09 |  |
-| **[CASE: Cadence-Aware Set Encoding for Large-Scale Next Basket Repurchase Recommendation](https://arxiv.org/abs/2604.06718v2)** | 2026-04-09 | <details><summary>Accep...</summary><p>Accepted at SIGIR 2026 Industry Track</p></details> |
-| **[AfriVoices-KE: A Multilingual Speech Dataset for Kenyan Languages](https://arxiv.org/abs/2604.08448v1)** | 2026-04-09 | <details><summary>10 pa...</summary><p>10 pages, 5 figures, 3 tables</p></details> |
-| **[Synthetic Data for any Differentiable Target](https://arxiv.org/abs/2604.08423v1)** | 2026-04-09 |  |
+| **[Event-Driven Temporal Graph Networks for Asynchronous Multi-Agent Cyber Defense in NetForge_RL](https://arxiv.org/abs/2604.09523v1)** | 2026-04-10 | <details><summary>26 pa...</summary><p>26 pages, 14 figures, 5 tables</p></details> |
+| **[Policy-Aware Edge LLM-RAG Framework for Internet of Battlefield Things Mission Orchestration](https://arxiv.org/abs/2604.09493v1)** | 2026-04-10 | <details><summary>10 pa...</summary><p>10 pages, 5 figures, Accepted at AIS 2026</p></details> |
+| **[Incremental Semantics-Aided Meshing from LiDAR-Inertial Odometry and RGB Direct Label Transfer](https://arxiv.org/abs/2604.09478v1)** | 2026-04-10 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, 2 tables. Accepted in ISPRS Archives 2026</p></details> |
+| **[Realizing Immersive Volumetric Video: A Multimodal Framework for 6-DoF VR Engagement](https://arxiv.org/abs/2604.09473v1)** | 2026-04-10 | <details><summary>Journ...</summary><p>Journal extension of CVPR 2025. See also arXiv:2503.14359 . Project page and code: https://github.com/Metaverse-AI-Lab-THU/ImViD</p></details> |
+| **[Confidence Without Competence in AI-Assisted Knowledge Work](https://arxiv.org/abs/2604.09444v1)** | 2026-04-10 | <details><summary>25 pa...</summary><p>25 pages, 13 figures, 5 tables</p></details> |
+| **[Physics-guided surrogate learning enables zero-shot control of turbulent wings](https://arxiv.org/abs/2604.09434v1)** | 2026-04-10 |  |
+| **[A scalable estimator of higher-order information in complex dynamical systems](https://arxiv.org/abs/2506.18498v2)** | 2026-04-10 | <details><summary>12 pa...</summary><p>12 pages, 5 figures + appendix</p></details> |
 
