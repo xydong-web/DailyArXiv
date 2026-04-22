@@ -1,5 +1,5 @@
 ---
-title: Latest 50 Papers - April 22, 2026
+title: Latest 50 Papers - April 23, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/JiamingZang/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,109 +7,127 @@ labels: documentation
 ## Molecular
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[MathNet: a Global Multimodal Benchmark for Mathematical Reasoning and Retrieval](https://arxiv.org/abs/2604.18584v1)** | 2026-04-20 | <details><summary>ICLR ...</summary><p>ICLR 2026; Website: http://mathnet.mit.edu</p></details> |
-| **[Agentic Forecasting using Sequential Bayesian Updating of Linguistic Beliefs](https://arxiv.org/abs/2604.18576v1)** | 2026-04-20 |  |
-| **[Transition-Matrix Regularization for Next Dialogue Act Prediction in Counselling Conversations](https://arxiv.org/abs/2604.18539v1)** | 2026-04-20 | <details><summary>Accep...</summary><p>Accepted as ACL findings paper</p></details> |
-| **[MetaCloak-JPEG: JPEG-Robust Adversarial Perturbation for Preventing Unauthorized DreamBooth-Based Deepfake Generation](https://arxiv.org/abs/2604.18537v1)** | 2026-04-20 | 8 pages, 5 figures |
-| **[GeoRC: A Benchmark for Geolocation Reasoning Chains](https://arxiv.org/abs/2601.21278v2)** | 2026-04-20 | Accepted to ACL 2026 |
-| **[XEmbodied: A Foundation Model with Enhanced Geometric and Physical Cues for Large-Scale Embodied Environments](https://arxiv.org/abs/2604.18484v1)** | 2026-04-20 | 15 pages, 5 figures |
-| **[Physics-Informed Neural Networks: A Didactic Derivation of the Complete Training Cycle](https://arxiv.org/abs/2604.18481v1)** | 2026-04-20 | <details><summary>22 pa...</summary><p>22 pages, 5 figures, companion code at https://github.com/Tahimi/PINN-Didactic-Training-Cycle</p></details> |
+| **[Regression with Large Language Models for Materials and Molecular Property Prediction](https://arxiv.org/abs/2409.06080v2)** | 2026-04-21 |  |
+| **[Mask World Model: Predicting What Matters for Robust Robot Policy Learning](https://arxiv.org/abs/2604.19683v1)** | 2026-04-21 | 16 pages,5 figures |
+| **[ECLASS-Augmented Semantic Product Search for Electronic Components](https://arxiv.org/abs/2604.19664v1)** | 2026-04-21 |  |
+| **[FEPLB: Exploiting Copy Engines for Nearly Free MoE Load Balancing in Distributed Training](https://arxiv.org/abs/2604.19654v1)** | 2026-04-21 | 6 pages, 6 figures |
+| **[Agentic Forecasting using Sequential Bayesian Updating of Linguistic Beliefs](https://arxiv.org/abs/2604.18576v2)** | 2026-04-21 | <details><summary>v2 fi...</summary><p>v2 fixes a critical error in v1 related to calculation of Brier Index, and makes several important changes to the presentation</p></details> |
+| **[Validating UTF-8 In Less Than One Instruction Per Byte](https://arxiv.org/abs/2010.03090v5)** | 2026-04-21 |  |
+| **[Adding Compilation Metadata To Binaries To Make Disassembly Decidable](https://arxiv.org/abs/2604.19628v1)** | 2026-04-21 | <details><summary>12 pa...</summary><p>12 pages, 5 figures, 2 tables. Submitted to QRS 2026</p></details> |
 
 ## Molecular Generation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[MathNet: a Global Multimodal Benchmark for Mathematical Reasoning and Retrieval](https://arxiv.org/abs/2604.18584v1)** | 2026-04-20 | <details><summary>ICLR ...</summary><p>ICLR 2026; Website: http://mathnet.mit.edu</p></details> |
-| **[Agentic Forecasting using Sequential Bayesian Updating of Linguistic Beliefs](https://arxiv.org/abs/2604.18576v1)** | 2026-04-20 |  |
-| **[Transition-Matrix Regularization for Next Dialogue Act Prediction in Counselling Conversations](https://arxiv.org/abs/2604.18539v1)** | 2026-04-20 | <details><summary>Accep...</summary><p>Accepted as ACL findings paper</p></details> |
-| **[MetaCloak-JPEG: JPEG-Robust Adversarial Perturbation for Preventing Unauthorized DreamBooth-Based Deepfake Generation](https://arxiv.org/abs/2604.18537v1)** | 2026-04-20 | 8 pages, 5 figures |
-| **[GeoRC: A Benchmark for Geolocation Reasoning Chains](https://arxiv.org/abs/2601.21278v2)** | 2026-04-20 | Accepted to ACL 2026 |
-| **[XEmbodied: A Foundation Model with Enhanced Geometric and Physical Cues for Large-Scale Embodied Environments](https://arxiv.org/abs/2604.18484v1)** | 2026-04-20 | 15 pages, 5 figures |
-| **[Physics-Informed Neural Networks: A Didactic Derivation of the Complete Training Cycle](https://arxiv.org/abs/2604.18481v1)** | 2026-04-20 | <details><summary>22 pa...</summary><p>22 pages, 5 figures, companion code at https://github.com/Tahimi/PINN-Didactic-Training-Cycle</p></details> |
+| **[Regression with Large Language Models for Materials and Molecular Property Prediction](https://arxiv.org/abs/2409.06080v2)** | 2026-04-21 |  |
+| **[Mask World Model: Predicting What Matters for Robust Robot Policy Learning](https://arxiv.org/abs/2604.19683v1)** | 2026-04-21 | 16 pages,5 figures |
+| **[ECLASS-Augmented Semantic Product Search for Electronic Components](https://arxiv.org/abs/2604.19664v1)** | 2026-04-21 |  |
+| **[FEPLB: Exploiting Copy Engines for Nearly Free MoE Load Balancing in Distributed Training](https://arxiv.org/abs/2604.19654v1)** | 2026-04-21 | 6 pages, 6 figures |
+| **[Agentic Forecasting using Sequential Bayesian Updating of Linguistic Beliefs](https://arxiv.org/abs/2604.18576v2)** | 2026-04-21 | <details><summary>v2 fi...</summary><p>v2 fixes a critical error in v1 related to calculation of Brier Index, and makes several important changes to the presentation</p></details> |
+| **[Validating UTF-8 In Less Than One Instruction Per Byte](https://arxiv.org/abs/2010.03090v5)** | 2026-04-21 |  |
+| **[Adding Compilation Metadata To Binaries To Make Disassembly Decidable](https://arxiv.org/abs/2604.19628v1)** | 2026-04-21 | <details><summary>12 pa...</summary><p>12 pages, 5 figures, 2 tables. Submitted to QRS 2026</p></details> |
+| **[MiroThinker: Pushing the Performance Boundaries of Open-Source Research Agents via Model, Context, and Interactive Scaling](https://arxiv.org/abs/2511.11793v3)** | 2026-04-21 | Technical Report |
+| **[AblateCell: A Reproduce-then-Ablate Agent for Virtual Cell Repositories](https://arxiv.org/abs/2604.19606v1)** | 2026-04-21 | 25 pages, 5 figures |
+| **[Active Inference-Enabled Agentic Closed-Loop ISAC with Long-Horizon Planning](https://arxiv.org/abs/2604.19599v1)** | 2026-04-21 | <details><summary>5 pag...</summary><p>5 pages, 4 figures and 1 table. This work has been submitted to the IEEE for possible publication</p></details> |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[MathNet: a Global Multimodal Benchmark for Mathematical Reasoning and Retrieval](https://arxiv.org/abs/2604.18584v1)** | 2026-04-20 | <details><summary>ICLR ...</summary><p>ICLR 2026; Website: http://mathnet.mit.edu</p></details> |
-| **[Agentic Forecasting using Sequential Bayesian Updating of Linguistic Beliefs](https://arxiv.org/abs/2604.18576v1)** | 2026-04-20 |  |
-| **[Transition-Matrix Regularization for Next Dialogue Act Prediction in Counselling Conversations](https://arxiv.org/abs/2604.18539v1)** | 2026-04-20 | <details><summary>Accep...</summary><p>Accepted as ACL findings paper</p></details> |
-| **[MetaCloak-JPEG: JPEG-Robust Adversarial Perturbation for Preventing Unauthorized DreamBooth-Based Deepfake Generation](https://arxiv.org/abs/2604.18537v1)** | 2026-04-20 | 8 pages, 5 figures |
-| **[An LLM-Guided Query-Aware Inference System for GNN Models on Large Knowledge Graphs](https://arxiv.org/abs/2603.04545v2)** | 2026-04-20 | 14 pages, 11 figures |
-| **[GeoRC: A Benchmark for Geolocation Reasoning Chains](https://arxiv.org/abs/2601.21278v2)** | 2026-04-20 | Accepted to ACL 2026 |
-| **[XEmbodied: A Foundation Model with Enhanced Geometric and Physical Cues for Large-Scale Embodied Environments](https://arxiv.org/abs/2604.18484v1)** | 2026-04-20 | 15 pages, 5 figures |
-| **[Physics-Informed Neural Networks: A Didactic Derivation of the Complete Training Cycle](https://arxiv.org/abs/2604.18481v1)** | 2026-04-20 | <details><summary>22 pa...</summary><p>22 pages, 5 figures, companion code at https://github.com/Tahimi/PINN-Didactic-Training-Cycle</p></details> |
+| **[Regression with Large Language Models for Materials and Molecular Property Prediction](https://arxiv.org/abs/2409.06080v2)** | 2026-04-21 |  |
+| **[Mask World Model: Predicting What Matters for Robust Robot Policy Learning](https://arxiv.org/abs/2604.19683v1)** | 2026-04-21 | 16 pages,5 figures |
+| **[ECLASS-Augmented Semantic Product Search for Electronic Components](https://arxiv.org/abs/2604.19664v1)** | 2026-04-21 |  |
+| **[FEPLB: Exploiting Copy Engines for Nearly Free MoE Load Balancing in Distributed Training](https://arxiv.org/abs/2604.19654v1)** | 2026-04-21 | 6 pages, 6 figures |
+| **[Agentic Forecasting using Sequential Bayesian Updating of Linguistic Beliefs](https://arxiv.org/abs/2604.18576v2)** | 2026-04-21 | <details><summary>v2 fi...</summary><p>v2 fixes a critical error in v1 related to calculation of Brier Index, and makes several important changes to the presentation</p></details> |
+| **[Validating UTF-8 In Less Than One Instruction Per Byte](https://arxiv.org/abs/2010.03090v5)** | 2026-04-21 |  |
+| **[Adding Compilation Metadata To Binaries To Make Disassembly Decidable](https://arxiv.org/abs/2604.19628v1)** | 2026-04-21 | <details><summary>12 pa...</summary><p>12 pages, 5 figures, 2 tables. Submitted to QRS 2026</p></details> |
+| **[MiroThinker: Pushing the Performance Boundaries of Open-Source Research Agents via Model, Context, and Interactive Scaling](https://arxiv.org/abs/2511.11793v3)** | 2026-04-21 | Technical Report |
+| **[AblateCell: A Reproduce-then-Ablate Agent for Virtual Cell Repositories](https://arxiv.org/abs/2604.19606v1)** | 2026-04-21 | 25 pages, 5 figures |
+| **[Active Inference-Enabled Agentic Closed-Loop ISAC with Long-Horizon Planning](https://arxiv.org/abs/2604.19599v1)** | 2026-04-21 | <details><summary>5 pag...</summary><p>5 pages, 4 figures and 1 table. This work has been submitted to the IEEE for possible publication</p></details> |
 
 ## Diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[MathNet: a Global Multimodal Benchmark for Mathematical Reasoning and Retrieval](https://arxiv.org/abs/2604.18584v1)** | 2026-04-20 | <details><summary>ICLR ...</summary><p>ICLR 2026; Website: http://mathnet.mit.edu</p></details> |
-| **[Self-Correcting Text-to-Video Generation with Misalignment Detection and Localized Refinement](https://arxiv.org/abs/2411.15115v3)** | 2026-04-20 | <details><summary>Accep...</summary><p>Accepted to ACL 2026 Findings. Project page: https://video-repair.github.io</p></details> |
-| **[Sessa: Selective State Space Attention](https://arxiv.org/abs/2604.18580v1)** | 2026-04-20 | <details><summary>Code ...</summary><p>Code available at: https://github.com/LibratioAI/sessa</p></details> |
-| **[Agentic Forecasting using Sequential Bayesian Updating of Linguistic Beliefs](https://arxiv.org/abs/2604.18576v1)** | 2026-04-20 |  |
-| **[ReCap: Lightweight Referential Grounding for Coherent Story Visualization](https://arxiv.org/abs/2604.18575v1)** | 2026-04-20 | <details><summary>Diffu...</summary><p>Diffusion Models, Story Visualization</p></details> |
-| **[Physics-Informed Neural Networks for Biological $2\mathrm{D}{+}t$ Reaction-Diffusion Systems](https://arxiv.org/abs/2604.18548v1)** | 2026-04-20 |  |
-| **[Transition-Matrix Regularization for Next Dialogue Act Prediction in Counselling Conversations](https://arxiv.org/abs/2604.18539v1)** | 2026-04-20 | <details><summary>Accep...</summary><p>Accepted as ACL findings paper</p></details> |
-| **[MetaCloak-JPEG: JPEG-Robust Adversarial Perturbation for Preventing Unauthorized DreamBooth-Based Deepfake Generation](https://arxiv.org/abs/2604.18537v1)** | 2026-04-20 | 8 pages, 5 figures |
-| **[Rays as Pixels: Learning A Joint Distribution of Videos and Camera Trajectories](https://arxiv.org/abs/2604.09429v2)** | 2026-04-20 | <details><summary>9 pag...</summary><p>9 pages, 6 figures, 4 tables. Project page: https://wbjang.github.io/raysaspixels/</p></details> |
-| **[UDM-GRPO: Stable and Efficient Group Relative Policy Optimization for Uniform Discrete Diffusion Models](https://arxiv.org/abs/2604.18518v1)** | 2026-04-20 | <details><summary>Code:...</summary><p>Code:\href{https://github.com/Yovecent/UDM-GRPO}{this https URL}</p></details> |
-| **[GeoRC: A Benchmark for Geolocation Reasoning Chains](https://arxiv.org/abs/2601.21278v2)** | 2026-04-20 | Accepted to ACL 2026 |
+| **[AnyRecon: Arbitrary-View 3D Reconstruction with Video Diffusion Model](https://arxiv.org/abs/2604.19747v1)** | 2026-04-21 | <details><summary>Webpa...</summary><p>Webpage: https://yutian10.github.io/AnyRecon/</p></details> |
+| **[FASTER: Value-Guided Sampling for Fast RL](https://arxiv.org/abs/2604.19730v1)** | 2026-04-21 |  |
+| **[ReImagine: Rethinking Controllable High-Quality Human Video Generation via Image-First Synthesis](https://arxiv.org/abs/2604.19720v1)** | 2026-04-21 |  |
+| **[Regression with Large Language Models for Materials and Molecular Property Prediction](https://arxiv.org/abs/2409.06080v2)** | 2026-04-21 |  |
+| **[Mask World Model: Predicting What Matters for Robust Robot Policy Learning](https://arxiv.org/abs/2604.19683v1)** | 2026-04-21 | 16 pages,5 figures |
+| **[ORSIFlow: Saliency-Guided Rectified Flow for Optical Remote Sensing Salient Object Detection](https://arxiv.org/abs/2603.28584v3)** | 2026-04-21 |  |
+| **[MMControl: Unified Multi-Modal Control for Joint Audio-Video Generation](https://arxiv.org/abs/2604.19679v1)** | 2026-04-21 |  |
+| **[MedFlowSeg: Flow Matching for Medical Image Segmentation with Frequency-Aware Attention](https://arxiv.org/abs/2604.19675v1)** | 2026-04-21 |  |
+| **[Fast and Robust Diffusion Posterior Sampling for MR Image Reconstruction Using the Preconditioned Unadjusted Langevin Algorithm](https://arxiv.org/abs/2512.05791v2)** | 2026-04-21 | <details><summary>Submi...</summary><p>Submitted to Magnetic Resonance in Medicine</p></details> |
+| **[Conjuring Semantic Similarity](https://arxiv.org/abs/2410.16431v4)** | 2026-04-21 | ICLR 2026 |
+| **[Budgeted Online Influence Maximization](https://arxiv.org/abs/2604.19672v1)** | 2026-04-21 | <details><summary>37th ...</summary><p>37th International Conference on Machine Learning (ICML 2020), 28 pages</p></details> |
+| **[Multi-Cycle Spatio-Temporal Adaptation in Human-Robot Teaming](https://arxiv.org/abs/2604.19670v1)** | 2026-04-21 | 8 pages, 7 figures |
+| **[ECLASS-Augmented Semantic Product Search for Electronic Components](https://arxiv.org/abs/2604.19664v1)** | 2026-04-21 |  |
 
 ## Object Counting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[MathNet: a Global Multimodal Benchmark for Mathematical Reasoning and Retrieval](https://arxiv.org/abs/2604.18584v1)** | 2026-04-20 | <details><summary>ICLR ...</summary><p>ICLR 2026; Website: http://mathnet.mit.edu</p></details> |
-| **[Agentic Forecasting using Sequential Bayesian Updating of Linguistic Beliefs](https://arxiv.org/abs/2604.18576v1)** | 2026-04-20 |  |
-| **[Transition-Matrix Regularization for Next Dialogue Act Prediction in Counselling Conversations](https://arxiv.org/abs/2604.18539v1)** | 2026-04-20 | <details><summary>Accep...</summary><p>Accepted as ACL findings paper</p></details> |
-| **[MetaCloak-JPEG: JPEG-Robust Adversarial Perturbation for Preventing Unauthorized DreamBooth-Based Deepfake Generation](https://arxiv.org/abs/2604.18537v1)** | 2026-04-20 | 8 pages, 5 figures |
-| **[GeoRC: A Benchmark for Geolocation Reasoning Chains](https://arxiv.org/abs/2601.21278v2)** | 2026-04-20 | Accepted to ACL 2026 |
-| **[XEmbodied: A Foundation Model with Enhanced Geometric and Physical Cues for Large-Scale Embodied Environments](https://arxiv.org/abs/2604.18484v1)** | 2026-04-20 | 15 pages, 5 figures |
-| **[Physics-Informed Neural Networks: A Didactic Derivation of the Complete Training Cycle](https://arxiv.org/abs/2604.18481v1)** | 2026-04-20 | <details><summary>22 pa...</summary><p>22 pages, 5 figures, companion code at https://github.com/Tahimi/PINN-Didactic-Training-Cycle</p></details> |
+| **[Regression with Large Language Models for Materials and Molecular Property Prediction](https://arxiv.org/abs/2409.06080v2)** | 2026-04-21 |  |
+| **[Mask World Model: Predicting What Matters for Robust Robot Policy Learning](https://arxiv.org/abs/2604.19683v1)** | 2026-04-21 | 16 pages,5 figures |
+| **[ECLASS-Augmented Semantic Product Search for Electronic Components](https://arxiv.org/abs/2604.19664v1)** | 2026-04-21 |  |
+| **[FEPLB: Exploiting Copy Engines for Nearly Free MoE Load Balancing in Distributed Training](https://arxiv.org/abs/2604.19654v1)** | 2026-04-21 | 6 pages, 6 figures |
+| **[Agentic Forecasting using Sequential Bayesian Updating of Linguistic Beliefs](https://arxiv.org/abs/2604.18576v2)** | 2026-04-21 | <details><summary>v2 fi...</summary><p>v2 fixes a critical error in v1 related to calculation of Brier Index, and makes several important changes to the presentation</p></details> |
+| **[Validating UTF-8 In Less Than One Instruction Per Byte](https://arxiv.org/abs/2010.03090v5)** | 2026-04-21 |  |
+| **[Adding Compilation Metadata To Binaries To Make Disassembly Decidable](https://arxiv.org/abs/2604.19628v1)** | 2026-04-21 | <details><summary>12 pa...</summary><p>12 pages, 5 figures, 2 tables. Submitted to QRS 2026</p></details> |
+| **[MiroThinker: Pushing the Performance Boundaries of Open-Source Research Agents via Model, Context, and Interactive Scaling](https://arxiv.org/abs/2511.11793v3)** | 2026-04-21 | Technical Report |
+| **[AblateCell: A Reproduce-then-Ablate Agent for Virtual Cell Repositories](https://arxiv.org/abs/2604.19606v1)** | 2026-04-21 | 25 pages, 5 figures |
+| **[Active Inference-Enabled Agentic Closed-Loop ISAC with Long-Horizon Planning](https://arxiv.org/abs/2604.19599v1)** | 2026-04-21 | <details><summary>5 pag...</summary><p>5 pages, 4 figures and 1 table. This work has been submitted to the IEEE for possible publication</p></details> |
 
 ## Image Caption
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[MathNet: a Global Multimodal Benchmark for Mathematical Reasoning and Retrieval](https://arxiv.org/abs/2604.18584v1)** | 2026-04-20 | <details><summary>ICLR ...</summary><p>ICLR 2026; Website: http://mathnet.mit.edu</p></details> |
-| **[Agentic Forecasting using Sequential Bayesian Updating of Linguistic Beliefs](https://arxiv.org/abs/2604.18576v1)** | 2026-04-20 |  |
-| **[Back into Plato's Cave: Examining Cross-modal Representational Convergence at Scale](https://arxiv.org/abs/2604.18572v1)** | 2026-04-20 | <details><summary>Proje...</summary><p>Project page: http://akoepke.github.io/cave_umwelten/</p></details> |
-| **[Transition-Matrix Regularization for Next Dialogue Act Prediction in Counselling Conversations](https://arxiv.org/abs/2604.18539v1)** | 2026-04-20 | <details><summary>Accep...</summary><p>Accepted as ACL findings paper</p></details> |
-| **[MetaCloak-JPEG: JPEG-Robust Adversarial Perturbation for Preventing Unauthorized DreamBooth-Based Deepfake Generation](https://arxiv.org/abs/2604.18537v1)** | 2026-04-20 | 8 pages, 5 figures |
-| **[GeoRC: A Benchmark for Geolocation Reasoning Chains](https://arxiv.org/abs/2601.21278v2)** | 2026-04-20 | Accepted to ACL 2026 |
-| **[XEmbodied: A Foundation Model with Enhanced Geometric and Physical Cues for Large-Scale Embodied Environments](https://arxiv.org/abs/2604.18484v1)** | 2026-04-20 | 15 pages, 5 figures |
-| **[Physics-Informed Neural Networks: A Didactic Derivation of the Complete Training Cycle](https://arxiv.org/abs/2604.18481v1)** | 2026-04-20 | <details><summary>22 pa...</summary><p>22 pages, 5 figures, companion code at https://github.com/Tahimi/PINN-Didactic-Training-Cycle</p></details> |
+| **[Regression with Large Language Models for Materials and Molecular Property Prediction](https://arxiv.org/abs/2409.06080v2)** | 2026-04-21 |  |
+| **[Mask World Model: Predicting What Matters for Robust Robot Policy Learning](https://arxiv.org/abs/2604.19683v1)** | 2026-04-21 | 16 pages,5 figures |
+| **[ECLASS-Augmented Semantic Product Search for Electronic Components](https://arxiv.org/abs/2604.19664v1)** | 2026-04-21 |  |
+| **[FEPLB: Exploiting Copy Engines for Nearly Free MoE Load Balancing in Distributed Training](https://arxiv.org/abs/2604.19654v1)** | 2026-04-21 | 6 pages, 6 figures |
+| **[Agentic Forecasting using Sequential Bayesian Updating of Linguistic Beliefs](https://arxiv.org/abs/2604.18576v2)** | 2026-04-21 | <details><summary>v2 fi...</summary><p>v2 fixes a critical error in v1 related to calculation of Brier Index, and makes several important changes to the presentation</p></details> |
+| **[Validating UTF-8 In Less Than One Instruction Per Byte](https://arxiv.org/abs/2010.03090v5)** | 2026-04-21 |  |
+| **[Adding Compilation Metadata To Binaries To Make Disassembly Decidable](https://arxiv.org/abs/2604.19628v1)** | 2026-04-21 | <details><summary>12 pa...</summary><p>12 pages, 5 figures, 2 tables. Submitted to QRS 2026</p></details> |
+| **[MiroThinker: Pushing the Performance Boundaries of Open-Source Research Agents via Model, Context, and Interactive Scaling](https://arxiv.org/abs/2511.11793v3)** | 2026-04-21 | Technical Report |
+| **[AblateCell: A Reproduce-then-Ablate Agent for Virtual Cell Repositories](https://arxiv.org/abs/2604.19606v1)** | 2026-04-21 | 25 pages, 5 figures |
+| **[Active Inference-Enabled Agentic Closed-Loop ISAC with Long-Horizon Planning](https://arxiv.org/abs/2604.19599v1)** | 2026-04-21 | <details><summary>5 pag...</summary><p>5 pages, 4 figures and 1 table. This work has been submitted to the IEEE for possible publication</p></details> |
 
 ## Describe
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[MathNet: a Global Multimodal Benchmark for Mathematical Reasoning and Retrieval](https://arxiv.org/abs/2604.18584v1)** | 2026-04-20 | <details><summary>ICLR ...</summary><p>ICLR 2026; Website: http://mathnet.mit.edu</p></details> |
-| **[Agentic Forecasting using Sequential Bayesian Updating of Linguistic Beliefs](https://arxiv.org/abs/2604.18576v1)** | 2026-04-20 |  |
-| **[A Protocol for Compliant, Obliviously Managed Electronic Transfers](https://arxiv.org/abs/2501.10419v2)** | 2026-04-20 | 7 pages, 4 figures |
-| **[A Note on TurboQuant and the Earlier DRIVE/EDEN Line of Work](https://arxiv.org/abs/2604.18555v1)** | 2026-04-20 |  |
-| **[Do Privacy Policies Match with the Logs? An Empirical Study of Privacy Disclosure in Android Application Logs](https://arxiv.org/abs/2604.18552v1)** | 2026-04-20 |  |
-| **[ClawEnvKit: Automatic Environment Generation for Claw-Like Agents](https://arxiv.org/abs/2604.18543v1)** | 2026-04-20 |  |
-| **[Transition-Matrix Regularization for Next Dialogue Act Prediction in Counselling Conversations](https://arxiv.org/abs/2604.18539v1)** | 2026-04-20 | <details><summary>Accep...</summary><p>Accepted as ACL findings paper</p></details> |
-| **[Sark: Oblivious Integrity Without Global State](https://arxiv.org/abs/2512.20775v2)** | 2026-04-20 | <details><summary>11 pa...</summary><p>11 pages, 11 figures, 3 tables</p></details> |
-| **[MetaCloak-JPEG: JPEG-Robust Adversarial Perturbation for Preventing Unauthorized DreamBooth-Based Deepfake Generation](https://arxiv.org/abs/2604.18537v1)** | 2026-04-20 | 8 pages, 5 figures |
-| **[Different Paths to Harmful Compliance: Behavioral Side Effects and Mechanistic Divergence Across LLM Jailbreaks](https://arxiv.org/abs/2604.18510v1)** | 2026-04-20 |  |
+| **[On Languages Describing Large Graph Classes](https://arxiv.org/abs/2604.19719v1)** | 2026-04-21 | <details><summary>arXiv...</summary><p>arXiv admin note: substantial text overlap with arXiv:2411.03274</p></details> |
+| **[Regression with Large Language Models for Materials and Molecular Property Prediction](https://arxiv.org/abs/2409.06080v2)** | 2026-04-21 |  |
+| **[Mask World Model: Predicting What Matters for Robust Robot Policy Learning](https://arxiv.org/abs/2604.19683v1)** | 2026-04-21 | 16 pages,5 figures |
+| **[ECLASS-Augmented Semantic Product Search for Electronic Components](https://arxiv.org/abs/2604.19664v1)** | 2026-04-21 |  |
+| **[An AI Agent Execution Environment to Safeguard User Data](https://arxiv.org/abs/2604.19657v1)** | 2026-04-21 |  |
+| **[FEPLB: Exploiting Copy Engines for Nearly Free MoE Load Balancing in Distributed Training](https://arxiv.org/abs/2604.19654v1)** | 2026-04-21 | 6 pages, 6 figures |
+| **[Agentic Forecasting using Sequential Bayesian Updating of Linguistic Beliefs](https://arxiv.org/abs/2604.18576v2)** | 2026-04-21 | <details><summary>v2 fi...</summary><p>v2 fixes a critical error in v1 related to calculation of Brier Index, and makes several important changes to the presentation</p></details> |
+| **[Primitive-Root Determinant Densities over Prime Fields and Implications for PRIM-LWE](https://arxiv.org/abs/2603.11196v4)** | 2026-04-21 |  |
+| **[Validating UTF-8 In Less Than One Instruction Per Byte](https://arxiv.org/abs/2010.03090v5)** | 2026-04-21 |  |
+| **[Adding Compilation Metadata To Binaries To Make Disassembly Decidable](https://arxiv.org/abs/2604.19628v1)** | 2026-04-21 | <details><summary>12 pa...</summary><p>12 pages, 5 figures, 2 tables. Submitted to QRS 2026</p></details> |
+| **[The "Small World of Words" German Free-Association Norms](https://arxiv.org/abs/2604.19620v1)** | 2026-04-21 |  |
 
 ## Light Weight
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[MathNet: a Global Multimodal Benchmark for Mathematical Reasoning and Retrieval](https://arxiv.org/abs/2604.18584v1)** | 2026-04-20 | <details><summary>ICLR ...</summary><p>ICLR 2026; Website: http://mathnet.mit.edu</p></details> |
-| **[Agentic Forecasting using Sequential Bayesian Updating of Linguistic Beliefs](https://arxiv.org/abs/2604.18576v1)** | 2026-04-20 |  |
-| **[Transition-Matrix Regularization for Next Dialogue Act Prediction in Counselling Conversations](https://arxiv.org/abs/2604.18539v1)** | 2026-04-20 | <details><summary>Accep...</summary><p>Accepted as ACL findings paper</p></details> |
-| **[MetaCloak-JPEG: JPEG-Robust Adversarial Perturbation for Preventing Unauthorized DreamBooth-Based Deepfake Generation](https://arxiv.org/abs/2604.18537v1)** | 2026-04-20 | 8 pages, 5 figures |
-| **[GeoRC: A Benchmark for Geolocation Reasoning Chains](https://arxiv.org/abs/2601.21278v2)** | 2026-04-20 | Accepted to ACL 2026 |
-| **[XEmbodied: A Foundation Model with Enhanced Geometric and Physical Cues for Large-Scale Embodied Environments](https://arxiv.org/abs/2604.18484v1)** | 2026-04-20 | 15 pages, 5 figures |
-| **[Physics-Informed Neural Networks: A Didactic Derivation of the Complete Training Cycle](https://arxiv.org/abs/2604.18481v1)** | 2026-04-20 | <details><summary>22 pa...</summary><p>22 pages, 5 figures, companion code at https://github.com/Tahimi/PINN-Didactic-Training-Cycle</p></details> |
-| **[ESsEN: Training Compact Discriminative Vision-Language Transformers in a Low-Resource Setting](https://arxiv.org/abs/2604.18452v1)** | 2026-04-20 |  |
+| **[Regression with Large Language Models for Materials and Molecular Property Prediction](https://arxiv.org/abs/2409.06080v2)** | 2026-04-21 |  |
+| **[Mask World Model: Predicting What Matters for Robust Robot Policy Learning](https://arxiv.org/abs/2604.19683v1)** | 2026-04-21 | 16 pages,5 figures |
+| **[ECLASS-Augmented Semantic Product Search for Electronic Components](https://arxiv.org/abs/2604.19664v1)** | 2026-04-21 |  |
+| **[FEPLB: Exploiting Copy Engines for Nearly Free MoE Load Balancing in Distributed Training](https://arxiv.org/abs/2604.19654v1)** | 2026-04-21 | 6 pages, 6 figures |
+| **[Agentic Forecasting using Sequential Bayesian Updating of Linguistic Beliefs](https://arxiv.org/abs/2604.18576v2)** | 2026-04-21 | <details><summary>v2 fi...</summary><p>v2 fixes a critical error in v1 related to calculation of Brier Index, and makes several important changes to the presentation</p></details> |
+| **[Validating UTF-8 In Less Than One Instruction Per Byte](https://arxiv.org/abs/2010.03090v5)** | 2026-04-21 |  |
+| **[Adding Compilation Metadata To Binaries To Make Disassembly Decidable](https://arxiv.org/abs/2604.19628v1)** | 2026-04-21 | <details><summary>12 pa...</summary><p>12 pages, 5 figures, 2 tables. Submitted to QRS 2026</p></details> |
+| **[MiroThinker: Pushing the Performance Boundaries of Open-Source Research Agents via Model, Context, and Interactive Scaling](https://arxiv.org/abs/2511.11793v3)** | 2026-04-21 | Technical Report |
+| **[AblateCell: A Reproduce-then-Ablate Agent for Virtual Cell Repositories](https://arxiv.org/abs/2604.19606v1)** | 2026-04-21 | 25 pages, 5 figures |
+| **[Active Inference-Enabled Agentic Closed-Loop ISAC with Long-Horizon Planning](https://arxiv.org/abs/2604.19599v1)** | 2026-04-21 | <details><summary>5 pag...</summary><p>5 pages, 4 figures and 1 table. This work has been submitted to the IEEE for possible publication</p></details> |
 
 ## Class Incremental
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[MathNet: a Global Multimodal Benchmark for Mathematical Reasoning and Retrieval](https://arxiv.org/abs/2604.18584v1)** | 2026-04-20 | <details><summary>ICLR ...</summary><p>ICLR 2026; Website: http://mathnet.mit.edu</p></details> |
-| **[Agentic Forecasting using Sequential Bayesian Updating of Linguistic Beliefs](https://arxiv.org/abs/2604.18576v1)** | 2026-04-20 |  |
-| **[Transition-Matrix Regularization for Next Dialogue Act Prediction in Counselling Conversations](https://arxiv.org/abs/2604.18539v1)** | 2026-04-20 | <details><summary>Accep...</summary><p>Accepted as ACL findings paper</p></details> |
-| **[MetaCloak-JPEG: JPEG-Robust Adversarial Perturbation for Preventing Unauthorized DreamBooth-Based Deepfake Generation](https://arxiv.org/abs/2604.18537v1)** | 2026-04-20 | 8 pages, 5 figures |
-| **[GeoRC: A Benchmark for Geolocation Reasoning Chains](https://arxiv.org/abs/2601.21278v2)** | 2026-04-20 | Accepted to ACL 2026 |
-| **[XEmbodied: A Foundation Model with Enhanced Geometric and Physical Cues for Large-Scale Embodied Environments](https://arxiv.org/abs/2604.18484v1)** | 2026-04-20 | 15 pages, 5 figures |
-| **[Physics-Informed Neural Networks: A Didactic Derivation of the Complete Training Cycle](https://arxiv.org/abs/2604.18481v1)** | 2026-04-20 | <details><summary>22 pa...</summary><p>22 pages, 5 figures, companion code at https://github.com/Tahimi/PINN-Didactic-Training-Cycle</p></details> |
+| **[Regression with Large Language Models for Materials and Molecular Property Prediction](https://arxiv.org/abs/2409.06080v2)** | 2026-04-21 |  |
+| **[Mask World Model: Predicting What Matters for Robust Robot Policy Learning](https://arxiv.org/abs/2604.19683v1)** | 2026-04-21 | 16 pages,5 figures |
+| **[ECLASS-Augmented Semantic Product Search for Electronic Components](https://arxiv.org/abs/2604.19664v1)** | 2026-04-21 |  |
+| **[FEPLB: Exploiting Copy Engines for Nearly Free MoE Load Balancing in Distributed Training](https://arxiv.org/abs/2604.19654v1)** | 2026-04-21 | 6 pages, 6 figures |
+| **[Agentic Forecasting using Sequential Bayesian Updating of Linguistic Beliefs](https://arxiv.org/abs/2604.18576v2)** | 2026-04-21 | <details><summary>v2 fi...</summary><p>v2 fixes a critical error in v1 related to calculation of Brier Index, and makes several important changes to the presentation</p></details> |
+| **[Validating UTF-8 In Less Than One Instruction Per Byte](https://arxiv.org/abs/2010.03090v5)** | 2026-04-21 |  |
+| **[Adding Compilation Metadata To Binaries To Make Disassembly Decidable](https://arxiv.org/abs/2604.19628v1)** | 2026-04-21 | <details><summary>12 pa...</summary><p>12 pages, 5 figures, 2 tables. Submitted to QRS 2026</p></details> |
+| **[MiroThinker: Pushing the Performance Boundaries of Open-Source Research Agents via Model, Context, and Interactive Scaling](https://arxiv.org/abs/2511.11793v3)** | 2026-04-21 | Technical Report |
+| **[AblateCell: A Reproduce-then-Ablate Agent for Virtual Cell Repositories](https://arxiv.org/abs/2604.19606v1)** | 2026-04-21 | 25 pages, 5 figures |
+| **[Active Inference-Enabled Agentic Closed-Loop ISAC with Long-Horizon Planning](https://arxiv.org/abs/2604.19599v1)** | 2026-04-21 | <details><summary>5 pag...</summary><p>5 pages, 4 figures and 1 table. This work has been submitted to the IEEE for possible publication</p></details> |
 
