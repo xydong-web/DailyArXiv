@@ -1,5 +1,5 @@
 ---
-title: Latest 50 Papers - April 24, 2026
+title: Latest 50 Papers - April 26, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/JiamingZang/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,123 +7,102 @@ labels: documentation
 ## Molecular
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[From Finite Enumeration to Universal Proof: Ring-Theoretic Foundations for PQC Hardware Masking Verification](https://arxiv.org/abs/2604.18717v2)** | 2026-04-22 | 15 pages, 1 figure |
-| **[Convergent Evolution: How Different Language Models Learn Similar Number Representations](https://arxiv.org/abs/2604.20817v1)** | 2026-04-22 |  |
-| **[Mask World Model: Predicting What Matters for Robust Robot Policy Learning](https://arxiv.org/abs/2604.19683v2)** | 2026-04-22 | 16 pages,5 figures |
-| **[Gauge-Equivariant Graph Neural Networks for Lattice Gauge Theories](https://arxiv.org/abs/2604.20797v1)** | 2026-04-22 | 11 pages, 5 figures |
-| **[Can "AI" Be a Doctor? A Study of Empathy, Readability, and Alignment in Clinical LLMs](https://arxiv.org/abs/2604.20791v1)** | 2026-04-22 |  |
-| **[QuanBench+: A Unified Multi-Framework Benchmark for LLM-Based Quantum Code Generation](https://arxiv.org/abs/2604.08570v2)** | 2026-04-22 | <details><summary>24 pa...</summary><p>24 pages total, 25 figures, 5 tables, including supplementary material. Accepted to the ICLR 2026 Workshop on I Can't Believe It's Not Better</p></details> |
-| **[Colorful Talks with Graphs: Human-Interpretable Graph Encodings for Large Language Models](https://arxiv.org/abs/2602.10386v2)** | 2026-04-22 | <details><summary>Accep...</summary><p>Accepted to ACL Findings 2026 22 pages, 18 tables, 5 figures</p></details> |
-| **[Decoupling Speculation from Merit: The Identity-Bound Asset Integrity Model (IBAIM) for Sustainable Web3 Gaming](https://arxiv.org/abs/2604.20737v1)** | 2026-04-22 | 6 pages,5 figures |
-| **[F\textsuperscript{2}LP-AP: Fast \& Flexible Label Propagation with Adaptive Propagation Kernel](https://arxiv.org/abs/2604.20736v1)** | 2026-04-22 | 16 pages, 5 figures |
+| **[Cyber Defense Benchmark: Agentic Threat Hunting Evaluation for LLMs in SecOps](https://arxiv.org/abs/2604.19533v3)** | 2026-04-23 | <details><summary>Updat...</summary><p>Updated leaderboard with newer models</p></details> |
+| **[ATOM: A Pretrained Neural Operator for Multitask Molecular Dynamics](https://arxiv.org/abs/2510.05482v2)** | 2026-04-23 | Accepted at ICLR2026 |
+| **[Revealing Geography-Driven Signals in Zone-Level Claim Frequency Models: An Empirical Study using Environmental and Visual Predictors](https://arxiv.org/abs/2604.21893v1)** | 2026-04-23 | 35 pages, 8 figures |
+| **[Survey on Evaluation of LLM-based Agents](https://arxiv.org/abs/2503.16416v2)** | 2026-04-23 | ACL Findings |
+| **[Replay-buffer engineering for noise-robust quantum circuit optimization](https://arxiv.org/abs/2604.21863v1)** | 2026-04-23 | <details><summary>Comme...</summary><p>Comments are warmly welcomed. 9 page main content, 17 page appendix</p></details> |
+| **[Neuromorphic Computing Based on Parametrically-Driven Oscillators and Frequency Combs](https://arxiv.org/abs/2604.21861v1)** | 2026-04-23 | 7 pages, 5 figures |
+| **[Nonlinear Causal Discovery through a Sequential Edge Orientation Approach](https://arxiv.org/abs/2506.05590v3)** | 2026-04-23 | <details><summary>59 pa...</summary><p>59 pages, 18 figures, 5 tables</p></details> |
 
 ## Molecular Generation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[From Finite Enumeration to Universal Proof: Ring-Theoretic Foundations for PQC Hardware Masking Verification](https://arxiv.org/abs/2604.18717v2)** | 2026-04-22 | 15 pages, 1 figure |
-| **[Convergent Evolution: How Different Language Models Learn Similar Number Representations](https://arxiv.org/abs/2604.20817v1)** | 2026-04-22 |  |
-| **[Mask World Model: Predicting What Matters for Robust Robot Policy Learning](https://arxiv.org/abs/2604.19683v2)** | 2026-04-22 | 16 pages,5 figures |
-| **[Gauge-Equivariant Graph Neural Networks for Lattice Gauge Theories](https://arxiv.org/abs/2604.20797v1)** | 2026-04-22 | 11 pages, 5 figures |
-| **[Can "AI" Be a Doctor? A Study of Empathy, Readability, and Alignment in Clinical LLMs](https://arxiv.org/abs/2604.20791v1)** | 2026-04-22 |  |
-| **[QuanBench+: A Unified Multi-Framework Benchmark for LLM-Based Quantum Code Generation](https://arxiv.org/abs/2604.08570v2)** | 2026-04-22 | <details><summary>24 pa...</summary><p>24 pages total, 25 figures, 5 tables, including supplementary material. Accepted to the ICLR 2026 Workshop on I Can't Believe It's Not Better</p></details> |
-| **[Colorful Talks with Graphs: Human-Interpretable Graph Encodings for Large Language Models](https://arxiv.org/abs/2602.10386v2)** | 2026-04-22 | <details><summary>Accep...</summary><p>Accepted to ACL Findings 2026 22 pages, 18 tables, 5 figures</p></details> |
-| **[Decoupling Speculation from Merit: The Identity-Bound Asset Integrity Model (IBAIM) for Sustainable Web3 Gaming](https://arxiv.org/abs/2604.20737v1)** | 2026-04-22 | 6 pages,5 figures |
-| **[F\textsuperscript{2}LP-AP: Fast \& Flexible Label Propagation with Adaptive Propagation Kernel](https://arxiv.org/abs/2604.20736v1)** | 2026-04-22 | 16 pages, 5 figures |
-| **[Cyber Defense Benchmark: Agentic Threat Hunting Evaluation for LLMs in SecOps](https://arxiv.org/abs/2604.19533v2)** | 2026-04-22 | <details><summary>13 pa...</summary><p>13 pages, 3 figures, 5 tables. Complete benchmark and hunt traces available on request</p></details> |
+| **[Cyber Defense Benchmark: Agentic Threat Hunting Evaluation for LLMs in SecOps](https://arxiv.org/abs/2604.19533v3)** | 2026-04-23 | <details><summary>Updat...</summary><p>Updated leaderboard with newer models</p></details> |
+| **[Revealing Geography-Driven Signals in Zone-Level Claim Frequency Models: An Empirical Study using Environmental and Visual Predictors](https://arxiv.org/abs/2604.21893v1)** | 2026-04-23 | 35 pages, 8 figures |
+| **[Survey on Evaluation of LLM-based Agents](https://arxiv.org/abs/2503.16416v2)** | 2026-04-23 | ACL Findings |
+| **[Neuromorphic Computing Based on Parametrically-Driven Oscillators and Frequency Combs](https://arxiv.org/abs/2604.21861v1)** | 2026-04-23 | 7 pages, 5 figures |
+| **[Nonlinear Causal Discovery through a Sequential Edge Orientation Approach](https://arxiv.org/abs/2506.05590v3)** | 2026-04-23 | <details><summary>59 pa...</summary><p>59 pages, 18 figures, 5 tables</p></details> |
+| **[Black-Box Skill Stealing Attack from Proprietary LLM Agents: An Empirical Study](https://arxiv.org/abs/2604.21829v1)** | 2026-04-23 | Preprint |
+| **[Iterative Receiver Processing at Relays in PNC-Enabled Multi-Hop Underwater Acoustic Networks](https://arxiv.org/abs/2604.21819v1)** | 2026-04-23 |  |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[From Finite Enumeration to Universal Proof: Ring-Theoretic Foundations for PQC Hardware Masking Verification](https://arxiv.org/abs/2604.18717v2)** | 2026-04-22 | 15 pages, 1 figure |
-| **[Convergent Evolution: How Different Language Models Learn Similar Number Representations](https://arxiv.org/abs/2604.20817v1)** | 2026-04-22 |  |
-| **[Mask World Model: Predicting What Matters for Robust Robot Policy Learning](https://arxiv.org/abs/2604.19683v2)** | 2026-04-22 | 16 pages,5 figures |
-| **[Gauge-Equivariant Graph Neural Networks for Lattice Gauge Theories](https://arxiv.org/abs/2604.20797v1)** | 2026-04-22 | 11 pages, 5 figures |
-| **[Can "AI" Be a Doctor? A Study of Empathy, Readability, and Alignment in Clinical LLMs](https://arxiv.org/abs/2604.20791v1)** | 2026-04-22 |  |
-| **[QuanBench+: A Unified Multi-Framework Benchmark for LLM-Based Quantum Code Generation](https://arxiv.org/abs/2604.08570v2)** | 2026-04-22 | <details><summary>24 pa...</summary><p>24 pages total, 25 figures, 5 tables, including supplementary material. Accepted to the ICLR 2026 Workshop on I Can't Believe It's Not Better</p></details> |
-| **[Colorful Talks with Graphs: Human-Interpretable Graph Encodings for Large Language Models](https://arxiv.org/abs/2602.10386v2)** | 2026-04-22 | <details><summary>Accep...</summary><p>Accepted to ACL Findings 2026 22 pages, 18 tables, 5 figures</p></details> |
-| **[Decoupling Speculation from Merit: The Identity-Bound Asset Integrity Model (IBAIM) for Sustainable Web3 Gaming](https://arxiv.org/abs/2604.20737v1)** | 2026-04-22 | 6 pages,5 figures |
-| **[F\textsuperscript{2}LP-AP: Fast \& Flexible Label Propagation with Adaptive Propagation Kernel](https://arxiv.org/abs/2604.20736v1)** | 2026-04-22 | 16 pages, 5 figures |
-| **[Cyber Defense Benchmark: Agentic Threat Hunting Evaluation for LLMs in SecOps](https://arxiv.org/abs/2604.19533v2)** | 2026-04-22 | <details><summary>13 pa...</summary><p>13 pages, 3 figures, 5 tables. Complete benchmark and hunt traces available on request</p></details> |
+| **[Cyber Defense Benchmark: Agentic Threat Hunting Evaluation for LLMs in SecOps](https://arxiv.org/abs/2604.19533v3)** | 2026-04-23 | <details><summary>Updat...</summary><p>Updated leaderboard with newer models</p></details> |
+| **[Revealing Geography-Driven Signals in Zone-Level Claim Frequency Models: An Empirical Study using Environmental and Visual Predictors](https://arxiv.org/abs/2604.21893v1)** | 2026-04-23 | 35 pages, 8 figures |
+| **[Survey on Evaluation of LLM-based Agents](https://arxiv.org/abs/2503.16416v2)** | 2026-04-23 | ACL Findings |
+| **[Neuromorphic Computing Based on Parametrically-Driven Oscillators and Frequency Combs](https://arxiv.org/abs/2604.21861v1)** | 2026-04-23 | 7 pages, 5 figures |
+| **[Nonlinear Causal Discovery through a Sequential Edge Orientation Approach](https://arxiv.org/abs/2506.05590v3)** | 2026-04-23 | <details><summary>59 pa...</summary><p>59 pages, 18 figures, 5 tables</p></details> |
+| **[Black-Box Skill Stealing Attack from Proprietary LLM Agents: An Empirical Study](https://arxiv.org/abs/2604.21829v1)** | 2026-04-23 | Preprint |
+| **[Iterative Receiver Processing at Relays in PNC-Enabled Multi-Hop Underwater Acoustic Networks](https://arxiv.org/abs/2604.21819v1)** | 2026-04-23 |  |
 
 ## Diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[From Finite Enumeration to Universal Proof: Ring-Theoretic Foundations for PQC Hardware Masking Verification](https://arxiv.org/abs/2604.18717v2)** | 2026-04-22 | 15 pages, 1 figure |
-| **[Convergent Evolution: How Different Language Models Learn Similar Number Representations](https://arxiv.org/abs/2604.20817v1)** | 2026-04-22 |  |
-| **[ParetoSlider: Diffusion Models Post-Training for Continuous Reward Control](https://arxiv.org/abs/2604.20816v1)** | 2026-04-22 | <details><summary>Proje...</summary><p>Project page: https://shelley-golan.github.io/ParetoSlider-webpage/</p></details> |
-| **[Mask World Model: Predicting What Matters for Robust Robot Policy Learning](https://arxiv.org/abs/2604.19683v2)** | 2026-04-22 | 16 pages,5 figures |
-| **[LEXIS: LatEnt ProXimal Interaction Signatures for 3D HOI from an Image](https://arxiv.org/abs/2604.20800v1)** | 2026-04-22 | <details><summary>26 pa...</summary><p>26 pages, 11 figures, 4 tables. Project page: https://anticdimi.github.io/lexis</p></details> |
-| **[Gauge-Equivariant Graph Neural Networks for Lattice Gauge Theories](https://arxiv.org/abs/2604.20797v1)** | 2026-04-22 | 11 pages, 5 figures |
-| **[LLaDA2.0-Uni: Unifying Multimodal Understanding and Generation with Diffusion Large Language Model](https://arxiv.org/abs/2604.20796v1)** | 2026-04-22 | <details><summary>LLaDA...</summary><p>LLaDA2.0-Uni Technical Report</p></details> |
-| **[Can "AI" Be a Doctor? A Study of Empathy, Readability, and Alignment in Clinical LLMs](https://arxiv.org/abs/2604.20791v1)** | 2026-04-22 |  |
-| **[Control Consistency Losses for Diffusion Bridges](https://arxiv.org/abs/2512.05070v2)** | 2026-04-22 |  |
-| **[GeoRect4D: Geometry-Compatible Generative Rectification for Dynamic Sparse-View 3D Reconstruction](https://arxiv.org/abs/2604.20784v1)** | 2026-04-22 |  |
-| **[QuanBench+: A Unified Multi-Framework Benchmark for LLM-Based Quantum Code Generation](https://arxiv.org/abs/2604.08570v2)** | 2026-04-22 | <details><summary>24 pa...</summary><p>24 pages total, 25 figures, 5 tables, including supplementary material. Accepted to the ICLR 2026 Workshop on I Can't Believe It's Not Better</p></details> |
+| **[Cyber Defense Benchmark: Agentic Threat Hunting Evaluation for LLMs in SecOps](https://arxiv.org/abs/2604.19533v3)** | 2026-04-23 | <details><summary>Updat...</summary><p>Updated leaderboard with newer models</p></details> |
+| **[VistaBot: View-Robust Robot Manipulation via Spatiotemporal-Aware View Synthesis](https://arxiv.org/abs/2604.21914v1)** | 2026-04-23 | <details><summary>This ...</summary><p>This paper has been accepted to ICRA 2026</p></details> |
+| **[A Scale-Adaptive Framework for Joint Spatiotemporal Super-Resolution with Diffusion Models](https://arxiv.org/abs/2604.21903v1)** | 2026-04-23 |  |
+| **[Revealing Geography-Driven Signals in Zone-Level Claim Frequency Models: An Empirical Study using Environmental and Visual Predictors](https://arxiv.org/abs/2604.21893v1)** | 2026-04-23 | 35 pages, 8 figures |
+| **[NPU Design for Diffusion Language Model Inference](https://arxiv.org/abs/2601.20706v2)** | 2026-04-23 |  |
+| **[Survey on Evaluation of LLM-based Agents](https://arxiv.org/abs/2503.16416v2)** | 2026-04-23 | ACL Findings |
+| **[Neuromorphic Computing Based on Parametrically-Driven Oscillators and Frequency Combs](https://arxiv.org/abs/2604.21861v1)** | 2026-04-23 | 7 pages, 5 figures |
+| **[Nonlinear Causal Discovery through a Sequential Edge Orientation Approach](https://arxiv.org/abs/2506.05590v3)** | 2026-04-23 | <details><summary>59 pa...</summary><p>59 pages, 18 figures, 5 tables</p></details> |
 
 ## Object Counting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[From Finite Enumeration to Universal Proof: Ring-Theoretic Foundations for PQC Hardware Masking Verification](https://arxiv.org/abs/2604.18717v2)** | 2026-04-22 | 15 pages, 1 figure |
-| **[Convergent Evolution: How Different Language Models Learn Similar Number Representations](https://arxiv.org/abs/2604.20817v1)** | 2026-04-22 |  |
-| **[Mask World Model: Predicting What Matters for Robust Robot Policy Learning](https://arxiv.org/abs/2604.19683v2)** | 2026-04-22 | 16 pages,5 figures |
-| **[Gauge-Equivariant Graph Neural Networks for Lattice Gauge Theories](https://arxiv.org/abs/2604.20797v1)** | 2026-04-22 | 11 pages, 5 figures |
-| **[Can "AI" Be a Doctor? A Study of Empathy, Readability, and Alignment in Clinical LLMs](https://arxiv.org/abs/2604.20791v1)** | 2026-04-22 |  |
-| **[QuanBench+: A Unified Multi-Framework Benchmark for LLM-Based Quantum Code Generation](https://arxiv.org/abs/2604.08570v2)** | 2026-04-22 | <details><summary>24 pa...</summary><p>24 pages total, 25 figures, 5 tables, including supplementary material. Accepted to the ICLR 2026 Workshop on I Can't Believe It's Not Better</p></details> |
-| **[Colorful Talks with Graphs: Human-Interpretable Graph Encodings for Large Language Models](https://arxiv.org/abs/2602.10386v2)** | 2026-04-22 | <details><summary>Accep...</summary><p>Accepted to ACL Findings 2026 22 pages, 18 tables, 5 figures</p></details> |
-| **[Decoupling Speculation from Merit: The Identity-Bound Asset Integrity Model (IBAIM) for Sustainable Web3 Gaming](https://arxiv.org/abs/2604.20737v1)** | 2026-04-22 | 6 pages,5 figures |
-| **[F\textsuperscript{2}LP-AP: Fast \& Flexible Label Propagation with Adaptive Propagation Kernel](https://arxiv.org/abs/2604.20736v1)** | 2026-04-22 | 16 pages, 5 figures |
-| **[Cyber Defense Benchmark: Agentic Threat Hunting Evaluation for LLMs in SecOps](https://arxiv.org/abs/2604.19533v2)** | 2026-04-22 | <details><summary>13 pa...</summary><p>13 pages, 3 figures, 5 tables. Complete benchmark and hunt traces available on request</p></details> |
+| **[Cyber Defense Benchmark: Agentic Threat Hunting Evaluation for LLMs in SecOps](https://arxiv.org/abs/2604.19533v3)** | 2026-04-23 | <details><summary>Updat...</summary><p>Updated leaderboard with newer models</p></details> |
+| **[Revealing Geography-Driven Signals in Zone-Level Claim Frequency Models: An Empirical Study using Environmental and Visual Predictors](https://arxiv.org/abs/2604.21893v1)** | 2026-04-23 | 35 pages, 8 figures |
+| **[Survey on Evaluation of LLM-based Agents](https://arxiv.org/abs/2503.16416v2)** | 2026-04-23 | ACL Findings |
+| **[Neuromorphic Computing Based on Parametrically-Driven Oscillators and Frequency Combs](https://arxiv.org/abs/2604.21861v1)** | 2026-04-23 | 7 pages, 5 figures |
+| **[Nonlinear Causal Discovery through a Sequential Edge Orientation Approach](https://arxiv.org/abs/2506.05590v3)** | 2026-04-23 | <details><summary>59 pa...</summary><p>59 pages, 18 figures, 5 tables</p></details> |
+| **[Black-Box Skill Stealing Attack from Proprietary LLM Agents: An Empirical Study](https://arxiv.org/abs/2604.21829v1)** | 2026-04-23 | Preprint |
+| **[Iterative Receiver Processing at Relays in PNC-Enabled Multi-Hop Underwater Acoustic Networks](https://arxiv.org/abs/2604.21819v1)** | 2026-04-23 |  |
 
 ## Image Caption
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[From Finite Enumeration to Universal Proof: Ring-Theoretic Foundations for PQC Hardware Masking Verification](https://arxiv.org/abs/2604.18717v2)** | 2026-04-22 | 15 pages, 1 figure |
-| **[Convergent Evolution: How Different Language Models Learn Similar Number Representations](https://arxiv.org/abs/2604.20817v1)** | 2026-04-22 |  |
-| **[Mask World Model: Predicting What Matters for Robust Robot Policy Learning](https://arxiv.org/abs/2604.19683v2)** | 2026-04-22 | 16 pages,5 figures |
-| **[Gauge-Equivariant Graph Neural Networks for Lattice Gauge Theories](https://arxiv.org/abs/2604.20797v1)** | 2026-04-22 | 11 pages, 5 figures |
-| **[Can "AI" Be a Doctor? A Study of Empathy, Readability, and Alignment in Clinical LLMs](https://arxiv.org/abs/2604.20791v1)** | 2026-04-22 |  |
-| **[QuanBench+: A Unified Multi-Framework Benchmark for LLM-Based Quantum Code Generation](https://arxiv.org/abs/2604.08570v2)** | 2026-04-22 | <details><summary>24 pa...</summary><p>24 pages total, 25 figures, 5 tables, including supplementary material. Accepted to the ICLR 2026 Workshop on I Can't Believe It's Not Better</p></details> |
-| **[Colorful Talks with Graphs: Human-Interpretable Graph Encodings for Large Language Models](https://arxiv.org/abs/2602.10386v2)** | 2026-04-22 | <details><summary>Accep...</summary><p>Accepted to ACL Findings 2026 22 pages, 18 tables, 5 figures</p></details> |
-| **[Decoupling Speculation from Merit: The Identity-Bound Asset Integrity Model (IBAIM) for Sustainable Web3 Gaming](https://arxiv.org/abs/2604.20737v1)** | 2026-04-22 | 6 pages,5 figures |
-| **[F\textsuperscript{2}LP-AP: Fast \& Flexible Label Propagation with Adaptive Propagation Kernel](https://arxiv.org/abs/2604.20736v1)** | 2026-04-22 | 16 pages, 5 figures |
-| **[Cyber Defense Benchmark: Agentic Threat Hunting Evaluation for LLMs in SecOps](https://arxiv.org/abs/2604.19533v2)** | 2026-04-22 | <details><summary>13 pa...</summary><p>13 pages, 3 figures, 5 tables. Complete benchmark and hunt traces available on request</p></details> |
+| **[Cyber Defense Benchmark: Agentic Threat Hunting Evaluation for LLMs in SecOps](https://arxiv.org/abs/2604.19533v3)** | 2026-04-23 | <details><summary>Updat...</summary><p>Updated leaderboard with newer models</p></details> |
+| **[Revealing Geography-Driven Signals in Zone-Level Claim Frequency Models: An Empirical Study using Environmental and Visual Predictors](https://arxiv.org/abs/2604.21893v1)** | 2026-04-23 | 35 pages, 8 figures |
+| **[Survey on Evaluation of LLM-based Agents](https://arxiv.org/abs/2503.16416v2)** | 2026-04-23 | ACL Findings |
+| **[Neuromorphic Computing Based on Parametrically-Driven Oscillators and Frequency Combs](https://arxiv.org/abs/2604.21861v1)** | 2026-04-23 | 7 pages, 5 figures |
+| **[Nonlinear Causal Discovery through a Sequential Edge Orientation Approach](https://arxiv.org/abs/2506.05590v3)** | 2026-04-23 | <details><summary>59 pa...</summary><p>59 pages, 18 figures, 5 tables</p></details> |
+| **[Black-Box Skill Stealing Attack from Proprietary LLM Agents: An Empirical Study](https://arxiv.org/abs/2604.21829v1)** | 2026-04-23 | Preprint |
+| **[Iterative Receiver Processing at Relays in PNC-Enabled Multi-Hop Underwater Acoustic Networks](https://arxiv.org/abs/2604.21819v1)** | 2026-04-23 |  |
 
 ## Describe
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[From Finite Enumeration to Universal Proof: Ring-Theoretic Foundations for PQC Hardware Masking Verification](https://arxiv.org/abs/2604.18717v2)** | 2026-04-22 | 15 pages, 1 figure |
-| **[Solving Minimax Problems with Bilinear Objectives with ADMM](https://arxiv.org/abs/2604.20832v1)** | 2026-04-22 | <details><summary>9 pag...</summary><p>9 pages, 1 figure (color)</p></details> |
-| **[Convergent Evolution: How Different Language Models Learn Similar Number Representations](https://arxiv.org/abs/2604.20817v1)** | 2026-04-22 |  |
-| **[Mask World Model: Predicting What Matters for Robust Robot Policy Learning](https://arxiv.org/abs/2604.19683v2)** | 2026-04-22 | 16 pages,5 figures |
-| **[Gauge-Equivariant Graph Neural Networks for Lattice Gauge Theories](https://arxiv.org/abs/2604.20797v1)** | 2026-04-22 | 11 pages, 5 figures |
-| **[Can "AI" Be a Doctor? A Study of Empathy, Readability, and Alignment in Clinical LLMs](https://arxiv.org/abs/2604.20791v1)** | 2026-04-22 |  |
-| **[QuanBench+: A Unified Multi-Framework Benchmark for LLM-Based Quantum Code Generation](https://arxiv.org/abs/2604.08570v2)** | 2026-04-22 | <details><summary>24 pa...</summary><p>24 pages total, 25 figures, 5 tables, including supplementary material. Accepted to the ICLR 2026 Workshop on I Can't Believe It's Not Better</p></details> |
+| **[Cyber Defense Benchmark: Agentic Threat Hunting Evaluation for LLMs in SecOps](https://arxiv.org/abs/2604.19533v3)** | 2026-04-23 | <details><summary>Updat...</summary><p>Updated leaderboard with newer models</p></details> |
+| **[Revealing Geography-Driven Signals in Zone-Level Claim Frequency Models: An Empirical Study using Environmental and Visual Predictors](https://arxiv.org/abs/2604.21893v1)** | 2026-04-23 | 35 pages, 8 figures |
+| **[Survey on Evaluation of LLM-based Agents](https://arxiv.org/abs/2503.16416v2)** | 2026-04-23 | ACL Findings |
+| **[Fake or Real, Can Robots Tell? Evaluating VLM Robustness to Domain Shift in Single-View Robotic Scene Understanding](https://arxiv.org/abs/2506.19579v3)** | 2026-04-23 |  |
+| **[FAccT-Checked: A Narrative Review of Authority Reconfigurations and Retention in AI-Mediated Journalism](https://arxiv.org/abs/2604.21864v1)** | 2026-04-23 | <details><summary>ACM F...</summary><p>ACM FAccT 2026 accepted paper. Due to the arXiv 1920 characters limit the Abstract here is shortened. Refer to the full paper for the entire Abstract</p></details> |
+| **[Neuromorphic Computing Based on Parametrically-Driven Oscillators and Frequency Combs](https://arxiv.org/abs/2604.21861v1)** | 2026-04-23 | 7 pages, 5 figures |
+| **[Nonlinear Causal Discovery through a Sequential Edge Orientation Approach](https://arxiv.org/abs/2506.05590v3)** | 2026-04-23 | <details><summary>59 pa...</summary><p>59 pages, 18 figures, 5 tables</p></details> |
+| **[Doctoral Theses in France (1985-2025): A Linked Dataset of PhDs, Academic Networks, and Institutions](https://arxiv.org/abs/2604.08619v2)** | 2026-04-23 | <details><summary>11 pa...</summary><p>11 pages + 6 appendix pages, 7 figures, 2 tables. See https://doi.org/10.5281/zenodo.19453191 for the dataset. See https://github.com/WilliamAboucaya/phd-theses-france for the code to reproduce the dataset and figures Version 2: Fixed references to tables and figures. Modified unclear wordings in section 3. Updated values in the languages table after a minor bug fix. Standardized figures style</p></details> |
+| **[Betting on Bets: Anytime-Valid Tests for Stochastic Dominance](https://arxiv.org/abs/2604.21851v1)** | 2026-04-23 |  |
 
 ## Light Weight
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[From Finite Enumeration to Universal Proof: Ring-Theoretic Foundations for PQC Hardware Masking Verification](https://arxiv.org/abs/2604.18717v2)** | 2026-04-22 | 15 pages, 1 figure |
-| **[Convergent Evolution: How Different Language Models Learn Similar Number Representations](https://arxiv.org/abs/2604.20817v1)** | 2026-04-22 |  |
-| **[Mask World Model: Predicting What Matters for Robust Robot Policy Learning](https://arxiv.org/abs/2604.19683v2)** | 2026-04-22 | 16 pages,5 figures |
-| **[Gauge-Equivariant Graph Neural Networks for Lattice Gauge Theories](https://arxiv.org/abs/2604.20797v1)** | 2026-04-22 | 11 pages, 5 figures |
-| **[Can "AI" Be a Doctor? A Study of Empathy, Readability, and Alignment in Clinical LLMs](https://arxiv.org/abs/2604.20791v1)** | 2026-04-22 |  |
-| **[QuanBench+: A Unified Multi-Framework Benchmark for LLM-Based Quantum Code Generation](https://arxiv.org/abs/2604.08570v2)** | 2026-04-22 | <details><summary>24 pa...</summary><p>24 pages total, 25 figures, 5 tables, including supplementary material. Accepted to the ICLR 2026 Workshop on I Can't Believe It's Not Better</p></details> |
-| **[Colorful Talks with Graphs: Human-Interpretable Graph Encodings for Large Language Models](https://arxiv.org/abs/2602.10386v2)** | 2026-04-22 | <details><summary>Accep...</summary><p>Accepted to ACL Findings 2026 22 pages, 18 tables, 5 figures</p></details> |
-| **[Decoupling Speculation from Merit: The Identity-Bound Asset Integrity Model (IBAIM) for Sustainable Web3 Gaming](https://arxiv.org/abs/2604.20737v1)** | 2026-04-22 | 6 pages,5 figures |
-| **[F\textsuperscript{2}LP-AP: Fast \& Flexible Label Propagation with Adaptive Propagation Kernel](https://arxiv.org/abs/2604.20736v1)** | 2026-04-22 | 16 pages, 5 figures |
-| **[Cyber Defense Benchmark: Agentic Threat Hunting Evaluation for LLMs in SecOps](https://arxiv.org/abs/2604.19533v2)** | 2026-04-22 | <details><summary>13 pa...</summary><p>13 pages, 3 figures, 5 tables. Complete benchmark and hunt traces available on request</p></details> |
+| **[Cyber Defense Benchmark: Agentic Threat Hunting Evaluation for LLMs in SecOps](https://arxiv.org/abs/2604.19533v3)** | 2026-04-23 | <details><summary>Updat...</summary><p>Updated leaderboard with newer models</p></details> |
+| **[Revealing Geography-Driven Signals in Zone-Level Claim Frequency Models: An Empirical Study using Environmental and Visual Predictors](https://arxiv.org/abs/2604.21893v1)** | 2026-04-23 | 35 pages, 8 figures |
+| **[Survey on Evaluation of LLM-based Agents](https://arxiv.org/abs/2503.16416v2)** | 2026-04-23 | ACL Findings |
+| **[Neuromorphic Computing Based on Parametrically-Driven Oscillators and Frequency Combs](https://arxiv.org/abs/2604.21861v1)** | 2026-04-23 | 7 pages, 5 figures |
+| **[Nonlinear Causal Discovery through a Sequential Edge Orientation Approach](https://arxiv.org/abs/2506.05590v3)** | 2026-04-23 | <details><summary>59 pa...</summary><p>59 pages, 18 figures, 5 tables</p></details> |
+| **[Black-Box Skill Stealing Attack from Proprietary LLM Agents: An Empirical Study](https://arxiv.org/abs/2604.21829v1)** | 2026-04-23 | Preprint |
+| **[Iterative Receiver Processing at Relays in PNC-Enabled Multi-Hop Underwater Acoustic Networks](https://arxiv.org/abs/2604.21819v1)** | 2026-04-23 |  |
 
 ## Class Incremental
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[From Finite Enumeration to Universal Proof: Ring-Theoretic Foundations for PQC Hardware Masking Verification](https://arxiv.org/abs/2604.18717v2)** | 2026-04-22 | 15 pages, 1 figure |
-| **[Convergent Evolution: How Different Language Models Learn Similar Number Representations](https://arxiv.org/abs/2604.20817v1)** | 2026-04-22 |  |
-| **[Mask World Model: Predicting What Matters for Robust Robot Policy Learning](https://arxiv.org/abs/2604.19683v2)** | 2026-04-22 | 16 pages,5 figures |
-| **[Gauge-Equivariant Graph Neural Networks for Lattice Gauge Theories](https://arxiv.org/abs/2604.20797v1)** | 2026-04-22 | 11 pages, 5 figures |
-| **[Can "AI" Be a Doctor? A Study of Empathy, Readability, and Alignment in Clinical LLMs](https://arxiv.org/abs/2604.20791v1)** | 2026-04-22 |  |
-| **[QuanBench+: A Unified Multi-Framework Benchmark for LLM-Based Quantum Code Generation](https://arxiv.org/abs/2604.08570v2)** | 2026-04-22 | <details><summary>24 pa...</summary><p>24 pages total, 25 figures, 5 tables, including supplementary material. Accepted to the ICLR 2026 Workshop on I Can't Believe It's Not Better</p></details> |
-| **[Colorful Talks with Graphs: Human-Interpretable Graph Encodings for Large Language Models](https://arxiv.org/abs/2602.10386v2)** | 2026-04-22 | <details><summary>Accep...</summary><p>Accepted to ACL Findings 2026 22 pages, 18 tables, 5 figures</p></details> |
-| **[Decoupling Speculation from Merit: The Identity-Bound Asset Integrity Model (IBAIM) for Sustainable Web3 Gaming](https://arxiv.org/abs/2604.20737v1)** | 2026-04-22 | 6 pages,5 figures |
-| **[F\textsuperscript{2}LP-AP: Fast \& Flexible Label Propagation with Adaptive Propagation Kernel](https://arxiv.org/abs/2604.20736v1)** | 2026-04-22 | 16 pages, 5 figures |
-| **[Cyber Defense Benchmark: Agentic Threat Hunting Evaluation for LLMs in SecOps](https://arxiv.org/abs/2604.19533v2)** | 2026-04-22 | <details><summary>13 pa...</summary><p>13 pages, 3 figures, 5 tables. Complete benchmark and hunt traces available on request</p></details> |
+| **[Cyber Defense Benchmark: Agentic Threat Hunting Evaluation for LLMs in SecOps](https://arxiv.org/abs/2604.19533v3)** | 2026-04-23 | <details><summary>Updat...</summary><p>Updated leaderboard with newer models</p></details> |
+| **[Revealing Geography-Driven Signals in Zone-Level Claim Frequency Models: An Empirical Study using Environmental and Visual Predictors](https://arxiv.org/abs/2604.21893v1)** | 2026-04-23 | 35 pages, 8 figures |
+| **[Survey on Evaluation of LLM-based Agents](https://arxiv.org/abs/2503.16416v2)** | 2026-04-23 | ACL Findings |
+| **[Neuromorphic Computing Based on Parametrically-Driven Oscillators and Frequency Combs](https://arxiv.org/abs/2604.21861v1)** | 2026-04-23 | 7 pages, 5 figures |
+| **[Nonlinear Causal Discovery through a Sequential Edge Orientation Approach](https://arxiv.org/abs/2506.05590v3)** | 2026-04-23 | <details><summary>59 pa...</summary><p>59 pages, 18 figures, 5 tables</p></details> |
+| **[Black-Box Skill Stealing Attack from Proprietary LLM Agents: An Empirical Study](https://arxiv.org/abs/2604.21829v1)** | 2026-04-23 | Preprint |
+| **[Iterative Receiver Processing at Relays in PNC-Enabled Multi-Hop Underwater Acoustic Networks](https://arxiv.org/abs/2604.21819v1)** | 2026-04-23 |  |
 
