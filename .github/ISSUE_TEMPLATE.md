@@ -1,5 +1,5 @@
 ---
-title: Latest 50 Papers - April 28, 2026
+title: Latest 50 Papers - April 29, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/JiamingZang/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,97 +7,125 @@ labels: documentation
 ## Molecular
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[How Do AI Agents Spend Your Money? Analyzing and Predicting Token Consumption in Agentic Coding Tasks](https://arxiv.org/abs/2604.22750v1)** | 2026-04-24 |  |
-| **[Relaxation-Informed Training of Neural Network Surrogate Models](https://arxiv.org/abs/2604.22746v1)** | 2026-04-24 | 35 pages, 5 figures |
-| **[Neural Recovery of Historical Lexical Structure in Bantu Languages from Modern Data](https://arxiv.org/abs/2604.22730v1)** | 2026-04-24 |  |
-| **[Asymmetric Goal Drift in Coding Agents Under Value Conflict](https://arxiv.org/abs/2603.03456v2)** | 2026-04-24 | <details><summary>5 pag...</summary><p>5 pages, 4 figures, Published as a workshop paper in Lifelong Agents @ ICLR 2026</p></details> |
-| **[Time-Localized Parametric Decomposition of Respiratory Airflow for Sub-Breath Analysis](https://arxiv.org/abs/2604.22695v1)** | 2026-04-24 | <details><summary>Submi...</summary><p>Submitted to IEEE Journal of Biomedical and Health Informatics (under review). 18 pages, 7 figures, 5 tables</p></details> |
+| **[CAbLECAR: efficiently scheduling QLDPC codes on a tileable spin qubit chip with shuttling](https://arxiv.org/abs/2604.24739v1)** | 2026-04-27 |  |
+| **[Learning to Think from Multiple Thinkers](https://arxiv.org/abs/2604.24737v1)** | 2026-04-27 | <details><summary>Comme...</summary><p>Comments are welcome. There are 78 pages and 5 Figures</p></details> |
+| **[VEHRON: A Configuration-Driven BEV Simulation Framework for Subsystem-Level Studies](https://arxiv.org/abs/2604.24726v1)** | 2026-04-27 | <details><summary>12 pa...</summary><p>12 pages, 3 figures, 5 tables; software paper</p></details> |
+| **[Sentiment and Emotion Classification of Indonesian E-Commerce Reviews via Multi-Task BiLSTM and AutoML Benchmarking](https://arxiv.org/abs/2604.24720v1)** | 2026-04-27 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, 4 tables. Final project for Natural Language Processing course (PBA 2026) at Institut Teknologi Sumatera</p></details> |
+| **[Passage-Aware Structural Mapping for RGB-D Visual SLAM](https://arxiv.org/abs/2604.24707v1)** | 2026-04-27 | 5 pages, 5 figures |
+| **[Energy-Arena: A Dynamic Benchmark for Operational Energy Forecasting](https://arxiv.org/abs/2604.24705v1)** | 2026-04-27 | <details><summary>6 pag...</summary><p>6 pages, 5 figures, 1 table. Submitted to the European Electricity Markets (EEM) conference</p></details> |
+| **[Defective Task Descriptions in LLM-Based Code Generation: Detection and Analysis](https://arxiv.org/abs/2604.24703v1)** | 2026-04-27 |  |
+| **[Agent-Aided Design for Dynamic CAD Models](https://arxiv.org/abs/2604.15184v2)** | 2026-04-27 | <details><summary>5 pag...</summary><p>5 pages, 3 figures, published in CAIS'26</p></details> |
+| **[Isotonic Layer: A Unified Framework for Recommendation Calibration and Debiasing](https://arxiv.org/abs/2603.06589v2)** | 2026-04-27 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, submitted to KDD 2026</p></details> |
 
 ## Molecular Generation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[How Do AI Agents Spend Your Money? Analyzing and Predicting Token Consumption in Agentic Coding Tasks](https://arxiv.org/abs/2604.22750v1)** | 2026-04-24 |  |
-| **[Relaxation-Informed Training of Neural Network Surrogate Models](https://arxiv.org/abs/2604.22746v1)** | 2026-04-24 | 35 pages, 5 figures |
-| **[Neural Recovery of Historical Lexical Structure in Bantu Languages from Modern Data](https://arxiv.org/abs/2604.22730v1)** | 2026-04-24 |  |
-| **[Asymmetric Goal Drift in Coding Agents Under Value Conflict](https://arxiv.org/abs/2603.03456v2)** | 2026-04-24 | <details><summary>5 pag...</summary><p>5 pages, 4 figures, Published as a workshop paper in Lifelong Agents @ ICLR 2026</p></details> |
-| **[Time-Localized Parametric Decomposition of Respiratory Airflow for Sub-Breath Analysis](https://arxiv.org/abs/2604.22695v1)** | 2026-04-24 | <details><summary>Submi...</summary><p>Submitted to IEEE Journal of Biomedical and Health Informatics (under review). 18 pages, 7 figures, 5 tables</p></details> |
-| **[SIE3D: Single-Image Expressive 3D Avatar Generation via Semantic Embedding and Perceptual Expression Loss](https://arxiv.org/abs/2509.24004v2)** | 2026-04-24 | <details><summary>Publi...</summary><p>Published in ICASSP 2026. 5 pages, 3 figures. Project page: https://huang-zhiqi.github.io/SIE3D/</p></details> |
-| **[Dharma, Data and Deception: An LLM-Powered Rhetorical Analysis of Cow-Urine Health Claims on YouTube](https://arxiv.org/abs/2604.22606v1)** | 2026-04-24 |  |
+| **[CAbLECAR: efficiently scheduling QLDPC codes on a tileable spin qubit chip with shuttling](https://arxiv.org/abs/2604.24739v1)** | 2026-04-27 |  |
+| **[Learning to Think from Multiple Thinkers](https://arxiv.org/abs/2604.24737v1)** | 2026-04-27 | <details><summary>Comme...</summary><p>Comments are welcome. There are 78 pages and 5 Figures</p></details> |
+| **[VEHRON: A Configuration-Driven BEV Simulation Framework for Subsystem-Level Studies](https://arxiv.org/abs/2604.24726v1)** | 2026-04-27 | <details><summary>12 pa...</summary><p>12 pages, 3 figures, 5 tables; software paper</p></details> |
+| **[Sentiment and Emotion Classification of Indonesian E-Commerce Reviews via Multi-Task BiLSTM and AutoML Benchmarking](https://arxiv.org/abs/2604.24720v1)** | 2026-04-27 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, 4 tables. Final project for Natural Language Processing course (PBA 2026) at Institut Teknologi Sumatera</p></details> |
+| **[Passage-Aware Structural Mapping for RGB-D Visual SLAM](https://arxiv.org/abs/2604.24707v1)** | 2026-04-27 | 5 pages, 5 figures |
+| **[Energy-Arena: A Dynamic Benchmark for Operational Energy Forecasting](https://arxiv.org/abs/2604.24705v1)** | 2026-04-27 | <details><summary>6 pag...</summary><p>6 pages, 5 figures, 1 table. Submitted to the European Electricity Markets (EEM) conference</p></details> |
+| **[Defective Task Descriptions in LLM-Based Code Generation: Detection and Analysis](https://arxiv.org/abs/2604.24703v1)** | 2026-04-27 |  |
+| **[Agent-Aided Design for Dynamic CAD Models](https://arxiv.org/abs/2604.15184v2)** | 2026-04-27 | <details><summary>5 pag...</summary><p>5 pages, 3 figures, published in CAIS'26</p></details> |
+| **[Isotonic Layer: A Unified Framework for Recommendation Calibration and Debiasing](https://arxiv.org/abs/2603.06589v2)** | 2026-04-27 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, submitted to KDD 2026</p></details> |
+| **[Learning Human-Intention Priors from Large-Scale Human Demonstrations for Robotic Manipulation](https://arxiv.org/abs/2604.24681v1)** | 2026-04-27 | 13 pages, 5 figures |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[How Do AI Agents Spend Your Money? Analyzing and Predicting Token Consumption in Agentic Coding Tasks](https://arxiv.org/abs/2604.22750v1)** | 2026-04-24 |  |
-| **[Relaxation-Informed Training of Neural Network Surrogate Models](https://arxiv.org/abs/2604.22746v1)** | 2026-04-24 | 35 pages, 5 figures |
-| **[Neural Recovery of Historical Lexical Structure in Bantu Languages from Modern Data](https://arxiv.org/abs/2604.22730v1)** | 2026-04-24 |  |
-| **[Asymmetric Goal Drift in Coding Agents Under Value Conflict](https://arxiv.org/abs/2603.03456v2)** | 2026-04-24 | <details><summary>5 pag...</summary><p>5 pages, 4 figures, Published as a workshop paper in Lifelong Agents @ ICLR 2026</p></details> |
-| **[Time-Localized Parametric Decomposition of Respiratory Airflow for Sub-Breath Analysis](https://arxiv.org/abs/2604.22695v1)** | 2026-04-24 | <details><summary>Submi...</summary><p>Submitted to IEEE Journal of Biomedical and Health Informatics (under review). 18 pages, 7 figures, 5 tables</p></details> |
-| **[Operational Feature Fingerprints of Graph Datasets via a White-Box Signal-Subspace Probe](https://arxiv.org/abs/2604.22676v1)** | 2026-04-24 | <details><summary>21 pa...</summary><p>21 pages, 10 figures, 7 tables</p></details> |
-| **[SIE3D: Single-Image Expressive 3D Avatar Generation via Semantic Embedding and Perceptual Expression Loss](https://arxiv.org/abs/2509.24004v2)** | 2026-04-24 | <details><summary>Publi...</summary><p>Published in ICASSP 2026. 5 pages, 3 figures. Project page: https://huang-zhiqi.github.io/SIE3D/</p></details> |
+| **[CAbLECAR: efficiently scheduling QLDPC codes on a tileable spin qubit chip with shuttling](https://arxiv.org/abs/2604.24739v1)** | 2026-04-27 |  |
+| **[Learning to Think from Multiple Thinkers](https://arxiv.org/abs/2604.24737v1)** | 2026-04-27 | <details><summary>Comme...</summary><p>Comments are welcome. There are 78 pages and 5 Figures</p></details> |
+| **[VEHRON: A Configuration-Driven BEV Simulation Framework for Subsystem-Level Studies](https://arxiv.org/abs/2604.24726v1)** | 2026-04-27 | <details><summary>12 pa...</summary><p>12 pages, 3 figures, 5 tables; software paper</p></details> |
+| **[Sentiment and Emotion Classification of Indonesian E-Commerce Reviews via Multi-Task BiLSTM and AutoML Benchmarking](https://arxiv.org/abs/2604.24720v1)** | 2026-04-27 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, 4 tables. Final project for Natural Language Processing course (PBA 2026) at Institut Teknologi Sumatera</p></details> |
+| **[Passage-Aware Structural Mapping for RGB-D Visual SLAM](https://arxiv.org/abs/2604.24707v1)** | 2026-04-27 | 5 pages, 5 figures |
+| **[Energy-Arena: A Dynamic Benchmark for Operational Energy Forecasting](https://arxiv.org/abs/2604.24705v1)** | 2026-04-27 | <details><summary>6 pag...</summary><p>6 pages, 5 figures, 1 table. Submitted to the European Electricity Markets (EEM) conference</p></details> |
+| **[Defective Task Descriptions in LLM-Based Code Generation: Detection and Analysis](https://arxiv.org/abs/2604.24703v1)** | 2026-04-27 |  |
+| **[Agent-Aided Design for Dynamic CAD Models](https://arxiv.org/abs/2604.15184v2)** | 2026-04-27 | <details><summary>5 pag...</summary><p>5 pages, 3 figures, published in CAIS'26</p></details> |
+| **[Isotonic Layer: A Unified Framework for Recommendation Calibration and Debiasing](https://arxiv.org/abs/2603.06589v2)** | 2026-04-27 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, submitted to KDD 2026</p></details> |
+| **[Learning Human-Intention Priors from Large-Scale Human Demonstrations for Robotic Manipulation](https://arxiv.org/abs/2604.24681v1)** | 2026-04-27 | 13 pages, 5 figures |
 
 ## Diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[How Do AI Agents Spend Your Money? Analyzing and Predicting Token Consumption in Agentic Coding Tasks](https://arxiv.org/abs/2604.22750v1)** | 2026-04-24 |  |
-| **[Relaxation-Informed Training of Neural Network Surrogate Models](https://arxiv.org/abs/2604.22746v1)** | 2026-04-24 | 35 pages, 5 figures |
-| **[Neural Recovery of Historical Lexical Structure in Bantu Languages from Modern Data](https://arxiv.org/abs/2604.22730v1)** | 2026-04-24 |  |
-| **[Asymmetric Goal Drift in Coding Agents Under Value Conflict](https://arxiv.org/abs/2603.03456v2)** | 2026-04-24 | <details><summary>5 pag...</summary><p>5 pages, 4 figures, Published as a workshop paper in Lifelong Agents @ ICLR 2026</p></details> |
-| **[Generative Modeling of Neurodegenerative Brain Anatomy with 4D Longitudinal Diffusion Model](https://arxiv.org/abs/2604.22700v1)** | 2026-04-24 |  |
-| **[Time-Localized Parametric Decomposition of Respiratory Airflow for Sub-Breath Analysis](https://arxiv.org/abs/2604.22695v1)** | 2026-04-24 | <details><summary>Submi...</summary><p>Submitted to IEEE Journal of Biomedical and Health Informatics (under review). 18 pages, 7 figures, 5 tables</p></details> |
-| **[Adaptive Autoguidance for Item-Side Fairness in Diffusion Recommender Systems](https://arxiv.org/abs/2602.14706v2)** | 2026-04-24 | <details><summary>Accep...</summary><p>Accepted at SIGIR 2026</p></details> |
+| **[Kolmogorov-Arnold Energy Models: Fast, Interpretable Generative Modeling](https://arxiv.org/abs/2506.14167v13)** | 2026-04-27 |  |
+| **[CAbLECAR: efficiently scheduling QLDPC codes on a tileable spin qubit chip with shuttling](https://arxiv.org/abs/2604.24739v1)** | 2026-04-27 |  |
+| **[Learning to Think from Multiple Thinkers](https://arxiv.org/abs/2604.24737v1)** | 2026-04-27 | <details><summary>Comme...</summary><p>Comments are welcome. There are 78 pages and 5 Figures</p></details> |
+| **[B-FIRE: Binning-Free Diffusion Implicit Neural Representation for Hyper-Accelerated Motion-Resolved MRI](https://arxiv.org/abs/2601.06166v2)** | 2026-04-27 |  |
+| **[VEHRON: A Configuration-Driven BEV Simulation Framework for Subsystem-Level Studies](https://arxiv.org/abs/2604.24726v1)** | 2026-04-27 | <details><summary>12 pa...</summary><p>12 pages, 3 figures, 5 tables; software paper</p></details> |
+| **[Sentiment and Emotion Classification of Indonesian E-Commerce Reviews via Multi-Task BiLSTM and AutoML Benchmarking](https://arxiv.org/abs/2604.24720v1)** | 2026-04-27 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, 4 tables. Final project for Natural Language Processing course (PBA 2026) at Institut Teknologi Sumatera</p></details> |
+| **[DiffuSAM: Diffusion-Based Prompt-Free SAM2 for Few-Shot and Source-Free Medical Image Segmentation](https://arxiv.org/abs/2604.24719v1)** | 2026-04-27 |  |
+| **[Radial Load--Reserve Certificates for Wasserstein Propagation in Isotropic Diffusion Samplers](https://arxiv.org/abs/2603.19670v3)** | 2026-04-27 |  |
+| **[Passage-Aware Structural Mapping for RGB-D Visual SLAM](https://arxiv.org/abs/2604.24707v1)** | 2026-04-27 | 5 pages, 5 figures |
+| **[Energy-Arena: A Dynamic Benchmark for Operational Energy Forecasting](https://arxiv.org/abs/2604.24705v1)** | 2026-04-27 | <details><summary>6 pag...</summary><p>6 pages, 5 figures, 1 table. Submitted to the European Electricity Markets (EEM) conference</p></details> |
+| **[Defective Task Descriptions in LLM-Based Code Generation: Detection and Analysis](https://arxiv.org/abs/2604.24703v1)** | 2026-04-27 |  |
 
 ## Object Counting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[How Do AI Agents Spend Your Money? Analyzing and Predicting Token Consumption in Agentic Coding Tasks](https://arxiv.org/abs/2604.22750v1)** | 2026-04-24 |  |
-| **[Relaxation-Informed Training of Neural Network Surrogate Models](https://arxiv.org/abs/2604.22746v1)** | 2026-04-24 | 35 pages, 5 figures |
-| **[Neural Recovery of Historical Lexical Structure in Bantu Languages from Modern Data](https://arxiv.org/abs/2604.22730v1)** | 2026-04-24 |  |
-| **[Asymmetric Goal Drift in Coding Agents Under Value Conflict](https://arxiv.org/abs/2603.03456v2)** | 2026-04-24 | <details><summary>5 pag...</summary><p>5 pages, 4 figures, Published as a workshop paper in Lifelong Agents @ ICLR 2026</p></details> |
-| **[Time-Localized Parametric Decomposition of Respiratory Airflow for Sub-Breath Analysis](https://arxiv.org/abs/2604.22695v1)** | 2026-04-24 | <details><summary>Submi...</summary><p>Submitted to IEEE Journal of Biomedical and Health Informatics (under review). 18 pages, 7 figures, 5 tables</p></details> |
-| **[SIE3D: Single-Image Expressive 3D Avatar Generation via Semantic Embedding and Perceptual Expression Loss](https://arxiv.org/abs/2509.24004v2)** | 2026-04-24 | <details><summary>Publi...</summary><p>Published in ICASSP 2026. 5 pages, 3 figures. Project page: https://huang-zhiqi.github.io/SIE3D/</p></details> |
-| **[Dharma, Data and Deception: An LLM-Powered Rhetorical Analysis of Cow-Urine Health Claims on YouTube](https://arxiv.org/abs/2604.22606v1)** | 2026-04-24 |  |
+| **[CAbLECAR: efficiently scheduling QLDPC codes on a tileable spin qubit chip with shuttling](https://arxiv.org/abs/2604.24739v1)** | 2026-04-27 |  |
+| **[Learning to Think from Multiple Thinkers](https://arxiv.org/abs/2604.24737v1)** | 2026-04-27 | <details><summary>Comme...</summary><p>Comments are welcome. There are 78 pages and 5 Figures</p></details> |
+| **[VEHRON: A Configuration-Driven BEV Simulation Framework for Subsystem-Level Studies](https://arxiv.org/abs/2604.24726v1)** | 2026-04-27 | <details><summary>12 pa...</summary><p>12 pages, 3 figures, 5 tables; software paper</p></details> |
+| **[Sentiment and Emotion Classification of Indonesian E-Commerce Reviews via Multi-Task BiLSTM and AutoML Benchmarking](https://arxiv.org/abs/2604.24720v1)** | 2026-04-27 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, 4 tables. Final project for Natural Language Processing course (PBA 2026) at Institut Teknologi Sumatera</p></details> |
+| **[Passage-Aware Structural Mapping for RGB-D Visual SLAM](https://arxiv.org/abs/2604.24707v1)** | 2026-04-27 | 5 pages, 5 figures |
+| **[Energy-Arena: A Dynamic Benchmark for Operational Energy Forecasting](https://arxiv.org/abs/2604.24705v1)** | 2026-04-27 | <details><summary>6 pag...</summary><p>6 pages, 5 figures, 1 table. Submitted to the European Electricity Markets (EEM) conference</p></details> |
+| **[Defective Task Descriptions in LLM-Based Code Generation: Detection and Analysis](https://arxiv.org/abs/2604.24703v1)** | 2026-04-27 |  |
+| **[Agent-Aided Design for Dynamic CAD Models](https://arxiv.org/abs/2604.15184v2)** | 2026-04-27 | <details><summary>5 pag...</summary><p>5 pages, 3 figures, published in CAIS'26</p></details> |
+| **[Isotonic Layer: A Unified Framework for Recommendation Calibration and Debiasing](https://arxiv.org/abs/2603.06589v2)** | 2026-04-27 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, submitted to KDD 2026</p></details> |
+| **[Learning Human-Intention Priors from Large-Scale Human Demonstrations for Robotic Manipulation](https://arxiv.org/abs/2604.24681v1)** | 2026-04-27 | 13 pages, 5 figures |
 
 ## Image Caption
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[How Do AI Agents Spend Your Money? Analyzing and Predicting Token Consumption in Agentic Coding Tasks](https://arxiv.org/abs/2604.22750v1)** | 2026-04-24 |  |
-| **[Relaxation-Informed Training of Neural Network Surrogate Models](https://arxiv.org/abs/2604.22746v1)** | 2026-04-24 | 35 pages, 5 figures |
-| **[Neural Recovery of Historical Lexical Structure in Bantu Languages from Modern Data](https://arxiv.org/abs/2604.22730v1)** | 2026-04-24 |  |
-| **[Asymmetric Goal Drift in Coding Agents Under Value Conflict](https://arxiv.org/abs/2603.03456v2)** | 2026-04-24 | <details><summary>5 pag...</summary><p>5 pages, 4 figures, Published as a workshop paper in Lifelong Agents @ ICLR 2026</p></details> |
-| **[Time-Localized Parametric Decomposition of Respiratory Airflow for Sub-Breath Analysis](https://arxiv.org/abs/2604.22695v1)** | 2026-04-24 | <details><summary>Submi...</summary><p>Submitted to IEEE Journal of Biomedical and Health Informatics (under review). 18 pages, 7 figures, 5 tables</p></details> |
-| **[SIE3D: Single-Image Expressive 3D Avatar Generation via Semantic Embedding and Perceptual Expression Loss](https://arxiv.org/abs/2509.24004v2)** | 2026-04-24 | <details><summary>Publi...</summary><p>Published in ICASSP 2026. 5 pages, 3 figures. Project page: https://huang-zhiqi.github.io/SIE3D/</p></details> |
-| **[Dharma, Data and Deception: An LLM-Powered Rhetorical Analysis of Cow-Urine Health Claims on YouTube](https://arxiv.org/abs/2604.22606v1)** | 2026-04-24 |  |
+| **[CAbLECAR: efficiently scheduling QLDPC codes on a tileable spin qubit chip with shuttling](https://arxiv.org/abs/2604.24739v1)** | 2026-04-27 |  |
+| **[Learning to Think from Multiple Thinkers](https://arxiv.org/abs/2604.24737v1)** | 2026-04-27 | <details><summary>Comme...</summary><p>Comments are welcome. There are 78 pages and 5 Figures</p></details> |
+| **[VEHRON: A Configuration-Driven BEV Simulation Framework for Subsystem-Level Studies](https://arxiv.org/abs/2604.24726v1)** | 2026-04-27 | <details><summary>12 pa...</summary><p>12 pages, 3 figures, 5 tables; software paper</p></details> |
+| **[Sentiment and Emotion Classification of Indonesian E-Commerce Reviews via Multi-Task BiLSTM and AutoML Benchmarking](https://arxiv.org/abs/2604.24720v1)** | 2026-04-27 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, 4 tables. Final project for Natural Language Processing course (PBA 2026) at Institut Teknologi Sumatera</p></details> |
+| **[Passage-Aware Structural Mapping for RGB-D Visual SLAM](https://arxiv.org/abs/2604.24707v1)** | 2026-04-27 | 5 pages, 5 figures |
+| **[Energy-Arena: A Dynamic Benchmark for Operational Energy Forecasting](https://arxiv.org/abs/2604.24705v1)** | 2026-04-27 | <details><summary>6 pag...</summary><p>6 pages, 5 figures, 1 table. Submitted to the European Electricity Markets (EEM) conference</p></details> |
+| **[Defective Task Descriptions in LLM-Based Code Generation: Detection and Analysis](https://arxiv.org/abs/2604.24703v1)** | 2026-04-27 |  |
+| **[Agent-Aided Design for Dynamic CAD Models](https://arxiv.org/abs/2604.15184v2)** | 2026-04-27 | <details><summary>5 pag...</summary><p>5 pages, 3 figures, published in CAIS'26</p></details> |
+| **[Isotonic Layer: A Unified Framework for Recommendation Calibration and Debiasing](https://arxiv.org/abs/2603.06589v2)** | 2026-04-27 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, submitted to KDD 2026</p></details> |
+| **[Learning Human-Intention Priors from Large-Scale Human Demonstrations for Robotic Manipulation](https://arxiv.org/abs/2604.24681v1)** | 2026-04-27 | 13 pages, 5 figures |
 
 ## Describe
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[How Do AI Agents Spend Your Money? Analyzing and Predicting Token Consumption in Agentic Coding Tasks](https://arxiv.org/abs/2604.22750v1)** | 2026-04-24 |  |
-| **[Code for All: Educational Applications of the "Vibe Coding" Hackathon in Programming Education across All Skill Levels](https://arxiv.org/abs/2604.22747v1)** | 2026-04-24 | 15 pages, 14 figures |
-| **[Relaxation-Informed Training of Neural Network Surrogate Models](https://arxiv.org/abs/2604.22746v1)** | 2026-04-24 | 35 pages, 5 figures |
-| **[Initial results of the Digital Consciousness Model](https://arxiv.org/abs/2601.17060v2)** | 2026-04-24 | <details><summary>v1.1 ...</summary><p>v1.1 Revised section 4.2 details and acknowledgments</p></details> |
-| **[Neural Recovery of Historical Lexical Structure in Bantu Languages from Modern Data](https://arxiv.org/abs/2604.22730v1)** | 2026-04-24 |  |
-| **[Asymmetric Goal Drift in Coding Agents Under Value Conflict](https://arxiv.org/abs/2603.03456v2)** | 2026-04-24 | <details><summary>5 pag...</summary><p>5 pages, 4 figures, Published as a workshop paper in Lifelong Agents @ ICLR 2026</p></details> |
-| **[Time-Localized Parametric Decomposition of Respiratory Airflow for Sub-Breath Analysis](https://arxiv.org/abs/2604.22695v1)** | 2026-04-24 | <details><summary>Submi...</summary><p>Submitted to IEEE Journal of Biomedical and Health Informatics (under review). 18 pages, 7 figures, 5 tables</p></details> |
+| **[Symbolic recovery of PDEs from measurement data](https://arxiv.org/abs/2602.15603v2)** | 2026-04-27 |  |
+| **[CAbLECAR: efficiently scheduling QLDPC codes on a tileable spin qubit chip with shuttling](https://arxiv.org/abs/2604.24739v1)** | 2026-04-27 |  |
+| **[Learning to Think from Multiple Thinkers](https://arxiv.org/abs/2604.24737v1)** | 2026-04-27 | <details><summary>Comme...</summary><p>Comments are welcome. There are 78 pages and 5 Figures</p></details> |
+| **[VEHRON: A Configuration-Driven BEV Simulation Framework for Subsystem-Level Studies](https://arxiv.org/abs/2604.24726v1)** | 2026-04-27 | <details><summary>12 pa...</summary><p>12 pages, 3 figures, 5 tables; software paper</p></details> |
+| **[Sentiment and Emotion Classification of Indonesian E-Commerce Reviews via Multi-Task BiLSTM and AutoML Benchmarking](https://arxiv.org/abs/2604.24720v1)** | 2026-04-27 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, 4 tables. Final project for Natural Language Processing course (PBA 2026) at Institut Teknologi Sumatera</p></details> |
+| **[Passage-Aware Structural Mapping for RGB-D Visual SLAM](https://arxiv.org/abs/2604.24707v1)** | 2026-04-27 | 5 pages, 5 figures |
+| **[Energy-Arena: A Dynamic Benchmark for Operational Energy Forecasting](https://arxiv.org/abs/2604.24705v1)** | 2026-04-27 | <details><summary>6 pag...</summary><p>6 pages, 5 figures, 1 table. Submitted to the European Electricity Markets (EEM) conference</p></details> |
+| **[Defective Task Descriptions in LLM-Based Code Generation: Detection and Analysis](https://arxiv.org/abs/2604.24703v1)** | 2026-04-27 |  |
+| **[Agent-Aided Design for Dynamic CAD Models](https://arxiv.org/abs/2604.15184v2)** | 2026-04-27 | <details><summary>5 pag...</summary><p>5 pages, 3 figures, published in CAIS'26</p></details> |
 
 ## Light Weight
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[How Do AI Agents Spend Your Money? Analyzing and Predicting Token Consumption in Agentic Coding Tasks](https://arxiv.org/abs/2604.22750v1)** | 2026-04-24 |  |
-| **[Relaxation-Informed Training of Neural Network Surrogate Models](https://arxiv.org/abs/2604.22746v1)** | 2026-04-24 | 35 pages, 5 figures |
-| **[Neural Recovery of Historical Lexical Structure in Bantu Languages from Modern Data](https://arxiv.org/abs/2604.22730v1)** | 2026-04-24 |  |
-| **[Asymmetric Goal Drift in Coding Agents Under Value Conflict](https://arxiv.org/abs/2603.03456v2)** | 2026-04-24 | <details><summary>5 pag...</summary><p>5 pages, 4 figures, Published as a workshop paper in Lifelong Agents @ ICLR 2026</p></details> |
-| **[Time-Localized Parametric Decomposition of Respiratory Airflow for Sub-Breath Analysis](https://arxiv.org/abs/2604.22695v1)** | 2026-04-24 | <details><summary>Submi...</summary><p>Submitted to IEEE Journal of Biomedical and Health Informatics (under review). 18 pages, 7 figures, 5 tables</p></details> |
-| **[SIE3D: Single-Image Expressive 3D Avatar Generation via Semantic Embedding and Perceptual Expression Loss](https://arxiv.org/abs/2509.24004v2)** | 2026-04-24 | <details><summary>Publi...</summary><p>Published in ICASSP 2026. 5 pages, 3 figures. Project page: https://huang-zhiqi.github.io/SIE3D/</p></details> |
-| **[Dharma, Data and Deception: An LLM-Powered Rhetorical Analysis of Cow-Urine Health Claims on YouTube](https://arxiv.org/abs/2604.22606v1)** | 2026-04-24 |  |
+| **[CAbLECAR: efficiently scheduling QLDPC codes on a tileable spin qubit chip with shuttling](https://arxiv.org/abs/2604.24739v1)** | 2026-04-27 |  |
+| **[Learning to Think from Multiple Thinkers](https://arxiv.org/abs/2604.24737v1)** | 2026-04-27 | <details><summary>Comme...</summary><p>Comments are welcome. There are 78 pages and 5 Figures</p></details> |
+| **[VEHRON: A Configuration-Driven BEV Simulation Framework for Subsystem-Level Studies](https://arxiv.org/abs/2604.24726v1)** | 2026-04-27 | <details><summary>12 pa...</summary><p>12 pages, 3 figures, 5 tables; software paper</p></details> |
+| **[Sentiment and Emotion Classification of Indonesian E-Commerce Reviews via Multi-Task BiLSTM and AutoML Benchmarking](https://arxiv.org/abs/2604.24720v1)** | 2026-04-27 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, 4 tables. Final project for Natural Language Processing course (PBA 2026) at Institut Teknologi Sumatera</p></details> |
+| **[Passage-Aware Structural Mapping for RGB-D Visual SLAM](https://arxiv.org/abs/2604.24707v1)** | 2026-04-27 | 5 pages, 5 figures |
+| **[Energy-Arena: A Dynamic Benchmark for Operational Energy Forecasting](https://arxiv.org/abs/2604.24705v1)** | 2026-04-27 | <details><summary>6 pag...</summary><p>6 pages, 5 figures, 1 table. Submitted to the European Electricity Markets (EEM) conference</p></details> |
+| **[Defective Task Descriptions in LLM-Based Code Generation: Detection and Analysis](https://arxiv.org/abs/2604.24703v1)** | 2026-04-27 |  |
+| **[Agent-Aided Design for Dynamic CAD Models](https://arxiv.org/abs/2604.15184v2)** | 2026-04-27 | <details><summary>5 pag...</summary><p>5 pages, 3 figures, published in CAIS'26</p></details> |
+| **[Isotonic Layer: A Unified Framework for Recommendation Calibration and Debiasing](https://arxiv.org/abs/2603.06589v2)** | 2026-04-27 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, submitted to KDD 2026</p></details> |
+| **[Learning Human-Intention Priors from Large-Scale Human Demonstrations for Robotic Manipulation](https://arxiv.org/abs/2604.24681v1)** | 2026-04-27 | 13 pages, 5 figures |
 
 ## Class Incremental
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[How Do AI Agents Spend Your Money? Analyzing and Predicting Token Consumption in Agentic Coding Tasks](https://arxiv.org/abs/2604.22750v1)** | 2026-04-24 |  |
-| **[Relaxation-Informed Training of Neural Network Surrogate Models](https://arxiv.org/abs/2604.22746v1)** | 2026-04-24 | 35 pages, 5 figures |
-| **[Neural Recovery of Historical Lexical Structure in Bantu Languages from Modern Data](https://arxiv.org/abs/2604.22730v1)** | 2026-04-24 |  |
-| **[Asymmetric Goal Drift in Coding Agents Under Value Conflict](https://arxiv.org/abs/2603.03456v2)** | 2026-04-24 | <details><summary>5 pag...</summary><p>5 pages, 4 figures, Published as a workshop paper in Lifelong Agents @ ICLR 2026</p></details> |
-| **[Time-Localized Parametric Decomposition of Respiratory Airflow for Sub-Breath Analysis](https://arxiv.org/abs/2604.22695v1)** | 2026-04-24 | <details><summary>Submi...</summary><p>Submitted to IEEE Journal of Biomedical and Health Informatics (under review). 18 pages, 7 figures, 5 tables</p></details> |
-| **[SIE3D: Single-Image Expressive 3D Avatar Generation via Semantic Embedding and Perceptual Expression Loss](https://arxiv.org/abs/2509.24004v2)** | 2026-04-24 | <details><summary>Publi...</summary><p>Published in ICASSP 2026. 5 pages, 3 figures. Project page: https://huang-zhiqi.github.io/SIE3D/</p></details> |
-| **[Dharma, Data and Deception: An LLM-Powered Rhetorical Analysis of Cow-Urine Health Claims on YouTube](https://arxiv.org/abs/2604.22606v1)** | 2026-04-24 |  |
+| **[CAbLECAR: efficiently scheduling QLDPC codes on a tileable spin qubit chip with shuttling](https://arxiv.org/abs/2604.24739v1)** | 2026-04-27 |  |
+| **[Learning to Think from Multiple Thinkers](https://arxiv.org/abs/2604.24737v1)** | 2026-04-27 | <details><summary>Comme...</summary><p>Comments are welcome. There are 78 pages and 5 Figures</p></details> |
+| **[VEHRON: A Configuration-Driven BEV Simulation Framework for Subsystem-Level Studies](https://arxiv.org/abs/2604.24726v1)** | 2026-04-27 | <details><summary>12 pa...</summary><p>12 pages, 3 figures, 5 tables; software paper</p></details> |
+| **[Sentiment and Emotion Classification of Indonesian E-Commerce Reviews via Multi-Task BiLSTM and AutoML Benchmarking](https://arxiv.org/abs/2604.24720v1)** | 2026-04-27 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, 4 tables. Final project for Natural Language Processing course (PBA 2026) at Institut Teknologi Sumatera</p></details> |
+| **[Passage-Aware Structural Mapping for RGB-D Visual SLAM](https://arxiv.org/abs/2604.24707v1)** | 2026-04-27 | 5 pages, 5 figures |
+| **[Energy-Arena: A Dynamic Benchmark for Operational Energy Forecasting](https://arxiv.org/abs/2604.24705v1)** | 2026-04-27 | <details><summary>6 pag...</summary><p>6 pages, 5 figures, 1 table. Submitted to the European Electricity Markets (EEM) conference</p></details> |
+| **[Defective Task Descriptions in LLM-Based Code Generation: Detection and Analysis](https://arxiv.org/abs/2604.24703v1)** | 2026-04-27 |  |
+| **[Agent-Aided Design for Dynamic CAD Models](https://arxiv.org/abs/2604.15184v2)** | 2026-04-27 | <details><summary>5 pag...</summary><p>5 pages, 3 figures, published in CAIS'26</p></details> |
+| **[Isotonic Layer: A Unified Framework for Recommendation Calibration and Debiasing](https://arxiv.org/abs/2603.06589v2)** | 2026-04-27 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, submitted to KDD 2026</p></details> |
+| **[Learning Human-Intention Priors from Large-Scale Human Demonstrations for Robotic Manipulation](https://arxiv.org/abs/2604.24681v1)** | 2026-04-27 | 13 pages, 5 figures |
 
