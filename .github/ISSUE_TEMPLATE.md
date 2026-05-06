@@ -1,5 +1,5 @@
 ---
-title: Latest 50 Papers - May 06, 2026
+title: Latest 50 Papers - May 07, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/JiamingZang/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,127 +7,105 @@ labels: documentation
 ## Molecular
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Agentic Forecasting using Sequential Bayesian Updating of Linguistic Beliefs](https://arxiv.org/abs/2604.18576v3)** | 2026-05-04 | <details><summary>v3 fi...</summary><p>v3 fixes an error in the baseline numbers (results for main method unaffected), adds cross-LLM experiments, and improves the presentation</p></details> |
-| **[MolmoAct2: Action Reasoning Models for Real-world Deployment](https://arxiv.org/abs/2605.02881v1)** | 2026-05-04 | <details><summary>31 pa...</summary><p>31 pages, project page: https://allenai.org/blog/molmoact2</p></details> |
-| **[Diagonal Scaling: A Multi-Dimensional Resource Model and Optimization Framework for Distributed Databases](https://arxiv.org/abs/2511.21612v2)** | 2026-05-04 |  |
-| **[EvoPoC: Automated Exploit Synthesis for DeFi Smart Contracts via Hierarchical Knowledge Graphs](https://arxiv.org/abs/2605.02868v1)** | 2026-05-04 |  |
-| **[Semantic Risk-Aware Heuristic Planning for Robotic Navigation in Dynamic Environments: An LLM-Inspired Approach](https://arxiv.org/abs/2605.02862v1)** | 2026-05-04 | <details><summary>5 pag...</summary><p>5 pages, 5 figures. Experimental study on semantic risk-aware heuristic planning for robotic navigation</p></details> |
-| **[The 1-Bit Barrier is Universal: k-Stage Pipeline Composition and Unified Leakage Bounds for Standard Modular Reductions in PQC Hardware](https://arxiv.org/abs/2605.02856v1)** | 2026-05-04 | 30 pages, 0 figures |
-| **[(POSTER) From Sensors to Insight: Rapid, Edge-to-Core Application Development for Sensor-Driven Applications](https://arxiv.org/abs/2605.02844v1)** | 2026-05-04 |  |
-| **[RadLite: Multi-Task LoRA Fine-Tuning of Small Language Models for CPU-Deployable Radiology AI](https://arxiv.org/abs/2605.00421v2)** | 2026-05-04 |  |
-| **[Static Analysis of Recursive SHACL](https://arxiv.org/abs/2605.02787v1)** | 2026-05-04 | <details><summary>17 pa...</summary><p>17 pages, 5 figures, long version of work to be published in the proceedings of KR 2026</p></details> |
+| **[A Closed-Form Adaptive-Landmark Kernel for Certified Point-Cloud and Graph Classification](https://arxiv.org/abs/2605.04046v1)** | 2026-05-05 |  |
+| **[Lottery BP: Unlocking Quantum Error Decoding at Scale](https://arxiv.org/abs/2605.00038v2)** | 2026-05-05 | 13 pages, 18 figures |
+| **[Enhanced 3D Brain Tumor Segmentation Using Assorted Precision Training](https://arxiv.org/abs/2605.04008v1)** | 2026-05-05 | <details><summary>5 pag...</summary><p>5 pages, 5 figures, 1 table</p></details> |
+| **[EQUITRIAGE: A Fairness Audit of Gender Bias in LLM-Based Emergency Department Triage](https://arxiv.org/abs/2605.03998v1)** | 2026-05-05 | <details><summary>37 pa...</summary><p>37 pages, 10 figures, 13 tables. Code and analysis scripts available upon publication. Data: PhysioNet credentialed access (MIMIC-IV-ED v2.2 and MIMIC-IV v3.1, BIDMC IRB #2001P001699)</p></details> |
+| **[Flow Sampling: Learning to Sample from Unnormalized Densities via Denoising Conditional Processes](https://arxiv.org/abs/2605.03984v1)** | 2026-05-05 | <details><summary>To ap...</summary><p>To appear at ICML 2026 (spotlight)</p></details> |
+| **[Feature-Augmented Transformers for Robust AI-Text Detection Across Domains and Generators](https://arxiv.org/abs/2605.03969v1)** | 2026-05-05 | <details><summary>8 pag...</summary><p>8 pages, 4 figures, 5 tables. Submitted to ICML 2026</p></details> |
+| **[Tree-independence number of $P_5$-free graphs with no large bicliques](https://arxiv.org/abs/2605.03965v1)** | 2026-05-05 | <details><summary>An ab...</summary><p>An abridged version of this manuscript was submitted to the European Symposium on Algorithms (ESA 2026) on April 23, 2026</p></details> |
+| **[MOSAIC-Bench: Measuring Compositional Vulnerability Induction in Coding Agents](https://arxiv.org/abs/2605.03952v1)** | 2026-05-05 |  |
 
 ## Molecular Generation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Agentic Forecasting using Sequential Bayesian Updating of Linguistic Beliefs](https://arxiv.org/abs/2604.18576v3)** | 2026-05-04 | <details><summary>v3 fi...</summary><p>v3 fixes an error in the baseline numbers (results for main method unaffected), adds cross-LLM experiments, and improves the presentation</p></details> |
-| **[MolmoAct2: Action Reasoning Models for Real-world Deployment](https://arxiv.org/abs/2605.02881v1)** | 2026-05-04 | <details><summary>31 pa...</summary><p>31 pages, project page: https://allenai.org/blog/molmoact2</p></details> |
-| **[Diagonal Scaling: A Multi-Dimensional Resource Model and Optimization Framework for Distributed Databases](https://arxiv.org/abs/2511.21612v2)** | 2026-05-04 |  |
-| **[EvoPoC: Automated Exploit Synthesis for DeFi Smart Contracts via Hierarchical Knowledge Graphs](https://arxiv.org/abs/2605.02868v1)** | 2026-05-04 |  |
-| **[Semantic Risk-Aware Heuristic Planning for Robotic Navigation in Dynamic Environments: An LLM-Inspired Approach](https://arxiv.org/abs/2605.02862v1)** | 2026-05-04 | <details><summary>5 pag...</summary><p>5 pages, 5 figures. Experimental study on semantic risk-aware heuristic planning for robotic navigation</p></details> |
-| **[The 1-Bit Barrier is Universal: k-Stage Pipeline Composition and Unified Leakage Bounds for Standard Modular Reductions in PQC Hardware](https://arxiv.org/abs/2605.02856v1)** | 2026-05-04 | 30 pages, 0 figures |
-| **[(POSTER) From Sensors to Insight: Rapid, Edge-to-Core Application Development for Sensor-Driven Applications](https://arxiv.org/abs/2605.02844v1)** | 2026-05-04 |  |
-| **[RadLite: Multi-Task LoRA Fine-Tuning of Small Language Models for CPU-Deployable Radiology AI](https://arxiv.org/abs/2605.00421v2)** | 2026-05-04 |  |
-| **[Static Analysis of Recursive SHACL](https://arxiv.org/abs/2605.02787v1)** | 2026-05-04 | <details><summary>17 pa...</summary><p>17 pages, 5 figures, long version of work to be published in the proceedings of KR 2026</p></details> |
-| **[Linearizing Vision Transformer with Test-Time Training](https://arxiv.org/abs/2605.02772v1)** | 2026-05-04 | ICML 2026 |
-| **[Quantum-inspired Techniques in Tensor Networks for Industrial Contexts](https://arxiv.org/abs/2404.11277v2)** | 2026-05-04 | <details><summary>18 pa...</summary><p>18 pages, 5 figures, improved version with updates for 2026</p></details> |
+| **[A Closed-Form Adaptive-Landmark Kernel for Certified Point-Cloud and Graph Classification](https://arxiv.org/abs/2605.04046v1)** | 2026-05-05 |  |
+| **[Lottery BP: Unlocking Quantum Error Decoding at Scale](https://arxiv.org/abs/2605.00038v2)** | 2026-05-05 | 13 pages, 18 figures |
+| **[Enhanced 3D Brain Tumor Segmentation Using Assorted Precision Training](https://arxiv.org/abs/2605.04008v1)** | 2026-05-05 | <details><summary>5 pag...</summary><p>5 pages, 5 figures, 1 table</p></details> |
+| **[EQUITRIAGE: A Fairness Audit of Gender Bias in LLM-Based Emergency Department Triage](https://arxiv.org/abs/2605.03998v1)** | 2026-05-05 | <details><summary>37 pa...</summary><p>37 pages, 10 figures, 13 tables. Code and analysis scripts available upon publication. Data: PhysioNet credentialed access (MIMIC-IV-ED v2.2 and MIMIC-IV v3.1, BIDMC IRB #2001P001699)</p></details> |
+| **[Feature-Augmented Transformers for Robust AI-Text Detection Across Domains and Generators](https://arxiv.org/abs/2605.03969v1)** | 2026-05-05 | <details><summary>8 pag...</summary><p>8 pages, 4 figures, 5 tables. Submitted to ICML 2026</p></details> |
+| **[Tree-independence number of $P_5$-free graphs with no large bicliques](https://arxiv.org/abs/2605.03965v1)** | 2026-05-05 | <details><summary>An ab...</summary><p>An abridged version of this manuscript was submitted to the European Symposium on Algorithms (ESA 2026) on April 23, 2026</p></details> |
+| **[MOSAIC-Bench: Measuring Compositional Vulnerability Induction in Coding Agents](https://arxiv.org/abs/2605.03952v1)** | 2026-05-05 |  |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Agentic Forecasting using Sequential Bayesian Updating of Linguistic Beliefs](https://arxiv.org/abs/2604.18576v3)** | 2026-05-04 | <details><summary>v3 fi...</summary><p>v3 fixes an error in the baseline numbers (results for main method unaffected), adds cross-LLM experiments, and improves the presentation</p></details> |
-| **[MolmoAct2: Action Reasoning Models for Real-world Deployment](https://arxiv.org/abs/2605.02881v1)** | 2026-05-04 | <details><summary>31 pa...</summary><p>31 pages, project page: https://allenai.org/blog/molmoact2</p></details> |
-| **[Diagonal Scaling: A Multi-Dimensional Resource Model and Optimization Framework for Distributed Databases](https://arxiv.org/abs/2511.21612v2)** | 2026-05-04 |  |
-| **[EvoPoC: Automated Exploit Synthesis for DeFi Smart Contracts via Hierarchical Knowledge Graphs](https://arxiv.org/abs/2605.02868v1)** | 2026-05-04 |  |
-| **[Semantic Risk-Aware Heuristic Planning for Robotic Navigation in Dynamic Environments: An LLM-Inspired Approach](https://arxiv.org/abs/2605.02862v1)** | 2026-05-04 | <details><summary>5 pag...</summary><p>5 pages, 5 figures. Experimental study on semantic risk-aware heuristic planning for robotic navigation</p></details> |
-| **[The 1-Bit Barrier is Universal: k-Stage Pipeline Composition and Unified Leakage Bounds for Standard Modular Reductions in PQC Hardware](https://arxiv.org/abs/2605.02856v1)** | 2026-05-04 | 30 pages, 0 figures |
-| **[(POSTER) From Sensors to Insight: Rapid, Edge-to-Core Application Development for Sensor-Driven Applications](https://arxiv.org/abs/2605.02844v1)** | 2026-05-04 |  |
-| **[RadLite: Multi-Task LoRA Fine-Tuning of Small Language Models for CPU-Deployable Radiology AI](https://arxiv.org/abs/2605.00421v2)** | 2026-05-04 |  |
-| **[Static Analysis of Recursive SHACL](https://arxiv.org/abs/2605.02787v1)** | 2026-05-04 | <details><summary>17 pa...</summary><p>17 pages, 5 figures, long version of work to be published in the proceedings of KR 2026</p></details> |
-| **[Linearizing Vision Transformer with Test-Time Training](https://arxiv.org/abs/2605.02772v1)** | 2026-05-04 | ICML 2026 |
-| **[Quantum-inspired Techniques in Tensor Networks for Industrial Contexts](https://arxiv.org/abs/2404.11277v2)** | 2026-05-04 | <details><summary>18 pa...</summary><p>18 pages, 5 figures, improved version with updates for 2026</p></details> |
+| **[A Closed-Form Adaptive-Landmark Kernel for Certified Point-Cloud and Graph Classification](https://arxiv.org/abs/2605.04046v1)** | 2026-05-05 |  |
+| **[Lottery BP: Unlocking Quantum Error Decoding at Scale](https://arxiv.org/abs/2605.00038v2)** | 2026-05-05 | 13 pages, 18 figures |
+| **[Enhanced 3D Brain Tumor Segmentation Using Assorted Precision Training](https://arxiv.org/abs/2605.04008v1)** | 2026-05-05 | <details><summary>5 pag...</summary><p>5 pages, 5 figures, 1 table</p></details> |
+| **[EQUITRIAGE: A Fairness Audit of Gender Bias in LLM-Based Emergency Department Triage](https://arxiv.org/abs/2605.03998v1)** | 2026-05-05 | <details><summary>37 pa...</summary><p>37 pages, 10 figures, 13 tables. Code and analysis scripts available upon publication. Data: PhysioNet credentialed access (MIMIC-IV-ED v2.2 and MIMIC-IV v3.1, BIDMC IRB #2001P001699)</p></details> |
+| **[Feature-Augmented Transformers for Robust AI-Text Detection Across Domains and Generators](https://arxiv.org/abs/2605.03969v1)** | 2026-05-05 | <details><summary>8 pag...</summary><p>8 pages, 4 figures, 5 tables. Submitted to ICML 2026</p></details> |
+| **[Tree-independence number of $P_5$-free graphs with no large bicliques](https://arxiv.org/abs/2605.03965v1)** | 2026-05-05 | <details><summary>An ab...</summary><p>An abridged version of this manuscript was submitted to the European Symposium on Algorithms (ESA 2026) on April 23, 2026</p></details> |
+| **[MOSAIC-Bench: Measuring Compositional Vulnerability Induction in Coding Agents](https://arxiv.org/abs/2605.03952v1)** | 2026-05-05 |  |
+| **[Magic-Informed Quantum Architecture Search](https://arxiv.org/abs/2605.03932v1)** | 2026-05-05 |  |
 
 ## Diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Agentic Forecasting using Sequential Bayesian Updating of Linguistic Beliefs](https://arxiv.org/abs/2604.18576v3)** | 2026-05-04 | <details><summary>v3 fi...</summary><p>v3 fixes an error in the baseline numbers (results for main method unaffected), adds cross-LLM experiments, and improves the presentation</p></details> |
-| **[MolmoAct2: Action Reasoning Models for Real-world Deployment](https://arxiv.org/abs/2605.02881v1)** | 2026-05-04 | <details><summary>31 pa...</summary><p>31 pages, project page: https://allenai.org/blog/molmoact2</p></details> |
-| **[Diagonal Scaling: A Multi-Dimensional Resource Model and Optimization Framework for Distributed Databases](https://arxiv.org/abs/2511.21612v2)** | 2026-05-04 |  |
-| **[EvoPoC: Automated Exploit Synthesis for DeFi Smart Contracts via Hierarchical Knowledge Graphs](https://arxiv.org/abs/2605.02868v1)** | 2026-05-04 |  |
-| **[Semantic Risk-Aware Heuristic Planning for Robotic Navigation in Dynamic Environments: An LLM-Inspired Approach](https://arxiv.org/abs/2605.02862v1)** | 2026-05-04 | <details><summary>5 pag...</summary><p>5 pages, 5 figures. Experimental study on semantic risk-aware heuristic planning for robotic navigation</p></details> |
-| **[The 1-Bit Barrier is Universal: k-Stage Pipeline Composition and Unified Leakage Bounds for Standard Modular Reductions in PQC Hardware](https://arxiv.org/abs/2605.02856v1)** | 2026-05-04 | 30 pages, 0 figures |
-| **[Active Sampling for Ultra-Low-Bit-Rate Video Compression via Conditional Controlled Diffusion](https://arxiv.org/abs/2605.02849v1)** | 2026-05-04 | <details><summary>21 pa...</summary><p>21 pages, 11 figures, 3 tables</p></details> |
-| **[(POSTER) From Sensors to Insight: Rapid, Edge-to-Core Application Development for Sensor-Driven Applications](https://arxiv.org/abs/2605.02844v1)** | 2026-05-04 |  |
+| **[A Closed-Form Adaptive-Landmark Kernel for Certified Point-Cloud and Graph Classification](https://arxiv.org/abs/2605.04046v1)** | 2026-05-05 |  |
+| **[Audio-Visual Intelligence in Large Foundation Models](https://arxiv.org/abs/2605.04045v1)** | 2026-05-05 | <details><summary>56 pa...</summary><p>56 pages, 16 figures, 24 tables, https://github.com/JavisVerse/Awesome-AVI</p></details> |
+| **[Large Language Models are Universal Reasoners for Visual Generation](https://arxiv.org/abs/2605.04040v1)** | 2026-05-05 |  |
+| **[Lottery BP: Unlocking Quantum Error Decoding at Scale](https://arxiv.org/abs/2605.00038v2)** | 2026-05-05 | 13 pages, 18 figures |
+| **[Conditional Diffusion Sampling](https://arxiv.org/abs/2605.04013v1)** | 2026-05-05 | ICML 2026 |
+| **[Enhanced 3D Brain Tumor Segmentation Using Assorted Precision Training](https://arxiv.org/abs/2605.04008v1)** | 2026-05-05 | <details><summary>5 pag...</summary><p>5 pages, 5 figures, 1 table</p></details> |
+| **[EQUITRIAGE: A Fairness Audit of Gender Bias in LLM-Based Emergency Department Triage](https://arxiv.org/abs/2605.03998v1)** | 2026-05-05 | <details><summary>37 pa...</summary><p>37 pages, 10 figures, 13 tables. Code and analysis scripts available upon publication. Data: PhysioNet credentialed access (MIMIC-IV-ED v2.2 and MIMIC-IV v3.1, BIDMC IRB #2001P001699)</p></details> |
+| **[Flow Sampling: Learning to Sample from Unnormalized Densities via Denoising Conditional Processes](https://arxiv.org/abs/2605.03984v1)** | 2026-05-05 | <details><summary>To ap...</summary><p>To appear at ICML 2026 (spotlight)</p></details> |
+| **[Feature-Augmented Transformers for Robust AI-Text Detection Across Domains and Generators](https://arxiv.org/abs/2605.03969v1)** | 2026-05-05 | <details><summary>8 pag...</summary><p>8 pages, 4 figures, 5 tables. Submitted to ICML 2026</p></details> |
 
 ## Object Counting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Agentic Forecasting using Sequential Bayesian Updating of Linguistic Beliefs](https://arxiv.org/abs/2604.18576v3)** | 2026-05-04 | <details><summary>v3 fi...</summary><p>v3 fixes an error in the baseline numbers (results for main method unaffected), adds cross-LLM experiments, and improves the presentation</p></details> |
-| **[MolmoAct2: Action Reasoning Models for Real-world Deployment](https://arxiv.org/abs/2605.02881v1)** | 2026-05-04 | <details><summary>31 pa...</summary><p>31 pages, project page: https://allenai.org/blog/molmoact2</p></details> |
-| **[Diagonal Scaling: A Multi-Dimensional Resource Model and Optimization Framework for Distributed Databases](https://arxiv.org/abs/2511.21612v2)** | 2026-05-04 |  |
-| **[EvoPoC: Automated Exploit Synthesis for DeFi Smart Contracts via Hierarchical Knowledge Graphs](https://arxiv.org/abs/2605.02868v1)** | 2026-05-04 |  |
-| **[Semantic Risk-Aware Heuristic Planning for Robotic Navigation in Dynamic Environments: An LLM-Inspired Approach](https://arxiv.org/abs/2605.02862v1)** | 2026-05-04 | <details><summary>5 pag...</summary><p>5 pages, 5 figures. Experimental study on semantic risk-aware heuristic planning for robotic navigation</p></details> |
-| **[The 1-Bit Barrier is Universal: k-Stage Pipeline Composition and Unified Leakage Bounds for Standard Modular Reductions in PQC Hardware](https://arxiv.org/abs/2605.02856v1)** | 2026-05-04 | 30 pages, 0 figures |
-| **[(POSTER) From Sensors to Insight: Rapid, Edge-to-Core Application Development for Sensor-Driven Applications](https://arxiv.org/abs/2605.02844v1)** | 2026-05-04 |  |
-| **[RadLite: Multi-Task LoRA Fine-Tuning of Small Language Models for CPU-Deployable Radiology AI](https://arxiv.org/abs/2605.00421v2)** | 2026-05-04 |  |
-| **[Static Analysis of Recursive SHACL](https://arxiv.org/abs/2605.02787v1)** | 2026-05-04 | <details><summary>17 pa...</summary><p>17 pages, 5 figures, long version of work to be published in the proceedings of KR 2026</p></details> |
-| **[Linearizing Vision Transformer with Test-Time Training](https://arxiv.org/abs/2605.02772v1)** | 2026-05-04 | ICML 2026 |
-| **[Quantum-inspired Techniques in Tensor Networks for Industrial Contexts](https://arxiv.org/abs/2404.11277v2)** | 2026-05-04 | <details><summary>18 pa...</summary><p>18 pages, 5 figures, improved version with updates for 2026</p></details> |
+| **[A Closed-Form Adaptive-Landmark Kernel for Certified Point-Cloud and Graph Classification](https://arxiv.org/abs/2605.04046v1)** | 2026-05-05 |  |
+| **[Lottery BP: Unlocking Quantum Error Decoding at Scale](https://arxiv.org/abs/2605.00038v2)** | 2026-05-05 | 13 pages, 18 figures |
+| **[Enhanced 3D Brain Tumor Segmentation Using Assorted Precision Training](https://arxiv.org/abs/2605.04008v1)** | 2026-05-05 | <details><summary>5 pag...</summary><p>5 pages, 5 figures, 1 table</p></details> |
+| **[EQUITRIAGE: A Fairness Audit of Gender Bias in LLM-Based Emergency Department Triage](https://arxiv.org/abs/2605.03998v1)** | 2026-05-05 | <details><summary>37 pa...</summary><p>37 pages, 10 figures, 13 tables. Code and analysis scripts available upon publication. Data: PhysioNet credentialed access (MIMIC-IV-ED v2.2 and MIMIC-IV v3.1, BIDMC IRB #2001P001699)</p></details> |
+| **[Feature-Augmented Transformers for Robust AI-Text Detection Across Domains and Generators](https://arxiv.org/abs/2605.03969v1)** | 2026-05-05 | <details><summary>8 pag...</summary><p>8 pages, 4 figures, 5 tables. Submitted to ICML 2026</p></details> |
+| **[Tree-independence number of $P_5$-free graphs with no large bicliques](https://arxiv.org/abs/2605.03965v1)** | 2026-05-05 | <details><summary>An ab...</summary><p>An abridged version of this manuscript was submitted to the European Symposium on Algorithms (ESA 2026) on April 23, 2026</p></details> |
+| **[MOSAIC-Bench: Measuring Compositional Vulnerability Induction in Coding Agents](https://arxiv.org/abs/2605.03952v1)** | 2026-05-05 |  |
 
 ## Image Caption
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Agentic Forecasting using Sequential Bayesian Updating of Linguistic Beliefs](https://arxiv.org/abs/2604.18576v3)** | 2026-05-04 | <details><summary>v3 fi...</summary><p>v3 fixes an error in the baseline numbers (results for main method unaffected), adds cross-LLM experiments, and improves the presentation</p></details> |
-| **[MolmoAct2: Action Reasoning Models for Real-world Deployment](https://arxiv.org/abs/2605.02881v1)** | 2026-05-04 | <details><summary>31 pa...</summary><p>31 pages, project page: https://allenai.org/blog/molmoact2</p></details> |
-| **[Diagonal Scaling: A Multi-Dimensional Resource Model and Optimization Framework for Distributed Databases](https://arxiv.org/abs/2511.21612v2)** | 2026-05-04 |  |
-| **[EvoPoC: Automated Exploit Synthesis for DeFi Smart Contracts via Hierarchical Knowledge Graphs](https://arxiv.org/abs/2605.02868v1)** | 2026-05-04 |  |
-| **[Semantic Risk-Aware Heuristic Planning for Robotic Navigation in Dynamic Environments: An LLM-Inspired Approach](https://arxiv.org/abs/2605.02862v1)** | 2026-05-04 | <details><summary>5 pag...</summary><p>5 pages, 5 figures. Experimental study on semantic risk-aware heuristic planning for robotic navigation</p></details> |
-| **[The 1-Bit Barrier is Universal: k-Stage Pipeline Composition and Unified Leakage Bounds for Standard Modular Reductions in PQC Hardware](https://arxiv.org/abs/2605.02856v1)** | 2026-05-04 | 30 pages, 0 figures |
-| **[(POSTER) From Sensors to Insight: Rapid, Edge-to-Core Application Development for Sensor-Driven Applications](https://arxiv.org/abs/2605.02844v1)** | 2026-05-04 |  |
-| **[RadLite: Multi-Task LoRA Fine-Tuning of Small Language Models for CPU-Deployable Radiology AI](https://arxiv.org/abs/2605.00421v2)** | 2026-05-04 |  |
-| **[Static Analysis of Recursive SHACL](https://arxiv.org/abs/2605.02787v1)** | 2026-05-04 | <details><summary>17 pa...</summary><p>17 pages, 5 figures, long version of work to be published in the proceedings of KR 2026</p></details> |
-| **[Linearizing Vision Transformer with Test-Time Training](https://arxiv.org/abs/2605.02772v1)** | 2026-05-04 | ICML 2026 |
-| **[Quantum-inspired Techniques in Tensor Networks for Industrial Contexts](https://arxiv.org/abs/2404.11277v2)** | 2026-05-04 | <details><summary>18 pa...</summary><p>18 pages, 5 figures, improved version with updates for 2026</p></details> |
+| **[A Closed-Form Adaptive-Landmark Kernel for Certified Point-Cloud and Graph Classification](https://arxiv.org/abs/2605.04046v1)** | 2026-05-05 |  |
+| **[Lottery BP: Unlocking Quantum Error Decoding at Scale](https://arxiv.org/abs/2605.00038v2)** | 2026-05-05 | 13 pages, 18 figures |
+| **[Enhanced 3D Brain Tumor Segmentation Using Assorted Precision Training](https://arxiv.org/abs/2605.04008v1)** | 2026-05-05 | <details><summary>5 pag...</summary><p>5 pages, 5 figures, 1 table</p></details> |
+| **[EQUITRIAGE: A Fairness Audit of Gender Bias in LLM-Based Emergency Department Triage](https://arxiv.org/abs/2605.03998v1)** | 2026-05-05 | <details><summary>37 pa...</summary><p>37 pages, 10 figures, 13 tables. Code and analysis scripts available upon publication. Data: PhysioNet credentialed access (MIMIC-IV-ED v2.2 and MIMIC-IV v3.1, BIDMC IRB #2001P001699)</p></details> |
+| **[Feature-Augmented Transformers for Robust AI-Text Detection Across Domains and Generators](https://arxiv.org/abs/2605.03969v1)** | 2026-05-05 | <details><summary>8 pag...</summary><p>8 pages, 4 figures, 5 tables. Submitted to ICML 2026</p></details> |
+| **[Tree-independence number of $P_5$-free graphs with no large bicliques](https://arxiv.org/abs/2605.03965v1)** | 2026-05-05 | <details><summary>An ab...</summary><p>An abridged version of this manuscript was submitted to the European Symposium on Algorithms (ESA 2026) on April 23, 2026</p></details> |
+| **[MOSAIC-Bench: Measuring Compositional Vulnerability Induction in Coding Agents](https://arxiv.org/abs/2605.03952v1)** | 2026-05-05 |  |
+| **[Do Multimodal RAG Systems Leak Data? A Comprehensive Evaluation of Membership Inference and Image Caption Retrieval Attacks](https://arxiv.org/abs/2601.17644v3)** | 2026-05-05 | <details><summary>Accep...</summary><p>Accepted for publication at ACL 2026 (Findings)</p></details> |
 
 ## Describe
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Agentic Forecasting using Sequential Bayesian Updating of Linguistic Beliefs](https://arxiv.org/abs/2604.18576v3)** | 2026-05-04 | <details><summary>v3 fi...</summary><p>v3 fixes an error in the baseline numbers (results for main method unaffected), adds cross-LLM experiments, and improves the presentation</p></details> |
-| **[MolmoAct2: Action Reasoning Models for Real-world Deployment](https://arxiv.org/abs/2605.02881v1)** | 2026-05-04 | <details><summary>31 pa...</summary><p>31 pages, project page: https://allenai.org/blog/molmoact2</p></details> |
-| **[Diagonal Scaling: A Multi-Dimensional Resource Model and Optimization Framework for Distributed Databases](https://arxiv.org/abs/2511.21612v2)** | 2026-05-04 |  |
-| **[EvoPoC: Automated Exploit Synthesis for DeFi Smart Contracts via Hierarchical Knowledge Graphs](https://arxiv.org/abs/2605.02868v1)** | 2026-05-04 |  |
-| **[Semantic Risk-Aware Heuristic Planning for Robotic Navigation in Dynamic Environments: An LLM-Inspired Approach](https://arxiv.org/abs/2605.02862v1)** | 2026-05-04 | <details><summary>5 pag...</summary><p>5 pages, 5 figures. Experimental study on semantic risk-aware heuristic planning for robotic navigation</p></details> |
-| **[The 1-Bit Barrier is Universal: k-Stage Pipeline Composition and Unified Leakage Bounds for Standard Modular Reductions in PQC Hardware](https://arxiv.org/abs/2605.02856v1)** | 2026-05-04 | 30 pages, 0 figures |
-| **[(POSTER) From Sensors to Insight: Rapid, Edge-to-Core Application Development for Sensor-Driven Applications](https://arxiv.org/abs/2605.02844v1)** | 2026-05-04 |  |
-| **[When Is the Same Model Not the Same Service? A Measurement Study of Hosted Open-Weight LLM APIs](https://arxiv.org/abs/2605.02821v1)** | 2026-05-04 | 21 pages, 21 figures |
+| **[A Closed-Form Adaptive-Landmark Kernel for Certified Point-Cloud and Graph Classification](https://arxiv.org/abs/2605.04046v1)** | 2026-05-05 |  |
+| **[Learning a Stochastic Differential Equation Model of Tropical Cyclone Intensification from Reanalysis and Observational Data](https://arxiv.org/abs/2601.08116v3)** | 2026-05-05 |  |
+| **[Lottery BP: Unlocking Quantum Error Decoding at Scale](https://arxiv.org/abs/2605.00038v2)** | 2026-05-05 | 13 pages, 18 figures |
+| **[Redefining AI Red Teaming in the Agentic Era: From Weeks to Hours](https://arxiv.org/abs/2605.04019v1)** | 2026-05-05 | 39 pages, 8 figures |
+| **[Enhanced 3D Brain Tumor Segmentation Using Assorted Precision Training](https://arxiv.org/abs/2605.04008v1)** | 2026-05-05 | <details><summary>5 pag...</summary><p>5 pages, 5 figures, 1 table</p></details> |
+| **[EQUITRIAGE: A Fairness Audit of Gender Bias in LLM-Based Emergency Department Triage](https://arxiv.org/abs/2605.03998v1)** | 2026-05-05 | <details><summary>37 pa...</summary><p>37 pages, 10 figures, 13 tables. Code and analysis scripts available upon publication. Data: PhysioNet credentialed access (MIMIC-IV-ED v2.2 and MIMIC-IV v3.1, BIDMC IRB #2001P001699)</p></details> |
+| **[From Intent to Execution: Composing Agentic Workflows with Agent Recommendation](https://arxiv.org/abs/2605.03986v1)** | 2026-05-05 |  |
+| **[Implementing True MPI Sessions and Evaluating MPI Initialization Scalability](https://arxiv.org/abs/2605.03983v1)** | 2026-05-05 | <details><summary>Europ...</summary><p>European MPI Users' Group Meeting. 2025</p></details> |
 
 ## Light Weight
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Agentic Forecasting using Sequential Bayesian Updating of Linguistic Beliefs](https://arxiv.org/abs/2604.18576v3)** | 2026-05-04 | <details><summary>v3 fi...</summary><p>v3 fixes an error in the baseline numbers (results for main method unaffected), adds cross-LLM experiments, and improves the presentation</p></details> |
-| **[MolmoAct2: Action Reasoning Models for Real-world Deployment](https://arxiv.org/abs/2605.02881v1)** | 2026-05-04 | <details><summary>31 pa...</summary><p>31 pages, project page: https://allenai.org/blog/molmoact2</p></details> |
-| **[Diagonal Scaling: A Multi-Dimensional Resource Model and Optimization Framework for Distributed Databases](https://arxiv.org/abs/2511.21612v2)** | 2026-05-04 |  |
-| **[EvoPoC: Automated Exploit Synthesis for DeFi Smart Contracts via Hierarchical Knowledge Graphs](https://arxiv.org/abs/2605.02868v1)** | 2026-05-04 |  |
-| **[Semantic Risk-Aware Heuristic Planning for Robotic Navigation in Dynamic Environments: An LLM-Inspired Approach](https://arxiv.org/abs/2605.02862v1)** | 2026-05-04 | <details><summary>5 pag...</summary><p>5 pages, 5 figures. Experimental study on semantic risk-aware heuristic planning for robotic navigation</p></details> |
-| **[The 1-Bit Barrier is Universal: k-Stage Pipeline Composition and Unified Leakage Bounds for Standard Modular Reductions in PQC Hardware](https://arxiv.org/abs/2605.02856v1)** | 2026-05-04 | 30 pages, 0 figures |
-| **[(POSTER) From Sensors to Insight: Rapid, Edge-to-Core Application Development for Sensor-Driven Applications](https://arxiv.org/abs/2605.02844v1)** | 2026-05-04 |  |
-| **[RadLite: Multi-Task LoRA Fine-Tuning of Small Language Models for CPU-Deployable Radiology AI](https://arxiv.org/abs/2605.00421v2)** | 2026-05-04 |  |
-| **[Static Analysis of Recursive SHACL](https://arxiv.org/abs/2605.02787v1)** | 2026-05-04 | <details><summary>17 pa...</summary><p>17 pages, 5 figures, long version of work to be published in the proceedings of KR 2026</p></details> |
-| **[Linearizing Vision Transformer with Test-Time Training](https://arxiv.org/abs/2605.02772v1)** | 2026-05-04 | ICML 2026 |
-| **[Quantum-inspired Techniques in Tensor Networks for Industrial Contexts](https://arxiv.org/abs/2404.11277v2)** | 2026-05-04 | <details><summary>18 pa...</summary><p>18 pages, 5 figures, improved version with updates for 2026</p></details> |
+| **[A Closed-Form Adaptive-Landmark Kernel for Certified Point-Cloud and Graph Classification](https://arxiv.org/abs/2605.04046v1)** | 2026-05-05 |  |
+| **[Lottery BP: Unlocking Quantum Error Decoding at Scale](https://arxiv.org/abs/2605.00038v2)** | 2026-05-05 | 13 pages, 18 figures |
+| **[Enhanced 3D Brain Tumor Segmentation Using Assorted Precision Training](https://arxiv.org/abs/2605.04008v1)** | 2026-05-05 | <details><summary>5 pag...</summary><p>5 pages, 5 figures, 1 table</p></details> |
+| **[EQUITRIAGE: A Fairness Audit of Gender Bias in LLM-Based Emergency Department Triage](https://arxiv.org/abs/2605.03998v1)** | 2026-05-05 | <details><summary>37 pa...</summary><p>37 pages, 10 figures, 13 tables. Code and analysis scripts available upon publication. Data: PhysioNet credentialed access (MIMIC-IV-ED v2.2 and MIMIC-IV v3.1, BIDMC IRB #2001P001699)</p></details> |
+| **[Feature-Augmented Transformers for Robust AI-Text Detection Across Domains and Generators](https://arxiv.org/abs/2605.03969v1)** | 2026-05-05 | <details><summary>8 pag...</summary><p>8 pages, 4 figures, 5 tables. Submitted to ICML 2026</p></details> |
+| **[Tree-independence number of $P_5$-free graphs with no large bicliques](https://arxiv.org/abs/2605.03965v1)** | 2026-05-05 | <details><summary>An ab...</summary><p>An abridged version of this manuscript was submitted to the European Symposium on Algorithms (ESA 2026) on April 23, 2026</p></details> |
+| **[MOSAIC-Bench: Measuring Compositional Vulnerability Induction in Coding Agents](https://arxiv.org/abs/2605.03952v1)** | 2026-05-05 |  |
 
 ## Class Incremental
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Agentic Forecasting using Sequential Bayesian Updating of Linguistic Beliefs](https://arxiv.org/abs/2604.18576v3)** | 2026-05-04 | <details><summary>v3 fi...</summary><p>v3 fixes an error in the baseline numbers (results for main method unaffected), adds cross-LLM experiments, and improves the presentation</p></details> |
-| **[MolmoAct2: Action Reasoning Models for Real-world Deployment](https://arxiv.org/abs/2605.02881v1)** | 2026-05-04 | <details><summary>31 pa...</summary><p>31 pages, project page: https://allenai.org/blog/molmoact2</p></details> |
-| **[Diagonal Scaling: A Multi-Dimensional Resource Model and Optimization Framework for Distributed Databases](https://arxiv.org/abs/2511.21612v2)** | 2026-05-04 |  |
-| **[EvoPoC: Automated Exploit Synthesis for DeFi Smart Contracts via Hierarchical Knowledge Graphs](https://arxiv.org/abs/2605.02868v1)** | 2026-05-04 |  |
-| **[Semantic Risk-Aware Heuristic Planning for Robotic Navigation in Dynamic Environments: An LLM-Inspired Approach](https://arxiv.org/abs/2605.02862v1)** | 2026-05-04 | <details><summary>5 pag...</summary><p>5 pages, 5 figures. Experimental study on semantic risk-aware heuristic planning for robotic navigation</p></details> |
-| **[The 1-Bit Barrier is Universal: k-Stage Pipeline Composition and Unified Leakage Bounds for Standard Modular Reductions in PQC Hardware](https://arxiv.org/abs/2605.02856v1)** | 2026-05-04 | 30 pages, 0 figures |
-| **[(POSTER) From Sensors to Insight: Rapid, Edge-to-Core Application Development for Sensor-Driven Applications](https://arxiv.org/abs/2605.02844v1)** | 2026-05-04 |  |
-| **[RadLite: Multi-Task LoRA Fine-Tuning of Small Language Models for CPU-Deployable Radiology AI](https://arxiv.org/abs/2605.00421v2)** | 2026-05-04 |  |
-| **[Static Analysis of Recursive SHACL](https://arxiv.org/abs/2605.02787v1)** | 2026-05-04 | <details><summary>17 pa...</summary><p>17 pages, 5 figures, long version of work to be published in the proceedings of KR 2026</p></details> |
-| **[Linearizing Vision Transformer with Test-Time Training](https://arxiv.org/abs/2605.02772v1)** | 2026-05-04 | ICML 2026 |
-| **[Quantum-inspired Techniques in Tensor Networks for Industrial Contexts](https://arxiv.org/abs/2404.11277v2)** | 2026-05-04 | <details><summary>18 pa...</summary><p>18 pages, 5 figures, improved version with updates for 2026</p></details> |
+| **[A Closed-Form Adaptive-Landmark Kernel for Certified Point-Cloud and Graph Classification](https://arxiv.org/abs/2605.04046v1)** | 2026-05-05 |  |
+| **[Lottery BP: Unlocking Quantum Error Decoding at Scale](https://arxiv.org/abs/2605.00038v2)** | 2026-05-05 | 13 pages, 18 figures |
+| **[Enhanced 3D Brain Tumor Segmentation Using Assorted Precision Training](https://arxiv.org/abs/2605.04008v1)** | 2026-05-05 | <details><summary>5 pag...</summary><p>5 pages, 5 figures, 1 table</p></details> |
+| **[EQUITRIAGE: A Fairness Audit of Gender Bias in LLM-Based Emergency Department Triage](https://arxiv.org/abs/2605.03998v1)** | 2026-05-05 | <details><summary>37 pa...</summary><p>37 pages, 10 figures, 13 tables. Code and analysis scripts available upon publication. Data: PhysioNet credentialed access (MIMIC-IV-ED v2.2 and MIMIC-IV v3.1, BIDMC IRB #2001P001699)</p></details> |
+| **[Feature-Augmented Transformers for Robust AI-Text Detection Across Domains and Generators](https://arxiv.org/abs/2605.03969v1)** | 2026-05-05 | <details><summary>8 pag...</summary><p>8 pages, 4 figures, 5 tables. Submitted to ICML 2026</p></details> |
+| **[Tree-independence number of $P_5$-free graphs with no large bicliques](https://arxiv.org/abs/2605.03965v1)** | 2026-05-05 | <details><summary>An ab...</summary><p>An abridged version of this manuscript was submitted to the European Symposium on Algorithms (ESA 2026) on April 23, 2026</p></details> |
+| **[MOSAIC-Bench: Measuring Compositional Vulnerability Induction in Coding Agents](https://arxiv.org/abs/2605.03952v1)** | 2026-05-05 |  |
 
