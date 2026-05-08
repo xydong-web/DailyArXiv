@@ -1,5 +1,5 @@
 ---
-title: Latest 50 Papers - May 07, 2026
+title: Latest 50 Papers - May 09, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/JiamingZang/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,105 +7,122 @@ labels: documentation
 ## Molecular
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[A Closed-Form Adaptive-Landmark Kernel for Certified Point-Cloud and Graph Classification](https://arxiv.org/abs/2605.04046v1)** | 2026-05-05 |  |
-| **[Lottery BP: Unlocking Quantum Error Decoding at Scale](https://arxiv.org/abs/2605.00038v2)** | 2026-05-05 | 13 pages, 18 figures |
-| **[Enhanced 3D Brain Tumor Segmentation Using Assorted Precision Training](https://arxiv.org/abs/2605.04008v1)** | 2026-05-05 | <details><summary>5 pag...</summary><p>5 pages, 5 figures, 1 table</p></details> |
-| **[EQUITRIAGE: A Fairness Audit of Gender Bias in LLM-Based Emergency Department Triage](https://arxiv.org/abs/2605.03998v1)** | 2026-05-05 | <details><summary>37 pa...</summary><p>37 pages, 10 figures, 13 tables. Code and analysis scripts available upon publication. Data: PhysioNet credentialed access (MIMIC-IV-ED v2.2 and MIMIC-IV v3.1, BIDMC IRB #2001P001699)</p></details> |
-| **[Flow Sampling: Learning to Sample from Unnormalized Densities via Denoising Conditional Processes](https://arxiv.org/abs/2605.03984v1)** | 2026-05-05 | <details><summary>To ap...</summary><p>To appear at ICML 2026 (spotlight)</p></details> |
-| **[Feature-Augmented Transformers for Robust AI-Text Detection Across Domains and Generators](https://arxiv.org/abs/2605.03969v1)** | 2026-05-05 | <details><summary>8 pag...</summary><p>8 pages, 4 figures, 5 tables. Submitted to ICML 2026</p></details> |
-| **[Tree-independence number of $P_5$-free graphs with no large bicliques](https://arxiv.org/abs/2605.03965v1)** | 2026-05-05 | <details><summary>An ab...</summary><p>An abridged version of this manuscript was submitted to the European Symposium on Algorithms (ESA 2026) on April 23, 2026</p></details> |
-| **[MOSAIC-Bench: Measuring Compositional Vulnerability Induction in Coding Agents](https://arxiv.org/abs/2605.03952v1)** | 2026-05-05 |  |
+| **[Why Global LLM Leaderboards Are Misleading: Small Portfolios for Heterogeneous Supervised ML](https://arxiv.org/abs/2605.06656v1)** | 2026-05-07 |  |
+| **[Edge-specific signal propagation on mature chromophore-region 3D mechanism graphs for fluorescent protein quantum-yield prediction](https://arxiv.org/abs/2605.06644v1)** | 2026-05-07 | <details><summary>Inclu...</summary><p>Includes appendix; source code, processed feature tables and evaluation scripts are available from the first author upon reasonable request</p></details> |
+| **[Are We Making Progress in Multimodal Domain Generalization? A Comprehensive Benchmark Study](https://arxiv.org/abs/2605.06643v1)** | 2026-05-07 | <details><summary>Code:...</summary><p>Code: https://github.com/lihongzhao99/MMDG_Benchmark</p></details> |
+| **[Purely Agent-Driven Black-Box Optimization for Biological Design](https://arxiv.org/abs/2601.22382v2)** | 2026-05-07 |  |
+| **[BRICKS: Compositional Neural Markov Kernels for Zero-Shot Radiation-Matter Simulation](https://arxiv.org/abs/2605.06591v1)** | 2026-05-07 | 10 pages, 5 figures |
+| **[History-Aware Conformal Prediction Sets for Censored Time-to-Event Outcomes](https://arxiv.org/abs/2605.06581v1)** | 2026-05-07 |  |
+| **[CLAD: A Clustered Label-Agnostic Federated Learning Framework for Joint Anomaly Detection and Attack Classification](https://arxiv.org/abs/2605.06571v1)** | 2026-05-07 | <details><summary>12 pa...</summary><p>12 pages, 7 figures, 5 tables</p></details> |
+| **[SNAPO: Smooth Neural Adjoint Policy Optimization for Optimal Control via Differentiable Simulation](https://arxiv.org/abs/2605.06570v1)** | 2026-05-07 | <details><summary>27 pa...</summary><p>27 pages, 8 tables. Three domains: natural gas storage, pension fund ALM, pharmaceutical manufacturing. Benchmark code and trained policies available on request</p></details> |
+| **[Feature Dimensionality Outweighs Model Complexity in Breast Cancer Subtype Classification Using TCGA-BRCA Gene Expression Data](https://arxiv.org/abs/2605.06562v1)** | 2026-05-07 | <details><summary>8 pag...</summary><p>8 pages, 4 figures, 3 tables. Independent research study using TCGA-BRCA RNA-seq data</p></details> |
 
 ## Molecular Generation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[A Closed-Form Adaptive-Landmark Kernel for Certified Point-Cloud and Graph Classification](https://arxiv.org/abs/2605.04046v1)** | 2026-05-05 |  |
-| **[Lottery BP: Unlocking Quantum Error Decoding at Scale](https://arxiv.org/abs/2605.00038v2)** | 2026-05-05 | 13 pages, 18 figures |
-| **[Enhanced 3D Brain Tumor Segmentation Using Assorted Precision Training](https://arxiv.org/abs/2605.04008v1)** | 2026-05-05 | <details><summary>5 pag...</summary><p>5 pages, 5 figures, 1 table</p></details> |
-| **[EQUITRIAGE: A Fairness Audit of Gender Bias in LLM-Based Emergency Department Triage](https://arxiv.org/abs/2605.03998v1)** | 2026-05-05 | <details><summary>37 pa...</summary><p>37 pages, 10 figures, 13 tables. Code and analysis scripts available upon publication. Data: PhysioNet credentialed access (MIMIC-IV-ED v2.2 and MIMIC-IV v3.1, BIDMC IRB #2001P001699)</p></details> |
-| **[Feature-Augmented Transformers for Robust AI-Text Detection Across Domains and Generators](https://arxiv.org/abs/2605.03969v1)** | 2026-05-05 | <details><summary>8 pag...</summary><p>8 pages, 4 figures, 5 tables. Submitted to ICML 2026</p></details> |
-| **[Tree-independence number of $P_5$-free graphs with no large bicliques](https://arxiv.org/abs/2605.03965v1)** | 2026-05-05 | <details><summary>An ab...</summary><p>An abridged version of this manuscript was submitted to the European Symposium on Algorithms (ESA 2026) on April 23, 2026</p></details> |
-| **[MOSAIC-Bench: Measuring Compositional Vulnerability Induction in Coding Agents](https://arxiv.org/abs/2605.03952v1)** | 2026-05-05 |  |
+| **[Why Global LLM Leaderboards Are Misleading: Small Portfolios for Heterogeneous Supervised ML](https://arxiv.org/abs/2605.06656v1)** | 2026-05-07 |  |
+| **[Edge-specific signal propagation on mature chromophore-region 3D mechanism graphs for fluorescent protein quantum-yield prediction](https://arxiv.org/abs/2605.06644v1)** | 2026-05-07 | <details><summary>Inclu...</summary><p>Includes appendix; source code, processed feature tables and evaluation scripts are available from the first author upon reasonable request</p></details> |
+| **[Are We Making Progress in Multimodal Domain Generalization? A Comprehensive Benchmark Study](https://arxiv.org/abs/2605.06643v1)** | 2026-05-07 | <details><summary>Code:...</summary><p>Code: https://github.com/lihongzhao99/MMDG_Benchmark</p></details> |
+| **[BRICKS: Compositional Neural Markov Kernels for Zero-Shot Radiation-Matter Simulation](https://arxiv.org/abs/2605.06591v1)** | 2026-05-07 | 10 pages, 5 figures |
+| **[History-Aware Conformal Prediction Sets for Censored Time-to-Event Outcomes](https://arxiv.org/abs/2605.06581v1)** | 2026-05-07 |  |
+| **[CLAD: A Clustered Label-Agnostic Federated Learning Framework for Joint Anomaly Detection and Attack Classification](https://arxiv.org/abs/2605.06571v1)** | 2026-05-07 | <details><summary>12 pa...</summary><p>12 pages, 7 figures, 5 tables</p></details> |
+| **[SNAPO: Smooth Neural Adjoint Policy Optimization for Optimal Control via Differentiable Simulation](https://arxiv.org/abs/2605.06570v1)** | 2026-05-07 | <details><summary>27 pa...</summary><p>27 pages, 8 tables. Three domains: natural gas storage, pension fund ALM, pharmaceutical manufacturing. Benchmark code and trained policies available on request</p></details> |
+| **[Feature Dimensionality Outweighs Model Complexity in Breast Cancer Subtype Classification Using TCGA-BRCA Gene Expression Data](https://arxiv.org/abs/2605.06562v1)** | 2026-05-07 | <details><summary>8 pag...</summary><p>8 pages, 4 figures, 3 tables. Independent research study using TCGA-BRCA RNA-seq data</p></details> |
+| **[Dual Cross-Attention Siamese Transformer for Rectal Tumor Regrowth Assessment in Watch-and-Wait Endoscopy](https://arxiv.org/abs/2512.03883v2)** | 2026-05-07 | <details><summary>Accep...</summary><p>Accepted to ISBI 2026 conference (6 pages, 5 figures, 1 table)</p></details> |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[A Closed-Form Adaptive-Landmark Kernel for Certified Point-Cloud and Graph Classification](https://arxiv.org/abs/2605.04046v1)** | 2026-05-05 |  |
-| **[Lottery BP: Unlocking Quantum Error Decoding at Scale](https://arxiv.org/abs/2605.00038v2)** | 2026-05-05 | 13 pages, 18 figures |
-| **[Enhanced 3D Brain Tumor Segmentation Using Assorted Precision Training](https://arxiv.org/abs/2605.04008v1)** | 2026-05-05 | <details><summary>5 pag...</summary><p>5 pages, 5 figures, 1 table</p></details> |
-| **[EQUITRIAGE: A Fairness Audit of Gender Bias in LLM-Based Emergency Department Triage](https://arxiv.org/abs/2605.03998v1)** | 2026-05-05 | <details><summary>37 pa...</summary><p>37 pages, 10 figures, 13 tables. Code and analysis scripts available upon publication. Data: PhysioNet credentialed access (MIMIC-IV-ED v2.2 and MIMIC-IV v3.1, BIDMC IRB #2001P001699)</p></details> |
-| **[Feature-Augmented Transformers for Robust AI-Text Detection Across Domains and Generators](https://arxiv.org/abs/2605.03969v1)** | 2026-05-05 | <details><summary>8 pag...</summary><p>8 pages, 4 figures, 5 tables. Submitted to ICML 2026</p></details> |
-| **[Tree-independence number of $P_5$-free graphs with no large bicliques](https://arxiv.org/abs/2605.03965v1)** | 2026-05-05 | <details><summary>An ab...</summary><p>An abridged version of this manuscript was submitted to the European Symposium on Algorithms (ESA 2026) on April 23, 2026</p></details> |
-| **[MOSAIC-Bench: Measuring Compositional Vulnerability Induction in Coding Agents](https://arxiv.org/abs/2605.03952v1)** | 2026-05-05 |  |
-| **[Magic-Informed Quantum Architecture Search](https://arxiv.org/abs/2605.03932v1)** | 2026-05-05 |  |
+| **[Why Global LLM Leaderboards Are Misleading: Small Portfolios for Heterogeneous Supervised ML](https://arxiv.org/abs/2605.06656v1)** | 2026-05-07 |  |
+| **[Edge-specific signal propagation on mature chromophore-region 3D mechanism graphs for fluorescent protein quantum-yield prediction](https://arxiv.org/abs/2605.06644v1)** | 2026-05-07 | <details><summary>Inclu...</summary><p>Includes appendix; source code, processed feature tables and evaluation scripts are available from the first author upon reasonable request</p></details> |
+| **[Are We Making Progress in Multimodal Domain Generalization? A Comprehensive Benchmark Study](https://arxiv.org/abs/2605.06643v1)** | 2026-05-07 | <details><summary>Code:...</summary><p>Code: https://github.com/lihongzhao99/MMDG_Benchmark</p></details> |
+| **[BRICKS: Compositional Neural Markov Kernels for Zero-Shot Radiation-Matter Simulation](https://arxiv.org/abs/2605.06591v1)** | 2026-05-07 | 10 pages, 5 figures |
+| **[Towards Metric-Faithful Neural Graph Matching](https://arxiv.org/abs/2605.06588v1)** | 2026-05-07 |  |
+| **[History-Aware Conformal Prediction Sets for Censored Time-to-Event Outcomes](https://arxiv.org/abs/2605.06581v1)** | 2026-05-07 |  |
+| **[CLAD: A Clustered Label-Agnostic Federated Learning Framework for Joint Anomaly Detection and Attack Classification](https://arxiv.org/abs/2605.06571v1)** | 2026-05-07 | <details><summary>12 pa...</summary><p>12 pages, 7 figures, 5 tables</p></details> |
+| **[SNAPO: Smooth Neural Adjoint Policy Optimization for Optimal Control via Differentiable Simulation](https://arxiv.org/abs/2605.06570v1)** | 2026-05-07 | <details><summary>27 pa...</summary><p>27 pages, 8 tables. Three domains: natural gas storage, pension fund ALM, pharmaceutical manufacturing. Benchmark code and trained policies available on request</p></details> |
+| **[Feature Dimensionality Outweighs Model Complexity in Breast Cancer Subtype Classification Using TCGA-BRCA Gene Expression Data](https://arxiv.org/abs/2605.06562v1)** | 2026-05-07 | <details><summary>8 pag...</summary><p>8 pages, 4 figures, 3 tables. Independent research study using TCGA-BRCA RNA-seq data</p></details> |
+| **[Dual Cross-Attention Siamese Transformer for Rectal Tumor Regrowth Assessment in Watch-and-Wait Endoscopy](https://arxiv.org/abs/2512.03883v2)** | 2026-05-07 | <details><summary>Accep...</summary><p>Accepted to ISBI 2026 conference (6 pages, 5 figures, 1 table)</p></details> |
 
 ## Diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[A Closed-Form Adaptive-Landmark Kernel for Certified Point-Cloud and Graph Classification](https://arxiv.org/abs/2605.04046v1)** | 2026-05-05 |  |
-| **[Audio-Visual Intelligence in Large Foundation Models](https://arxiv.org/abs/2605.04045v1)** | 2026-05-05 | <details><summary>56 pa...</summary><p>56 pages, 16 figures, 24 tables, https://github.com/JavisVerse/Awesome-AVI</p></details> |
-| **[Large Language Models are Universal Reasoners for Visual Generation](https://arxiv.org/abs/2605.04040v1)** | 2026-05-05 |  |
-| **[Lottery BP: Unlocking Quantum Error Decoding at Scale](https://arxiv.org/abs/2605.00038v2)** | 2026-05-05 | 13 pages, 18 figures |
-| **[Conditional Diffusion Sampling](https://arxiv.org/abs/2605.04013v1)** | 2026-05-05 | ICML 2026 |
-| **[Enhanced 3D Brain Tumor Segmentation Using Assorted Precision Training](https://arxiv.org/abs/2605.04008v1)** | 2026-05-05 | <details><summary>5 pag...</summary><p>5 pages, 5 figures, 1 table</p></details> |
-| **[EQUITRIAGE: A Fairness Audit of Gender Bias in LLM-Based Emergency Department Triage](https://arxiv.org/abs/2605.03998v1)** | 2026-05-05 | <details><summary>37 pa...</summary><p>37 pages, 10 figures, 13 tables. Code and analysis scripts available upon publication. Data: PhysioNet credentialed access (MIMIC-IV-ED v2.2 and MIMIC-IV v3.1, BIDMC IRB #2001P001699)</p></details> |
-| **[Flow Sampling: Learning to Sample from Unnormalized Densities via Denoising Conditional Processes](https://arxiv.org/abs/2605.03984v1)** | 2026-05-05 | <details><summary>To ap...</summary><p>To appear at ICML 2026 (spotlight)</p></details> |
-| **[Feature-Augmented Transformers for Robust AI-Text Detection Across Domains and Generators](https://arxiv.org/abs/2605.03969v1)** | 2026-05-05 | <details><summary>8 pag...</summary><p>8 pages, 4 figures, 5 tables. Submitted to ICML 2026</p></details> |
+| **[ActCam: Zero-Shot Joint Camera and 3D Motion Control for Video Generation](https://arxiv.org/abs/2605.06667v1)** | 2026-05-07 | SIGGRAPH 2026 |
+| **[Relit-LiVE: Relight Video by Jointly Learning Environment Video](https://arxiv.org/abs/2605.06658v1)** | 2026-05-07 | <details><summary>Accep...</summary><p>Accepted at SIGGRAPH 2026. Project site: https://github.com/zhuxing0/Relit-LiVE</p></details> |
+| **[Why Global LLM Leaderboards Are Misleading: Small Portfolios for Heterogeneous Supervised ML](https://arxiv.org/abs/2605.06656v1)** | 2026-05-07 |  |
+| **[Edge-specific signal propagation on mature chromophore-region 3D mechanism graphs for fluorescent protein quantum-yield prediction](https://arxiv.org/abs/2605.06644v1)** | 2026-05-07 | <details><summary>Inclu...</summary><p>Includes appendix; source code, processed feature tables and evaluation scripts are available from the first author upon reasonable request</p></details> |
+| **[Are We Making Progress in Multimodal Domain Generalization? A Comprehensive Benchmark Study](https://arxiv.org/abs/2605.06643v1)** | 2026-05-07 | <details><summary>Code:...</summary><p>Code: https://github.com/lihongzhao99/MMDG_Benchmark</p></details> |
+| **[BRICKS: Compositional Neural Markov Kernels for Zero-Shot Radiation-Matter Simulation](https://arxiv.org/abs/2605.06591v1)** | 2026-05-07 | 10 pages, 5 figures |
+| **[Generative AI Meets 6G and Beyond: Diffusion Models for Semantic Communications](https://arxiv.org/abs/2511.08416v3)** | 2026-05-07 | <details><summary>Accep...</summary><p>Accepted by IEEE COMST, GitHub repository: https://github.com/qin-jingyun/Awesome-DiffComm, project page: https://qin-jingyun.github.io/Awesome-DiffComm</p></details> |
+| **[History-Aware Conformal Prediction Sets for Censored Time-to-Event Outcomes](https://arxiv.org/abs/2605.06581v1)** | 2026-05-07 |  |
+| **[CLAD: A Clustered Label-Agnostic Federated Learning Framework for Joint Anomaly Detection and Attack Classification](https://arxiv.org/abs/2605.06571v1)** | 2026-05-07 | <details><summary>12 pa...</summary><p>12 pages, 7 figures, 5 tables</p></details> |
+| **[SNAPO: Smooth Neural Adjoint Policy Optimization for Optimal Control via Differentiable Simulation](https://arxiv.org/abs/2605.06570v1)** | 2026-05-07 | <details><summary>27 pa...</summary><p>27 pages, 8 tables. Three domains: natural gas storage, pension fund ALM, pharmaceutical manufacturing. Benchmark code and trained policies available on request</p></details> |
+| **[Feature Dimensionality Outweighs Model Complexity in Breast Cancer Subtype Classification Using TCGA-BRCA Gene Expression Data](https://arxiv.org/abs/2605.06562v1)** | 2026-05-07 | <details><summary>8 pag...</summary><p>8 pages, 4 figures, 3 tables. Independent research study using TCGA-BRCA RNA-seq data</p></details> |
+| **[A Wavefield Correlation Approach to Improve Sound Speed Estimation in Ultrasound Autofocusing](https://arxiv.org/abs/2602.12805v2)** | 2026-05-07 |  |
 
 ## Object Counting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[A Closed-Form Adaptive-Landmark Kernel for Certified Point-Cloud and Graph Classification](https://arxiv.org/abs/2605.04046v1)** | 2026-05-05 |  |
-| **[Lottery BP: Unlocking Quantum Error Decoding at Scale](https://arxiv.org/abs/2605.00038v2)** | 2026-05-05 | 13 pages, 18 figures |
-| **[Enhanced 3D Brain Tumor Segmentation Using Assorted Precision Training](https://arxiv.org/abs/2605.04008v1)** | 2026-05-05 | <details><summary>5 pag...</summary><p>5 pages, 5 figures, 1 table</p></details> |
-| **[EQUITRIAGE: A Fairness Audit of Gender Bias in LLM-Based Emergency Department Triage](https://arxiv.org/abs/2605.03998v1)** | 2026-05-05 | <details><summary>37 pa...</summary><p>37 pages, 10 figures, 13 tables. Code and analysis scripts available upon publication. Data: PhysioNet credentialed access (MIMIC-IV-ED v2.2 and MIMIC-IV v3.1, BIDMC IRB #2001P001699)</p></details> |
-| **[Feature-Augmented Transformers for Robust AI-Text Detection Across Domains and Generators](https://arxiv.org/abs/2605.03969v1)** | 2026-05-05 | <details><summary>8 pag...</summary><p>8 pages, 4 figures, 5 tables. Submitted to ICML 2026</p></details> |
-| **[Tree-independence number of $P_5$-free graphs with no large bicliques](https://arxiv.org/abs/2605.03965v1)** | 2026-05-05 | <details><summary>An ab...</summary><p>An abridged version of this manuscript was submitted to the European Symposium on Algorithms (ESA 2026) on April 23, 2026</p></details> |
-| **[MOSAIC-Bench: Measuring Compositional Vulnerability Induction in Coding Agents](https://arxiv.org/abs/2605.03952v1)** | 2026-05-05 |  |
+| **[Why Global LLM Leaderboards Are Misleading: Small Portfolios for Heterogeneous Supervised ML](https://arxiv.org/abs/2605.06656v1)** | 2026-05-07 |  |
+| **[Edge-specific signal propagation on mature chromophore-region 3D mechanism graphs for fluorescent protein quantum-yield prediction](https://arxiv.org/abs/2605.06644v1)** | 2026-05-07 | <details><summary>Inclu...</summary><p>Includes appendix; source code, processed feature tables and evaluation scripts are available from the first author upon reasonable request</p></details> |
+| **[Are We Making Progress in Multimodal Domain Generalization? A Comprehensive Benchmark Study](https://arxiv.org/abs/2605.06643v1)** | 2026-05-07 | <details><summary>Code:...</summary><p>Code: https://github.com/lihongzhao99/MMDG_Benchmark</p></details> |
+| **[BRICKS: Compositional Neural Markov Kernels for Zero-Shot Radiation-Matter Simulation](https://arxiv.org/abs/2605.06591v1)** | 2026-05-07 | 10 pages, 5 figures |
+| **[History-Aware Conformal Prediction Sets for Censored Time-to-Event Outcomes](https://arxiv.org/abs/2605.06581v1)** | 2026-05-07 |  |
+| **[CLAD: A Clustered Label-Agnostic Federated Learning Framework for Joint Anomaly Detection and Attack Classification](https://arxiv.org/abs/2605.06571v1)** | 2026-05-07 | <details><summary>12 pa...</summary><p>12 pages, 7 figures, 5 tables</p></details> |
+| **[SNAPO: Smooth Neural Adjoint Policy Optimization for Optimal Control via Differentiable Simulation](https://arxiv.org/abs/2605.06570v1)** | 2026-05-07 | <details><summary>27 pa...</summary><p>27 pages, 8 tables. Three domains: natural gas storage, pension fund ALM, pharmaceutical manufacturing. Benchmark code and trained policies available on request</p></details> |
+| **[Feature Dimensionality Outweighs Model Complexity in Breast Cancer Subtype Classification Using TCGA-BRCA Gene Expression Data](https://arxiv.org/abs/2605.06562v1)** | 2026-05-07 | <details><summary>8 pag...</summary><p>8 pages, 4 figures, 3 tables. Independent research study using TCGA-BRCA RNA-seq data</p></details> |
+| **[Dual Cross-Attention Siamese Transformer for Rectal Tumor Regrowth Assessment in Watch-and-Wait Endoscopy](https://arxiv.org/abs/2512.03883v2)** | 2026-05-07 | <details><summary>Accep...</summary><p>Accepted to ISBI 2026 conference (6 pages, 5 figures, 1 table)</p></details> |
 
 ## Image Caption
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[A Closed-Form Adaptive-Landmark Kernel for Certified Point-Cloud and Graph Classification](https://arxiv.org/abs/2605.04046v1)** | 2026-05-05 |  |
-| **[Lottery BP: Unlocking Quantum Error Decoding at Scale](https://arxiv.org/abs/2605.00038v2)** | 2026-05-05 | 13 pages, 18 figures |
-| **[Enhanced 3D Brain Tumor Segmentation Using Assorted Precision Training](https://arxiv.org/abs/2605.04008v1)** | 2026-05-05 | <details><summary>5 pag...</summary><p>5 pages, 5 figures, 1 table</p></details> |
-| **[EQUITRIAGE: A Fairness Audit of Gender Bias in LLM-Based Emergency Department Triage](https://arxiv.org/abs/2605.03998v1)** | 2026-05-05 | <details><summary>37 pa...</summary><p>37 pages, 10 figures, 13 tables. Code and analysis scripts available upon publication. Data: PhysioNet credentialed access (MIMIC-IV-ED v2.2 and MIMIC-IV v3.1, BIDMC IRB #2001P001699)</p></details> |
-| **[Feature-Augmented Transformers for Robust AI-Text Detection Across Domains and Generators](https://arxiv.org/abs/2605.03969v1)** | 2026-05-05 | <details><summary>8 pag...</summary><p>8 pages, 4 figures, 5 tables. Submitted to ICML 2026</p></details> |
-| **[Tree-independence number of $P_5$-free graphs with no large bicliques](https://arxiv.org/abs/2605.03965v1)** | 2026-05-05 | <details><summary>An ab...</summary><p>An abridged version of this manuscript was submitted to the European Symposium on Algorithms (ESA 2026) on April 23, 2026</p></details> |
-| **[MOSAIC-Bench: Measuring Compositional Vulnerability Induction in Coding Agents](https://arxiv.org/abs/2605.03952v1)** | 2026-05-05 |  |
-| **[Do Multimodal RAG Systems Leak Data? A Comprehensive Evaluation of Membership Inference and Image Caption Retrieval Attacks](https://arxiv.org/abs/2601.17644v3)** | 2026-05-05 | <details><summary>Accep...</summary><p>Accepted for publication at ACL 2026 (Findings)</p></details> |
+| **[Why Global LLM Leaderboards Are Misleading: Small Portfolios for Heterogeneous Supervised ML](https://arxiv.org/abs/2605.06656v1)** | 2026-05-07 |  |
+| **[Edge-specific signal propagation on mature chromophore-region 3D mechanism graphs for fluorescent protein quantum-yield prediction](https://arxiv.org/abs/2605.06644v1)** | 2026-05-07 | <details><summary>Inclu...</summary><p>Includes appendix; source code, processed feature tables and evaluation scripts are available from the first author upon reasonable request</p></details> |
+| **[Are We Making Progress in Multimodal Domain Generalization? A Comprehensive Benchmark Study](https://arxiv.org/abs/2605.06643v1)** | 2026-05-07 | <details><summary>Code:...</summary><p>Code: https://github.com/lihongzhao99/MMDG_Benchmark</p></details> |
+| **[BRICKS: Compositional Neural Markov Kernels for Zero-Shot Radiation-Matter Simulation](https://arxiv.org/abs/2605.06591v1)** | 2026-05-07 | 10 pages, 5 figures |
+| **[The ART of Composition: Attention-Regularized Training for Compositional Visual Grounding](https://arxiv.org/abs/2412.08110v3)** | 2026-05-07 |  |
+| **[History-Aware Conformal Prediction Sets for Censored Time-to-Event Outcomes](https://arxiv.org/abs/2605.06581v1)** | 2026-05-07 |  |
+| **[CLAD: A Clustered Label-Agnostic Federated Learning Framework for Joint Anomaly Detection and Attack Classification](https://arxiv.org/abs/2605.06571v1)** | 2026-05-07 | <details><summary>12 pa...</summary><p>12 pages, 7 figures, 5 tables</p></details> |
+| **[SNAPO: Smooth Neural Adjoint Policy Optimization for Optimal Control via Differentiable Simulation](https://arxiv.org/abs/2605.06570v1)** | 2026-05-07 | <details><summary>27 pa...</summary><p>27 pages, 8 tables. Three domains: natural gas storage, pension fund ALM, pharmaceutical manufacturing. Benchmark code and trained policies available on request</p></details> |
+| **[Feature Dimensionality Outweighs Model Complexity in Breast Cancer Subtype Classification Using TCGA-BRCA Gene Expression Data](https://arxiv.org/abs/2605.06562v1)** | 2026-05-07 | <details><summary>8 pag...</summary><p>8 pages, 4 figures, 3 tables. Independent research study using TCGA-BRCA RNA-seq data</p></details> |
+| **[Dual Cross-Attention Siamese Transformer for Rectal Tumor Regrowth Assessment in Watch-and-Wait Endoscopy](https://arxiv.org/abs/2512.03883v2)** | 2026-05-07 | <details><summary>Accep...</summary><p>Accepted to ISBI 2026 conference (6 pages, 5 figures, 1 table)</p></details> |
 
 ## Describe
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[A Closed-Form Adaptive-Landmark Kernel for Certified Point-Cloud and Graph Classification](https://arxiv.org/abs/2605.04046v1)** | 2026-05-05 |  |
-| **[Learning a Stochastic Differential Equation Model of Tropical Cyclone Intensification from Reanalysis and Observational Data](https://arxiv.org/abs/2601.08116v3)** | 2026-05-05 |  |
-| **[Lottery BP: Unlocking Quantum Error Decoding at Scale](https://arxiv.org/abs/2605.00038v2)** | 2026-05-05 | 13 pages, 18 figures |
-| **[Redefining AI Red Teaming in the Agentic Era: From Weeks to Hours](https://arxiv.org/abs/2605.04019v1)** | 2026-05-05 | 39 pages, 8 figures |
-| **[Enhanced 3D Brain Tumor Segmentation Using Assorted Precision Training](https://arxiv.org/abs/2605.04008v1)** | 2026-05-05 | <details><summary>5 pag...</summary><p>5 pages, 5 figures, 1 table</p></details> |
-| **[EQUITRIAGE: A Fairness Audit of Gender Bias in LLM-Based Emergency Department Triage](https://arxiv.org/abs/2605.03998v1)** | 2026-05-05 | <details><summary>37 pa...</summary><p>37 pages, 10 figures, 13 tables. Code and analysis scripts available upon publication. Data: PhysioNet credentialed access (MIMIC-IV-ED v2.2 and MIMIC-IV v3.1, BIDMC IRB #2001P001699)</p></details> |
-| **[From Intent to Execution: Composing Agentic Workflows with Agent Recommendation](https://arxiv.org/abs/2605.03986v1)** | 2026-05-05 |  |
-| **[Implementing True MPI Sessions and Evaluating MPI Initialization Scalability](https://arxiv.org/abs/2605.03983v1)** | 2026-05-05 | <details><summary>Europ...</summary><p>European MPI Users' Group Meeting. 2025</p></details> |
+| **[Why Global LLM Leaderboards Are Misleading: Small Portfolios for Heterogeneous Supervised ML](https://arxiv.org/abs/2605.06656v1)** | 2026-05-07 |  |
+| **[Edge-specific signal propagation on mature chromophore-region 3D mechanism graphs for fluorescent protein quantum-yield prediction](https://arxiv.org/abs/2605.06644v1)** | 2026-05-07 | <details><summary>Inclu...</summary><p>Includes appendix; source code, processed feature tables and evaluation scripts are available from the first author upon reasonable request</p></details> |
+| **[Are We Making Progress in Multimodal Domain Generalization? A Comprehensive Benchmark Study](https://arxiv.org/abs/2605.06643v1)** | 2026-05-07 | <details><summary>Code:...</summary><p>Code: https://github.com/lihongzhao99/MMDG_Benchmark</p></details> |
+| **[Algospeak, Hiding in the Open: The Trade-off Between Legible Meaning and Detection Avoidance](https://arxiv.org/abs/2605.06619v1)** | 2026-05-07 | Under Review |
+| **[BRICKS: Compositional Neural Markov Kernels for Zero-Shot Radiation-Matter Simulation](https://arxiv.org/abs/2605.06591v1)** | 2026-05-07 | 10 pages, 5 figures |
+| **[History-Aware Conformal Prediction Sets for Censored Time-to-Event Outcomes](https://arxiv.org/abs/2605.06581v1)** | 2026-05-07 |  |
+| **[Suspicious Alignment of SGD: A Fine-Grained Step Size Condition Analysis](https://arxiv.org/abs/2601.11789v2)** | 2026-05-07 | <details><summary>The 3...</summary><p>The 37th International Conference on Algorithmic Learning Theory</p></details> |
+| **[CLAD: A Clustered Label-Agnostic Federated Learning Framework for Joint Anomaly Detection and Attack Classification](https://arxiv.org/abs/2605.06571v1)** | 2026-05-07 | <details><summary>12 pa...</summary><p>12 pages, 7 figures, 5 tables</p></details> |
+| **[SNAPO: Smooth Neural Adjoint Policy Optimization for Optimal Control via Differentiable Simulation](https://arxiv.org/abs/2605.06570v1)** | 2026-05-07 | <details><summary>27 pa...</summary><p>27 pages, 8 tables. Three domains: natural gas storage, pension fund ALM, pharmaceutical manufacturing. Benchmark code and trained policies available on request</p></details> |
 
 ## Light Weight
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[A Closed-Form Adaptive-Landmark Kernel for Certified Point-Cloud and Graph Classification](https://arxiv.org/abs/2605.04046v1)** | 2026-05-05 |  |
-| **[Lottery BP: Unlocking Quantum Error Decoding at Scale](https://arxiv.org/abs/2605.00038v2)** | 2026-05-05 | 13 pages, 18 figures |
-| **[Enhanced 3D Brain Tumor Segmentation Using Assorted Precision Training](https://arxiv.org/abs/2605.04008v1)** | 2026-05-05 | <details><summary>5 pag...</summary><p>5 pages, 5 figures, 1 table</p></details> |
-| **[EQUITRIAGE: A Fairness Audit of Gender Bias in LLM-Based Emergency Department Triage](https://arxiv.org/abs/2605.03998v1)** | 2026-05-05 | <details><summary>37 pa...</summary><p>37 pages, 10 figures, 13 tables. Code and analysis scripts available upon publication. Data: PhysioNet credentialed access (MIMIC-IV-ED v2.2 and MIMIC-IV v3.1, BIDMC IRB #2001P001699)</p></details> |
-| **[Feature-Augmented Transformers for Robust AI-Text Detection Across Domains and Generators](https://arxiv.org/abs/2605.03969v1)** | 2026-05-05 | <details><summary>8 pag...</summary><p>8 pages, 4 figures, 5 tables. Submitted to ICML 2026</p></details> |
-| **[Tree-independence number of $P_5$-free graphs with no large bicliques](https://arxiv.org/abs/2605.03965v1)** | 2026-05-05 | <details><summary>An ab...</summary><p>An abridged version of this manuscript was submitted to the European Symposium on Algorithms (ESA 2026) on April 23, 2026</p></details> |
-| **[MOSAIC-Bench: Measuring Compositional Vulnerability Induction in Coding Agents](https://arxiv.org/abs/2605.03952v1)** | 2026-05-05 |  |
+| **[Why Global LLM Leaderboards Are Misleading: Small Portfolios for Heterogeneous Supervised ML](https://arxiv.org/abs/2605.06656v1)** | 2026-05-07 |  |
+| **[Edge-specific signal propagation on mature chromophore-region 3D mechanism graphs for fluorescent protein quantum-yield prediction](https://arxiv.org/abs/2605.06644v1)** | 2026-05-07 | <details><summary>Inclu...</summary><p>Includes appendix; source code, processed feature tables and evaluation scripts are available from the first author upon reasonable request</p></details> |
+| **[Are We Making Progress in Multimodal Domain Generalization? A Comprehensive Benchmark Study](https://arxiv.org/abs/2605.06643v1)** | 2026-05-07 | <details><summary>Code:...</summary><p>Code: https://github.com/lihongzhao99/MMDG_Benchmark</p></details> |
+| **[BRICKS: Compositional Neural Markov Kernels for Zero-Shot Radiation-Matter Simulation](https://arxiv.org/abs/2605.06591v1)** | 2026-05-07 | 10 pages, 5 figures |
+| **[History-Aware Conformal Prediction Sets for Censored Time-to-Event Outcomes](https://arxiv.org/abs/2605.06581v1)** | 2026-05-07 |  |
+| **[CLAD: A Clustered Label-Agnostic Federated Learning Framework for Joint Anomaly Detection and Attack Classification](https://arxiv.org/abs/2605.06571v1)** | 2026-05-07 | <details><summary>12 pa...</summary><p>12 pages, 7 figures, 5 tables</p></details> |
+| **[SNAPO: Smooth Neural Adjoint Policy Optimization for Optimal Control via Differentiable Simulation](https://arxiv.org/abs/2605.06570v1)** | 2026-05-07 | <details><summary>27 pa...</summary><p>27 pages, 8 tables. Three domains: natural gas storage, pension fund ALM, pharmaceutical manufacturing. Benchmark code and trained policies available on request</p></details> |
+| **[Feature Dimensionality Outweighs Model Complexity in Breast Cancer Subtype Classification Using TCGA-BRCA Gene Expression Data](https://arxiv.org/abs/2605.06562v1)** | 2026-05-07 | <details><summary>8 pag...</summary><p>8 pages, 4 figures, 3 tables. Independent research study using TCGA-BRCA RNA-seq data</p></details> |
+| **[Dual Cross-Attention Siamese Transformer for Rectal Tumor Regrowth Assessment in Watch-and-Wait Endoscopy](https://arxiv.org/abs/2512.03883v2)** | 2026-05-07 | <details><summary>Accep...</summary><p>Accepted to ISBI 2026 conference (6 pages, 5 figures, 1 table)</p></details> |
 
 ## Class Incremental
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[A Closed-Form Adaptive-Landmark Kernel for Certified Point-Cloud and Graph Classification](https://arxiv.org/abs/2605.04046v1)** | 2026-05-05 |  |
-| **[Lottery BP: Unlocking Quantum Error Decoding at Scale](https://arxiv.org/abs/2605.00038v2)** | 2026-05-05 | 13 pages, 18 figures |
-| **[Enhanced 3D Brain Tumor Segmentation Using Assorted Precision Training](https://arxiv.org/abs/2605.04008v1)** | 2026-05-05 | <details><summary>5 pag...</summary><p>5 pages, 5 figures, 1 table</p></details> |
-| **[EQUITRIAGE: A Fairness Audit of Gender Bias in LLM-Based Emergency Department Triage](https://arxiv.org/abs/2605.03998v1)** | 2026-05-05 | <details><summary>37 pa...</summary><p>37 pages, 10 figures, 13 tables. Code and analysis scripts available upon publication. Data: PhysioNet credentialed access (MIMIC-IV-ED v2.2 and MIMIC-IV v3.1, BIDMC IRB #2001P001699)</p></details> |
-| **[Feature-Augmented Transformers for Robust AI-Text Detection Across Domains and Generators](https://arxiv.org/abs/2605.03969v1)** | 2026-05-05 | <details><summary>8 pag...</summary><p>8 pages, 4 figures, 5 tables. Submitted to ICML 2026</p></details> |
-| **[Tree-independence number of $P_5$-free graphs with no large bicliques](https://arxiv.org/abs/2605.03965v1)** | 2026-05-05 | <details><summary>An ab...</summary><p>An abridged version of this manuscript was submitted to the European Symposium on Algorithms (ESA 2026) on April 23, 2026</p></details> |
-| **[MOSAIC-Bench: Measuring Compositional Vulnerability Induction in Coding Agents](https://arxiv.org/abs/2605.03952v1)** | 2026-05-05 |  |
+| **[Why Global LLM Leaderboards Are Misleading: Small Portfolios for Heterogeneous Supervised ML](https://arxiv.org/abs/2605.06656v1)** | 2026-05-07 |  |
+| **[Edge-specific signal propagation on mature chromophore-region 3D mechanism graphs for fluorescent protein quantum-yield prediction](https://arxiv.org/abs/2605.06644v1)** | 2026-05-07 | <details><summary>Inclu...</summary><p>Includes appendix; source code, processed feature tables and evaluation scripts are available from the first author upon reasonable request</p></details> |
+| **[Are We Making Progress in Multimodal Domain Generalization? A Comprehensive Benchmark Study](https://arxiv.org/abs/2605.06643v1)** | 2026-05-07 | <details><summary>Code:...</summary><p>Code: https://github.com/lihongzhao99/MMDG_Benchmark</p></details> |
+| **[BRICKS: Compositional Neural Markov Kernels for Zero-Shot Radiation-Matter Simulation](https://arxiv.org/abs/2605.06591v1)** | 2026-05-07 | 10 pages, 5 figures |
+| **[History-Aware Conformal Prediction Sets for Censored Time-to-Event Outcomes](https://arxiv.org/abs/2605.06581v1)** | 2026-05-07 |  |
+| **[CLAD: A Clustered Label-Agnostic Federated Learning Framework for Joint Anomaly Detection and Attack Classification](https://arxiv.org/abs/2605.06571v1)** | 2026-05-07 | <details><summary>12 pa...</summary><p>12 pages, 7 figures, 5 tables</p></details> |
+| **[SNAPO: Smooth Neural Adjoint Policy Optimization for Optimal Control via Differentiable Simulation](https://arxiv.org/abs/2605.06570v1)** | 2026-05-07 | <details><summary>27 pa...</summary><p>27 pages, 8 tables. Three domains: natural gas storage, pension fund ALM, pharmaceutical manufacturing. Benchmark code and trained policies available on request</p></details> |
+| **[Feature Dimensionality Outweighs Model Complexity in Breast Cancer Subtype Classification Using TCGA-BRCA Gene Expression Data](https://arxiv.org/abs/2605.06562v1)** | 2026-05-07 | <details><summary>8 pag...</summary><p>8 pages, 4 figures, 3 tables. Independent research study using TCGA-BRCA RNA-seq data</p></details> |
+| **[Dual Cross-Attention Siamese Transformer for Rectal Tumor Regrowth Assessment in Watch-and-Wait Endoscopy](https://arxiv.org/abs/2512.03883v2)** | 2026-05-07 | <details><summary>Accep...</summary><p>Accepted to ISBI 2026 conference (6 pages, 5 figures, 1 table)</p></details> |
 
