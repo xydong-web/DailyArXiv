@@ -1,5 +1,5 @@
 ---
-title: Latest 50 Papers - May 19, 2026
+title: Latest 50 Papers - May 21, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/JiamingZang/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,100 +7,110 @@ labels: documentation
 ## Molecular
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[How to Train Your Advisor: Steering Black-Box LLMs with Advisor Models](https://arxiv.org/abs/2510.02453v3)** | 2026-05-15 | <details><summary>Inter...</summary><p>International Conference on Machine Learning (ICML) 2026</p></details> |
-| **[Metropolis-Scale Road Network Datasets for Fine-Grained Urban Traffic Modeling](https://arxiv.org/abs/2510.02278v2)** | 2026-05-15 |  |
-| **[Why Empirical p-Values Are Not Uniform: Reference Samples, Dependence, and PIT Backtesting](https://arxiv.org/abs/2605.16221v1)** | 2026-05-15 | 16 pages, 5 figures |
-| **[ADS-IMC: Accelerating Data Sorting with In-Memory Computation](https://arxiv.org/abs/2605.16213v1)** | 2026-05-15 | 5 Pages, 8 Figures |
-| **[Force-Aware Neural Tangent Kernels for Scalable and Robust Active Learning of MLIPs](https://arxiv.org/abs/2605.13788v2)** | 2026-05-15 | <details><summary>10 ma...</summary><p>10 main pages, total 34 pages</p></details> |
-| **[Entropic Auto-Encoding via Implicit Free-Energy Minimization](https://arxiv.org/abs/2605.16164v1)** | 2026-05-15 | 22 pages, 5 figures |
-| **[SwAIther-Precip: Lead-Time-Aware Bias Correction Enables Kilometer-Scale Downscaling of Global AI Precipitation Forecasts over Switzerland](https://arxiv.org/abs/2605.16163v1)** | 2026-05-15 |  |
+| **[Atoms of Thought: Universal EEG Representation Learning with Microstates](https://arxiv.org/abs/2605.20182v1)** | 2026-05-19 | <details><summary>Accep...</summary><p>Accepted by the 3rd International Workshop on Multimodal and Responsible Affective Computing (MRAC 2025). 8 pages of main text, 23 pages total, 5 figures, 4 tables</p></details> |
+| **[Multi-axis Analysis of Image Manipulation Localization](https://arxiv.org/abs/2605.20174v1)** | 2026-05-19 | <details><summary>28 pa...</summary><p>28 pages, 5 figures, 5 tables</p></details> |
+| **[One in Eight OpenAlex Abstracts Has Integrity Issues](https://arxiv.org/abs/2605.20168v1)** | 2026-05-19 | 10 pages, 5 figures |
+| **[Learned Static Function Data Structures](https://arxiv.org/abs/2510.27588v3)** | 2026-05-19 |  |
+| **[Addressing prior dependence in hierarchical Bayesian modeling for PTA data analysis II: Noise and SGWB inference through parameter decorrelation](https://arxiv.org/abs/2511.01959v2)** | 2026-05-19 | <details><summary>27 pa...</summary><p>27 pages, 5 figures. Extended analysis and appendix added. Submitted to the Astronomy and Computing special issue HPC in Cosmology and Astrophysics</p></details> |
+| **[Semi-Parametric Bayesian Additive Regression Trees for Risk Prediction with High-Dimensional Epigenetic Signatures and Low-Dimensional Covariates](https://arxiv.org/abs/2605.20143v1)** | 2026-05-19 |  |
+| **[Beyond Prediction Accuracy: Target-Space Recovery Profiles for Evaluating Model-Brain Alignment](https://arxiv.org/abs/2605.20127v1)** | 2026-05-19 | <details><summary>34 pa...</summary><p>34 pages, 12 figures, 5 tables</p></details> |
+| **[k-Inductive Neural Barrier Certificates for Unknown Nonlinear Dynamics](https://arxiv.org/abs/2605.20108v1)** | 2026-05-19 | <details><summary>18 pa...</summary><p>18 pages, 5 figures, 3rd International Conference on Neuro-Symbolic Systems (NeuS)</p></details> |
 
 ## Molecular Generation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[How to Train Your Advisor: Steering Black-Box LLMs with Advisor Models](https://arxiv.org/abs/2510.02453v3)** | 2026-05-15 | <details><summary>Inter...</summary><p>International Conference on Machine Learning (ICML) 2026</p></details> |
-| **[Metropolis-Scale Road Network Datasets for Fine-Grained Urban Traffic Modeling](https://arxiv.org/abs/2510.02278v2)** | 2026-05-15 |  |
-| **[Why Empirical p-Values Are Not Uniform: Reference Samples, Dependence, and PIT Backtesting](https://arxiv.org/abs/2605.16221v1)** | 2026-05-15 | 16 pages, 5 figures |
-| **[ADS-IMC: Accelerating Data Sorting with In-Memory Computation](https://arxiv.org/abs/2605.16213v1)** | 2026-05-15 | 5 Pages, 8 Figures |
-| **[Entropic Auto-Encoding via Implicit Free-Energy Minimization](https://arxiv.org/abs/2605.16164v1)** | 2026-05-15 | 22 pages, 5 figures |
-| **[SwAIther-Precip: Lead-Time-Aware Bias Correction Enables Kilometer-Scale Downscaling of Global AI Precipitation Forecasts over Switzerland](https://arxiv.org/abs/2605.16163v1)** | 2026-05-15 |  |
-| **[How to Stop Playing Whack-a-Mole: Mapping the Ecosystem of Technologies Facilitating AI-Generated Non-Consensual Intimate Images](https://arxiv.org/abs/2602.04759v2)** | 2026-05-15 | <details><summary>5/15/...</summary><p>5/15/26 Update: This version includes a revised ecosystem diagram (Fig 1.) with new color-coding and edge clarification; minor updates to section 3. that include recently published primary sources; a new section 4. with two detailed walkthroughs on the usefulness of the ecosystem; a new section 5. with clearer recommendations for researchers; a new ethical considerations section in the appendix</p></details> |
+| **[Atoms of Thought: Universal EEG Representation Learning with Microstates](https://arxiv.org/abs/2605.20182v1)** | 2026-05-19 | <details><summary>Accep...</summary><p>Accepted by the 3rd International Workshop on Multimodal and Responsible Affective Computing (MRAC 2025). 8 pages of main text, 23 pages total, 5 figures, 4 tables</p></details> |
+| **[Multi-axis Analysis of Image Manipulation Localization](https://arxiv.org/abs/2605.20174v1)** | 2026-05-19 | <details><summary>28 pa...</summary><p>28 pages, 5 figures, 5 tables</p></details> |
+| **[One in Eight OpenAlex Abstracts Has Integrity Issues](https://arxiv.org/abs/2605.20168v1)** | 2026-05-19 | 10 pages, 5 figures |
+| **[Learned Static Function Data Structures](https://arxiv.org/abs/2510.27588v3)** | 2026-05-19 |  |
+| **[Addressing prior dependence in hierarchical Bayesian modeling for PTA data analysis II: Noise and SGWB inference through parameter decorrelation](https://arxiv.org/abs/2511.01959v2)** | 2026-05-19 | <details><summary>27 pa...</summary><p>27 pages, 5 figures. Extended analysis and appendix added. Submitted to the Astronomy and Computing special issue HPC in Cosmology and Astrophysics</p></details> |
+| **[Semi-Parametric Bayesian Additive Regression Trees for Risk Prediction with High-Dimensional Epigenetic Signatures and Low-Dimensional Covariates](https://arxiv.org/abs/2605.20143v1)** | 2026-05-19 |  |
+| **[Beyond Prediction Accuracy: Target-Space Recovery Profiles for Evaluating Model-Brain Alignment](https://arxiv.org/abs/2605.20127v1)** | 2026-05-19 | <details><summary>34 pa...</summary><p>34 pages, 12 figures, 5 tables</p></details> |
+| **[k-Inductive Neural Barrier Certificates for Unknown Nonlinear Dynamics](https://arxiv.org/abs/2605.20108v1)** | 2026-05-19 | <details><summary>18 pa...</summary><p>18 pages, 5 figures, 3rd International Conference on Neuro-Symbolic Systems (NeuS)</p></details> |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[How to Train Your Advisor: Steering Black-Box LLMs with Advisor Models](https://arxiv.org/abs/2510.02453v3)** | 2026-05-15 | <details><summary>Inter...</summary><p>International Conference on Machine Learning (ICML) 2026</p></details> |
-| **[Metropolis-Scale Road Network Datasets for Fine-Grained Urban Traffic Modeling](https://arxiv.org/abs/2510.02278v2)** | 2026-05-15 |  |
-| **[Universal Magnetic Structure Prediction from Atomic Coordinates with Near-Experimental Accuracy](https://arxiv.org/abs/2605.16230v1)** | 2026-05-15 | 9 pages, 3 figures |
-| **[Why Empirical p-Values Are Not Uniform: Reference Samples, Dependence, and PIT Backtesting](https://arxiv.org/abs/2605.16221v1)** | 2026-05-15 | 16 pages, 5 figures |
-| **[ADS-IMC: Accelerating Data Sorting with In-Memory Computation](https://arxiv.org/abs/2605.16213v1)** | 2026-05-15 | 5 Pages, 8 Figures |
-| **[Entropic Auto-Encoding via Implicit Free-Energy Minimization](https://arxiv.org/abs/2605.16164v1)** | 2026-05-15 | 22 pages, 5 figures |
-| **[SwAIther-Precip: Lead-Time-Aware Bias Correction Enables Kilometer-Scale Downscaling of Global AI Precipitation Forecasts over Switzerland](https://arxiv.org/abs/2605.16163v1)** | 2026-05-15 |  |
-| **[How to Stop Playing Whack-a-Mole: Mapping the Ecosystem of Technologies Facilitating AI-Generated Non-Consensual Intimate Images](https://arxiv.org/abs/2602.04759v2)** | 2026-05-15 | <details><summary>5/15/...</summary><p>5/15/26 Update: This version includes a revised ecosystem diagram (Fig 1.) with new color-coding and edge clarification; minor updates to section 3. that include recently published primary sources; a new section 4. with two detailed walkthroughs on the usefulness of the ecosystem; a new section 5. with clearer recommendations for researchers; a new ethical considerations section in the appendix</p></details> |
+| **[Atoms of Thought: Universal EEG Representation Learning with Microstates](https://arxiv.org/abs/2605.20182v1)** | 2026-05-19 | <details><summary>Accep...</summary><p>Accepted by the 3rd International Workshop on Multimodal and Responsible Affective Computing (MRAC 2025). 8 pages of main text, 23 pages total, 5 figures, 4 tables</p></details> |
+| **[GraphPINE: Graph Importance Propagation for Interpretable Drug Response Prediction](https://arxiv.org/abs/2504.05454v2)** | 2026-05-19 |  |
+| **[Multi-axis Analysis of Image Manipulation Localization](https://arxiv.org/abs/2605.20174v1)** | 2026-05-19 | <details><summary>28 pa...</summary><p>28 pages, 5 figures, 5 tables</p></details> |
+| **[One in Eight OpenAlex Abstracts Has Integrity Issues](https://arxiv.org/abs/2605.20168v1)** | 2026-05-19 | 10 pages, 5 figures |
+| **[Learned Static Function Data Structures](https://arxiv.org/abs/2510.27588v3)** | 2026-05-19 |  |
+| **[Addressing prior dependence in hierarchical Bayesian modeling for PTA data analysis II: Noise and SGWB inference through parameter decorrelation](https://arxiv.org/abs/2511.01959v2)** | 2026-05-19 | <details><summary>27 pa...</summary><p>27 pages, 5 figures. Extended analysis and appendix added. Submitted to the Astronomy and Computing special issue HPC in Cosmology and Astrophysics</p></details> |
+| **[Semi-Parametric Bayesian Additive Regression Trees for Risk Prediction with High-Dimensional Epigenetic Signatures and Low-Dimensional Covariates](https://arxiv.org/abs/2605.20143v1)** | 2026-05-19 |  |
+| **[Beyond Prediction Accuracy: Target-Space Recovery Profiles for Evaluating Model-Brain Alignment](https://arxiv.org/abs/2605.20127v1)** | 2026-05-19 | <details><summary>34 pa...</summary><p>34 pages, 12 figures, 5 tables</p></details> |
+| **[k-Inductive Neural Barrier Certificates for Unknown Nonlinear Dynamics](https://arxiv.org/abs/2605.20108v1)** | 2026-05-19 | <details><summary>18 pa...</summary><p>18 pages, 5 figures, 3rd International Conference on Neuro-Symbolic Systems (NeuS)</p></details> |
 
 ## Diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[How to Train Your Advisor: Steering Black-Box LLMs with Advisor Models](https://arxiv.org/abs/2510.02453v3)** | 2026-05-15 | <details><summary>Inter...</summary><p>International Conference on Machine Learning (ICML) 2026</p></details> |
-| **[Metropolis-Scale Road Network Datasets for Fine-Grained Urban Traffic Modeling](https://arxiv.org/abs/2510.02278v2)** | 2026-05-15 |  |
-| **[Why Empirical p-Values Are Not Uniform: Reference Samples, Dependence, and PIT Backtesting](https://arxiv.org/abs/2605.16221v1)** | 2026-05-15 | 16 pages, 5 figures |
-| **[ADS-IMC: Accelerating Data Sorting with In-Memory Computation](https://arxiv.org/abs/2605.16213v1)** | 2026-05-15 | 5 Pages, 8 Figures |
-| **[Entropic Auto-Encoding via Implicit Free-Energy Minimization](https://arxiv.org/abs/2605.16164v1)** | 2026-05-15 | 22 pages, 5 figures |
-| **[SwAIther-Precip: Lead-Time-Aware Bias Correction Enables Kilometer-Scale Downscaling of Global AI Precipitation Forecasts over Switzerland](https://arxiv.org/abs/2605.16163v1)** | 2026-05-15 |  |
-| **[Registers Matter for Pixel-Space Diffusion Transformers](https://arxiv.org/abs/2605.16147v1)** | 2026-05-15 |  |
+| **[Atoms of Thought: Universal EEG Representation Learning with Microstates](https://arxiv.org/abs/2605.20182v1)** | 2026-05-19 | <details><summary>Accep...</summary><p>Accepted by the 3rd International Workshop on Multimodal and Responsible Affective Computing (MRAC 2025). 8 pages of main text, 23 pages total, 5 figures, 4 tables</p></details> |
+| **[TIDE: Efficient and Lossless MoE Diffusion LLM Inference with I/O-aware Expert Offload](https://arxiv.org/abs/2605.20179v1)** | 2026-05-19 |  |
+| **[Multi-axis Analysis of Image Manipulation Localization](https://arxiv.org/abs/2605.20174v1)** | 2026-05-19 | <details><summary>28 pa...</summary><p>28 pages, 5 figures, 5 tables</p></details> |
+| **[One in Eight OpenAlex Abstracts Has Integrity Issues](https://arxiv.org/abs/2605.20168v1)** | 2026-05-19 | 10 pages, 5 figures |
+| **[Learned Static Function Data Structures](https://arxiv.org/abs/2510.27588v3)** | 2026-05-19 |  |
+| **[LongLive-2.0: An NVFP4 Parallel Infrastructure for Long Video Generation](https://arxiv.org/abs/2605.18739v2)** | 2026-05-19 | <details><summary>Code,...</summary><p>Code, model, and demos are available at https://github.com/NVlabs/LongLive</p></details> |
+| **[Addressing prior dependence in hierarchical Bayesian modeling for PTA data analysis II: Noise and SGWB inference through parameter decorrelation](https://arxiv.org/abs/2511.01959v2)** | 2026-05-19 | <details><summary>27 pa...</summary><p>27 pages, 5 figures. Extended analysis and appendix added. Submitted to the Astronomy and Computing special issue HPC in Cosmology and Astrophysics</p></details> |
+| **[Semi-Parametric Bayesian Additive Regression Trees for Risk Prediction with High-Dimensional Epigenetic Signatures and Low-Dimensional Covariates](https://arxiv.org/abs/2605.20143v1)** | 2026-05-19 |  |
+| **[Beyond Prediction Accuracy: Target-Space Recovery Profiles for Evaluating Model-Brain Alignment](https://arxiv.org/abs/2605.20127v1)** | 2026-05-19 | <details><summary>34 pa...</summary><p>34 pages, 12 figures, 5 tables</p></details> |
 
 ## Object Counting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[How to Train Your Advisor: Steering Black-Box LLMs with Advisor Models](https://arxiv.org/abs/2510.02453v3)** | 2026-05-15 | <details><summary>Inter...</summary><p>International Conference on Machine Learning (ICML) 2026</p></details> |
-| **[Metropolis-Scale Road Network Datasets for Fine-Grained Urban Traffic Modeling](https://arxiv.org/abs/2510.02278v2)** | 2026-05-15 |  |
-| **[Why Empirical p-Values Are Not Uniform: Reference Samples, Dependence, and PIT Backtesting](https://arxiv.org/abs/2605.16221v1)** | 2026-05-15 | 16 pages, 5 figures |
-| **[ADS-IMC: Accelerating Data Sorting with In-Memory Computation](https://arxiv.org/abs/2605.16213v1)** | 2026-05-15 | 5 Pages, 8 Figures |
-| **[Entropic Auto-Encoding via Implicit Free-Energy Minimization](https://arxiv.org/abs/2605.16164v1)** | 2026-05-15 | 22 pages, 5 figures |
-| **[SwAIther-Precip: Lead-Time-Aware Bias Correction Enables Kilometer-Scale Downscaling of Global AI Precipitation Forecasts over Switzerland](https://arxiv.org/abs/2605.16163v1)** | 2026-05-15 |  |
-| **[How to Stop Playing Whack-a-Mole: Mapping the Ecosystem of Technologies Facilitating AI-Generated Non-Consensual Intimate Images](https://arxiv.org/abs/2602.04759v2)** | 2026-05-15 | <details><summary>5/15/...</summary><p>5/15/26 Update: This version includes a revised ecosystem diagram (Fig 1.) with new color-coding and edge clarification; minor updates to section 3. that include recently published primary sources; a new section 4. with two detailed walkthroughs on the usefulness of the ecosystem; a new section 5. with clearer recommendations for researchers; a new ethical considerations section in the appendix</p></details> |
+| **[Atoms of Thought: Universal EEG Representation Learning with Microstates](https://arxiv.org/abs/2605.20182v1)** | 2026-05-19 | <details><summary>Accep...</summary><p>Accepted by the 3rd International Workshop on Multimodal and Responsible Affective Computing (MRAC 2025). 8 pages of main text, 23 pages total, 5 figures, 4 tables</p></details> |
+| **[Multi-axis Analysis of Image Manipulation Localization](https://arxiv.org/abs/2605.20174v1)** | 2026-05-19 | <details><summary>28 pa...</summary><p>28 pages, 5 figures, 5 tables</p></details> |
+| **[One in Eight OpenAlex Abstracts Has Integrity Issues](https://arxiv.org/abs/2605.20168v1)** | 2026-05-19 | 10 pages, 5 figures |
+| **[Learned Static Function Data Structures](https://arxiv.org/abs/2510.27588v3)** | 2026-05-19 |  |
+| **[Addressing prior dependence in hierarchical Bayesian modeling for PTA data analysis II: Noise and SGWB inference through parameter decorrelation](https://arxiv.org/abs/2511.01959v2)** | 2026-05-19 | <details><summary>27 pa...</summary><p>27 pages, 5 figures. Extended analysis and appendix added. Submitted to the Astronomy and Computing special issue HPC in Cosmology and Astrophysics</p></details> |
+| **[Semi-Parametric Bayesian Additive Regression Trees for Risk Prediction with High-Dimensional Epigenetic Signatures and Low-Dimensional Covariates](https://arxiv.org/abs/2605.20143v1)** | 2026-05-19 |  |
+| **[Beyond Prediction Accuracy: Target-Space Recovery Profiles for Evaluating Model-Brain Alignment](https://arxiv.org/abs/2605.20127v1)** | 2026-05-19 | <details><summary>34 pa...</summary><p>34 pages, 12 figures, 5 tables</p></details> |
+| **[k-Inductive Neural Barrier Certificates for Unknown Nonlinear Dynamics](https://arxiv.org/abs/2605.20108v1)** | 2026-05-19 | <details><summary>18 pa...</summary><p>18 pages, 5 figures, 3rd International Conference on Neuro-Symbolic Systems (NeuS)</p></details> |
 
 ## Image Caption
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[How to Train Your Advisor: Steering Black-Box LLMs with Advisor Models](https://arxiv.org/abs/2510.02453v3)** | 2026-05-15 | <details><summary>Inter...</summary><p>International Conference on Machine Learning (ICML) 2026</p></details> |
-| **[Metropolis-Scale Road Network Datasets for Fine-Grained Urban Traffic Modeling](https://arxiv.org/abs/2510.02278v2)** | 2026-05-15 |  |
-| **[Why Empirical p-Values Are Not Uniform: Reference Samples, Dependence, and PIT Backtesting](https://arxiv.org/abs/2605.16221v1)** | 2026-05-15 | 16 pages, 5 figures |
-| **[ADS-IMC: Accelerating Data Sorting with In-Memory Computation](https://arxiv.org/abs/2605.16213v1)** | 2026-05-15 | 5 Pages, 8 Figures |
-| **[Entropic Auto-Encoding via Implicit Free-Energy Minimization](https://arxiv.org/abs/2605.16164v1)** | 2026-05-15 | 22 pages, 5 figures |
-| **[SwAIther-Precip: Lead-Time-Aware Bias Correction Enables Kilometer-Scale Downscaling of Global AI Precipitation Forecasts over Switzerland](https://arxiv.org/abs/2605.16163v1)** | 2026-05-15 |  |
-| **[How to Stop Playing Whack-a-Mole: Mapping the Ecosystem of Technologies Facilitating AI-Generated Non-Consensual Intimate Images](https://arxiv.org/abs/2602.04759v2)** | 2026-05-15 | <details><summary>5/15/...</summary><p>5/15/26 Update: This version includes a revised ecosystem diagram (Fig 1.) with new color-coding and edge clarification; minor updates to section 3. that include recently published primary sources; a new section 4. with two detailed walkthroughs on the usefulness of the ecosystem; a new section 5. with clearer recommendations for researchers; a new ethical considerations section in the appendix</p></details> |
+| **[Atoms of Thought: Universal EEG Representation Learning with Microstates](https://arxiv.org/abs/2605.20182v1)** | 2026-05-19 | <details><summary>Accep...</summary><p>Accepted by the 3rd International Workshop on Multimodal and Responsible Affective Computing (MRAC 2025). 8 pages of main text, 23 pages total, 5 figures, 4 tables</p></details> |
+| **[Multi-axis Analysis of Image Manipulation Localization](https://arxiv.org/abs/2605.20174v1)** | 2026-05-19 | <details><summary>28 pa...</summary><p>28 pages, 5 figures, 5 tables</p></details> |
+| **[One in Eight OpenAlex Abstracts Has Integrity Issues](https://arxiv.org/abs/2605.20168v1)** | 2026-05-19 | 10 pages, 5 figures |
+| **[Learned Static Function Data Structures](https://arxiv.org/abs/2510.27588v3)** | 2026-05-19 |  |
+| **[Addressing prior dependence in hierarchical Bayesian modeling for PTA data analysis II: Noise and SGWB inference through parameter decorrelation](https://arxiv.org/abs/2511.01959v2)** | 2026-05-19 | <details><summary>27 pa...</summary><p>27 pages, 5 figures. Extended analysis and appendix added. Submitted to the Astronomy and Computing special issue HPC in Cosmology and Astrophysics</p></details> |
+| **[Semi-Parametric Bayesian Additive Regression Trees for Risk Prediction with High-Dimensional Epigenetic Signatures and Low-Dimensional Covariates](https://arxiv.org/abs/2605.20143v1)** | 2026-05-19 |  |
+| **[Beyond Prediction Accuracy: Target-Space Recovery Profiles for Evaluating Model-Brain Alignment](https://arxiv.org/abs/2605.20127v1)** | 2026-05-19 | <details><summary>34 pa...</summary><p>34 pages, 12 figures, 5 tables</p></details> |
+| **[k-Inductive Neural Barrier Certificates for Unknown Nonlinear Dynamics](https://arxiv.org/abs/2605.20108v1)** | 2026-05-19 | <details><summary>18 pa...</summary><p>18 pages, 5 figures, 3rd International Conference on Neuro-Symbolic Systems (NeuS)</p></details> |
 
 ## Describe
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[How to Train Your Advisor: Steering Black-Box LLMs with Advisor Models](https://arxiv.org/abs/2510.02453v3)** | 2026-05-15 | <details><summary>Inter...</summary><p>International Conference on Machine Learning (ICML) 2026</p></details> |
-| **[Metropolis-Scale Road Network Datasets for Fine-Grained Urban Traffic Modeling](https://arxiv.org/abs/2510.02278v2)** | 2026-05-15 |  |
-| **[Why Empirical p-Values Are Not Uniform: Reference Samples, Dependence, and PIT Backtesting](https://arxiv.org/abs/2605.16221v1)** | 2026-05-15 | 16 pages, 5 figures |
-| **[ADS-IMC: Accelerating Data Sorting with In-Memory Computation](https://arxiv.org/abs/2605.16213v1)** | 2026-05-15 | 5 Pages, 8 Figures |
-| **[Entropic Auto-Encoding via Implicit Free-Energy Minimization](https://arxiv.org/abs/2605.16164v1)** | 2026-05-15 | 22 pages, 5 figures |
-| **[Odd but Error-Free FastTwoSum: More General Conditions for FastTwoSum as an Error-Free Transformation for Faithful Rounding Modes](https://arxiv.org/abs/2601.17198v3)** | 2026-05-15 | 10 pages |
-| **[SwAIther-Precip: Lead-Time-Aware Bias Correction Enables Kilometer-Scale Downscaling of Global AI Precipitation Forecasts over Switzerland](https://arxiv.org/abs/2605.16163v1)** | 2026-05-15 |  |
+| **[Atoms of Thought: Universal EEG Representation Learning with Microstates](https://arxiv.org/abs/2605.20182v1)** | 2026-05-19 | <details><summary>Accep...</summary><p>Accepted by the 3rd International Workshop on Multimodal and Responsible Affective Computing (MRAC 2025). 8 pages of main text, 23 pages total, 5 figures, 4 tables</p></details> |
+| **[Multi-axis Analysis of Image Manipulation Localization](https://arxiv.org/abs/2605.20174v1)** | 2026-05-19 | <details><summary>28 pa...</summary><p>28 pages, 5 figures, 5 tables</p></details> |
+| **[One in Eight OpenAlex Abstracts Has Integrity Issues](https://arxiv.org/abs/2605.20168v1)** | 2026-05-19 | 10 pages, 5 figures |
+| **[Learned Static Function Data Structures](https://arxiv.org/abs/2510.27588v3)** | 2026-05-19 |  |
+| **[Addressing prior dependence in hierarchical Bayesian modeling for PTA data analysis II: Noise and SGWB inference through parameter decorrelation](https://arxiv.org/abs/2511.01959v2)** | 2026-05-19 | <details><summary>27 pa...</summary><p>27 pages, 5 figures. Extended analysis and appendix added. Submitted to the Astronomy and Computing special issue HPC in Cosmology and Astrophysics</p></details> |
+| **[Semi-Parametric Bayesian Additive Regression Trees for Risk Prediction with High-Dimensional Epigenetic Signatures and Low-Dimensional Covariates](https://arxiv.org/abs/2605.20143v1)** | 2026-05-19 |  |
+| **[Beyond Prediction Accuracy: Target-Space Recovery Profiles for Evaluating Model-Brain Alignment](https://arxiv.org/abs/2605.20127v1)** | 2026-05-19 | <details><summary>34 pa...</summary><p>34 pages, 12 figures, 5 tables</p></details> |
+| **[Toto 2.0: Time Series Forecasting Enters the Scaling Era](https://arxiv.org/abs/2605.20119v1)** | 2026-05-19 | <details><summary>Code:...</summary><p>Code: https://github.com/DataDog/toto Weights: https://huggingface.co/collections/Datadog/toto-20</p></details> |
 
 ## Light Weight
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[How to Train Your Advisor: Steering Black-Box LLMs with Advisor Models](https://arxiv.org/abs/2510.02453v3)** | 2026-05-15 | <details><summary>Inter...</summary><p>International Conference on Machine Learning (ICML) 2026</p></details> |
-| **[Metropolis-Scale Road Network Datasets for Fine-Grained Urban Traffic Modeling](https://arxiv.org/abs/2510.02278v2)** | 2026-05-15 |  |
-| **[Why Empirical p-Values Are Not Uniform: Reference Samples, Dependence, and PIT Backtesting](https://arxiv.org/abs/2605.16221v1)** | 2026-05-15 | 16 pages, 5 figures |
-| **[ADS-IMC: Accelerating Data Sorting with In-Memory Computation](https://arxiv.org/abs/2605.16213v1)** | 2026-05-15 | 5 Pages, 8 Figures |
-| **[Entropic Auto-Encoding via Implicit Free-Energy Minimization](https://arxiv.org/abs/2605.16164v1)** | 2026-05-15 | 22 pages, 5 figures |
-| **[SwAIther-Precip: Lead-Time-Aware Bias Correction Enables Kilometer-Scale Downscaling of Global AI Precipitation Forecasts over Switzerland](https://arxiv.org/abs/2605.16163v1)** | 2026-05-15 |  |
-| **[How to Stop Playing Whack-a-Mole: Mapping the Ecosystem of Technologies Facilitating AI-Generated Non-Consensual Intimate Images](https://arxiv.org/abs/2602.04759v2)** | 2026-05-15 | <details><summary>5/15/...</summary><p>5/15/26 Update: This version includes a revised ecosystem diagram (Fig 1.) with new color-coding and edge clarification; minor updates to section 3. that include recently published primary sources; a new section 4. with two detailed walkthroughs on the usefulness of the ecosystem; a new section 5. with clearer recommendations for researchers; a new ethical considerations section in the appendix</p></details> |
+| **[Atoms of Thought: Universal EEG Representation Learning with Microstates](https://arxiv.org/abs/2605.20182v1)** | 2026-05-19 | <details><summary>Accep...</summary><p>Accepted by the 3rd International Workshop on Multimodal and Responsible Affective Computing (MRAC 2025). 8 pages of main text, 23 pages total, 5 figures, 4 tables</p></details> |
+| **[Multi-axis Analysis of Image Manipulation Localization](https://arxiv.org/abs/2605.20174v1)** | 2026-05-19 | <details><summary>28 pa...</summary><p>28 pages, 5 figures, 5 tables</p></details> |
+| **[One in Eight OpenAlex Abstracts Has Integrity Issues](https://arxiv.org/abs/2605.20168v1)** | 2026-05-19 | 10 pages, 5 figures |
+| **[Learned Static Function Data Structures](https://arxiv.org/abs/2510.27588v3)** | 2026-05-19 |  |
+| **[Addressing prior dependence in hierarchical Bayesian modeling for PTA data analysis II: Noise and SGWB inference through parameter decorrelation](https://arxiv.org/abs/2511.01959v2)** | 2026-05-19 | <details><summary>27 pa...</summary><p>27 pages, 5 figures. Extended analysis and appendix added. Submitted to the Astronomy and Computing special issue HPC in Cosmology and Astrophysics</p></details> |
+| **[Semi-Parametric Bayesian Additive Regression Trees for Risk Prediction with High-Dimensional Epigenetic Signatures and Low-Dimensional Covariates](https://arxiv.org/abs/2605.20143v1)** | 2026-05-19 |  |
+| **[Beyond Prediction Accuracy: Target-Space Recovery Profiles for Evaluating Model-Brain Alignment](https://arxiv.org/abs/2605.20127v1)** | 2026-05-19 | <details><summary>34 pa...</summary><p>34 pages, 12 figures, 5 tables</p></details> |
+| **[k-Inductive Neural Barrier Certificates for Unknown Nonlinear Dynamics](https://arxiv.org/abs/2605.20108v1)** | 2026-05-19 | <details><summary>18 pa...</summary><p>18 pages, 5 figures, 3rd International Conference on Neuro-Symbolic Systems (NeuS)</p></details> |
 
 ## Class Incremental
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[How to Train Your Advisor: Steering Black-Box LLMs with Advisor Models](https://arxiv.org/abs/2510.02453v3)** | 2026-05-15 | <details><summary>Inter...</summary><p>International Conference on Machine Learning (ICML) 2026</p></details> |
-| **[Metropolis-Scale Road Network Datasets for Fine-Grained Urban Traffic Modeling](https://arxiv.org/abs/2510.02278v2)** | 2026-05-15 |  |
-| **[Why Empirical p-Values Are Not Uniform: Reference Samples, Dependence, and PIT Backtesting](https://arxiv.org/abs/2605.16221v1)** | 2026-05-15 | 16 pages, 5 figures |
-| **[ADS-IMC: Accelerating Data Sorting with In-Memory Computation](https://arxiv.org/abs/2605.16213v1)** | 2026-05-15 | 5 Pages, 8 Figures |
-| **[Entropic Auto-Encoding via Implicit Free-Energy Minimization](https://arxiv.org/abs/2605.16164v1)** | 2026-05-15 | 22 pages, 5 figures |
-| **[SwAIther-Precip: Lead-Time-Aware Bias Correction Enables Kilometer-Scale Downscaling of Global AI Precipitation Forecasts over Switzerland](https://arxiv.org/abs/2605.16163v1)** | 2026-05-15 |  |
-| **[How to Stop Playing Whack-a-Mole: Mapping the Ecosystem of Technologies Facilitating AI-Generated Non-Consensual Intimate Images](https://arxiv.org/abs/2602.04759v2)** | 2026-05-15 | <details><summary>5/15/...</summary><p>5/15/26 Update: This version includes a revised ecosystem diagram (Fig 1.) with new color-coding and edge clarification; minor updates to section 3. that include recently published primary sources; a new section 4. with two detailed walkthroughs on the usefulness of the ecosystem; a new section 5. with clearer recommendations for researchers; a new ethical considerations section in the appendix</p></details> |
+| **[Atoms of Thought: Universal EEG Representation Learning with Microstates](https://arxiv.org/abs/2605.20182v1)** | 2026-05-19 | <details><summary>Accep...</summary><p>Accepted by the 3rd International Workshop on Multimodal and Responsible Affective Computing (MRAC 2025). 8 pages of main text, 23 pages total, 5 figures, 4 tables</p></details> |
+| **[Multi-axis Analysis of Image Manipulation Localization](https://arxiv.org/abs/2605.20174v1)** | 2026-05-19 | <details><summary>28 pa...</summary><p>28 pages, 5 figures, 5 tables</p></details> |
+| **[One in Eight OpenAlex Abstracts Has Integrity Issues](https://arxiv.org/abs/2605.20168v1)** | 2026-05-19 | 10 pages, 5 figures |
+| **[Learned Static Function Data Structures](https://arxiv.org/abs/2510.27588v3)** | 2026-05-19 |  |
+| **[Addressing prior dependence in hierarchical Bayesian modeling for PTA data analysis II: Noise and SGWB inference through parameter decorrelation](https://arxiv.org/abs/2511.01959v2)** | 2026-05-19 | <details><summary>27 pa...</summary><p>27 pages, 5 figures. Extended analysis and appendix added. Submitted to the Astronomy and Computing special issue HPC in Cosmology and Astrophysics</p></details> |
+| **[Semi-Parametric Bayesian Additive Regression Trees for Risk Prediction with High-Dimensional Epigenetic Signatures and Low-Dimensional Covariates](https://arxiv.org/abs/2605.20143v1)** | 2026-05-19 |  |
+| **[Beyond Prediction Accuracy: Target-Space Recovery Profiles for Evaluating Model-Brain Alignment](https://arxiv.org/abs/2605.20127v1)** | 2026-05-19 | <details><summary>34 pa...</summary><p>34 pages, 12 figures, 5 tables</p></details> |
+| **[k-Inductive Neural Barrier Certificates for Unknown Nonlinear Dynamics](https://arxiv.org/abs/2605.20108v1)** | 2026-05-19 | <details><summary>18 pa...</summary><p>18 pages, 5 figures, 3rd International Conference on Neuro-Symbolic Systems (NeuS)</p></details> |
 
