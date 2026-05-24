@@ -1,5 +1,5 @@
 ---
-title: Latest 50 Papers - May 24, 2026
+title: Latest 50 Papers - May 25, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/JiamingZang/DailyArxiv) page for a better reading experience and more papers.**
