@@ -1,5 +1,5 @@
 ---
-title: Latest 50 Papers - May 25, 2026
+title: Latest 50 Papers - May 26, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/JiamingZang/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,124 +7,117 @@ labels: documentation
 ## Molecular
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Evaluating Commercial AI Chatbots as News Intermediaries](https://arxiv.org/abs/2605.22785v1)** | 2026-05-21 | <details><summary>https...</summary><p>https://suzgunmirac.github.io/ai-news-preview/</p></details> |
-| **[FAME: Failure-Aware Mixture-of-Experts for Message-Level Log Anomaly Detection](https://arxiv.org/abs/2605.22779v1)** | 2026-05-21 | 12 pages, 5 figures |
-| **[Diversed Model Discovery via Structured Table Discovery](https://arxiv.org/abs/2605.22766v1)** | 2026-05-21 | <details><summary>8 pag...</summary><p>8 pages excluding references. 5 figures</p></details> |
-| **[Bridging Silicon and the Hippocampus: Algebro-Deterministic Memory "VaCoAl" as a Substrate for Vector-HaSH and TEM](https://arxiv.org/abs/2605.15652v4)** | 2026-05-21 | <details><summary>52 pa...</summary><p>52 pages, 5 figures, 1 table, 3 appendices</p></details> |
-| **[TextSeal: A Localized LLM Watermark for Provenance & Distillation Protection](https://arxiv.org/abs/2605.12456v2)** | 2026-05-21 |  |
-| **[Ternary Decision Trees with Locally-Adaptive Uncertainty Zones](https://arxiv.org/abs/2605.22740v1)** | 2026-05-21 | <details><summary>15 pa...</summary><p>15 pages, 4 figures, 5 appendix sections. Submitted to Data Mining and Knowledge Discovery (DAMI)</p></details> |
-| **[Optimization over the intersection of manifolds](https://arxiv.org/abs/2605.22736v1)** | 2026-05-21 | <details><summary>26 pa...</summary><p>26 pages, 5 figures, 3 tables</p></details> |
-| **[LLM Readiness Harness: Evaluation, Observability, and CI Gates for LLM/RAG Applications](https://arxiv.org/abs/2603.27355v2)** | 2026-05-21 | <details><summary>19 pa...</summary><p>19 pages, 4 figures, 15 tables</p></details> |
-| **[Reading Task Failure Off the Activations: A Sparse-Feature Audit of GPT-2 Small on Indirect Object Identification](https://arxiv.org/abs/2605.22719v1)** | 2026-05-21 | 10 pages, 7 figures |
+| **[Towards an Evaluation Methodology for AI in Second Language Education: Lessons Learned from Developing L2-Bench](https://arxiv.org/abs/2603.20088v2)** | 2026-05-22 |  |
+| **[Semi-Parametric Bayesian Additive Regression Trees for Risk Prediction with High-Dimensional Epigenetic Signatures and Low-Dimensional Covariates](https://arxiv.org/abs/2605.20143v2)** | 2026-05-22 |  |
+| **[R$^3$L: Reflect-then-Retry Reinforcement Learning with Language-Guided Exploration, Pivotal Credit, and Positive Amplification](https://arxiv.org/abs/2601.03715v2)** | 2026-05-22 |  |
+| **[Enhancing Energy Efficiency in Scientific Workflows through CFD based PIVAEs](https://arxiv.org/abs/2605.23850v1)** | 2026-05-22 |  |
+| **[MuellerPT: Decomposition Driven Pretraining for Dense Learning in Mueller Polarimetry](https://arxiv.org/abs/2605.23840v1)** | 2026-05-22 | <details><summary>Accep...</summary><p>Accepted to 29th International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI 2026)</p></details> |
+| **[DORA: Dataflow-Instruction Orchestration Architecture for DNN Acceleration](https://arxiv.org/abs/2605.23833v1)** | 2026-05-22 |  |
+| **[Decomposing Queries into Tool Calls for Long-Video Keyframe Retrieval](https://arxiv.org/abs/2605.23826v1)** | 2026-05-22 |  |
+| **[Inferential Privacy Leakage in Anonymized Conversational AI Logs](https://arxiv.org/abs/2605.23820v1)** | 2026-05-22 |  |
+| **[Speak-to-Structure: Evaluating LLMs in Open-domain Natural Language-Driven Molecule Generation](https://arxiv.org/abs/2412.14642v4)** | 2026-05-22 | <details><summary>Accep...</summary><p>Accepted by KDD 2026. Our codes and datasets are fully accessible through the https://github.com/phenixace/S2-TOMG-Bench and https://huggingface.co/datasets/phenixace/S2-TOMG-Bench</p></details> |
 
 ## Molecular Generation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Evaluating Commercial AI Chatbots as News Intermediaries](https://arxiv.org/abs/2605.22785v1)** | 2026-05-21 | <details><summary>https...</summary><p>https://suzgunmirac.github.io/ai-news-preview/</p></details> |
-| **[FAME: Failure-Aware Mixture-of-Experts for Message-Level Log Anomaly Detection](https://arxiv.org/abs/2605.22779v1)** | 2026-05-21 | 12 pages, 5 figures |
-| **[Diversed Model Discovery via Structured Table Discovery](https://arxiv.org/abs/2605.22766v1)** | 2026-05-21 | <details><summary>8 pag...</summary><p>8 pages excluding references. 5 figures</p></details> |
-| **[Bridging Silicon and the Hippocampus: Algebro-Deterministic Memory "VaCoAl" as a Substrate for Vector-HaSH and TEM](https://arxiv.org/abs/2605.15652v4)** | 2026-05-21 | <details><summary>52 pa...</summary><p>52 pages, 5 figures, 1 table, 3 appendices</p></details> |
-| **[TextSeal: A Localized LLM Watermark for Provenance & Distillation Protection](https://arxiv.org/abs/2605.12456v2)** | 2026-05-21 |  |
-| **[Ternary Decision Trees with Locally-Adaptive Uncertainty Zones](https://arxiv.org/abs/2605.22740v1)** | 2026-05-21 | <details><summary>15 pa...</summary><p>15 pages, 4 figures, 5 appendix sections. Submitted to Data Mining and Knowledge Discovery (DAMI)</p></details> |
-| **[Optimization over the intersection of manifolds](https://arxiv.org/abs/2605.22736v1)** | 2026-05-21 | <details><summary>26 pa...</summary><p>26 pages, 5 figures, 3 tables</p></details> |
-| **[LLM Readiness Harness: Evaluation, Observability, and CI Gates for LLM/RAG Applications](https://arxiv.org/abs/2603.27355v2)** | 2026-05-21 | <details><summary>19 pa...</summary><p>19 pages, 4 figures, 15 tables</p></details> |
-| **[Reading Task Failure Off the Activations: A Sparse-Feature Audit of GPT-2 Small on Indirect Object Identification](https://arxiv.org/abs/2605.22719v1)** | 2026-05-21 | 10 pages, 7 figures |
-| **[AMEL: Accumulated Message Effects on LLM Judgments](https://arxiv.org/abs/2605.22714v1)** | 2026-05-21 | <details><summary>19 pa...</summary><p>19 pages, 14 figures, 6 tables. Single author. Code, data (75,898 deduplicated API responses), and analysis pipeline at https://github.com/chutapp/amel</p></details> |
+| **[Towards an Evaluation Methodology for AI in Second Language Education: Lessons Learned from Developing L2-Bench](https://arxiv.org/abs/2603.20088v2)** | 2026-05-22 |  |
+| **[Semi-Parametric Bayesian Additive Regression Trees for Risk Prediction with High-Dimensional Epigenetic Signatures and Low-Dimensional Covariates](https://arxiv.org/abs/2605.20143v2)** | 2026-05-22 |  |
+| **[R$^3$L: Reflect-then-Retry Reinforcement Learning with Language-Guided Exploration, Pivotal Credit, and Positive Amplification](https://arxiv.org/abs/2601.03715v2)** | 2026-05-22 |  |
+| **[Enhancing Energy Efficiency in Scientific Workflows through CFD based PIVAEs](https://arxiv.org/abs/2605.23850v1)** | 2026-05-22 |  |
+| **[MuellerPT: Decomposition Driven Pretraining for Dense Learning in Mueller Polarimetry](https://arxiv.org/abs/2605.23840v1)** | 2026-05-22 | <details><summary>Accep...</summary><p>Accepted to 29th International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI 2026)</p></details> |
+| **[DORA: Dataflow-Instruction Orchestration Architecture for DNN Acceleration](https://arxiv.org/abs/2605.23833v1)** | 2026-05-22 |  |
+| **[Decomposing Queries into Tool Calls for Long-Video Keyframe Retrieval](https://arxiv.org/abs/2605.23826v1)** | 2026-05-22 |  |
+| **[Inferential Privacy Leakage in Anonymized Conversational AI Logs](https://arxiv.org/abs/2605.23820v1)** | 2026-05-22 |  |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Evaluating Commercial AI Chatbots as News Intermediaries](https://arxiv.org/abs/2605.22785v1)** | 2026-05-21 | <details><summary>https...</summary><p>https://suzgunmirac.github.io/ai-news-preview/</p></details> |
-| **[FAME: Failure-Aware Mixture-of-Experts for Message-Level Log Anomaly Detection](https://arxiv.org/abs/2605.22779v1)** | 2026-05-21 | 12 pages, 5 figures |
-| **[Diversed Model Discovery via Structured Table Discovery](https://arxiv.org/abs/2605.22766v1)** | 2026-05-21 | <details><summary>8 pag...</summary><p>8 pages excluding references. 5 figures</p></details> |
-| **[Bridging Silicon and the Hippocampus: Algebro-Deterministic Memory "VaCoAl" as a Substrate for Vector-HaSH and TEM](https://arxiv.org/abs/2605.15652v4)** | 2026-05-21 | <details><summary>52 pa...</summary><p>52 pages, 5 figures, 1 table, 3 appendices</p></details> |
-| **[TextSeal: A Localized LLM Watermark for Provenance & Distillation Protection](https://arxiv.org/abs/2605.12456v2)** | 2026-05-21 |  |
-| **[Ternary Decision Trees with Locally-Adaptive Uncertainty Zones](https://arxiv.org/abs/2605.22740v1)** | 2026-05-21 | <details><summary>15 pa...</summary><p>15 pages, 4 figures, 5 appendix sections. Submitted to Data Mining and Knowledge Discovery (DAMI)</p></details> |
-| **[Optimization over the intersection of manifolds](https://arxiv.org/abs/2605.22736v1)** | 2026-05-21 | <details><summary>26 pa...</summary><p>26 pages, 5 figures, 3 tables</p></details> |
-| **[LLM Readiness Harness: Evaluation, Observability, and CI Gates for LLM/RAG Applications](https://arxiv.org/abs/2603.27355v2)** | 2026-05-21 | <details><summary>19 pa...</summary><p>19 pages, 4 figures, 15 tables</p></details> |
-| **[Reading Task Failure Off the Activations: A Sparse-Feature Audit of GPT-2 Small on Indirect Object Identification](https://arxiv.org/abs/2605.22719v1)** | 2026-05-21 | 10 pages, 7 figures |
-| **[AMEL: Accumulated Message Effects on LLM Judgments](https://arxiv.org/abs/2605.22714v1)** | 2026-05-21 | <details><summary>19 pa...</summary><p>19 pages, 14 figures, 6 tables. Single author. Code, data (75,898 deduplicated API responses), and analysis pipeline at https://github.com/chutapp/amel</p></details> |
+| **[Towards an Evaluation Methodology for AI in Second Language Education: Lessons Learned from Developing L2-Bench](https://arxiv.org/abs/2603.20088v2)** | 2026-05-22 |  |
+| **[Semi-Parametric Bayesian Additive Regression Trees for Risk Prediction with High-Dimensional Epigenetic Signatures and Low-Dimensional Covariates](https://arxiv.org/abs/2605.20143v2)** | 2026-05-22 |  |
+| **[R$^3$L: Reflect-then-Retry Reinforcement Learning with Language-Guided Exploration, Pivotal Credit, and Positive Amplification](https://arxiv.org/abs/2601.03715v2)** | 2026-05-22 |  |
+| **[Enhancing Energy Efficiency in Scientific Workflows through CFD based PIVAEs](https://arxiv.org/abs/2605.23850v1)** | 2026-05-22 |  |
+| **[MuellerPT: Decomposition Driven Pretraining for Dense Learning in Mueller Polarimetry](https://arxiv.org/abs/2605.23840v1)** | 2026-05-22 | <details><summary>Accep...</summary><p>Accepted to 29th International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI 2026)</p></details> |
+| **[DORA: Dataflow-Instruction Orchestration Architecture for DNN Acceleration](https://arxiv.org/abs/2605.23833v1)** | 2026-05-22 |  |
+| **[Decomposing Queries into Tool Calls for Long-Video Keyframe Retrieval](https://arxiv.org/abs/2605.23826v1)** | 2026-05-22 |  |
+| **[Inferential Privacy Leakage in Anonymized Conversational AI Logs](https://arxiv.org/abs/2605.23820v1)** | 2026-05-22 |  |
+| **[Bridging Data and Physics: A Graph Neural Network-Based Hybrid Twin Framework](https://arxiv.org/abs/2512.15767v2)** | 2026-05-22 | 27 pages, 14 figures |
 
 ## Diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Sensor2Sensor: Cross-Embodiment Sensor Conversion for Autonomous Driving](https://arxiv.org/abs/2605.22809v1)** | 2026-05-21 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026</p></details> |
-| **[Evaluating Commercial AI Chatbots as News Intermediaries](https://arxiv.org/abs/2605.22785v1)** | 2026-05-21 | <details><summary>https...</summary><p>https://suzgunmirac.github.io/ai-news-preview/</p></details> |
-| **[FAME: Failure-Aware Mixture-of-Experts for Message-Level Log Anomaly Detection](https://arxiv.org/abs/2605.22779v1)** | 2026-05-21 | 12 pages, 5 figures |
-| **[DecQ: Detail-Condensing Queries for Enhanced Reconstruction and Generation in Representation Autoencoders](https://arxiv.org/abs/2605.22777v1)** | 2026-05-21 |  |
-| **[SDPM: Survival Diffusion Probabilistic Model for Continuous-Time Survival Analysis](https://arxiv.org/abs/2605.22776v1)** | 2026-05-21 |  |
-| **[Diversed Model Discovery via Structured Table Discovery](https://arxiv.org/abs/2605.22766v1)** | 2026-05-21 | <details><summary>8 pag...</summary><p>8 pages excluding references. 5 figures</p></details> |
-| **[Uniform Diffusion Models Revisited: Leave-One-Out Denoiser and Absorbing State Reformulation](https://arxiv.org/abs/2605.22765v1)** | 2026-05-21 | preprint |
-| **[Bridging Silicon and the Hippocampus: Algebro-Deterministic Memory "VaCoAl" as a Substrate for Vector-HaSH and TEM](https://arxiv.org/abs/2605.15652v4)** | 2026-05-21 | <details><summary>52 pa...</summary><p>52 pages, 5 figures, 1 table, 3 appendices</p></details> |
-| **[Beyond LLMs, Sparse Distributed Memory, and Neuromorphics <A Hyper-Dimensional SRAM-CAM "VaCoAl" for Ultra-High Speed, Ultra-Low Power, and Low Cost>](https://arxiv.org/abs/2604.11665v5)** | 2026-05-21 | <details><summary>57 pa...</summary><p>57 pages, 4 figure, 18 tables</p></details> |
-| **[TextSeal: A Localized LLM Watermark for Provenance & Distillation Protection](https://arxiv.org/abs/2605.12456v2)** | 2026-05-21 |  |
-| **[SeqLoRA: Bilevel Orthogonal Adaptation for Continual Multi-Concept Generation](https://arxiv.org/abs/2605.22743v1)** | 2026-05-21 |  |
-| **[Ternary Decision Trees with Locally-Adaptive Uncertainty Zones](https://arxiv.org/abs/2605.22740v1)** | 2026-05-21 | <details><summary>15 pa...</summary><p>15 pages, 4 figures, 5 appendix sections. Submitted to Data Mining and Knowledge Discovery (DAMI)</p></details> |
+| **[PiD: Fast and High-Resolution Latent Decoding with Pixel Diffusion](https://arxiv.org/abs/2605.23902v1)** | 2026-05-22 | <details><summary>Proje...</summary><p>Project Page: https://research.nvidia.com/labs/sil/projects/pid/</p></details> |
+| **[Complete-muE: Optimal Hyperparameter Transfer and Scaling for MoE Models](https://arxiv.org/abs/2605.23893v1)** | 2026-05-22 | 27 pages |
+| **[LaMo: Self-Supervised Latent Motion Priors for Physical Realism in Video Generation](https://arxiv.org/abs/2605.23878v1)** | 2026-05-22 | <details><summary>Proje...</summary><p>Project Page: https://lamo-ai.github.io/</p></details> |
+| **[Towards an Evaluation Methodology for AI in Second Language Education: Lessons Learned from Developing L2-Bench](https://arxiv.org/abs/2603.20088v2)** | 2026-05-22 |  |
+| **[Semi-Parametric Bayesian Additive Regression Trees for Risk Prediction with High-Dimensional Epigenetic Signatures and Low-Dimensional Covariates](https://arxiv.org/abs/2605.20143v2)** | 2026-05-22 |  |
+| **[Vision Transformers Need Better Token Interaction](https://arxiv.org/abs/2605.23868v1)** | 2026-05-22 | 7 pages |
+| **[Leveraging Foundation Models for Causal Generative Modeling](https://arxiv.org/abs/2605.23861v1)** | 2026-05-22 |  |
+| **[R$^3$L: Reflect-then-Retry Reinforcement Learning with Language-Guided Exploration, Pivotal Credit, and Positive Amplification](https://arxiv.org/abs/2601.03715v2)** | 2026-05-22 |  |
+| **[Point Tracking Improves World Action Models](https://arxiv.org/abs/2605.23856v1)** | 2026-05-22 |  |
+| **[Enhancing Energy Efficiency in Scientific Workflows through CFD based PIVAEs](https://arxiv.org/abs/2605.23850v1)** | 2026-05-22 |  |
+| **[Instrumentation for Imitation Learning: Enhancing Training Datasets for Clothes Hanger Insertion](https://arxiv.org/abs/2605.23847v1)** | 2026-05-22 | <details><summary>Accep...</summary><p>Accepted for presentation at ICRA2026</p></details> |
+| **[MuellerPT: Decomposition Driven Pretraining for Dense Learning in Mueller Polarimetry](https://arxiv.org/abs/2605.23840v1)** | 2026-05-22 | <details><summary>Accep...</summary><p>Accepted to 29th International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI 2026)</p></details> |
+| **[DORA: Dataflow-Instruction Orchestration Architecture for DNN Acceleration](https://arxiv.org/abs/2605.23833v1)** | 2026-05-22 |  |
+| **[Compression as Adaptation: Implicit Visual Representation with Diffusion Foundation Models](https://arxiv.org/abs/2603.07615v3)** | 2026-05-22 | ICML 2026 |
+| **[Broken Memories: Detecting and Mitigating Memorization in Diffusion Models with Degraded Generations](https://arxiv.org/abs/2605.22050v2)** | 2026-05-22 | <details><summary>KDD 2...</summary><p>KDD 2026, extended version</p></details> |
 
 ## Object Counting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Evaluating Commercial AI Chatbots as News Intermediaries](https://arxiv.org/abs/2605.22785v1)** | 2026-05-21 | <details><summary>https...</summary><p>https://suzgunmirac.github.io/ai-news-preview/</p></details> |
-| **[FAME: Failure-Aware Mixture-of-Experts for Message-Level Log Anomaly Detection](https://arxiv.org/abs/2605.22779v1)** | 2026-05-21 | 12 pages, 5 figures |
-| **[Diversed Model Discovery via Structured Table Discovery](https://arxiv.org/abs/2605.22766v1)** | 2026-05-21 | <details><summary>8 pag...</summary><p>8 pages excluding references. 5 figures</p></details> |
-| **[Bridging Silicon and the Hippocampus: Algebro-Deterministic Memory "VaCoAl" as a Substrate for Vector-HaSH and TEM](https://arxiv.org/abs/2605.15652v4)** | 2026-05-21 | <details><summary>52 pa...</summary><p>52 pages, 5 figures, 1 table, 3 appendices</p></details> |
-| **[TextSeal: A Localized LLM Watermark for Provenance & Distillation Protection](https://arxiv.org/abs/2605.12456v2)** | 2026-05-21 |  |
-| **[Ternary Decision Trees with Locally-Adaptive Uncertainty Zones](https://arxiv.org/abs/2605.22740v1)** | 2026-05-21 | <details><summary>15 pa...</summary><p>15 pages, 4 figures, 5 appendix sections. Submitted to Data Mining and Knowledge Discovery (DAMI)</p></details> |
-| **[Optimization over the intersection of manifolds](https://arxiv.org/abs/2605.22736v1)** | 2026-05-21 | <details><summary>26 pa...</summary><p>26 pages, 5 figures, 3 tables</p></details> |
-| **[LLM Readiness Harness: Evaluation, Observability, and CI Gates for LLM/RAG Applications](https://arxiv.org/abs/2603.27355v2)** | 2026-05-21 | <details><summary>19 pa...</summary><p>19 pages, 4 figures, 15 tables</p></details> |
-| **[Reading Task Failure Off the Activations: A Sparse-Feature Audit of GPT-2 Small on Indirect Object Identification](https://arxiv.org/abs/2605.22719v1)** | 2026-05-21 | 10 pages, 7 figures |
-| **[AMEL: Accumulated Message Effects on LLM Judgments](https://arxiv.org/abs/2605.22714v1)** | 2026-05-21 | <details><summary>19 pa...</summary><p>19 pages, 14 figures, 6 tables. Single author. Code, data (75,898 deduplicated API responses), and analysis pipeline at https://github.com/chutapp/amel</p></details> |
+| **[Towards an Evaluation Methodology for AI in Second Language Education: Lessons Learned from Developing L2-Bench](https://arxiv.org/abs/2603.20088v2)** | 2026-05-22 |  |
+| **[Semi-Parametric Bayesian Additive Regression Trees for Risk Prediction with High-Dimensional Epigenetic Signatures and Low-Dimensional Covariates](https://arxiv.org/abs/2605.20143v2)** | 2026-05-22 |  |
+| **[R$^3$L: Reflect-then-Retry Reinforcement Learning with Language-Guided Exploration, Pivotal Credit, and Positive Amplification](https://arxiv.org/abs/2601.03715v2)** | 2026-05-22 |  |
+| **[Enhancing Energy Efficiency in Scientific Workflows through CFD based PIVAEs](https://arxiv.org/abs/2605.23850v1)** | 2026-05-22 |  |
+| **[MuellerPT: Decomposition Driven Pretraining for Dense Learning in Mueller Polarimetry](https://arxiv.org/abs/2605.23840v1)** | 2026-05-22 | <details><summary>Accep...</summary><p>Accepted to 29th International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI 2026)</p></details> |
+| **[DORA: Dataflow-Instruction Orchestration Architecture for DNN Acceleration](https://arxiv.org/abs/2605.23833v1)** | 2026-05-22 |  |
+| **[Decomposing Queries into Tool Calls for Long-Video Keyframe Retrieval](https://arxiv.org/abs/2605.23826v1)** | 2026-05-22 |  |
+| **[Inferential Privacy Leakage in Anonymized Conversational AI Logs](https://arxiv.org/abs/2605.23820v1)** | 2026-05-22 |  |
 
 ## Image Caption
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Evaluating Commercial AI Chatbots as News Intermediaries](https://arxiv.org/abs/2605.22785v1)** | 2026-05-21 | <details><summary>https...</summary><p>https://suzgunmirac.github.io/ai-news-preview/</p></details> |
-| **[FAME: Failure-Aware Mixture-of-Experts for Message-Level Log Anomaly Detection](https://arxiv.org/abs/2605.22779v1)** | 2026-05-21 | 12 pages, 5 figures |
-| **[Diversed Model Discovery via Structured Table Discovery](https://arxiv.org/abs/2605.22766v1)** | 2026-05-21 | <details><summary>8 pag...</summary><p>8 pages excluding references. 5 figures</p></details> |
-| **[Bridging Silicon and the Hippocampus: Algebro-Deterministic Memory "VaCoAl" as a Substrate for Vector-HaSH and TEM](https://arxiv.org/abs/2605.15652v4)** | 2026-05-21 | <details><summary>52 pa...</summary><p>52 pages, 5 figures, 1 table, 3 appendices</p></details> |
-| **[TextSeal: A Localized LLM Watermark for Provenance & Distillation Protection](https://arxiv.org/abs/2605.12456v2)** | 2026-05-21 |  |
-| **[Ternary Decision Trees with Locally-Adaptive Uncertainty Zones](https://arxiv.org/abs/2605.22740v1)** | 2026-05-21 | <details><summary>15 pa...</summary><p>15 pages, 4 figures, 5 appendix sections. Submitted to Data Mining and Knowledge Discovery (DAMI)</p></details> |
-| **[Optimization over the intersection of manifolds](https://arxiv.org/abs/2605.22736v1)** | 2026-05-21 | <details><summary>26 pa...</summary><p>26 pages, 5 figures, 3 tables</p></details> |
-| **[LLM Readiness Harness: Evaluation, Observability, and CI Gates for LLM/RAG Applications](https://arxiv.org/abs/2603.27355v2)** | 2026-05-21 | <details><summary>19 pa...</summary><p>19 pages, 4 figures, 15 tables</p></details> |
-| **[Reading Task Failure Off the Activations: A Sparse-Feature Audit of GPT-2 Small on Indirect Object Identification](https://arxiv.org/abs/2605.22719v1)** | 2026-05-21 | 10 pages, 7 figures |
-| **[AMEL: Accumulated Message Effects on LLM Judgments](https://arxiv.org/abs/2605.22714v1)** | 2026-05-21 | <details><summary>19 pa...</summary><p>19 pages, 14 figures, 6 tables. Single author. Code, data (75,898 deduplicated API responses), and analysis pipeline at https://github.com/chutapp/amel</p></details> |
+| **[Towards an Evaluation Methodology for AI in Second Language Education: Lessons Learned from Developing L2-Bench](https://arxiv.org/abs/2603.20088v2)** | 2026-05-22 |  |
+| **[Semi-Parametric Bayesian Additive Regression Trees for Risk Prediction with High-Dimensional Epigenetic Signatures and Low-Dimensional Covariates](https://arxiv.org/abs/2605.20143v2)** | 2026-05-22 |  |
+| **[R$^3$L: Reflect-then-Retry Reinforcement Learning with Language-Guided Exploration, Pivotal Credit, and Positive Amplification](https://arxiv.org/abs/2601.03715v2)** | 2026-05-22 |  |
+| **[Enhancing Energy Efficiency in Scientific Workflows through CFD based PIVAEs](https://arxiv.org/abs/2605.23850v1)** | 2026-05-22 |  |
+| **[MuellerPT: Decomposition Driven Pretraining for Dense Learning in Mueller Polarimetry](https://arxiv.org/abs/2605.23840v1)** | 2026-05-22 | <details><summary>Accep...</summary><p>Accepted to 29th International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI 2026)</p></details> |
+| **[DORA: Dataflow-Instruction Orchestration Architecture for DNN Acceleration](https://arxiv.org/abs/2605.23833v1)** | 2026-05-22 |  |
+| **[Decomposing Queries into Tool Calls for Long-Video Keyframe Retrieval](https://arxiv.org/abs/2605.23826v1)** | 2026-05-22 |  |
+| **[Inferential Privacy Leakage in Anonymized Conversational AI Logs](https://arxiv.org/abs/2605.23820v1)** | 2026-05-22 |  |
 
 ## Describe
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Optimal Testing of Reed-Muller Codes with an Online Adversary](https://arxiv.org/abs/2605.22813v1)** | 2026-05-21 |  |
-| **[Evaluating Commercial AI Chatbots as News Intermediaries](https://arxiv.org/abs/2605.22785v1)** | 2026-05-21 | <details><summary>https...</summary><p>https://suzgunmirac.github.io/ai-news-preview/</p></details> |
-| **[FAME: Failure-Aware Mixture-of-Experts for Message-Level Log Anomaly Detection](https://arxiv.org/abs/2605.22779v1)** | 2026-05-21 | 12 pages, 5 figures |
-| **[Diversed Model Discovery via Structured Table Discovery](https://arxiv.org/abs/2605.22766v1)** | 2026-05-21 | <details><summary>8 pag...</summary><p>8 pages excluding references. 5 figures</p></details> |
-| **[Bridging Silicon and the Hippocampus: Algebro-Deterministic Memory "VaCoAl" as a Substrate for Vector-HaSH and TEM](https://arxiv.org/abs/2605.15652v4)** | 2026-05-21 | <details><summary>52 pa...</summary><p>52 pages, 5 figures, 1 table, 3 appendices</p></details> |
-| **[Spectral Tail Auxiliary Learning for AI-Generated Image Detection](https://arxiv.org/abs/2605.22751v1)** | 2026-05-21 |  |
-| **[TextSeal: A Localized LLM Watermark for Provenance & Distillation Protection](https://arxiv.org/abs/2605.12456v2)** | 2026-05-21 |  |
+| **[Towards an Evaluation Methodology for AI in Second Language Education: Lessons Learned from Developing L2-Bench](https://arxiv.org/abs/2603.20088v2)** | 2026-05-22 |  |
+| **[Semi-Parametric Bayesian Additive Regression Trees for Risk Prediction with High-Dimensional Epigenetic Signatures and Low-Dimensional Covariates](https://arxiv.org/abs/2605.20143v2)** | 2026-05-22 |  |
+| **[R$^3$L: Reflect-then-Retry Reinforcement Learning with Language-Guided Exploration, Pivotal Credit, and Positive Amplification](https://arxiv.org/abs/2601.03715v2)** | 2026-05-22 |  |
+| **[Enhancing Energy Efficiency in Scientific Workflows through CFD based PIVAEs](https://arxiv.org/abs/2605.23850v1)** | 2026-05-22 |  |
+| **[MuellerPT: Decomposition Driven Pretraining for Dense Learning in Mueller Polarimetry](https://arxiv.org/abs/2605.23840v1)** | 2026-05-22 | <details><summary>Accep...</summary><p>Accepted to 29th International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI 2026)</p></details> |
+| **[DORA: Dataflow-Instruction Orchestration Architecture for DNN Acceleration](https://arxiv.org/abs/2605.23833v1)** | 2026-05-22 |  |
+| **[Real-time, EDM-inspired sonification of the activity of a supercomputer](https://arxiv.org/abs/2605.21874v2)** | 2026-05-22 | <details><summary>7 pag...</summary><p>7 pages, 2 figures, accepted conference paper</p></details> |
+| **[Decomposing Queries into Tool Calls for Long-Video Keyframe Retrieval](https://arxiv.org/abs/2605.23826v1)** | 2026-05-22 |  |
 
 ## Light Weight
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Evaluating Commercial AI Chatbots as News Intermediaries](https://arxiv.org/abs/2605.22785v1)** | 2026-05-21 | <details><summary>https...</summary><p>https://suzgunmirac.github.io/ai-news-preview/</p></details> |
-| **[FAME: Failure-Aware Mixture-of-Experts for Message-Level Log Anomaly Detection](https://arxiv.org/abs/2605.22779v1)** | 2026-05-21 | 12 pages, 5 figures |
-| **[Diversed Model Discovery via Structured Table Discovery](https://arxiv.org/abs/2605.22766v1)** | 2026-05-21 | <details><summary>8 pag...</summary><p>8 pages excluding references. 5 figures</p></details> |
-| **[Bridging Silicon and the Hippocampus: Algebro-Deterministic Memory "VaCoAl" as a Substrate for Vector-HaSH and TEM](https://arxiv.org/abs/2605.15652v4)** | 2026-05-21 | <details><summary>52 pa...</summary><p>52 pages, 5 figures, 1 table, 3 appendices</p></details> |
-| **[TextSeal: A Localized LLM Watermark for Provenance & Distillation Protection](https://arxiv.org/abs/2605.12456v2)** | 2026-05-21 |  |
-| **[Ternary Decision Trees with Locally-Adaptive Uncertainty Zones](https://arxiv.org/abs/2605.22740v1)** | 2026-05-21 | <details><summary>15 pa...</summary><p>15 pages, 4 figures, 5 appendix sections. Submitted to Data Mining and Knowledge Discovery (DAMI)</p></details> |
-| **[Optimization over the intersection of manifolds](https://arxiv.org/abs/2605.22736v1)** | 2026-05-21 | <details><summary>26 pa...</summary><p>26 pages, 5 figures, 3 tables</p></details> |
-| **[LLM Readiness Harness: Evaluation, Observability, and CI Gates for LLM/RAG Applications](https://arxiv.org/abs/2603.27355v2)** | 2026-05-21 | <details><summary>19 pa...</summary><p>19 pages, 4 figures, 15 tables</p></details> |
-| **[Reading Task Failure Off the Activations: A Sparse-Feature Audit of GPT-2 Small on Indirect Object Identification](https://arxiv.org/abs/2605.22719v1)** | 2026-05-21 | 10 pages, 7 figures |
-| **[AMEL: Accumulated Message Effects on LLM Judgments](https://arxiv.org/abs/2605.22714v1)** | 2026-05-21 | <details><summary>19 pa...</summary><p>19 pages, 14 figures, 6 tables. Single author. Code, data (75,898 deduplicated API responses), and analysis pipeline at https://github.com/chutapp/amel</p></details> |
+| **[Towards an Evaluation Methodology for AI in Second Language Education: Lessons Learned from Developing L2-Bench](https://arxiv.org/abs/2603.20088v2)** | 2026-05-22 |  |
+| **[Semi-Parametric Bayesian Additive Regression Trees for Risk Prediction with High-Dimensional Epigenetic Signatures and Low-Dimensional Covariates](https://arxiv.org/abs/2605.20143v2)** | 2026-05-22 |  |
+| **[R$^3$L: Reflect-then-Retry Reinforcement Learning with Language-Guided Exploration, Pivotal Credit, and Positive Amplification](https://arxiv.org/abs/2601.03715v2)** | 2026-05-22 |  |
+| **[Enhancing Energy Efficiency in Scientific Workflows through CFD based PIVAEs](https://arxiv.org/abs/2605.23850v1)** | 2026-05-22 |  |
+| **[MuellerPT: Decomposition Driven Pretraining for Dense Learning in Mueller Polarimetry](https://arxiv.org/abs/2605.23840v1)** | 2026-05-22 | <details><summary>Accep...</summary><p>Accepted to 29th International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI 2026)</p></details> |
+| **[DORA: Dataflow-Instruction Orchestration Architecture for DNN Acceleration](https://arxiv.org/abs/2605.23833v1)** | 2026-05-22 |  |
+| **[Decomposing Queries into Tool Calls for Long-Video Keyframe Retrieval](https://arxiv.org/abs/2605.23826v1)** | 2026-05-22 |  |
+| **[Inferential Privacy Leakage in Anonymized Conversational AI Logs](https://arxiv.org/abs/2605.23820v1)** | 2026-05-22 |  |
 
 ## Class Incremental
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Evaluating Commercial AI Chatbots as News Intermediaries](https://arxiv.org/abs/2605.22785v1)** | 2026-05-21 | <details><summary>https...</summary><p>https://suzgunmirac.github.io/ai-news-preview/</p></details> |
-| **[FAME: Failure-Aware Mixture-of-Experts for Message-Level Log Anomaly Detection](https://arxiv.org/abs/2605.22779v1)** | 2026-05-21 | 12 pages, 5 figures |
-| **[Diversed Model Discovery via Structured Table Discovery](https://arxiv.org/abs/2605.22766v1)** | 2026-05-21 | <details><summary>8 pag...</summary><p>8 pages excluding references. 5 figures</p></details> |
-| **[Bridging Silicon and the Hippocampus: Algebro-Deterministic Memory "VaCoAl" as a Substrate for Vector-HaSH and TEM](https://arxiv.org/abs/2605.15652v4)** | 2026-05-21 | <details><summary>52 pa...</summary><p>52 pages, 5 figures, 1 table, 3 appendices</p></details> |
-| **[TextSeal: A Localized LLM Watermark for Provenance & Distillation Protection](https://arxiv.org/abs/2605.12456v2)** | 2026-05-21 |  |
-| **[Ternary Decision Trees with Locally-Adaptive Uncertainty Zones](https://arxiv.org/abs/2605.22740v1)** | 2026-05-21 | <details><summary>15 pa...</summary><p>15 pages, 4 figures, 5 appendix sections. Submitted to Data Mining and Knowledge Discovery (DAMI)</p></details> |
-| **[Optimization over the intersection of manifolds](https://arxiv.org/abs/2605.22736v1)** | 2026-05-21 | <details><summary>26 pa...</summary><p>26 pages, 5 figures, 3 tables</p></details> |
-| **[LLM Readiness Harness: Evaluation, Observability, and CI Gates for LLM/RAG Applications](https://arxiv.org/abs/2603.27355v2)** | 2026-05-21 | <details><summary>19 pa...</summary><p>19 pages, 4 figures, 15 tables</p></details> |
-| **[Reading Task Failure Off the Activations: A Sparse-Feature Audit of GPT-2 Small on Indirect Object Identification](https://arxiv.org/abs/2605.22719v1)** | 2026-05-21 | 10 pages, 7 figures |
-| **[AMEL: Accumulated Message Effects on LLM Judgments](https://arxiv.org/abs/2605.22714v1)** | 2026-05-21 | <details><summary>19 pa...</summary><p>19 pages, 14 figures, 6 tables. Single author. Code, data (75,898 deduplicated API responses), and analysis pipeline at https://github.com/chutapp/amel</p></details> |
+| **[Towards an Evaluation Methodology for AI in Second Language Education: Lessons Learned from Developing L2-Bench](https://arxiv.org/abs/2603.20088v2)** | 2026-05-22 |  |
+| **[Semi-Parametric Bayesian Additive Regression Trees for Risk Prediction with High-Dimensional Epigenetic Signatures and Low-Dimensional Covariates](https://arxiv.org/abs/2605.20143v2)** | 2026-05-22 |  |
+| **[R$^3$L: Reflect-then-Retry Reinforcement Learning with Language-Guided Exploration, Pivotal Credit, and Positive Amplification](https://arxiv.org/abs/2601.03715v2)** | 2026-05-22 |  |
+| **[Enhancing Energy Efficiency in Scientific Workflows through CFD based PIVAEs](https://arxiv.org/abs/2605.23850v1)** | 2026-05-22 |  |
+| **[MuellerPT: Decomposition Driven Pretraining for Dense Learning in Mueller Polarimetry](https://arxiv.org/abs/2605.23840v1)** | 2026-05-22 | <details><summary>Accep...</summary><p>Accepted to 29th International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI 2026)</p></details> |
+| **[DORA: Dataflow-Instruction Orchestration Architecture for DNN Acceleration](https://arxiv.org/abs/2605.23833v1)** | 2026-05-22 |  |
+| **[Decomposing Queries into Tool Calls for Long-Video Keyframe Retrieval](https://arxiv.org/abs/2605.23826v1)** | 2026-05-22 |  |
+| **[Inferential Privacy Leakage in Anonymized Conversational AI Logs](https://arxiv.org/abs/2605.23820v1)** | 2026-05-22 |  |
 
