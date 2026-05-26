@@ -1,5 +1,5 @@
 ---
-title: Latest 50 Papers - May 26, 2026
+title: Latest 50 Papers - May 27, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/JiamingZang/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,117 +7,125 @@ labels: documentation
 ## Molecular
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Towards an Evaluation Methodology for AI in Second Language Education: Lessons Learned from Developing L2-Bench](https://arxiv.org/abs/2603.20088v2)** | 2026-05-22 |  |
-| **[Semi-Parametric Bayesian Additive Regression Trees for Risk Prediction with High-Dimensional Epigenetic Signatures and Low-Dimensional Covariates](https://arxiv.org/abs/2605.20143v2)** | 2026-05-22 |  |
-| **[R$^3$L: Reflect-then-Retry Reinforcement Learning with Language-Guided Exploration, Pivotal Credit, and Positive Amplification](https://arxiv.org/abs/2601.03715v2)** | 2026-05-22 |  |
-| **[Enhancing Energy Efficiency in Scientific Workflows through CFD based PIVAEs](https://arxiv.org/abs/2605.23850v1)** | 2026-05-22 |  |
-| **[MuellerPT: Decomposition Driven Pretraining for Dense Learning in Mueller Polarimetry](https://arxiv.org/abs/2605.23840v1)** | 2026-05-22 | <details><summary>Accep...</summary><p>Accepted to 29th International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI 2026)</p></details> |
-| **[DORA: Dataflow-Instruction Orchestration Architecture for DNN Acceleration](https://arxiv.org/abs/2605.23833v1)** | 2026-05-22 |  |
-| **[Decomposing Queries into Tool Calls for Long-Video Keyframe Retrieval](https://arxiv.org/abs/2605.23826v1)** | 2026-05-22 |  |
-| **[Inferential Privacy Leakage in Anonymized Conversational AI Logs](https://arxiv.org/abs/2605.23820v1)** | 2026-05-22 |  |
-| **[Speak-to-Structure: Evaluating LLMs in Open-domain Natural Language-Driven Molecule Generation](https://arxiv.org/abs/2412.14642v4)** | 2026-05-22 | <details><summary>Accep...</summary><p>Accepted by KDD 2026. Our codes and datasets are fully accessible through the https://github.com/phenixace/S2-TOMG-Bench and https://huggingface.co/datasets/phenixace/S2-TOMG-Bench</p></details> |
+| **[BioLip: Language-Generalizable Lip-Sync Deepfake Detection via Biomechanical Constraint Violation Modeling](https://arxiv.org/abs/2604.16808v3)** | 2026-05-25 | <details><summary>13 pa...</summary><p>13 pages, 5 figures. Keywords: Deepfake detection, lip-sync forgery, biomechanical constraints, landmark kinematics, cross-lingual generalization, video forensics, privacy-preserving inference, compression robustness</p></details> |
+| **[What is 'undone computer science'?](https://arxiv.org/abs/2605.26084v1)** | 2026-05-25 | <details><summary>Trans...</summary><p>Translation of "Qu'est-ce que la science informatique non faite ?" In: Philosophia Scientiæ, 30(2): Undone Computer Science. June 2026, pp. 5-16, doi: 10.4000/16952. Translated by Richard Dickinson (Inist-CNRS)</p></details> |
+| **[Correcting Contextual Deletions in DNA Nanopore Readouts](https://arxiv.org/abs/2602.05072v2)** | 2026-05-25 | <details><summary>40 pa...</summary><p>40 pages, 0 figures, 3 tables. Revised the statement and proof of the $t$-contextual deletion-correcting code in [v1, Theorem 4] (now Theorem 5). Constructed an alternative $t$-contextual deletion-correcting code with smaller redundancy but higher time complexity (Theorem 4). Added further details throughout the manuscript</p></details> |
+| **[Paris 2.0: A Decentralized Diffusion Model for Video Generation](https://arxiv.org/abs/2605.26064v1)** | 2026-05-25 | 6 pages, 5 figures |
+| **[BlitzRank: Principled Zero-shot Ranking Agents with Tournament Graphs](https://arxiv.org/abs/2602.05448v4)** | 2026-05-25 | ICML 2026 spotlight |
+| **[Fine-Tuning Causal LLMs for Text Classification: Embedding-Based vs. Instruction-Based Approaches](https://arxiv.org/abs/2512.12677v3)** | 2026-05-25 | 20 pages, 5 figures |
+| **[A Framework of Variable-Length Source Encryption using Mutual Information Security Criterion: Universal Coding, Strong Converse Theorem](https://arxiv.org/abs/2605.06802v3)** | 2026-05-25 | <details><summary>7 pag...</summary><p>7 pages, 5 figures. This is an extended version of the paper submitted for presentation in ISITA 2026, which will be held at Okinawa, Japan form November 1 to 4 in 2026. The submitted paper has several errors. We correct those errors in this arXiv paper. arXiv admin note: substantial text overlap with arXiv:2605.04720</p></details> |
+| **[Considering causality in the construction of molecular signatures of lifestyle exposures](https://arxiv.org/abs/2605.26023v1)** | 2026-05-25 | 28 pages, 10 figures |
+| **[Deployment-complete benchmarking](https://arxiv.org/abs/2605.25997v1)** | 2026-05-25 | <details><summary>33 pa...</summary><p>33 pages, 5 figures, 1 table; supplementary tables and code available</p></details> |
 
 ## Molecular Generation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Towards an Evaluation Methodology for AI in Second Language Education: Lessons Learned from Developing L2-Bench](https://arxiv.org/abs/2603.20088v2)** | 2026-05-22 |  |
-| **[Semi-Parametric Bayesian Additive Regression Trees for Risk Prediction with High-Dimensional Epigenetic Signatures and Low-Dimensional Covariates](https://arxiv.org/abs/2605.20143v2)** | 2026-05-22 |  |
-| **[R$^3$L: Reflect-then-Retry Reinforcement Learning with Language-Guided Exploration, Pivotal Credit, and Positive Amplification](https://arxiv.org/abs/2601.03715v2)** | 2026-05-22 |  |
-| **[Enhancing Energy Efficiency in Scientific Workflows through CFD based PIVAEs](https://arxiv.org/abs/2605.23850v1)** | 2026-05-22 |  |
-| **[MuellerPT: Decomposition Driven Pretraining for Dense Learning in Mueller Polarimetry](https://arxiv.org/abs/2605.23840v1)** | 2026-05-22 | <details><summary>Accep...</summary><p>Accepted to 29th International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI 2026)</p></details> |
-| **[DORA: Dataflow-Instruction Orchestration Architecture for DNN Acceleration](https://arxiv.org/abs/2605.23833v1)** | 2026-05-22 |  |
-| **[Decomposing Queries into Tool Calls for Long-Video Keyframe Retrieval](https://arxiv.org/abs/2605.23826v1)** | 2026-05-22 |  |
-| **[Inferential Privacy Leakage in Anonymized Conversational AI Logs](https://arxiv.org/abs/2605.23820v1)** | 2026-05-22 |  |
+| **[BioLip: Language-Generalizable Lip-Sync Deepfake Detection via Biomechanical Constraint Violation Modeling](https://arxiv.org/abs/2604.16808v3)** | 2026-05-25 | <details><summary>13 pa...</summary><p>13 pages, 5 figures. Keywords: Deepfake detection, lip-sync forgery, biomechanical constraints, landmark kinematics, cross-lingual generalization, video forensics, privacy-preserving inference, compression robustness</p></details> |
+| **[What is 'undone computer science'?](https://arxiv.org/abs/2605.26084v1)** | 2026-05-25 | <details><summary>Trans...</summary><p>Translation of "Qu'est-ce que la science informatique non faite ?" In: Philosophia Scientiæ, 30(2): Undone Computer Science. June 2026, pp. 5-16, doi: 10.4000/16952. Translated by Richard Dickinson (Inist-CNRS)</p></details> |
+| **[Correcting Contextual Deletions in DNA Nanopore Readouts](https://arxiv.org/abs/2602.05072v2)** | 2026-05-25 | <details><summary>40 pa...</summary><p>40 pages, 0 figures, 3 tables. Revised the statement and proof of the $t$-contextual deletion-correcting code in [v1, Theorem 4] (now Theorem 5). Constructed an alternative $t$-contextual deletion-correcting code with smaller redundancy but higher time complexity (Theorem 4). Added further details throughout the manuscript</p></details> |
+| **[Paris 2.0: A Decentralized Diffusion Model for Video Generation](https://arxiv.org/abs/2605.26064v1)** | 2026-05-25 | 6 pages, 5 figures |
+| **[BlitzRank: Principled Zero-shot Ranking Agents with Tournament Graphs](https://arxiv.org/abs/2602.05448v4)** | 2026-05-25 | ICML 2026 spotlight |
+| **[Fine-Tuning Causal LLMs for Text Classification: Embedding-Based vs. Instruction-Based Approaches](https://arxiv.org/abs/2512.12677v3)** | 2026-05-25 | 20 pages, 5 figures |
+| **[A Framework of Variable-Length Source Encryption using Mutual Information Security Criterion: Universal Coding, Strong Converse Theorem](https://arxiv.org/abs/2605.06802v3)** | 2026-05-25 | <details><summary>7 pag...</summary><p>7 pages, 5 figures. This is an extended version of the paper submitted for presentation in ISITA 2026, which will be held at Okinawa, Japan form November 1 to 4 in 2026. The submitted paper has several errors. We correct those errors in this arXiv paper. arXiv admin note: substantial text overlap with arXiv:2605.04720</p></details> |
+| **[Deployment-complete benchmarking](https://arxiv.org/abs/2605.25997v1)** | 2026-05-25 | <details><summary>33 pa...</summary><p>33 pages, 5 figures, 1 table; supplementary tables and code available</p></details> |
+| **[Neural Scalable Symbolic Search Framework for Complex Logical Queries with Multiple Free Variables](https://arxiv.org/abs/2605.25985v1)** | 2026-05-25 | 10 pages, 5 figures |
+| **[Mapping the Schedule x Bit-Width Boundary in Sub-100M Quantisation-Aware Training](https://arxiv.org/abs/2605.25966v1)** | 2026-05-25 | <details><summary>20 pa...</summary><p>20 pages, 6 figures, 4 tables. 1345 training runs total (720 + 625). Submitted for review at TMLR</p></details> |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Towards an Evaluation Methodology for AI in Second Language Education: Lessons Learned from Developing L2-Bench](https://arxiv.org/abs/2603.20088v2)** | 2026-05-22 |  |
-| **[Semi-Parametric Bayesian Additive Regression Trees for Risk Prediction with High-Dimensional Epigenetic Signatures and Low-Dimensional Covariates](https://arxiv.org/abs/2605.20143v2)** | 2026-05-22 |  |
-| **[R$^3$L: Reflect-then-Retry Reinforcement Learning with Language-Guided Exploration, Pivotal Credit, and Positive Amplification](https://arxiv.org/abs/2601.03715v2)** | 2026-05-22 |  |
-| **[Enhancing Energy Efficiency in Scientific Workflows through CFD based PIVAEs](https://arxiv.org/abs/2605.23850v1)** | 2026-05-22 |  |
-| **[MuellerPT: Decomposition Driven Pretraining for Dense Learning in Mueller Polarimetry](https://arxiv.org/abs/2605.23840v1)** | 2026-05-22 | <details><summary>Accep...</summary><p>Accepted to 29th International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI 2026)</p></details> |
-| **[DORA: Dataflow-Instruction Orchestration Architecture for DNN Acceleration](https://arxiv.org/abs/2605.23833v1)** | 2026-05-22 |  |
-| **[Decomposing Queries into Tool Calls for Long-Video Keyframe Retrieval](https://arxiv.org/abs/2605.23826v1)** | 2026-05-22 |  |
-| **[Inferential Privacy Leakage in Anonymized Conversational AI Logs](https://arxiv.org/abs/2605.23820v1)** | 2026-05-22 |  |
-| **[Bridging Data and Physics: A Graph Neural Network-Based Hybrid Twin Framework](https://arxiv.org/abs/2512.15767v2)** | 2026-05-22 | 27 pages, 14 figures |
+| **[BioLip: Language-Generalizable Lip-Sync Deepfake Detection via Biomechanical Constraint Violation Modeling](https://arxiv.org/abs/2604.16808v3)** | 2026-05-25 | <details><summary>13 pa...</summary><p>13 pages, 5 figures. Keywords: Deepfake detection, lip-sync forgery, biomechanical constraints, landmark kinematics, cross-lingual generalization, video forensics, privacy-preserving inference, compression robustness</p></details> |
+| **[What is 'undone computer science'?](https://arxiv.org/abs/2605.26084v1)** | 2026-05-25 | <details><summary>Trans...</summary><p>Translation of "Qu'est-ce que la science informatique non faite ?" In: Philosophia Scientiæ, 30(2): Undone Computer Science. June 2026, pp. 5-16, doi: 10.4000/16952. Translated by Richard Dickinson (Inist-CNRS)</p></details> |
+| **[RecGOAT: Graph Optimal Adaptive Transport for LLM-Enhanced Multimodal Recommendation with Dual Semantic Alignment](https://arxiv.org/abs/2602.00682v2)** | 2026-05-25 | Under Review |
+| **[Correcting Contextual Deletions in DNA Nanopore Readouts](https://arxiv.org/abs/2602.05072v2)** | 2026-05-25 | <details><summary>40 pa...</summary><p>40 pages, 0 figures, 3 tables. Revised the statement and proof of the $t$-contextual deletion-correcting code in [v1, Theorem 4] (now Theorem 5). Constructed an alternative $t$-contextual deletion-correcting code with smaller redundancy but higher time complexity (Theorem 4). Added further details throughout the manuscript</p></details> |
+| **[Paris 2.0: A Decentralized Diffusion Model for Video Generation](https://arxiv.org/abs/2605.26064v1)** | 2026-05-25 | 6 pages, 5 figures |
+| **[BlitzRank: Principled Zero-shot Ranking Agents with Tournament Graphs](https://arxiv.org/abs/2602.05448v4)** | 2026-05-25 | ICML 2026 spotlight |
+| **[L2IR: Revealing Latent Intent in Graph Fraud Detection](https://arxiv.org/abs/2605.26040v1)** | 2026-05-25 | 12 pages, 6 figures |
+| **[Fine-Tuning Causal LLMs for Text Classification: Embedding-Based vs. Instruction-Based Approaches](https://arxiv.org/abs/2512.12677v3)** | 2026-05-25 | 20 pages, 5 figures |
+| **[A Framework of Variable-Length Source Encryption using Mutual Information Security Criterion: Universal Coding, Strong Converse Theorem](https://arxiv.org/abs/2605.06802v3)** | 2026-05-25 | <details><summary>7 pag...</summary><p>7 pages, 5 figures. This is an extended version of the paper submitted for presentation in ISITA 2026, which will be held at Okinawa, Japan form November 1 to 4 in 2026. The submitted paper has several errors. We correct those errors in this arXiv paper. arXiv admin note: substantial text overlap with arXiv:2605.04720</p></details> |
+| **[Deployment-complete benchmarking](https://arxiv.org/abs/2605.25997v1)** | 2026-05-25 | <details><summary>33 pa...</summary><p>33 pages, 5 figures, 1 table; supplementary tables and code available</p></details> |
+| **[Neural Scalable Symbolic Search Framework for Complex Logical Queries with Multiple Free Variables](https://arxiv.org/abs/2605.25985v1)** | 2026-05-25 | 10 pages, 5 figures |
 
 ## Diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[PiD: Fast and High-Resolution Latent Decoding with Pixel Diffusion](https://arxiv.org/abs/2605.23902v1)** | 2026-05-22 | <details><summary>Proje...</summary><p>Project Page: https://research.nvidia.com/labs/sil/projects/pid/</p></details> |
-| **[Complete-muE: Optimal Hyperparameter Transfer and Scaling for MoE Models](https://arxiv.org/abs/2605.23893v1)** | 2026-05-22 | 27 pages |
-| **[LaMo: Self-Supervised Latent Motion Priors for Physical Realism in Video Generation](https://arxiv.org/abs/2605.23878v1)** | 2026-05-22 | <details><summary>Proje...</summary><p>Project Page: https://lamo-ai.github.io/</p></details> |
-| **[Towards an Evaluation Methodology for AI in Second Language Education: Lessons Learned from Developing L2-Bench](https://arxiv.org/abs/2603.20088v2)** | 2026-05-22 |  |
-| **[Semi-Parametric Bayesian Additive Regression Trees for Risk Prediction with High-Dimensional Epigenetic Signatures and Low-Dimensional Covariates](https://arxiv.org/abs/2605.20143v2)** | 2026-05-22 |  |
-| **[Vision Transformers Need Better Token Interaction](https://arxiv.org/abs/2605.23868v1)** | 2026-05-22 | 7 pages |
-| **[Leveraging Foundation Models for Causal Generative Modeling](https://arxiv.org/abs/2605.23861v1)** | 2026-05-22 |  |
-| **[R$^3$L: Reflect-then-Retry Reinforcement Learning with Language-Guided Exploration, Pivotal Credit, and Positive Amplification](https://arxiv.org/abs/2601.03715v2)** | 2026-05-22 |  |
-| **[Point Tracking Improves World Action Models](https://arxiv.org/abs/2605.23856v1)** | 2026-05-22 |  |
-| **[Enhancing Energy Efficiency in Scientific Workflows through CFD based PIVAEs](https://arxiv.org/abs/2605.23850v1)** | 2026-05-22 |  |
-| **[Instrumentation for Imitation Learning: Enhancing Training Datasets for Clothes Hanger Insertion](https://arxiv.org/abs/2605.23847v1)** | 2026-05-22 | <details><summary>Accep...</summary><p>Accepted for presentation at ICRA2026</p></details> |
-| **[MuellerPT: Decomposition Driven Pretraining for Dense Learning in Mueller Polarimetry](https://arxiv.org/abs/2605.23840v1)** | 2026-05-22 | <details><summary>Accep...</summary><p>Accepted to 29th International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI 2026)</p></details> |
-| **[DORA: Dataflow-Instruction Orchestration Architecture for DNN Acceleration](https://arxiv.org/abs/2605.23833v1)** | 2026-05-22 |  |
-| **[Compression as Adaptation: Implicit Visual Representation with Diffusion Foundation Models](https://arxiv.org/abs/2603.07615v3)** | 2026-05-22 | ICML 2026 |
-| **[Broken Memories: Detecting and Mitigating Memorization in Diffusion Models with Degraded Generations](https://arxiv.org/abs/2605.22050v2)** | 2026-05-22 | <details><summary>KDD 2...</summary><p>KDD 2026, extended version</p></details> |
+| **[AnyScene: Towards Highly Controllable Driving Scene Generation at Anywhere and Beyond](https://arxiv.org/abs/2605.26113v1)** | 2026-05-25 | <details><summary>Work ...</summary><p>Work in progress. Project page: https://mind-omni.github.io/</p></details> |
+| **[Squeezing Capacity from Multimodal Large Language Models for Subject-driven Generation](https://arxiv.org/abs/2605.26111v1)** | 2026-05-25 | <details><summary>33 pa...</summary><p>33 pages, 18 figures, Project Page: https://zsh2000.github.io/squeeze-mllm-subject-gen/</p></details> |
+| **[Reinforcing Few-step Generators via Reward-Tilted Distribution Matching](https://arxiv.org/abs/2605.26108v1)** | 2026-05-25 | <details><summary>Code ...</summary><p>Code and models are available at https://github.com/Harahan/RTDMD</p></details> |
+| **[TIE: Time Interval Encoding for Video Generation over Events](https://arxiv.org/abs/2605.10543v2)** | 2026-05-25 |  |
+| **[Looped Diffusion Language Models](https://arxiv.org/abs/2605.26106v1)** | 2026-05-25 | 23 pages |
+| **[BioLip: Language-Generalizable Lip-Sync Deepfake Detection via Biomechanical Constraint Violation Modeling](https://arxiv.org/abs/2604.16808v3)** | 2026-05-25 | <details><summary>13 pa...</summary><p>13 pages, 5 figures. Keywords: Deepfake detection, lip-sync forgery, biomechanical constraints, landmark kinematics, cross-lingual generalization, video forensics, privacy-preserving inference, compression robustness</p></details> |
+| **[What is 'undone computer science'?](https://arxiv.org/abs/2605.26084v1)** | 2026-05-25 | <details><summary>Trans...</summary><p>Translation of "Qu'est-ce que la science informatique non faite ?" In: Philosophia Scientiæ, 30(2): Undone Computer Science. June 2026, pp. 5-16, doi: 10.4000/16952. Translated by Richard Dickinson (Inist-CNRS)</p></details> |
+| **[Global Convergence of Wasserstein Policy Gradient for Entropy-Regularized Reinforcement Learning](https://arxiv.org/abs/2605.26078v1)** | 2026-05-25 |  |
+| **[Correcting Contextual Deletions in DNA Nanopore Readouts](https://arxiv.org/abs/2602.05072v2)** | 2026-05-25 | <details><summary>40 pa...</summary><p>40 pages, 0 figures, 3 tables. Revised the statement and proof of the $t$-contextual deletion-correcting code in [v1, Theorem 4] (now Theorem 5). Constructed an alternative $t$-contextual deletion-correcting code with smaller redundancy but higher time complexity (Theorem 4). Added further details throughout the manuscript</p></details> |
+| **[Paris 2.0: A Decentralized Diffusion Model for Video Generation](https://arxiv.org/abs/2605.26064v1)** | 2026-05-25 | 6 pages, 5 figures |
+| **[Therm-FM: Foundation Model is ALL YOU NEED for 3D-ICs Thermal Simulation](https://arxiv.org/abs/2605.22663v2)** | 2026-05-25 | <details><summary>14 pa...</summary><p>14 pages, 10 figures, extended version of a DAC 2026 paper</p></details> |
+| **[BlitzRank: Principled Zero-shot Ranking Agents with Tournament Graphs](https://arxiv.org/abs/2602.05448v4)** | 2026-05-25 | ICML 2026 spotlight |
+| **[Everything at Every Scale: Scale-Invariant Diffusion with Continuous Super-Resolution](https://arxiv.org/abs/2605.26032v1)** | 2026-05-25 | 29 pages, 17 figures |
 
 ## Object Counting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Towards an Evaluation Methodology for AI in Second Language Education: Lessons Learned from Developing L2-Bench](https://arxiv.org/abs/2603.20088v2)** | 2026-05-22 |  |
-| **[Semi-Parametric Bayesian Additive Regression Trees for Risk Prediction with High-Dimensional Epigenetic Signatures and Low-Dimensional Covariates](https://arxiv.org/abs/2605.20143v2)** | 2026-05-22 |  |
-| **[R$^3$L: Reflect-then-Retry Reinforcement Learning with Language-Guided Exploration, Pivotal Credit, and Positive Amplification](https://arxiv.org/abs/2601.03715v2)** | 2026-05-22 |  |
-| **[Enhancing Energy Efficiency in Scientific Workflows through CFD based PIVAEs](https://arxiv.org/abs/2605.23850v1)** | 2026-05-22 |  |
-| **[MuellerPT: Decomposition Driven Pretraining for Dense Learning in Mueller Polarimetry](https://arxiv.org/abs/2605.23840v1)** | 2026-05-22 | <details><summary>Accep...</summary><p>Accepted to 29th International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI 2026)</p></details> |
-| **[DORA: Dataflow-Instruction Orchestration Architecture for DNN Acceleration](https://arxiv.org/abs/2605.23833v1)** | 2026-05-22 |  |
-| **[Decomposing Queries into Tool Calls for Long-Video Keyframe Retrieval](https://arxiv.org/abs/2605.23826v1)** | 2026-05-22 |  |
-| **[Inferential Privacy Leakage in Anonymized Conversational AI Logs](https://arxiv.org/abs/2605.23820v1)** | 2026-05-22 |  |
+| **[BioLip: Language-Generalizable Lip-Sync Deepfake Detection via Biomechanical Constraint Violation Modeling](https://arxiv.org/abs/2604.16808v3)** | 2026-05-25 | <details><summary>13 pa...</summary><p>13 pages, 5 figures. Keywords: Deepfake detection, lip-sync forgery, biomechanical constraints, landmark kinematics, cross-lingual generalization, video forensics, privacy-preserving inference, compression robustness</p></details> |
+| **[What is 'undone computer science'?](https://arxiv.org/abs/2605.26084v1)** | 2026-05-25 | <details><summary>Trans...</summary><p>Translation of "Qu'est-ce que la science informatique non faite ?" In: Philosophia Scientiæ, 30(2): Undone Computer Science. June 2026, pp. 5-16, doi: 10.4000/16952. Translated by Richard Dickinson (Inist-CNRS)</p></details> |
+| **[Correcting Contextual Deletions in DNA Nanopore Readouts](https://arxiv.org/abs/2602.05072v2)** | 2026-05-25 | <details><summary>40 pa...</summary><p>40 pages, 0 figures, 3 tables. Revised the statement and proof of the $t$-contextual deletion-correcting code in [v1, Theorem 4] (now Theorem 5). Constructed an alternative $t$-contextual deletion-correcting code with smaller redundancy but higher time complexity (Theorem 4). Added further details throughout the manuscript</p></details> |
+| **[Paris 2.0: A Decentralized Diffusion Model for Video Generation](https://arxiv.org/abs/2605.26064v1)** | 2026-05-25 | 6 pages, 5 figures |
+| **[BlitzRank: Principled Zero-shot Ranking Agents with Tournament Graphs](https://arxiv.org/abs/2602.05448v4)** | 2026-05-25 | ICML 2026 spotlight |
+| **[Fine-Tuning Causal LLMs for Text Classification: Embedding-Based vs. Instruction-Based Approaches](https://arxiv.org/abs/2512.12677v3)** | 2026-05-25 | 20 pages, 5 figures |
+| **[A Framework of Variable-Length Source Encryption using Mutual Information Security Criterion: Universal Coding, Strong Converse Theorem](https://arxiv.org/abs/2605.06802v3)** | 2026-05-25 | <details><summary>7 pag...</summary><p>7 pages, 5 figures. This is an extended version of the paper submitted for presentation in ISITA 2026, which will be held at Okinawa, Japan form November 1 to 4 in 2026. The submitted paper has several errors. We correct those errors in this arXiv paper. arXiv admin note: substantial text overlap with arXiv:2605.04720</p></details> |
+| **[Deployment-complete benchmarking](https://arxiv.org/abs/2605.25997v1)** | 2026-05-25 | <details><summary>33 pa...</summary><p>33 pages, 5 figures, 1 table; supplementary tables and code available</p></details> |
+| **[Neural Scalable Symbolic Search Framework for Complex Logical Queries with Multiple Free Variables](https://arxiv.org/abs/2605.25985v1)** | 2026-05-25 | 10 pages, 5 figures |
+| **[Mapping the Schedule x Bit-Width Boundary in Sub-100M Quantisation-Aware Training](https://arxiv.org/abs/2605.25966v1)** | 2026-05-25 | <details><summary>20 pa...</summary><p>20 pages, 6 figures, 4 tables. 1345 training runs total (720 + 625). Submitted for review at TMLR</p></details> |
 
 ## Image Caption
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Towards an Evaluation Methodology for AI in Second Language Education: Lessons Learned from Developing L2-Bench](https://arxiv.org/abs/2603.20088v2)** | 2026-05-22 |  |
-| **[Semi-Parametric Bayesian Additive Regression Trees for Risk Prediction with High-Dimensional Epigenetic Signatures and Low-Dimensional Covariates](https://arxiv.org/abs/2605.20143v2)** | 2026-05-22 |  |
-| **[R$^3$L: Reflect-then-Retry Reinforcement Learning with Language-Guided Exploration, Pivotal Credit, and Positive Amplification](https://arxiv.org/abs/2601.03715v2)** | 2026-05-22 |  |
-| **[Enhancing Energy Efficiency in Scientific Workflows through CFD based PIVAEs](https://arxiv.org/abs/2605.23850v1)** | 2026-05-22 |  |
-| **[MuellerPT: Decomposition Driven Pretraining for Dense Learning in Mueller Polarimetry](https://arxiv.org/abs/2605.23840v1)** | 2026-05-22 | <details><summary>Accep...</summary><p>Accepted to 29th International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI 2026)</p></details> |
-| **[DORA: Dataflow-Instruction Orchestration Architecture for DNN Acceleration](https://arxiv.org/abs/2605.23833v1)** | 2026-05-22 |  |
-| **[Decomposing Queries into Tool Calls for Long-Video Keyframe Retrieval](https://arxiv.org/abs/2605.23826v1)** | 2026-05-22 |  |
-| **[Inferential Privacy Leakage in Anonymized Conversational AI Logs](https://arxiv.org/abs/2605.23820v1)** | 2026-05-22 |  |
+| **[BioLip: Language-Generalizable Lip-Sync Deepfake Detection via Biomechanical Constraint Violation Modeling](https://arxiv.org/abs/2604.16808v3)** | 2026-05-25 | <details><summary>13 pa...</summary><p>13 pages, 5 figures. Keywords: Deepfake detection, lip-sync forgery, biomechanical constraints, landmark kinematics, cross-lingual generalization, video forensics, privacy-preserving inference, compression robustness</p></details> |
+| **[What is 'undone computer science'?](https://arxiv.org/abs/2605.26084v1)** | 2026-05-25 | <details><summary>Trans...</summary><p>Translation of "Qu'est-ce que la science informatique non faite ?" In: Philosophia Scientiæ, 30(2): Undone Computer Science. June 2026, pp. 5-16, doi: 10.4000/16952. Translated by Richard Dickinson (Inist-CNRS)</p></details> |
+| **[Correcting Contextual Deletions in DNA Nanopore Readouts](https://arxiv.org/abs/2602.05072v2)** | 2026-05-25 | <details><summary>40 pa...</summary><p>40 pages, 0 figures, 3 tables. Revised the statement and proof of the $t$-contextual deletion-correcting code in [v1, Theorem 4] (now Theorem 5). Constructed an alternative $t$-contextual deletion-correcting code with smaller redundancy but higher time complexity (Theorem 4). Added further details throughout the manuscript</p></details> |
+| **[Paris 2.0: A Decentralized Diffusion Model for Video Generation](https://arxiv.org/abs/2605.26064v1)** | 2026-05-25 | 6 pages, 5 figures |
+| **[BlitzRank: Principled Zero-shot Ranking Agents with Tournament Graphs](https://arxiv.org/abs/2602.05448v4)** | 2026-05-25 | ICML 2026 spotlight |
+| **[Fine-Tuning Causal LLMs for Text Classification: Embedding-Based vs. Instruction-Based Approaches](https://arxiv.org/abs/2512.12677v3)** | 2026-05-25 | 20 pages, 5 figures |
+| **[A Framework of Variable-Length Source Encryption using Mutual Information Security Criterion: Universal Coding, Strong Converse Theorem](https://arxiv.org/abs/2605.06802v3)** | 2026-05-25 | <details><summary>7 pag...</summary><p>7 pages, 5 figures. This is an extended version of the paper submitted for presentation in ISITA 2026, which will be held at Okinawa, Japan form November 1 to 4 in 2026. The submitted paper has several errors. We correct those errors in this arXiv paper. arXiv admin note: substantial text overlap with arXiv:2605.04720</p></details> |
+| **[Deployment-complete benchmarking](https://arxiv.org/abs/2605.25997v1)** | 2026-05-25 | <details><summary>33 pa...</summary><p>33 pages, 5 figures, 1 table; supplementary tables and code available</p></details> |
+| **[Neural Scalable Symbolic Search Framework for Complex Logical Queries with Multiple Free Variables](https://arxiv.org/abs/2605.25985v1)** | 2026-05-25 | 10 pages, 5 figures |
+| **[Mapping the Schedule x Bit-Width Boundary in Sub-100M Quantisation-Aware Training](https://arxiv.org/abs/2605.25966v1)** | 2026-05-25 | <details><summary>20 pa...</summary><p>20 pages, 6 figures, 4 tables. 1345 training runs total (720 + 625). Submitted for review at TMLR</p></details> |
 
 ## Describe
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Towards an Evaluation Methodology for AI in Second Language Education: Lessons Learned from Developing L2-Bench](https://arxiv.org/abs/2603.20088v2)** | 2026-05-22 |  |
-| **[Semi-Parametric Bayesian Additive Regression Trees for Risk Prediction with High-Dimensional Epigenetic Signatures and Low-Dimensional Covariates](https://arxiv.org/abs/2605.20143v2)** | 2026-05-22 |  |
-| **[R$^3$L: Reflect-then-Retry Reinforcement Learning with Language-Guided Exploration, Pivotal Credit, and Positive Amplification](https://arxiv.org/abs/2601.03715v2)** | 2026-05-22 |  |
-| **[Enhancing Energy Efficiency in Scientific Workflows through CFD based PIVAEs](https://arxiv.org/abs/2605.23850v1)** | 2026-05-22 |  |
-| **[MuellerPT: Decomposition Driven Pretraining for Dense Learning in Mueller Polarimetry](https://arxiv.org/abs/2605.23840v1)** | 2026-05-22 | <details><summary>Accep...</summary><p>Accepted to 29th International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI 2026)</p></details> |
-| **[DORA: Dataflow-Instruction Orchestration Architecture for DNN Acceleration](https://arxiv.org/abs/2605.23833v1)** | 2026-05-22 |  |
-| **[Real-time, EDM-inspired sonification of the activity of a supercomputer](https://arxiv.org/abs/2605.21874v2)** | 2026-05-22 | <details><summary>7 pag...</summary><p>7 pages, 2 figures, accepted conference paper</p></details> |
-| **[Decomposing Queries into Tool Calls for Long-Video Keyframe Retrieval](https://arxiv.org/abs/2605.23826v1)** | 2026-05-22 |  |
+| **[BioLip: Language-Generalizable Lip-Sync Deepfake Detection via Biomechanical Constraint Violation Modeling](https://arxiv.org/abs/2604.16808v3)** | 2026-05-25 | <details><summary>13 pa...</summary><p>13 pages, 5 figures. Keywords: Deepfake detection, lip-sync forgery, biomechanical constraints, landmark kinematics, cross-lingual generalization, video forensics, privacy-preserving inference, compression robustness</p></details> |
+| **[What is 'undone computer science'?](https://arxiv.org/abs/2605.26084v1)** | 2026-05-25 | <details><summary>Trans...</summary><p>Translation of "Qu'est-ce que la science informatique non faite ?" In: Philosophia Scientiæ, 30(2): Undone Computer Science. June 2026, pp. 5-16, doi: 10.4000/16952. Translated by Richard Dickinson (Inist-CNRS)</p></details> |
+| **[Correcting Contextual Deletions in DNA Nanopore Readouts](https://arxiv.org/abs/2602.05072v2)** | 2026-05-25 | <details><summary>40 pa...</summary><p>40 pages, 0 figures, 3 tables. Revised the statement and proof of the $t$-contextual deletion-correcting code in [v1, Theorem 4] (now Theorem 5). Constructed an alternative $t$-contextual deletion-correcting code with smaller redundancy but higher time complexity (Theorem 4). Added further details throughout the manuscript</p></details> |
+| **[Paris 2.0: A Decentralized Diffusion Model for Video Generation](https://arxiv.org/abs/2605.26064v1)** | 2026-05-25 | 6 pages, 5 figures |
+| **[RCTs & Human Uplift Studies: Methodological Challenges and Practical Solutions for Frontier AI Evaluation](https://arxiv.org/abs/2603.11001v2)** | 2026-05-25 |  |
+| **[BlitzRank: Principled Zero-shot Ranking Agents with Tournament Graphs](https://arxiv.org/abs/2602.05448v4)** | 2026-05-25 | ICML 2026 spotlight |
 
 ## Light Weight
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Towards an Evaluation Methodology for AI in Second Language Education: Lessons Learned from Developing L2-Bench](https://arxiv.org/abs/2603.20088v2)** | 2026-05-22 |  |
-| **[Semi-Parametric Bayesian Additive Regression Trees for Risk Prediction with High-Dimensional Epigenetic Signatures and Low-Dimensional Covariates](https://arxiv.org/abs/2605.20143v2)** | 2026-05-22 |  |
-| **[R$^3$L: Reflect-then-Retry Reinforcement Learning with Language-Guided Exploration, Pivotal Credit, and Positive Amplification](https://arxiv.org/abs/2601.03715v2)** | 2026-05-22 |  |
-| **[Enhancing Energy Efficiency in Scientific Workflows through CFD based PIVAEs](https://arxiv.org/abs/2605.23850v1)** | 2026-05-22 |  |
-| **[MuellerPT: Decomposition Driven Pretraining for Dense Learning in Mueller Polarimetry](https://arxiv.org/abs/2605.23840v1)** | 2026-05-22 | <details><summary>Accep...</summary><p>Accepted to 29th International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI 2026)</p></details> |
-| **[DORA: Dataflow-Instruction Orchestration Architecture for DNN Acceleration](https://arxiv.org/abs/2605.23833v1)** | 2026-05-22 |  |
-| **[Decomposing Queries into Tool Calls for Long-Video Keyframe Retrieval](https://arxiv.org/abs/2605.23826v1)** | 2026-05-22 |  |
-| **[Inferential Privacy Leakage in Anonymized Conversational AI Logs](https://arxiv.org/abs/2605.23820v1)** | 2026-05-22 |  |
+| **[BioLip: Language-Generalizable Lip-Sync Deepfake Detection via Biomechanical Constraint Violation Modeling](https://arxiv.org/abs/2604.16808v3)** | 2026-05-25 | <details><summary>13 pa...</summary><p>13 pages, 5 figures. Keywords: Deepfake detection, lip-sync forgery, biomechanical constraints, landmark kinematics, cross-lingual generalization, video forensics, privacy-preserving inference, compression robustness</p></details> |
+| **[What is 'undone computer science'?](https://arxiv.org/abs/2605.26084v1)** | 2026-05-25 | <details><summary>Trans...</summary><p>Translation of "Qu'est-ce que la science informatique non faite ?" In: Philosophia Scientiæ, 30(2): Undone Computer Science. June 2026, pp. 5-16, doi: 10.4000/16952. Translated by Richard Dickinson (Inist-CNRS)</p></details> |
+| **[Correcting Contextual Deletions in DNA Nanopore Readouts](https://arxiv.org/abs/2602.05072v2)** | 2026-05-25 | <details><summary>40 pa...</summary><p>40 pages, 0 figures, 3 tables. Revised the statement and proof of the $t$-contextual deletion-correcting code in [v1, Theorem 4] (now Theorem 5). Constructed an alternative $t$-contextual deletion-correcting code with smaller redundancy but higher time complexity (Theorem 4). Added further details throughout the manuscript</p></details> |
+| **[Paris 2.0: A Decentralized Diffusion Model for Video Generation](https://arxiv.org/abs/2605.26064v1)** | 2026-05-25 | 6 pages, 5 figures |
+| **[BlitzRank: Principled Zero-shot Ranking Agents with Tournament Graphs](https://arxiv.org/abs/2602.05448v4)** | 2026-05-25 | ICML 2026 spotlight |
+| **[Fine-Tuning Causal LLMs for Text Classification: Embedding-Based vs. Instruction-Based Approaches](https://arxiv.org/abs/2512.12677v3)** | 2026-05-25 | 20 pages, 5 figures |
+| **[A Framework of Variable-Length Source Encryption using Mutual Information Security Criterion: Universal Coding, Strong Converse Theorem](https://arxiv.org/abs/2605.06802v3)** | 2026-05-25 | <details><summary>7 pag...</summary><p>7 pages, 5 figures. This is an extended version of the paper submitted for presentation in ISITA 2026, which will be held at Okinawa, Japan form November 1 to 4 in 2026. The submitted paper has several errors. We correct those errors in this arXiv paper. arXiv admin note: substantial text overlap with arXiv:2605.04720</p></details> |
+| **[Deployment-complete benchmarking](https://arxiv.org/abs/2605.25997v1)** | 2026-05-25 | <details><summary>33 pa...</summary><p>33 pages, 5 figures, 1 table; supplementary tables and code available</p></details> |
+| **[Neural Scalable Symbolic Search Framework for Complex Logical Queries with Multiple Free Variables](https://arxiv.org/abs/2605.25985v1)** | 2026-05-25 | 10 pages, 5 figures |
+| **[Mapping the Schedule x Bit-Width Boundary in Sub-100M Quantisation-Aware Training](https://arxiv.org/abs/2605.25966v1)** | 2026-05-25 | <details><summary>20 pa...</summary><p>20 pages, 6 figures, 4 tables. 1345 training runs total (720 + 625). Submitted for review at TMLR</p></details> |
 
 ## Class Incremental
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Towards an Evaluation Methodology for AI in Second Language Education: Lessons Learned from Developing L2-Bench](https://arxiv.org/abs/2603.20088v2)** | 2026-05-22 |  |
-| **[Semi-Parametric Bayesian Additive Regression Trees for Risk Prediction with High-Dimensional Epigenetic Signatures and Low-Dimensional Covariates](https://arxiv.org/abs/2605.20143v2)** | 2026-05-22 |  |
-| **[R$^3$L: Reflect-then-Retry Reinforcement Learning with Language-Guided Exploration, Pivotal Credit, and Positive Amplification](https://arxiv.org/abs/2601.03715v2)** | 2026-05-22 |  |
-| **[Enhancing Energy Efficiency in Scientific Workflows through CFD based PIVAEs](https://arxiv.org/abs/2605.23850v1)** | 2026-05-22 |  |
-| **[MuellerPT: Decomposition Driven Pretraining for Dense Learning in Mueller Polarimetry](https://arxiv.org/abs/2605.23840v1)** | 2026-05-22 | <details><summary>Accep...</summary><p>Accepted to 29th International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI 2026)</p></details> |
-| **[DORA: Dataflow-Instruction Orchestration Architecture for DNN Acceleration](https://arxiv.org/abs/2605.23833v1)** | 2026-05-22 |  |
-| **[Decomposing Queries into Tool Calls for Long-Video Keyframe Retrieval](https://arxiv.org/abs/2605.23826v1)** | 2026-05-22 |  |
-| **[Inferential Privacy Leakage in Anonymized Conversational AI Logs](https://arxiv.org/abs/2605.23820v1)** | 2026-05-22 |  |
+| **[BioLip: Language-Generalizable Lip-Sync Deepfake Detection via Biomechanical Constraint Violation Modeling](https://arxiv.org/abs/2604.16808v3)** | 2026-05-25 | <details><summary>13 pa...</summary><p>13 pages, 5 figures. Keywords: Deepfake detection, lip-sync forgery, biomechanical constraints, landmark kinematics, cross-lingual generalization, video forensics, privacy-preserving inference, compression robustness</p></details> |
+| **[What is 'undone computer science'?](https://arxiv.org/abs/2605.26084v1)** | 2026-05-25 | <details><summary>Trans...</summary><p>Translation of "Qu'est-ce que la science informatique non faite ?" In: Philosophia Scientiæ, 30(2): Undone Computer Science. June 2026, pp. 5-16, doi: 10.4000/16952. Translated by Richard Dickinson (Inist-CNRS)</p></details> |
+| **[Correcting Contextual Deletions in DNA Nanopore Readouts](https://arxiv.org/abs/2602.05072v2)** | 2026-05-25 | <details><summary>40 pa...</summary><p>40 pages, 0 figures, 3 tables. Revised the statement and proof of the $t$-contextual deletion-correcting code in [v1, Theorem 4] (now Theorem 5). Constructed an alternative $t$-contextual deletion-correcting code with smaller redundancy but higher time complexity (Theorem 4). Added further details throughout the manuscript</p></details> |
+| **[Paris 2.0: A Decentralized Diffusion Model for Video Generation](https://arxiv.org/abs/2605.26064v1)** | 2026-05-25 | 6 pages, 5 figures |
+| **[BlitzRank: Principled Zero-shot Ranking Agents with Tournament Graphs](https://arxiv.org/abs/2602.05448v4)** | 2026-05-25 | ICML 2026 spotlight |
+| **[Fine-Tuning Causal LLMs for Text Classification: Embedding-Based vs. Instruction-Based Approaches](https://arxiv.org/abs/2512.12677v3)** | 2026-05-25 | 20 pages, 5 figures |
+| **[A Framework of Variable-Length Source Encryption using Mutual Information Security Criterion: Universal Coding, Strong Converse Theorem](https://arxiv.org/abs/2605.06802v3)** | 2026-05-25 | <details><summary>7 pag...</summary><p>7 pages, 5 figures. This is an extended version of the paper submitted for presentation in ISITA 2026, which will be held at Okinawa, Japan form November 1 to 4 in 2026. The submitted paper has several errors. We correct those errors in this arXiv paper. arXiv admin note: substantial text overlap with arXiv:2605.04720</p></details> |
+| **[Deployment-complete benchmarking](https://arxiv.org/abs/2605.25997v1)** | 2026-05-25 | <details><summary>33 pa...</summary><p>33 pages, 5 figures, 1 table; supplementary tables and code available</p></details> |
+| **[Neural Scalable Symbolic Search Framework for Complex Logical Queries with Multiple Free Variables](https://arxiv.org/abs/2605.25985v1)** | 2026-05-25 | 10 pages, 5 figures |
+| **[Mapping the Schedule x Bit-Width Boundary in Sub-100M Quantisation-Aware Training](https://arxiv.org/abs/2605.25966v1)** | 2026-05-25 | <details><summary>20 pa...</summary><p>20 pages, 6 figures, 4 tables. 1345 training runs total (720 + 625). Submitted for review at TMLR</p></details> |
 
