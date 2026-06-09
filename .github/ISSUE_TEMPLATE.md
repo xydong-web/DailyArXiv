@@ -1,5 +1,5 @@
 ---
-title: Latest 50 Papers - June 09, 2026
+title: Latest 50 Papers - June 10, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/JiamingZang/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,107 +7,104 @@ labels: documentation
 ## Molecular
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Verifiable and Confidential DNN Inference on Low-End Edge Devices](https://arxiv.org/abs/2606.07470v1)** | 2026-06-05 | <details><summary>12 pa...</summary><p>12 pages, 4 figures, 5 tables, 1 algorithm</p></details> |
-| **[Robust and Sparse Generalized Linear Models for High-Dimensional Data via Maximum Mean Discrepancy](https://arxiv.org/abs/2602.21132v2)** | 2026-06-05 | <details><summary>22 pa...</summary><p>22 pages, 5 tables, 2 figures</p></details> |
-| **[Fast spectral separation method for kinetic equation with anisotropic non-stationary collision operator retaining micro-model fidelity](https://arxiv.org/abs/2510.15093v2)** | 2026-06-05 |  |
-| **[Re-imagining ISO 26262 in the Age of Autonomous Vehicles: Enhancing Controllability through Transferability and Predictability](https://arxiv.org/abs/2606.07437v1)** | 2026-06-05 |  |
-| **[Discovering Multiscale Deep Formulas in Complex Systems via Neural-Guided Lambda Calculus](https://arxiv.org/abs/2606.07426v1)** | 2026-06-05 | <details><summary>35 pa...</summary><p>35 pages, 5 figures; Supplementary Information available as an ancillary file (79 pages)</p></details> |
-| **[Rapid co-design of Buoyancy-assisted robots for Challenging Locomotion using Gaussian Evolutionary Specialists](https://arxiv.org/abs/2606.07424v1)** | 2026-06-05 | Submitted to RA-L |
-| **[The World's Fastest Matching Engine Algorithm](https://arxiv.org/abs/2606.01183v2)** | 2026-06-05 | <details><summary>20 pa...</summary><p>20 pages, 5 figures, 7 tables</p></details> |
-| **[Socratic-SWE: Self-Evolving Coding Agents via Trace-Derived Agent Skills](https://arxiv.org/abs/2606.07412v1)** | 2026-06-05 | <details><summary>21 pa...</summary><p>21 pages, 5 figures. Under review</p></details> |
-| **[Reason-Then-Retrieve for CoVR-R with Structured Edit Prompts and Dense-Sparse Fusion](https://arxiv.org/abs/2606.02450v2)** | 2026-06-05 |  |
+| **[MemoryVLA++: Temporal Modeling via Memory and Imagination in Vision-Language-Action Models](https://arxiv.org/abs/2606.09827v1)** | 2026-06-08 | <details><summary>The p...</summary><p>The project is available at https://shihao1895.github.io/MemoryVLA-PP-Web</p></details> |
+| **[OmniGameArena: A Unified UE5 Benchmark for VLM Game Agents with Improvement Dynamics](https://arxiv.org/abs/2606.09826v1)** | 2026-06-08 |  |
+| **[Scalable Inference-Time Annealing with Surrogate Likelihood Estimators](https://arxiv.org/abs/2605.31498v3)** | 2026-06-08 | <details><summary>26 pa...</summary><p>26 pages, 5 figures, submitted to JMLR 2026</p></details> |
+| **[SynManDex: Synthesizing Human-like Dexterous Grasps from Synthetic Human Pre-Grasps](https://arxiv.org/abs/2606.09798v1)** | 2026-06-08 |  |
+| **[Who Earns the Safety? Intervention-Aware Quantum Predictive Control with Safety Attribution](https://arxiv.org/abs/2606.09778v1)** | 2026-06-08 | 7 pages, 4 figures |
+| **[SwAIther-Precip: Lead-Time-Aware Bias Correction Enables Kilometer-Scale Downscaling of Global AI Precipitation Forecasts over Switzerland](https://arxiv.org/abs/2605.16163v2)** | 2026-06-08 |  |
 
 ## Molecular Generation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Verifiable and Confidential DNN Inference on Low-End Edge Devices](https://arxiv.org/abs/2606.07470v1)** | 2026-06-05 | <details><summary>12 pa...</summary><p>12 pages, 4 figures, 5 tables, 1 algorithm</p></details> |
-| **[Robust and Sparse Generalized Linear Models for High-Dimensional Data via Maximum Mean Discrepancy](https://arxiv.org/abs/2602.21132v2)** | 2026-06-05 | <details><summary>22 pa...</summary><p>22 pages, 5 tables, 2 figures</p></details> |
-| **[Re-imagining ISO 26262 in the Age of Autonomous Vehicles: Enhancing Controllability through Transferability and Predictability](https://arxiv.org/abs/2606.07437v1)** | 2026-06-05 |  |
-| **[Discovering Multiscale Deep Formulas in Complex Systems via Neural-Guided Lambda Calculus](https://arxiv.org/abs/2606.07426v1)** | 2026-06-05 | <details><summary>35 pa...</summary><p>35 pages, 5 figures; Supplementary Information available as an ancillary file (79 pages)</p></details> |
-| **[Rapid co-design of Buoyancy-assisted robots for Challenging Locomotion using Gaussian Evolutionary Specialists](https://arxiv.org/abs/2606.07424v1)** | 2026-06-05 | Submitted to RA-L |
-| **[The World's Fastest Matching Engine Algorithm](https://arxiv.org/abs/2606.01183v2)** | 2026-06-05 | <details><summary>20 pa...</summary><p>20 pages, 5 figures, 7 tables</p></details> |
-| **[Socratic-SWE: Self-Evolving Coding Agents via Trace-Derived Agent Skills](https://arxiv.org/abs/2606.07412v1)** | 2026-06-05 | <details><summary>21 pa...</summary><p>21 pages, 5 figures. Under review</p></details> |
-| **[Reason-Then-Retrieve for CoVR-R with Structured Edit Prompts and Dense-Sparse Fusion](https://arxiv.org/abs/2606.02450v2)** | 2026-06-05 |  |
+| **[MemoryVLA++: Temporal Modeling via Memory and Imagination in Vision-Language-Action Models](https://arxiv.org/abs/2606.09827v1)** | 2026-06-08 | <details><summary>The p...</summary><p>The project is available at https://shihao1895.github.io/MemoryVLA-PP-Web</p></details> |
+| **[OmniGameArena: A Unified UE5 Benchmark for VLM Game Agents with Improvement Dynamics](https://arxiv.org/abs/2606.09826v1)** | 2026-06-08 |  |
+| **[Scalable Inference-Time Annealing with Surrogate Likelihood Estimators](https://arxiv.org/abs/2605.31498v3)** | 2026-06-08 | <details><summary>26 pa...</summary><p>26 pages, 5 figures, submitted to JMLR 2026</p></details> |
+| **[SynManDex: Synthesizing Human-like Dexterous Grasps from Synthetic Human Pre-Grasps](https://arxiv.org/abs/2606.09798v1)** | 2026-06-08 |  |
+| **[Who Earns the Safety? Intervention-Aware Quantum Predictive Control with Safety Attribution](https://arxiv.org/abs/2606.09778v1)** | 2026-06-08 | 7 pages, 4 figures |
+| **[SwAIther-Precip: Lead-Time-Aware Bias Correction Enables Kilometer-Scale Downscaling of Global AI Precipitation Forecasts over Switzerland](https://arxiv.org/abs/2605.16163v2)** | 2026-06-08 |  |
+| **[A Camera-Native Talking-Head Video Dataset for Various Computer Vision Tasks](https://arxiv.org/abs/2603.26763v2)** | 2026-06-08 |  |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Graph Neural Network leveraging Higher-order Class Label Connectivity for Heterophilous Graphs](https://arxiv.org/abs/2606.07475v1)** | 2026-06-05 |  |
-| **[Verifiable and Confidential DNN Inference on Low-End Edge Devices](https://arxiv.org/abs/2606.07470v1)** | 2026-06-05 | <details><summary>12 pa...</summary><p>12 pages, 4 figures, 5 tables, 1 algorithm</p></details> |
-| **[Robust and Sparse Generalized Linear Models for High-Dimensional Data via Maximum Mean Discrepancy](https://arxiv.org/abs/2602.21132v2)** | 2026-06-05 | <details><summary>22 pa...</summary><p>22 pages, 5 tables, 2 figures</p></details> |
-| **[Re-imagining ISO 26262 in the Age of Autonomous Vehicles: Enhancing Controllability through Transferability and Predictability](https://arxiv.org/abs/2606.07437v1)** | 2026-06-05 |  |
-| **[Discovering Multiscale Deep Formulas in Complex Systems via Neural-Guided Lambda Calculus](https://arxiv.org/abs/2606.07426v1)** | 2026-06-05 | <details><summary>35 pa...</summary><p>35 pages, 5 figures; Supplementary Information available as an ancillary file (79 pages)</p></details> |
-| **[Rapid co-design of Buoyancy-assisted robots for Challenging Locomotion using Gaussian Evolutionary Specialists](https://arxiv.org/abs/2606.07424v1)** | 2026-06-05 | Submitted to RA-L |
-| **[The World's Fastest Matching Engine Algorithm](https://arxiv.org/abs/2606.01183v2)** | 2026-06-05 | <details><summary>20 pa...</summary><p>20 pages, 5 figures, 7 tables</p></details> |
-| **[Socratic-SWE: Self-Evolving Coding Agents via Trace-Derived Agent Skills](https://arxiv.org/abs/2606.07412v1)** | 2026-06-05 | <details><summary>21 pa...</summary><p>21 pages, 5 figures. Under review</p></details> |
-| **[Learning to Execute Graph Algorithms Exactly with Graph Neural Networks](https://arxiv.org/abs/2601.23207v2)** | 2026-06-05 |  |
+| **[MemoryVLA++: Temporal Modeling via Memory and Imagination in Vision-Language-Action Models](https://arxiv.org/abs/2606.09827v1)** | 2026-06-08 | <details><summary>The p...</summary><p>The project is available at https://shihao1895.github.io/MemoryVLA-PP-Web</p></details> |
+| **[OmniGameArena: A Unified UE5 Benchmark for VLM Game Agents with Improvement Dynamics](https://arxiv.org/abs/2606.09826v1)** | 2026-06-08 |  |
+| **[Scalable Inference-Time Annealing with Surrogate Likelihood Estimators](https://arxiv.org/abs/2605.31498v3)** | 2026-06-08 | <details><summary>26 pa...</summary><p>26 pages, 5 figures, submitted to JMLR 2026</p></details> |
+| **[SynManDex: Synthesizing Human-like Dexterous Grasps from Synthetic Human Pre-Grasps](https://arxiv.org/abs/2606.09798v1)** | 2026-06-08 |  |
+| **[Who Earns the Safety? Intervention-Aware Quantum Predictive Control with Safety Attribution](https://arxiv.org/abs/2606.09778v1)** | 2026-06-08 | 7 pages, 4 figures |
+| **[SwAIther-Precip: Lead-Time-Aware Bias Correction Enables Kilometer-Scale Downscaling of Global AI Precipitation Forecasts over Switzerland](https://arxiv.org/abs/2605.16163v2)** | 2026-06-08 |  |
+| **[A Graphop Analysis of Graph Neural Networks on Sparse Graphs: Generalization and Universal Approximation](https://arxiv.org/abs/2602.08785v2)** | 2026-06-08 |  |
+| **[A Camera-Native Talking-Head Video Dataset for Various Computer Vision Tasks](https://arxiv.org/abs/2603.26763v2)** | 2026-06-08 |  |
 
 ## Diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Network Recovery from Cascade Data: A Debiased Jacobian-Based Machine Learning Approach](https://arxiv.org/abs/2606.07483v1)** | 2026-06-05 |  |
-| **[Generalization of Diffusion Models Arises with a Balanced Representation Space](https://arxiv.org/abs/2512.20963v3)** | 2026-06-05 | <details><summary>Accep...</summary><p>Accepted at ICLR 2026. 40 pages, 19 figures. The first two authors contributed equally</p></details> |
-| **[Drifting Models for Surrogate Flow Modeling](https://arxiv.org/abs/2606.07481v1)** | 2026-06-05 | <details><summary>Accep...</summary><p>Accepted to the 2nd International Symposium AI and Fluid Mechanics 2026</p></details> |
-| **[Verifiable and Confidential DNN Inference on Low-End Edge Devices](https://arxiv.org/abs/2606.07470v1)** | 2026-06-05 | <details><summary>12 pa...</summary><p>12 pages, 4 figures, 5 tables, 1 algorithm</p></details> |
-| **[Robust and Sparse Generalized Linear Models for High-Dimensional Data via Maximum Mean Discrepancy](https://arxiv.org/abs/2602.21132v2)** | 2026-06-05 | <details><summary>22 pa...</summary><p>22 pages, 5 tables, 2 figures</p></details> |
-| **[Re-imagining ISO 26262 in the Age of Autonomous Vehicles: Enhancing Controllability through Transferability and Predictability](https://arxiv.org/abs/2606.07437v1)** | 2026-06-05 |  |
-| **[RISE: Single Static Radar-based Indoor Scene Understanding](https://arxiv.org/abs/2511.14019v3)** | 2026-06-05 |  |
-| **[Discovering Multiscale Deep Formulas in Complex Systems via Neural-Guided Lambda Calculus](https://arxiv.org/abs/2606.07426v1)** | 2026-06-05 | <details><summary>35 pa...</summary><p>35 pages, 5 figures; Supplementary Information available as an ancillary file (79 pages)</p></details> |
+| **[Latent Spatial Memory for Video World Models](https://arxiv.org/abs/2606.09828v1)** | 2026-06-08 | <details><summary>Proje...</summary><p>Project Page: https://aka.ms/latent-spatial-memory, Code: https://github.com/microsoft/LatentSpatialMemory</p></details> |
+| **[MemoryVLA++: Temporal Modeling via Memory and Imagination in Vision-Language-Action Models](https://arxiv.org/abs/2606.09827v1)** | 2026-06-08 | <details><summary>The p...</summary><p>The project is available at https://shihao1895.github.io/MemoryVLA-PP-Web</p></details> |
+| **[OmniGameArena: A Unified UE5 Benchmark for VLM Game Agents with Improvement Dynamics](https://arxiv.org/abs/2606.09826v1)** | 2026-06-08 |  |
+| **[PTL-Diffusion: Manifold-Aware Diffusion with Periodic Terminal Laws](https://arxiv.org/abs/2606.09816v1)** | 2026-06-08 |  |
+| **[Scalable Inference-Time Annealing with Surrogate Likelihood Estimators](https://arxiv.org/abs/2605.31498v3)** | 2026-06-08 | <details><summary>26 pa...</summary><p>26 pages, 5 figures, submitted to JMLR 2026</p></details> |
+| **[AHA-WAM:Asynchronous Horizon-Adaptive World-Action Modeling with Observation-Guided Context Routing](https://arxiv.org/abs/2606.09811v1)** | 2026-06-08 | <details><summary>Proje...</summary><p>Project page: https://serene-sivy.github.io/aha-wam/</p></details> |
+| **[Echo-Memory: A Controlled Study of Memory in Action World Models](https://arxiv.org/abs/2606.09803v1)** | 2026-06-08 | <details><summary>9 fig...</summary><p>9 figures and 28 pages, Code at \href{https://github.com/Echo-Team-Joy-Future-Academy-JD/Echo-Memory}{this URL}</p></details> |
+| **[SynManDex: Synthesizing Human-like Dexterous Grasps from Synthetic Human Pre-Grasps](https://arxiv.org/abs/2606.09798v1)** | 2026-06-08 |  |
+| **[Beyond Spherical Harmonics: Rethinking Appearance Models for Radiance Reconstruction](https://arxiv.org/abs/2606.09794v1)** | 2026-06-08 | 19 pages, 11 figures |
+| **[Who Earns the Safety? Intervention-Aware Quantum Predictive Control with Safety Attribution](https://arxiv.org/abs/2606.09778v1)** | 2026-06-08 | 7 pages, 4 figures |
+| **[AccioScene: Compositional 3D Scene Generation via Graph Diffusion and Interaction-driven Critics](https://arxiv.org/abs/2502.06819v2)** | 2026-06-08 |  |
 
 ## Object Counting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Verifiable and Confidential DNN Inference on Low-End Edge Devices](https://arxiv.org/abs/2606.07470v1)** | 2026-06-05 | <details><summary>12 pa...</summary><p>12 pages, 4 figures, 5 tables, 1 algorithm</p></details> |
-| **[Robust and Sparse Generalized Linear Models for High-Dimensional Data via Maximum Mean Discrepancy](https://arxiv.org/abs/2602.21132v2)** | 2026-06-05 | <details><summary>22 pa...</summary><p>22 pages, 5 tables, 2 figures</p></details> |
-| **[Re-imagining ISO 26262 in the Age of Autonomous Vehicles: Enhancing Controllability through Transferability and Predictability](https://arxiv.org/abs/2606.07437v1)** | 2026-06-05 |  |
-| **[Discovering Multiscale Deep Formulas in Complex Systems via Neural-Guided Lambda Calculus](https://arxiv.org/abs/2606.07426v1)** | 2026-06-05 | <details><summary>35 pa...</summary><p>35 pages, 5 figures; Supplementary Information available as an ancillary file (79 pages)</p></details> |
-| **[Rapid co-design of Buoyancy-assisted robots for Challenging Locomotion using Gaussian Evolutionary Specialists](https://arxiv.org/abs/2606.07424v1)** | 2026-06-05 | Submitted to RA-L |
-| **[The World's Fastest Matching Engine Algorithm](https://arxiv.org/abs/2606.01183v2)** | 2026-06-05 | <details><summary>20 pa...</summary><p>20 pages, 5 figures, 7 tables</p></details> |
-| **[Socratic-SWE: Self-Evolving Coding Agents via Trace-Derived Agent Skills](https://arxiv.org/abs/2606.07412v1)** | 2026-06-05 | <details><summary>21 pa...</summary><p>21 pages, 5 figures. Under review</p></details> |
-| **[Reason-Then-Retrieve for CoVR-R with Structured Edit Prompts and Dense-Sparse Fusion](https://arxiv.org/abs/2606.02450v2)** | 2026-06-05 |  |
+| **[MemoryVLA++: Temporal Modeling via Memory and Imagination in Vision-Language-Action Models](https://arxiv.org/abs/2606.09827v1)** | 2026-06-08 | <details><summary>The p...</summary><p>The project is available at https://shihao1895.github.io/MemoryVLA-PP-Web</p></details> |
+| **[OmniGameArena: A Unified UE5 Benchmark for VLM Game Agents with Improvement Dynamics](https://arxiv.org/abs/2606.09826v1)** | 2026-06-08 |  |
+| **[Scalable Inference-Time Annealing with Surrogate Likelihood Estimators](https://arxiv.org/abs/2605.31498v3)** | 2026-06-08 | <details><summary>26 pa...</summary><p>26 pages, 5 figures, submitted to JMLR 2026</p></details> |
+| **[SynManDex: Synthesizing Human-like Dexterous Grasps from Synthetic Human Pre-Grasps](https://arxiv.org/abs/2606.09798v1)** | 2026-06-08 |  |
+| **[Who Earns the Safety? Intervention-Aware Quantum Predictive Control with Safety Attribution](https://arxiv.org/abs/2606.09778v1)** | 2026-06-08 | 7 pages, 4 figures |
+| **[SwAIther-Precip: Lead-Time-Aware Bias Correction Enables Kilometer-Scale Downscaling of Global AI Precipitation Forecasts over Switzerland](https://arxiv.org/abs/2605.16163v2)** | 2026-06-08 |  |
+| **[A Camera-Native Talking-Head Video Dataset for Various Computer Vision Tasks](https://arxiv.org/abs/2603.26763v2)** | 2026-06-08 |  |
 
 ## Image Caption
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Verifiable and Confidential DNN Inference on Low-End Edge Devices](https://arxiv.org/abs/2606.07470v1)** | 2026-06-05 | <details><summary>12 pa...</summary><p>12 pages, 4 figures, 5 tables, 1 algorithm</p></details> |
-| **[Robust and Sparse Generalized Linear Models for High-Dimensional Data via Maximum Mean Discrepancy](https://arxiv.org/abs/2602.21132v2)** | 2026-06-05 | <details><summary>22 pa...</summary><p>22 pages, 5 tables, 2 figures</p></details> |
-| **[Re-imagining ISO 26262 in the Age of Autonomous Vehicles: Enhancing Controllability through Transferability and Predictability](https://arxiv.org/abs/2606.07437v1)** | 2026-06-05 |  |
-| **[Discovering Multiscale Deep Formulas in Complex Systems via Neural-Guided Lambda Calculus](https://arxiv.org/abs/2606.07426v1)** | 2026-06-05 | <details><summary>35 pa...</summary><p>35 pages, 5 figures; Supplementary Information available as an ancillary file (79 pages)</p></details> |
-| **[Rapid co-design of Buoyancy-assisted robots for Challenging Locomotion using Gaussian Evolutionary Specialists](https://arxiv.org/abs/2606.07424v1)** | 2026-06-05 | Submitted to RA-L |
-| **[The World's Fastest Matching Engine Algorithm](https://arxiv.org/abs/2606.01183v2)** | 2026-06-05 | <details><summary>20 pa...</summary><p>20 pages, 5 figures, 7 tables</p></details> |
-| **[Socratic-SWE: Self-Evolving Coding Agents via Trace-Derived Agent Skills](https://arxiv.org/abs/2606.07412v1)** | 2026-06-05 | <details><summary>21 pa...</summary><p>21 pages, 5 figures. Under review</p></details> |
-| **[Reason-Then-Retrieve for CoVR-R with Structured Edit Prompts and Dense-Sparse Fusion](https://arxiv.org/abs/2606.02450v2)** | 2026-06-05 |  |
+| **[MemoryVLA++: Temporal Modeling via Memory and Imagination in Vision-Language-Action Models](https://arxiv.org/abs/2606.09827v1)** | 2026-06-08 | <details><summary>The p...</summary><p>The project is available at https://shihao1895.github.io/MemoryVLA-PP-Web</p></details> |
+| **[OmniGameArena: A Unified UE5 Benchmark for VLM Game Agents with Improvement Dynamics](https://arxiv.org/abs/2606.09826v1)** | 2026-06-08 |  |
+| **[Scalable Inference-Time Annealing with Surrogate Likelihood Estimators](https://arxiv.org/abs/2605.31498v3)** | 2026-06-08 | <details><summary>26 pa...</summary><p>26 pages, 5 figures, submitted to JMLR 2026</p></details> |
+| **[SynManDex: Synthesizing Human-like Dexterous Grasps from Synthetic Human Pre-Grasps](https://arxiv.org/abs/2606.09798v1)** | 2026-06-08 |  |
+| **[Who Earns the Safety? Intervention-Aware Quantum Predictive Control with Safety Attribution](https://arxiv.org/abs/2606.09778v1)** | 2026-06-08 | 7 pages, 4 figures |
+| **[SwAIther-Precip: Lead-Time-Aware Bias Correction Enables Kilometer-Scale Downscaling of Global AI Precipitation Forecasts over Switzerland](https://arxiv.org/abs/2605.16163v2)** | 2026-06-08 |  |
+| **[A Camera-Native Talking-Head Video Dataset for Various Computer Vision Tasks](https://arxiv.org/abs/2603.26763v2)** | 2026-06-08 |  |
 
 ## Describe
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Verifiable and Confidential DNN Inference on Low-End Edge Devices](https://arxiv.org/abs/2606.07470v1)** | 2026-06-05 | <details><summary>12 pa...</summary><p>12 pages, 4 figures, 5 tables, 1 algorithm</p></details> |
-| **[Robust and Sparse Generalized Linear Models for High-Dimensional Data via Maximum Mean Discrepancy](https://arxiv.org/abs/2602.21132v2)** | 2026-06-05 | <details><summary>22 pa...</summary><p>22 pages, 5 tables, 2 figures</p></details> |
-| **[TEVI: Text-Conditioned Editing of Visual Representations via Sparse Autoencoders for Improved Vision-Language Alignment](https://arxiv.org/abs/2606.07451v1)** | 2026-06-05 | <details><summary>20 pa...</summary><p>20 pages, 13 figures, 14 tables</p></details> |
-| **[Re-imagining ISO 26262 in the Age of Autonomous Vehicles: Enhancing Controllability through Transferability and Predictability](https://arxiv.org/abs/2606.07437v1)** | 2026-06-05 |  |
-| **[Discovering Multiscale Deep Formulas in Complex Systems via Neural-Guided Lambda Calculus](https://arxiv.org/abs/2606.07426v1)** | 2026-06-05 | <details><summary>35 pa...</summary><p>35 pages, 5 figures; Supplementary Information available as an ancillary file (79 pages)</p></details> |
+| **[MemoryVLA++: Temporal Modeling via Memory and Imagination in Vision-Language-Action Models](https://arxiv.org/abs/2606.09827v1)** | 2026-06-08 | <details><summary>The p...</summary><p>The project is available at https://shihao1895.github.io/MemoryVLA-PP-Web</p></details> |
+| **[OmniGameArena: A Unified UE5 Benchmark for VLM Game Agents with Improvement Dynamics](https://arxiv.org/abs/2606.09826v1)** | 2026-06-08 |  |
+| **[Scalable Inference-Time Annealing with Surrogate Likelihood Estimators](https://arxiv.org/abs/2605.31498v3)** | 2026-06-08 | <details><summary>26 pa...</summary><p>26 pages, 5 figures, submitted to JMLR 2026</p></details> |
+| **[SynManDex: Synthesizing Human-like Dexterous Grasps from Synthetic Human Pre-Grasps](https://arxiv.org/abs/2606.09798v1)** | 2026-06-08 |  |
+| **[Finite-n Estimate of Dedekind Numbers by Layer-Ratio Monte Carlo](https://arxiv.org/abs/2606.09795v1)** | 2026-06-08 | <details><summary>27 pa...</summary><p>27 pages, 6 figures, 7 tables</p></details> |
+| **[Quality-Diversity Search in Sound Generation: Investigating Innovation Engines for Audio Exploration](https://arxiv.org/abs/2606.09780v1)** | 2026-06-08 | <details><summary>This ...</summary><p>This is an extended version of the previously published conference paper "Towards Sound Innovation Engines Using Pattern-Producing Networks and Audio Graphs": https://doi.org/10.1007/978-3-031-56992-0_14</p></details> |
+| **[Who Earns the Safety? Intervention-Aware Quantum Predictive Control with Safety Attribution](https://arxiv.org/abs/2606.09778v1)** | 2026-06-08 | 7 pages, 4 figures |
+| **[AccioScene: Compositional 3D Scene Generation via Graph Diffusion and Interaction-driven Critics](https://arxiv.org/abs/2502.06819v2)** | 2026-06-08 |  |
 
 ## Light Weight
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Verifiable and Confidential DNN Inference on Low-End Edge Devices](https://arxiv.org/abs/2606.07470v1)** | 2026-06-05 | <details><summary>12 pa...</summary><p>12 pages, 4 figures, 5 tables, 1 algorithm</p></details> |
-| **[Robust and Sparse Generalized Linear Models for High-Dimensional Data via Maximum Mean Discrepancy](https://arxiv.org/abs/2602.21132v2)** | 2026-06-05 | <details><summary>22 pa...</summary><p>22 pages, 5 tables, 2 figures</p></details> |
-| **[Re-imagining ISO 26262 in the Age of Autonomous Vehicles: Enhancing Controllability through Transferability and Predictability](https://arxiv.org/abs/2606.07437v1)** | 2026-06-05 |  |
-| **[Discovering Multiscale Deep Formulas in Complex Systems via Neural-Guided Lambda Calculus](https://arxiv.org/abs/2606.07426v1)** | 2026-06-05 | <details><summary>35 pa...</summary><p>35 pages, 5 figures; Supplementary Information available as an ancillary file (79 pages)</p></details> |
-| **[Rapid co-design of Buoyancy-assisted robots for Challenging Locomotion using Gaussian Evolutionary Specialists](https://arxiv.org/abs/2606.07424v1)** | 2026-06-05 | Submitted to RA-L |
-| **[The World's Fastest Matching Engine Algorithm](https://arxiv.org/abs/2606.01183v2)** | 2026-06-05 | <details><summary>20 pa...</summary><p>20 pages, 5 figures, 7 tables</p></details> |
-| **[Socratic-SWE: Self-Evolving Coding Agents via Trace-Derived Agent Skills](https://arxiv.org/abs/2606.07412v1)** | 2026-06-05 | <details><summary>21 pa...</summary><p>21 pages, 5 figures. Under review</p></details> |
-| **[Reason-Then-Retrieve for CoVR-R with Structured Edit Prompts and Dense-Sparse Fusion](https://arxiv.org/abs/2606.02450v2)** | 2026-06-05 |  |
+| **[MemoryVLA++: Temporal Modeling via Memory and Imagination in Vision-Language-Action Models](https://arxiv.org/abs/2606.09827v1)** | 2026-06-08 | <details><summary>The p...</summary><p>The project is available at https://shihao1895.github.io/MemoryVLA-PP-Web</p></details> |
+| **[OmniGameArena: A Unified UE5 Benchmark for VLM Game Agents with Improvement Dynamics](https://arxiv.org/abs/2606.09826v1)** | 2026-06-08 |  |
+| **[Scalable Inference-Time Annealing with Surrogate Likelihood Estimators](https://arxiv.org/abs/2605.31498v3)** | 2026-06-08 | <details><summary>26 pa...</summary><p>26 pages, 5 figures, submitted to JMLR 2026</p></details> |
+| **[SynManDex: Synthesizing Human-like Dexterous Grasps from Synthetic Human Pre-Grasps](https://arxiv.org/abs/2606.09798v1)** | 2026-06-08 |  |
+| **[Who Earns the Safety? Intervention-Aware Quantum Predictive Control with Safety Attribution](https://arxiv.org/abs/2606.09778v1)** | 2026-06-08 | 7 pages, 4 figures |
+| **[SwAIther-Precip: Lead-Time-Aware Bias Correction Enables Kilometer-Scale Downscaling of Global AI Precipitation Forecasts over Switzerland](https://arxiv.org/abs/2605.16163v2)** | 2026-06-08 |  |
+| **[A Camera-Native Talking-Head Video Dataset for Various Computer Vision Tasks](https://arxiv.org/abs/2603.26763v2)** | 2026-06-08 |  |
 
 ## Class Incremental
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Verifiable and Confidential DNN Inference on Low-End Edge Devices](https://arxiv.org/abs/2606.07470v1)** | 2026-06-05 | <details><summary>12 pa...</summary><p>12 pages, 4 figures, 5 tables, 1 algorithm</p></details> |
-| **[Robust and Sparse Generalized Linear Models for High-Dimensional Data via Maximum Mean Discrepancy](https://arxiv.org/abs/2602.21132v2)** | 2026-06-05 | <details><summary>22 pa...</summary><p>22 pages, 5 tables, 2 figures</p></details> |
-| **[Re-imagining ISO 26262 in the Age of Autonomous Vehicles: Enhancing Controllability through Transferability and Predictability](https://arxiv.org/abs/2606.07437v1)** | 2026-06-05 |  |
-| **[Discovering Multiscale Deep Formulas in Complex Systems via Neural-Guided Lambda Calculus](https://arxiv.org/abs/2606.07426v1)** | 2026-06-05 | <details><summary>35 pa...</summary><p>35 pages, 5 figures; Supplementary Information available as an ancillary file (79 pages)</p></details> |
-| **[Rapid co-design of Buoyancy-assisted robots for Challenging Locomotion using Gaussian Evolutionary Specialists](https://arxiv.org/abs/2606.07424v1)** | 2026-06-05 | Submitted to RA-L |
-| **[The World's Fastest Matching Engine Algorithm](https://arxiv.org/abs/2606.01183v2)** | 2026-06-05 | <details><summary>20 pa...</summary><p>20 pages, 5 figures, 7 tables</p></details> |
-| **[Socratic-SWE: Self-Evolving Coding Agents via Trace-Derived Agent Skills](https://arxiv.org/abs/2606.07412v1)** | 2026-06-05 | <details><summary>21 pa...</summary><p>21 pages, 5 figures. Under review</p></details> |
-| **[Reason-Then-Retrieve for CoVR-R with Structured Edit Prompts and Dense-Sparse Fusion](https://arxiv.org/abs/2606.02450v2)** | 2026-06-05 |  |
+| **[MemoryVLA++: Temporal Modeling via Memory and Imagination in Vision-Language-Action Models](https://arxiv.org/abs/2606.09827v1)** | 2026-06-08 | <details><summary>The p...</summary><p>The project is available at https://shihao1895.github.io/MemoryVLA-PP-Web</p></details> |
+| **[OmniGameArena: A Unified UE5 Benchmark for VLM Game Agents with Improvement Dynamics](https://arxiv.org/abs/2606.09826v1)** | 2026-06-08 |  |
+| **[Scalable Inference-Time Annealing with Surrogate Likelihood Estimators](https://arxiv.org/abs/2605.31498v3)** | 2026-06-08 | <details><summary>26 pa...</summary><p>26 pages, 5 figures, submitted to JMLR 2026</p></details> |
+| **[SynManDex: Synthesizing Human-like Dexterous Grasps from Synthetic Human Pre-Grasps](https://arxiv.org/abs/2606.09798v1)** | 2026-06-08 |  |
+| **[Who Earns the Safety? Intervention-Aware Quantum Predictive Control with Safety Attribution](https://arxiv.org/abs/2606.09778v1)** | 2026-06-08 | 7 pages, 4 figures |
+| **[SwAIther-Precip: Lead-Time-Aware Bias Correction Enables Kilometer-Scale Downscaling of Global AI Precipitation Forecasts over Switzerland](https://arxiv.org/abs/2605.16163v2)** | 2026-06-08 |  |
+| **[A Camera-Native Talking-Head Video Dataset for Various Computer Vision Tasks](https://arxiv.org/abs/2603.26763v2)** | 2026-06-08 |  |
 
