@@ -1,5 +1,5 @@
 ---
-title: Latest 50 Papers - June 12, 2026
+title: Latest 50 Papers - June 13, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/JiamingZang/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,126 +7,114 @@ labels: documentation
 ## Molecular
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[How Seemingly Inconsequential Design Choices Dictate Performance of LLMs in Pathology](https://arxiv.org/abs/2606.12407v1)** | 2026-06-10 |  |
-| **[MARCIM-WG: A cyber wargame proposal based on math modeling applied in a naval scenario](https://arxiv.org/abs/2606.12395v1)** | 2026-06-10 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, 2 tables, paper in proceedings of the XI National Cybersecurity Research Conference (JNIC) in Barcelona, Spain, May, 2026</p></details> |
-| **[System Report for CCL25-Eval Task 5: New Dataset and LoRA-Fine-Tuned Qwen2.5](https://arxiv.org/abs/2606.12392v1)** | 2026-06-10 |  |
-| **[ATLAS: Active Theory Learning for Automated Science](https://arxiv.org/abs/2606.12386v1)** | 2026-06-10 |  |
-| **[Oncomorphic neural agent populations for resource-limited sequential learning](https://arxiv.org/abs/2503.12743v2)** | 2026-06-10 | <details><summary>17 pa...</summary><p>17 pages, 5 figures, 1 table</p></details> |
-| **[Incivility in Public Health Policy Discussions Spills Over to Public Engagement with Climate Issues](https://arxiv.org/abs/2502.05255v3)** | 2026-06-10 | 33 pages, 5 figures |
-| **[Illumination-Robust Camera-Based Heart-Rate Estimation for Physiological Sensing in Robots](https://arxiv.org/abs/2606.12378v1)** | 2026-06-10 | 8 pages, 4 figures |
-| **[Certifiable Safe RLHF: Semantic Grounding and Fixed Penalty Constraint Optimization for Safer LLM Alignment](https://arxiv.org/abs/2510.03520v2)** | 2026-06-10 |  |
-| **[Self-Attention as Transport: Limits of Symmetric Spectral Diagnostics](https://arxiv.org/abs/2605.04893v2)** | 2026-06-10 | <details><summary>48 pa...</summary><p>48 pages, 6 figures, 7 tables; 81-page online supplement (proofs, additional experiments, dataset statistics) as an ancillary file</p></details> |
-| **[PROJECTMEM: A Local-First, Event-Sourced Memory and Judgment Layer for AI Coding Agents](https://arxiv.org/abs/2606.12329v1)** | 2026-06-10 | <details><summary>12 pa...</summary><p>12 pages, 5 figures, 1 table. Code: https://github.com/riponcm/projectmem</p></details> |
+| **[InterleaveThinker: Reinforcing Agentic Interleaved Generation](https://arxiv.org/abs/2606.13679v1)** | 2026-06-11 | <details><summary>Proje...</summary><p>Project Page: https://zhengdian1.github.io/InterleaveThinker-proj/ Code: https://github.com/zhengdian1/InterleaveThinker</p></details> |
+| **[$\texttt{WEAVER}$, Better, Faster, Longer: An Effective World Model for Robotic Manipulation](https://arxiv.org/abs/2606.13672v1)** | 2026-06-11 |  |
+| **[Recursive Agent Harnesses](https://arxiv.org/abs/2606.13643v1)** | 2026-06-11 |  |
+| **[One Polluted Page Is Enough: Evaluating Web Content Pollution in Generative Recommenders](https://arxiv.org/abs/2606.13610v1)** | 2026-06-11 |  |
+| **[Variational Learning for Insertion-based Generation](https://arxiv.org/abs/2606.02133v3)** | 2026-06-11 |  |
+| **[Multiagent Protocols with Aggregated Confidence Signals](https://arxiv.org/abs/2606.13591v1)** | 2026-06-11 | <details><summary>22 pa...</summary><p>22 pages and 5 figures, 9 pages and 2 figures before the appendix</p></details> |
+| **[Appearance-Invariant Detection of Suggestive Motion via Laban Movement Descriptors](https://arxiv.org/abs/2605.24488v2)** | 2026-06-11 | <details><summary>5 pag...</summary><p>5 pages, 2 figures, 3 tables. Extended version of a poster accepted to SIGGRAPH 2026</p></details> |
+| **[Is It You or Your Environment? A Bayesian Inference Framework for Genomically-Anchored Personalized Physiological Interpretation](https://arxiv.org/abs/2606.13556v1)** | 2026-06-11 | <details><summary>24 pa...</summary><p>24 pages, 8 figures, 3 tables. Conceptual framework paper</p></details> |
+| **[Differentiable Thermodynamic Phase-Equilibria for Machine Learning](https://arxiv.org/abs/2603.11249v3)** | 2026-06-11 | <details><summary>45 pa...</summary><p>45 pages, 27 figures, 5 tables</p></details> |
 
 ## Molecular Generation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[How Seemingly Inconsequential Design Choices Dictate Performance of LLMs in Pathology](https://arxiv.org/abs/2606.12407v1)** | 2026-06-10 |  |
-| **[MARCIM-WG: A cyber wargame proposal based on math modeling applied in a naval scenario](https://arxiv.org/abs/2606.12395v1)** | 2026-06-10 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, 2 tables, paper in proceedings of the XI National Cybersecurity Research Conference (JNIC) in Barcelona, Spain, May, 2026</p></details> |
-| **[System Report for CCL25-Eval Task 5: New Dataset and LoRA-Fine-Tuned Qwen2.5](https://arxiv.org/abs/2606.12392v1)** | 2026-06-10 |  |
-| **[ATLAS: Active Theory Learning for Automated Science](https://arxiv.org/abs/2606.12386v1)** | 2026-06-10 |  |
-| **[Oncomorphic neural agent populations for resource-limited sequential learning](https://arxiv.org/abs/2503.12743v2)** | 2026-06-10 | <details><summary>17 pa...</summary><p>17 pages, 5 figures, 1 table</p></details> |
-| **[Incivility in Public Health Policy Discussions Spills Over to Public Engagement with Climate Issues](https://arxiv.org/abs/2502.05255v3)** | 2026-06-10 | 33 pages, 5 figures |
-| **[Illumination-Robust Camera-Based Heart-Rate Estimation for Physiological Sensing in Robots](https://arxiv.org/abs/2606.12378v1)** | 2026-06-10 | 8 pages, 4 figures |
-| **[Certifiable Safe RLHF: Semantic Grounding and Fixed Penalty Constraint Optimization for Safer LLM Alignment](https://arxiv.org/abs/2510.03520v2)** | 2026-06-10 |  |
-| **[Self-Attention as Transport: Limits of Symmetric Spectral Diagnostics](https://arxiv.org/abs/2605.04893v2)** | 2026-06-10 | <details><summary>48 pa...</summary><p>48 pages, 6 figures, 7 tables; 81-page online supplement (proofs, additional experiments, dataset statistics) as an ancillary file</p></details> |
-| **[PROJECTMEM: A Local-First, Event-Sourced Memory and Judgment Layer for AI Coding Agents](https://arxiv.org/abs/2606.12329v1)** | 2026-06-10 | <details><summary>12 pa...</summary><p>12 pages, 5 figures, 1 table. Code: https://github.com/riponcm/projectmem</p></details> |
+| **[InterleaveThinker: Reinforcing Agentic Interleaved Generation](https://arxiv.org/abs/2606.13679v1)** | 2026-06-11 | <details><summary>Proje...</summary><p>Project Page: https://zhengdian1.github.io/InterleaveThinker-proj/ Code: https://github.com/zhengdian1/InterleaveThinker</p></details> |
+| **[$\texttt{WEAVER}$, Better, Faster, Longer: An Effective World Model for Robotic Manipulation](https://arxiv.org/abs/2606.13672v1)** | 2026-06-11 |  |
+| **[Recursive Agent Harnesses](https://arxiv.org/abs/2606.13643v1)** | 2026-06-11 |  |
+| **[One Polluted Page Is Enough: Evaluating Web Content Pollution in Generative Recommenders](https://arxiv.org/abs/2606.13610v1)** | 2026-06-11 |  |
+| **[Multiagent Protocols with Aggregated Confidence Signals](https://arxiv.org/abs/2606.13591v1)** | 2026-06-11 | <details><summary>22 pa...</summary><p>22 pages and 5 figures, 9 pages and 2 figures before the appendix</p></details> |
+| **[Appearance-Invariant Detection of Suggestive Motion via Laban Movement Descriptors](https://arxiv.org/abs/2605.24488v2)** | 2026-06-11 | <details><summary>5 pag...</summary><p>5 pages, 2 figures, 3 tables. Extended version of a poster accepted to SIGGRAPH 2026</p></details> |
+| **[Differentiable Thermodynamic Phase-Equilibria for Machine Learning](https://arxiv.org/abs/2603.11249v3)** | 2026-06-11 | <details><summary>45 pa...</summary><p>45 pages, 27 figures, 5 tables</p></details> |
+| **[Adaptable Segmentation Pipeline for Diverse Brain Tumors with Radiomic-Guided Subtyping and Lesion-Wise Model Ensemble](https://arxiv.org/abs/2512.14648v2)** | 2026-06-11 | <details><summary>12 pa...</summary><p>12 pages, 5 figures, 3 tables. Algorithm presented at MICCAI BraTS 2025</p></details> |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[How Seemingly Inconsequential Design Choices Dictate Performance of LLMs in Pathology](https://arxiv.org/abs/2606.12407v1)** | 2026-06-10 |  |
-| **[MARCIM-WG: A cyber wargame proposal based on math modeling applied in a naval scenario](https://arxiv.org/abs/2606.12395v1)** | 2026-06-10 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, 2 tables, paper in proceedings of the XI National Cybersecurity Research Conference (JNIC) in Barcelona, Spain, May, 2026</p></details> |
-| **[System Report for CCL25-Eval Task 5: New Dataset and LoRA-Fine-Tuned Qwen2.5](https://arxiv.org/abs/2606.12392v1)** | 2026-06-10 |  |
-| **[ATLAS: Active Theory Learning for Automated Science](https://arxiv.org/abs/2606.12386v1)** | 2026-06-10 |  |
-| **[Oncomorphic neural agent populations for resource-limited sequential learning](https://arxiv.org/abs/2503.12743v2)** | 2026-06-10 | <details><summary>17 pa...</summary><p>17 pages, 5 figures, 1 table</p></details> |
-| **[Incivility in Public Health Policy Discussions Spills Over to Public Engagement with Climate Issues](https://arxiv.org/abs/2502.05255v3)** | 2026-06-10 | 33 pages, 5 figures |
-| **[Illumination-Robust Camera-Based Heart-Rate Estimation for Physiological Sensing in Robots](https://arxiv.org/abs/2606.12378v1)** | 2026-06-10 | 8 pages, 4 figures |
-| **[Certifiable Safe RLHF: Semantic Grounding and Fixed Penalty Constraint Optimization for Safer LLM Alignment](https://arxiv.org/abs/2510.03520v2)** | 2026-06-10 |  |
-| **[Self-Attention as Transport: Limits of Symmetric Spectral Diagnostics](https://arxiv.org/abs/2605.04893v2)** | 2026-06-10 | <details><summary>48 pa...</summary><p>48 pages, 6 figures, 7 tables; 81-page online supplement (proofs, additional experiments, dataset statistics) as an ancillary file</p></details> |
-| **[PROJECTMEM: A Local-First, Event-Sourced Memory and Judgment Layer for AI Coding Agents](https://arxiv.org/abs/2606.12329v1)** | 2026-06-10 | <details><summary>12 pa...</summary><p>12 pages, 5 figures, 1 table. Code: https://github.com/riponcm/projectmem</p></details> |
+| **[InterleaveThinker: Reinforcing Agentic Interleaved Generation](https://arxiv.org/abs/2606.13679v1)** | 2026-06-11 | <details><summary>Proje...</summary><p>Project Page: https://zhengdian1.github.io/InterleaveThinker-proj/ Code: https://github.com/zhengdian1/InterleaveThinker</p></details> |
+| **[$\texttt{WEAVER}$, Better, Faster, Longer: An Effective World Model for Robotic Manipulation](https://arxiv.org/abs/2606.13672v1)** | 2026-06-11 |  |
+| **[Understanding Truncated Positional Encodings for Graph Neural Networks](https://arxiv.org/abs/2606.13671v1)** | 2026-06-11 | <details><summary>28 pa...</summary><p>28 pages, 4 figures, ICML 2026</p></details> |
+| **[Recursive Agent Harnesses](https://arxiv.org/abs/2606.13643v1)** | 2026-06-11 |  |
+| **[One Polluted Page Is Enough: Evaluating Web Content Pollution in Generative Recommenders](https://arxiv.org/abs/2606.13610v1)** | 2026-06-11 |  |
+| **[Multiagent Protocols with Aggregated Confidence Signals](https://arxiv.org/abs/2606.13591v1)** | 2026-06-11 | <details><summary>22 pa...</summary><p>22 pages and 5 figures, 9 pages and 2 figures before the appendix</p></details> |
+| **[Appearance-Invariant Detection of Suggestive Motion via Laban Movement Descriptors](https://arxiv.org/abs/2605.24488v2)** | 2026-06-11 | <details><summary>5 pag...</summary><p>5 pages, 2 figures, 3 tables. Extended version of a poster accepted to SIGGRAPH 2026</p></details> |
+| **[Differentiable Thermodynamic Phase-Equilibria for Machine Learning](https://arxiv.org/abs/2603.11249v3)** | 2026-06-11 | <details><summary>45 pa...</summary><p>45 pages, 27 figures, 5 tables</p></details> |
+| **[Adaptable Segmentation Pipeline for Diverse Brain Tumors with Radiomic-Guided Subtyping and Lesion-Wise Model Ensemble](https://arxiv.org/abs/2512.14648v2)** | 2026-06-11 | <details><summary>12 pa...</summary><p>12 pages, 5 figures, 3 tables. Algorithm presented at MICCAI BraTS 2025</p></details> |
 
 ## Diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[How Seemingly Inconsequential Design Choices Dictate Performance of LLMs in Pathology](https://arxiv.org/abs/2606.12407v1)** | 2026-06-10 |  |
-| **[MARCIM-WG: A cyber wargame proposal based on math modeling applied in a naval scenario](https://arxiv.org/abs/2606.12395v1)** | 2026-06-10 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, 2 tables, paper in proceedings of the XI National Cybersecurity Research Conference (JNIC) in Barcelona, Spain, May, 2026</p></details> |
-| **[System Report for CCL25-Eval Task 5: New Dataset and LoRA-Fine-Tuned Qwen2.5](https://arxiv.org/abs/2606.12392v1)** | 2026-06-10 |  |
-| **[ATLAS: Active Theory Learning for Automated Science](https://arxiv.org/abs/2606.12386v1)** | 2026-06-10 |  |
-| **[Oncomorphic neural agent populations for resource-limited sequential learning](https://arxiv.org/abs/2503.12743v2)** | 2026-06-10 | <details><summary>17 pa...</summary><p>17 pages, 5 figures, 1 table</p></details> |
-| **[Incivility in Public Health Policy Discussions Spills Over to Public Engagement with Climate Issues](https://arxiv.org/abs/2502.05255v3)** | 2026-06-10 | 33 pages, 5 figures |
-| **[Illumination-Robust Camera-Based Heart-Rate Estimation for Physiological Sensing in Robots](https://arxiv.org/abs/2606.12378v1)** | 2026-06-10 | 8 pages, 4 figures |
-| **[Ambient Diffusion Policy: Imitation Learning from Suboptimal Data in Robotics](https://arxiv.org/abs/2606.12365v1)** | 2026-06-10 | <details><summary>14 pa...</summary><p>14 pages (main body), 52 pages total. Project website: https://ambient-diffusion-policy.github.io/</p></details> |
-| **[Certifiable Safe RLHF: Semantic Grounding and Fixed Penalty Constraint Optimization for Safer LLM Alignment](https://arxiv.org/abs/2510.03520v2)** | 2026-06-10 |  |
-| **[Self-Attention as Transport: Limits of Symmetric Spectral Diagnostics](https://arxiv.org/abs/2605.04893v2)** | 2026-06-10 | <details><summary>48 pa...</summary><p>48 pages, 6 figures, 7 tables; 81-page online supplement (proofs, additional experiments, dataset statistics) as an ancillary file</p></details> |
-| **[PROJECTMEM: A Local-First, Event-Sourced Memory and Judgment Layer for AI Coding Agents](https://arxiv.org/abs/2606.12329v1)** | 2026-06-10 | <details><summary>12 pa...</summary><p>12 pages, 5 figures, 1 table. Code: https://github.com/riponcm/projectmem</p></details> |
+| **[InterleaveThinker: Reinforcing Agentic Interleaved Generation](https://arxiv.org/abs/2606.13679v1)** | 2026-06-11 | <details><summary>Proje...</summary><p>Project Page: https://zhengdian1.github.io/InterleaveThinker-proj/ Code: https://github.com/zhengdian1/InterleaveThinker</p></details> |
+| **[$\texttt{WEAVER}$, Better, Faster, Longer: An Effective World Model for Robotic Manipulation](https://arxiv.org/abs/2606.13672v1)** | 2026-06-11 |  |
+| **[Flex4DHuman: Flexible Multi-view Video Diffusion for 4D Human Reconstruction](https://arxiv.org/abs/2606.13655v1)** | 2026-06-11 | <details><summary>18 pa...</summary><p>18 pages, 8 figures. Code, and multi-view caption dataset available</p></details> |
+| **[World Tracing: Generative Pixel-Aligned Geometry Beyond the Visible](https://arxiv.org/abs/2606.13652v1)** | 2026-06-11 | <details><summary>World...</summary><p>World Labs Technical Report; Page: https://haoz19.github.io/world-tracing-page/</p></details> |
+| **[Recursive Agent Harnesses](https://arxiv.org/abs/2606.13643v1)** | 2026-06-11 |  |
+| **[The Stable Recovery Manifold: Geometric Principles Governing Recoverability in Continual Learning](https://arxiv.org/abs/2606.13637v1)** | 2026-06-11 | <details><summary>9 pag...</summary><p>9 pages, 8 figures, 8 tables</p></details> |
+| **[Data-driven subsampling rates for diffusion parameter estimation of SDEs](https://arxiv.org/abs/2606.13615v1)** | 2026-06-11 | 30 pages, 11 figures |
+| **[One Polluted Page Is Enough: Evaluating Web Content Pollution in Generative Recommenders](https://arxiv.org/abs/2606.13610v1)** | 2026-06-11 |  |
+| **[Variational Learning for Insertion-based Generation](https://arxiv.org/abs/2606.02133v3)** | 2026-06-11 |  |
+| **[Multiagent Protocols with Aggregated Confidence Signals](https://arxiv.org/abs/2606.13591v1)** | 2026-06-11 | <details><summary>22 pa...</summary><p>22 pages and 5 figures, 9 pages and 2 figures before the appendix</p></details> |
 
 ## Object Counting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[How Seemingly Inconsequential Design Choices Dictate Performance of LLMs in Pathology](https://arxiv.org/abs/2606.12407v1)** | 2026-06-10 |  |
-| **[MARCIM-WG: A cyber wargame proposal based on math modeling applied in a naval scenario](https://arxiv.org/abs/2606.12395v1)** | 2026-06-10 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, 2 tables, paper in proceedings of the XI National Cybersecurity Research Conference (JNIC) in Barcelona, Spain, May, 2026</p></details> |
-| **[System Report for CCL25-Eval Task 5: New Dataset and LoRA-Fine-Tuned Qwen2.5](https://arxiv.org/abs/2606.12392v1)** | 2026-06-10 |  |
-| **[ATLAS: Active Theory Learning for Automated Science](https://arxiv.org/abs/2606.12386v1)** | 2026-06-10 |  |
-| **[Oncomorphic neural agent populations for resource-limited sequential learning](https://arxiv.org/abs/2503.12743v2)** | 2026-06-10 | <details><summary>17 pa...</summary><p>17 pages, 5 figures, 1 table</p></details> |
-| **[Incivility in Public Health Policy Discussions Spills Over to Public Engagement with Climate Issues](https://arxiv.org/abs/2502.05255v3)** | 2026-06-10 | 33 pages, 5 figures |
-| **[Illumination-Robust Camera-Based Heart-Rate Estimation for Physiological Sensing in Robots](https://arxiv.org/abs/2606.12378v1)** | 2026-06-10 | 8 pages, 4 figures |
-| **[Certifiable Safe RLHF: Semantic Grounding and Fixed Penalty Constraint Optimization for Safer LLM Alignment](https://arxiv.org/abs/2510.03520v2)** | 2026-06-10 |  |
-| **[Self-Attention as Transport: Limits of Symmetric Spectral Diagnostics](https://arxiv.org/abs/2605.04893v2)** | 2026-06-10 | <details><summary>48 pa...</summary><p>48 pages, 6 figures, 7 tables; 81-page online supplement (proofs, additional experiments, dataset statistics) as an ancillary file</p></details> |
-| **[PROJECTMEM: A Local-First, Event-Sourced Memory and Judgment Layer for AI Coding Agents](https://arxiv.org/abs/2606.12329v1)** | 2026-06-10 | <details><summary>12 pa...</summary><p>12 pages, 5 figures, 1 table. Code: https://github.com/riponcm/projectmem</p></details> |
+| **[InterleaveThinker: Reinforcing Agentic Interleaved Generation](https://arxiv.org/abs/2606.13679v1)** | 2026-06-11 | <details><summary>Proje...</summary><p>Project Page: https://zhengdian1.github.io/InterleaveThinker-proj/ Code: https://github.com/zhengdian1/InterleaveThinker</p></details> |
+| **[$\texttt{WEAVER}$, Better, Faster, Longer: An Effective World Model for Robotic Manipulation](https://arxiv.org/abs/2606.13672v1)** | 2026-06-11 |  |
+| **[Recursive Agent Harnesses](https://arxiv.org/abs/2606.13643v1)** | 2026-06-11 |  |
+| **[One Polluted Page Is Enough: Evaluating Web Content Pollution in Generative Recommenders](https://arxiv.org/abs/2606.13610v1)** | 2026-06-11 |  |
+| **[Multiagent Protocols with Aggregated Confidence Signals](https://arxiv.org/abs/2606.13591v1)** | 2026-06-11 | <details><summary>22 pa...</summary><p>22 pages and 5 figures, 9 pages and 2 figures before the appendix</p></details> |
+| **[Appearance-Invariant Detection of Suggestive Motion via Laban Movement Descriptors](https://arxiv.org/abs/2605.24488v2)** | 2026-06-11 | <details><summary>5 pag...</summary><p>5 pages, 2 figures, 3 tables. Extended version of a poster accepted to SIGGRAPH 2026</p></details> |
+| **[Differentiable Thermodynamic Phase-Equilibria for Machine Learning](https://arxiv.org/abs/2603.11249v3)** | 2026-06-11 | <details><summary>45 pa...</summary><p>45 pages, 27 figures, 5 tables</p></details> |
+| **[Adaptable Segmentation Pipeline for Diverse Brain Tumors with Radiomic-Guided Subtyping and Lesion-Wise Model Ensemble](https://arxiv.org/abs/2512.14648v2)** | 2026-06-11 | <details><summary>12 pa...</summary><p>12 pages, 5 figures, 3 tables. Algorithm presented at MICCAI BraTS 2025</p></details> |
 
 ## Image Caption
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[How Seemingly Inconsequential Design Choices Dictate Performance of LLMs in Pathology](https://arxiv.org/abs/2606.12407v1)** | 2026-06-10 |  |
-| **[MARCIM-WG: A cyber wargame proposal based on math modeling applied in a naval scenario](https://arxiv.org/abs/2606.12395v1)** | 2026-06-10 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, 2 tables, paper in proceedings of the XI National Cybersecurity Research Conference (JNIC) in Barcelona, Spain, May, 2026</p></details> |
-| **[System Report for CCL25-Eval Task 5: New Dataset and LoRA-Fine-Tuned Qwen2.5](https://arxiv.org/abs/2606.12392v1)** | 2026-06-10 |  |
-| **[ATLAS: Active Theory Learning for Automated Science](https://arxiv.org/abs/2606.12386v1)** | 2026-06-10 |  |
-| **[Oncomorphic neural agent populations for resource-limited sequential learning](https://arxiv.org/abs/2503.12743v2)** | 2026-06-10 | <details><summary>17 pa...</summary><p>17 pages, 5 figures, 1 table</p></details> |
-| **[Incivility in Public Health Policy Discussions Spills Over to Public Engagement with Climate Issues](https://arxiv.org/abs/2502.05255v3)** | 2026-06-10 | 33 pages, 5 figures |
-| **[Illumination-Robust Camera-Based Heart-Rate Estimation for Physiological Sensing in Robots](https://arxiv.org/abs/2606.12378v1)** | 2026-06-10 | 8 pages, 4 figures |
-| **[Certifiable Safe RLHF: Semantic Grounding and Fixed Penalty Constraint Optimization for Safer LLM Alignment](https://arxiv.org/abs/2510.03520v2)** | 2026-06-10 |  |
-| **[Self-Attention as Transport: Limits of Symmetric Spectral Diagnostics](https://arxiv.org/abs/2605.04893v2)** | 2026-06-10 | <details><summary>48 pa...</summary><p>48 pages, 6 figures, 7 tables; 81-page online supplement (proofs, additional experiments, dataset statistics) as an ancillary file</p></details> |
-| **[PROJECTMEM: A Local-First, Event-Sourced Memory and Judgment Layer for AI Coding Agents](https://arxiv.org/abs/2606.12329v1)** | 2026-06-10 | <details><summary>12 pa...</summary><p>12 pages, 5 figures, 1 table. Code: https://github.com/riponcm/projectmem</p></details> |
+| **[InterleaveThinker: Reinforcing Agentic Interleaved Generation](https://arxiv.org/abs/2606.13679v1)** | 2026-06-11 | <details><summary>Proje...</summary><p>Project Page: https://zhengdian1.github.io/InterleaveThinker-proj/ Code: https://github.com/zhengdian1/InterleaveThinker</p></details> |
+| **[$\texttt{WEAVER}$, Better, Faster, Longer: An Effective World Model for Robotic Manipulation](https://arxiv.org/abs/2606.13672v1)** | 2026-06-11 |  |
+| **[Recursive Agent Harnesses](https://arxiv.org/abs/2606.13643v1)** | 2026-06-11 |  |
+| **[One Polluted Page Is Enough: Evaluating Web Content Pollution in Generative Recommenders](https://arxiv.org/abs/2606.13610v1)** | 2026-06-11 |  |
+| **[Multiagent Protocols with Aggregated Confidence Signals](https://arxiv.org/abs/2606.13591v1)** | 2026-06-11 | <details><summary>22 pa...</summary><p>22 pages and 5 figures, 9 pages and 2 figures before the appendix</p></details> |
+| **[Appearance-Invariant Detection of Suggestive Motion via Laban Movement Descriptors](https://arxiv.org/abs/2605.24488v2)** | 2026-06-11 | <details><summary>5 pag...</summary><p>5 pages, 2 figures, 3 tables. Extended version of a poster accepted to SIGGRAPH 2026</p></details> |
+| **[Differentiable Thermodynamic Phase-Equilibria for Machine Learning](https://arxiv.org/abs/2603.11249v3)** | 2026-06-11 | <details><summary>45 pa...</summary><p>45 pages, 27 figures, 5 tables</p></details> |
+| **[Adaptable Segmentation Pipeline for Diverse Brain Tumors with Radiomic-Guided Subtyping and Lesion-Wise Model Ensemble](https://arxiv.org/abs/2512.14648v2)** | 2026-06-11 | <details><summary>12 pa...</summary><p>12 pages, 5 figures, 3 tables. Algorithm presented at MICCAI BraTS 2025</p></details> |
 
 ## Describe
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[How Seemingly Inconsequential Design Choices Dictate Performance of LLMs in Pathology](https://arxiv.org/abs/2606.12407v1)** | 2026-06-10 |  |
-| **[VLGA: Vision-Language-Geometry-Action Models for Autonomous Driving](https://arxiv.org/abs/2606.12396v1)** | 2026-06-10 | <details><summary>Proje...</summary><p>Project page: https://yaojin17.github.io/VLGA/</p></details> |
-| **[MARCIM-WG: A cyber wargame proposal based on math modeling applied in a naval scenario](https://arxiv.org/abs/2606.12395v1)** | 2026-06-10 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, 2 tables, paper in proceedings of the XI National Cybersecurity Research Conference (JNIC) in Barcelona, Spain, May, 2026</p></details> |
-| **[System Report for CCL25-Eval Task 5: New Dataset and LoRA-Fine-Tuned Qwen2.5](https://arxiv.org/abs/2606.12392v1)** | 2026-06-10 |  |
-| **[ATLAS: Active Theory Learning for Automated Science](https://arxiv.org/abs/2606.12386v1)** | 2026-06-10 |  |
-| **[Oncomorphic neural agent populations for resource-limited sequential learning](https://arxiv.org/abs/2503.12743v2)** | 2026-06-10 | <details><summary>17 pa...</summary><p>17 pages, 5 figures, 1 table</p></details> |
-| **[Incivility in Public Health Policy Discussions Spills Over to Public Engagement with Climate Issues](https://arxiv.org/abs/2502.05255v3)** | 2026-06-10 | 33 pages, 5 figures |
-| **[Illumination-Robust Camera-Based Heart-Rate Estimation for Physiological Sensing in Robots](https://arxiv.org/abs/2606.12378v1)** | 2026-06-10 | 8 pages, 4 figures |
-| **[Certifiable Safe RLHF: Semantic Grounding and Fixed Penalty Constraint Optimization for Safer LLM Alignment](https://arxiv.org/abs/2510.03520v2)** | 2026-06-10 |  |
+| **[InterleaveThinker: Reinforcing Agentic Interleaved Generation](https://arxiv.org/abs/2606.13679v1)** | 2026-06-11 | <details><summary>Proje...</summary><p>Project Page: https://zhengdian1.github.io/InterleaveThinker-proj/ Code: https://github.com/zhengdian1/InterleaveThinker</p></details> |
+| **[$\texttt{WEAVER}$, Better, Faster, Longer: An Effective World Model for Robotic Manipulation](https://arxiv.org/abs/2606.13672v1)** | 2026-06-11 |  |
+| **[Recursive Agent Harnesses](https://arxiv.org/abs/2606.13643v1)** | 2026-06-11 |  |
+| **[Operads for compositional reasoning in LLMs](https://arxiv.org/abs/2606.13634v1)** | 2026-06-11 |  |
+| **[One Polluted Page Is Enough: Evaluating Web Content Pollution in Generative Recommenders](https://arxiv.org/abs/2606.13610v1)** | 2026-06-11 |  |
+| **[MCR-Bionic Hand: Anatomical Structural Priors for Dexterous Manipulation](https://arxiv.org/abs/2606.13601v1)** | 2026-06-11 |  |
+| **[Multiagent Protocols with Aggregated Confidence Signals](https://arxiv.org/abs/2606.13591v1)** | 2026-06-11 | <details><summary>22 pa...</summary><p>22 pages and 5 figures, 9 pages and 2 figures before the appendix</p></details> |
+| **[Transformer Field Theory: A Response-Theoretic Approach to Mechanistic Interpretability](https://arxiv.org/abs/2605.25225v2)** | 2026-06-11 |  |
+| **[Appearance-Invariant Detection of Suggestive Motion via Laban Movement Descriptors](https://arxiv.org/abs/2605.24488v2)** | 2026-06-11 | <details><summary>5 pag...</summary><p>5 pages, 2 figures, 3 tables. Extended version of a poster accepted to SIGGRAPH 2026</p></details> |
+| **[Differentiable Thermodynamic Phase-Equilibria for Machine Learning](https://arxiv.org/abs/2603.11249v3)** | 2026-06-11 | <details><summary>45 pa...</summary><p>45 pages, 27 figures, 5 tables</p></details> |
 
 ## Light Weight
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[How Seemingly Inconsequential Design Choices Dictate Performance of LLMs in Pathology](https://arxiv.org/abs/2606.12407v1)** | 2026-06-10 |  |
-| **[MARCIM-WG: A cyber wargame proposal based on math modeling applied in a naval scenario](https://arxiv.org/abs/2606.12395v1)** | 2026-06-10 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, 2 tables, paper in proceedings of the XI National Cybersecurity Research Conference (JNIC) in Barcelona, Spain, May, 2026</p></details> |
-| **[System Report for CCL25-Eval Task 5: New Dataset and LoRA-Fine-Tuned Qwen2.5](https://arxiv.org/abs/2606.12392v1)** | 2026-06-10 |  |
-| **[ATLAS: Active Theory Learning for Automated Science](https://arxiv.org/abs/2606.12386v1)** | 2026-06-10 |  |
-| **[Oncomorphic neural agent populations for resource-limited sequential learning](https://arxiv.org/abs/2503.12743v2)** | 2026-06-10 | <details><summary>17 pa...</summary><p>17 pages, 5 figures, 1 table</p></details> |
-| **[Incivility in Public Health Policy Discussions Spills Over to Public Engagement with Climate Issues](https://arxiv.org/abs/2502.05255v3)** | 2026-06-10 | 33 pages, 5 figures |
-| **[Illumination-Robust Camera-Based Heart-Rate Estimation for Physiological Sensing in Robots](https://arxiv.org/abs/2606.12378v1)** | 2026-06-10 | 8 pages, 4 figures |
-| **[Certifiable Safe RLHF: Semantic Grounding and Fixed Penalty Constraint Optimization for Safer LLM Alignment](https://arxiv.org/abs/2510.03520v2)** | 2026-06-10 |  |
-| **[Self-Attention as Transport: Limits of Symmetric Spectral Diagnostics](https://arxiv.org/abs/2605.04893v2)** | 2026-06-10 | <details><summary>48 pa...</summary><p>48 pages, 6 figures, 7 tables; 81-page online supplement (proofs, additional experiments, dataset statistics) as an ancillary file</p></details> |
-| **[PROJECTMEM: A Local-First, Event-Sourced Memory and Judgment Layer for AI Coding Agents](https://arxiv.org/abs/2606.12329v1)** | 2026-06-10 | <details><summary>12 pa...</summary><p>12 pages, 5 figures, 1 table. Code: https://github.com/riponcm/projectmem</p></details> |
+| **[InterleaveThinker: Reinforcing Agentic Interleaved Generation](https://arxiv.org/abs/2606.13679v1)** | 2026-06-11 | <details><summary>Proje...</summary><p>Project Page: https://zhengdian1.github.io/InterleaveThinker-proj/ Code: https://github.com/zhengdian1/InterleaveThinker</p></details> |
+| **[$\texttt{WEAVER}$, Better, Faster, Longer: An Effective World Model for Robotic Manipulation](https://arxiv.org/abs/2606.13672v1)** | 2026-06-11 |  |
+| **[Recursive Agent Harnesses](https://arxiv.org/abs/2606.13643v1)** | 2026-06-11 |  |
+| **[One Polluted Page Is Enough: Evaluating Web Content Pollution in Generative Recommenders](https://arxiv.org/abs/2606.13610v1)** | 2026-06-11 |  |
+| **[Multiagent Protocols with Aggregated Confidence Signals](https://arxiv.org/abs/2606.13591v1)** | 2026-06-11 | <details><summary>22 pa...</summary><p>22 pages and 5 figures, 9 pages and 2 figures before the appendix</p></details> |
+| **[Appearance-Invariant Detection of Suggestive Motion via Laban Movement Descriptors](https://arxiv.org/abs/2605.24488v2)** | 2026-06-11 | <details><summary>5 pag...</summary><p>5 pages, 2 figures, 3 tables. Extended version of a poster accepted to SIGGRAPH 2026</p></details> |
+| **[Differentiable Thermodynamic Phase-Equilibria for Machine Learning](https://arxiv.org/abs/2603.11249v3)** | 2026-06-11 | <details><summary>45 pa...</summary><p>45 pages, 27 figures, 5 tables</p></details> |
+| **[Adaptable Segmentation Pipeline for Diverse Brain Tumors with Radiomic-Guided Subtyping and Lesion-Wise Model Ensemble](https://arxiv.org/abs/2512.14648v2)** | 2026-06-11 | <details><summary>12 pa...</summary><p>12 pages, 5 figures, 3 tables. Algorithm presented at MICCAI BraTS 2025</p></details> |
 
 ## Class Incremental
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[How Seemingly Inconsequential Design Choices Dictate Performance of LLMs in Pathology](https://arxiv.org/abs/2606.12407v1)** | 2026-06-10 |  |
-| **[MARCIM-WG: A cyber wargame proposal based on math modeling applied in a naval scenario](https://arxiv.org/abs/2606.12395v1)** | 2026-06-10 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, 2 tables, paper in proceedings of the XI National Cybersecurity Research Conference (JNIC) in Barcelona, Spain, May, 2026</p></details> |
-| **[System Report for CCL25-Eval Task 5: New Dataset and LoRA-Fine-Tuned Qwen2.5](https://arxiv.org/abs/2606.12392v1)** | 2026-06-10 |  |
-| **[ATLAS: Active Theory Learning for Automated Science](https://arxiv.org/abs/2606.12386v1)** | 2026-06-10 |  |
-| **[Oncomorphic neural agent populations for resource-limited sequential learning](https://arxiv.org/abs/2503.12743v2)** | 2026-06-10 | <details><summary>17 pa...</summary><p>17 pages, 5 figures, 1 table</p></details> |
-| **[Incivility in Public Health Policy Discussions Spills Over to Public Engagement with Climate Issues](https://arxiv.org/abs/2502.05255v3)** | 2026-06-10 | 33 pages, 5 figures |
-| **[Illumination-Robust Camera-Based Heart-Rate Estimation for Physiological Sensing in Robots](https://arxiv.org/abs/2606.12378v1)** | 2026-06-10 | 8 pages, 4 figures |
-| **[Certifiable Safe RLHF: Semantic Grounding and Fixed Penalty Constraint Optimization for Safer LLM Alignment](https://arxiv.org/abs/2510.03520v2)** | 2026-06-10 |  |
-| **[Self-Attention as Transport: Limits of Symmetric Spectral Diagnostics](https://arxiv.org/abs/2605.04893v2)** | 2026-06-10 | <details><summary>48 pa...</summary><p>48 pages, 6 figures, 7 tables; 81-page online supplement (proofs, additional experiments, dataset statistics) as an ancillary file</p></details> |
-| **[PROJECTMEM: A Local-First, Event-Sourced Memory and Judgment Layer for AI Coding Agents](https://arxiv.org/abs/2606.12329v1)** | 2026-06-10 | <details><summary>12 pa...</summary><p>12 pages, 5 figures, 1 table. Code: https://github.com/riponcm/projectmem</p></details> |
+| **[InterleaveThinker: Reinforcing Agentic Interleaved Generation](https://arxiv.org/abs/2606.13679v1)** | 2026-06-11 | <details><summary>Proje...</summary><p>Project Page: https://zhengdian1.github.io/InterleaveThinker-proj/ Code: https://github.com/zhengdian1/InterleaveThinker</p></details> |
+| **[$\texttt{WEAVER}$, Better, Faster, Longer: An Effective World Model for Robotic Manipulation](https://arxiv.org/abs/2606.13672v1)** | 2026-06-11 |  |
+| **[Recursive Agent Harnesses](https://arxiv.org/abs/2606.13643v1)** | 2026-06-11 |  |
+| **[One Polluted Page Is Enough: Evaluating Web Content Pollution in Generative Recommenders](https://arxiv.org/abs/2606.13610v1)** | 2026-06-11 |  |
+| **[Multiagent Protocols with Aggregated Confidence Signals](https://arxiv.org/abs/2606.13591v1)** | 2026-06-11 | <details><summary>22 pa...</summary><p>22 pages and 5 figures, 9 pages and 2 figures before the appendix</p></details> |
+| **[Appearance-Invariant Detection of Suggestive Motion via Laban Movement Descriptors](https://arxiv.org/abs/2605.24488v2)** | 2026-06-11 | <details><summary>5 pag...</summary><p>5 pages, 2 figures, 3 tables. Extended version of a poster accepted to SIGGRAPH 2026</p></details> |
+| **[Differentiable Thermodynamic Phase-Equilibria for Machine Learning](https://arxiv.org/abs/2603.11249v3)** | 2026-06-11 | <details><summary>45 pa...</summary><p>45 pages, 27 figures, 5 tables</p></details> |
+| **[Adaptable Segmentation Pipeline for Diverse Brain Tumors with Radiomic-Guided Subtyping and Lesion-Wise Model Ensemble](https://arxiv.org/abs/2512.14648v2)** | 2026-06-11 | <details><summary>12 pa...</summary><p>12 pages, 5 figures, 3 tables. Algorithm presented at MICCAI BraTS 2025</p></details> |
 
