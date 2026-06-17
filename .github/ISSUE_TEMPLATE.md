@@ -1,5 +1,5 @@
 ---
-title: Latest 50 Papers - June 17, 2026
+title: Latest 50 Papers - June 18, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/JiamingZang/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,93 +7,112 @@ labels: documentation
 ## Molecular
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Context-Aware RL for Agentic and Multimodal LLMs](https://arxiv.org/abs/2606.17053v1)** | 2026-06-15 | 29 pages, 9 figures |
-| **[DreamX-World 1.0: A General-Purpose Interactive World Model](https://arxiv.org/abs/2606.16993v1)** | 2026-06-15 | <details><summary>Proje...</summary><p>Project page: https://amap-ml.github.io/DreamX_World, Code: https://github.com/AMAP-ML/DreamX-World</p></details> |
-| **[Code as a Weapon: A Consensus-Labeled Prompt Bank for Measuring Coding-Model Compliance with Malicious-Code Requests](https://arxiv.org/abs/2605.28734v2)** | 2026-06-15 | <details><summary>23 pa...</summary><p>23 pages, 9 figures, 6 tables. Consensus-labeled prompt bank consolidating eight malicious-code corpora (ASTRA, CySecBench, AdvBench/harmful_behaviors, JailbreakBench, MalwareBench, RedCode, RMCBench, Scam2Prompt) spanning diverse elicitation paradigms; 6,675 prompts, 33,375 classification calls</p></details> |
-| **[Phantoms and Disclosures: a Causal Framework for Auditing Synthetic Data](https://arxiv.org/abs/2606.16952v1)** | 2026-06-15 | <details><summary>35 pa...</summary><p>35 pages, 10 tables, 5 figures</p></details> |
-| **[Latent space mapping of interpretable structural coordinates from stochastic single-molecule signals](https://arxiv.org/abs/2606.16950v1)** | 2026-06-15 | 32 pages, 6 figures |
-| **[Generative Molecular Design with Steerable and Granular Synthesizability Control](https://arxiv.org/abs/2505.08774v2)** | 2026-06-15 |  |
-| **[Scheduling With Time Discounts](https://arxiv.org/abs/2402.08549v3)** | 2026-06-15 | 29 pages, 5 figures |
+| **[EBench: Elemental Diagnosis of Generalist Mobile Manipulation Policies](https://arxiv.org/abs/2606.18239v1)** | 2026-06-16 |  |
+| **[Zone of Proximal Policy Optimization: Teacher in Prompts, Not Gradients](https://arxiv.org/abs/2606.18216v1)** | 2026-06-16 | <details><summary>Proje...</summary><p>Project page: https://byungkwanlee.github.io/ZPPO-page/</p></details> |
+| **[A Red-Team Study of Anthropic Fable 5 & Opus 4.8 Models](https://arxiv.org/abs/2606.18193v1)** | 2026-06-16 | White paper |
+| **[Group Commit Self-Clocks: Why Tuning Is Unnecessary Above a Device-Set Load Threshold](https://arxiv.org/abs/2606.18187v1)** | 2026-06-16 | <details><summary>5 pag...</summary><p>5 pages, 4 figures. Code, benchmarks, and full pre-registration: https://github.com/samyama-ai/group-commit-policy</p></details> |
+| **[Online Connectivity Augmentation](https://arxiv.org/abs/2606.18160v1)** | 2026-06-16 | <details><summary>27 pa...</summary><p>27 pages, 5 figures, full version of the SODA 2026 paper</p></details> |
+| **[A polynomial-time approximation scheme for minimum-weight decoding of topological codes](https://arxiv.org/abs/2606.18145v1)** | 2026-06-16 | 18 pages, 5 figures |
+| **[The Value of Adaptivity in LSM Bloom-Filter Tuning: A Log-Law and a Two-Clock Frontier](https://arxiv.org/abs/2606.18138v1)** | 2026-06-16 | <details><summary>7 pag...</summary><p>7 pages, 5 figures. Code, benchmarks, and full pre-registration: https://github.com/samyama-ai/lsm-bloom-allocation</p></details> |
+| **[LLM-Powered Multi-Agent System for Automated Crypto Portfolio Management](https://arxiv.org/abs/2501.00826v3)** | 2026-06-16 |  |
 
 ## Molecular Generation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Context-Aware RL for Agentic and Multimodal LLMs](https://arxiv.org/abs/2606.17053v1)** | 2026-06-15 | 29 pages, 9 figures |
-| **[DreamX-World 1.0: A General-Purpose Interactive World Model](https://arxiv.org/abs/2606.16993v1)** | 2026-06-15 | <details><summary>Proje...</summary><p>Project page: https://amap-ml.github.io/DreamX_World, Code: https://github.com/AMAP-ML/DreamX-World</p></details> |
-| **[Code as a Weapon: A Consensus-Labeled Prompt Bank for Measuring Coding-Model Compliance with Malicious-Code Requests](https://arxiv.org/abs/2605.28734v2)** | 2026-06-15 | <details><summary>23 pa...</summary><p>23 pages, 9 figures, 6 tables. Consensus-labeled prompt bank consolidating eight malicious-code corpora (ASTRA, CySecBench, AdvBench/harmful_behaviors, JailbreakBench, MalwareBench, RedCode, RMCBench, Scam2Prompt) spanning diverse elicitation paradigms; 6,675 prompts, 33,375 classification calls</p></details> |
-| **[Phantoms and Disclosures: a Causal Framework for Auditing Synthetic Data](https://arxiv.org/abs/2606.16952v1)** | 2026-06-15 | <details><summary>35 pa...</summary><p>35 pages, 10 tables, 5 figures</p></details> |
-| **[Scheduling With Time Discounts](https://arxiv.org/abs/2402.08549v3)** | 2026-06-15 | 29 pages, 5 figures |
-| **[Compositional Reasoning Depth Predicts Clinical AI Failure: Empirical Evidence Consistent with Transformer Compositionality Limits in Electronic Health Record Question Answering](https://arxiv.org/abs/2606.16890v1)** | 2026-06-15 | <details><summary>20 pa...</summary><p>20 pages, 5 figures. Code: https://github.com/sanjaybasu/compositional-depth-clinical-ehr</p></details> |
+| **[EBench: Elemental Diagnosis of Generalist Mobile Manipulation Policies](https://arxiv.org/abs/2606.18239v1)** | 2026-06-16 |  |
+| **[Zone of Proximal Policy Optimization: Teacher in Prompts, Not Gradients](https://arxiv.org/abs/2606.18216v1)** | 2026-06-16 | <details><summary>Proje...</summary><p>Project page: https://byungkwanlee.github.io/ZPPO-page/</p></details> |
+| **[A Red-Team Study of Anthropic Fable 5 & Opus 4.8 Models](https://arxiv.org/abs/2606.18193v1)** | 2026-06-16 | White paper |
+| **[Group Commit Self-Clocks: Why Tuning Is Unnecessary Above a Device-Set Load Threshold](https://arxiv.org/abs/2606.18187v1)** | 2026-06-16 | <details><summary>5 pag...</summary><p>5 pages, 4 figures. Code, benchmarks, and full pre-registration: https://github.com/samyama-ai/group-commit-policy</p></details> |
+| **[Online Connectivity Augmentation](https://arxiv.org/abs/2606.18160v1)** | 2026-06-16 | <details><summary>27 pa...</summary><p>27 pages, 5 figures, full version of the SODA 2026 paper</p></details> |
+| **[A polynomial-time approximation scheme for minimum-weight decoding of topological codes](https://arxiv.org/abs/2606.18145v1)** | 2026-06-16 | 18 pages, 5 figures |
+| **[The Value of Adaptivity in LSM Bloom-Filter Tuning: A Log-Law and a Two-Clock Frontier](https://arxiv.org/abs/2606.18138v1)** | 2026-06-16 | <details><summary>7 pag...</summary><p>7 pages, 5 figures. Code, benchmarks, and full pre-registration: https://github.com/samyama-ai/lsm-bloom-allocation</p></details> |
+| **[LLM-Powered Multi-Agent System for Automated Crypto Portfolio Management](https://arxiv.org/abs/2501.00826v3)** | 2026-06-16 |  |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Context-Aware RL for Agentic and Multimodal LLMs](https://arxiv.org/abs/2606.17053v1)** | 2026-06-15 | 29 pages, 9 figures |
-| **[DreamX-World 1.0: A General-Purpose Interactive World Model](https://arxiv.org/abs/2606.16993v1)** | 2026-06-15 | <details><summary>Proje...</summary><p>Project page: https://amap-ml.github.io/DreamX_World, Code: https://github.com/AMAP-ML/DreamX-World</p></details> |
-| **[Code as a Weapon: A Consensus-Labeled Prompt Bank for Measuring Coding-Model Compliance with Malicious-Code Requests](https://arxiv.org/abs/2605.28734v2)** | 2026-06-15 | <details><summary>23 pa...</summary><p>23 pages, 9 figures, 6 tables. Consensus-labeled prompt bank consolidating eight malicious-code corpora (ASTRA, CySecBench, AdvBench/harmful_behaviors, JailbreakBench, MalwareBench, RedCode, RMCBench, Scam2Prompt) spanning diverse elicitation paradigms; 6,675 prompts, 33,375 classification calls</p></details> |
-| **[Phantoms and Disclosures: a Causal Framework for Auditing Synthetic Data](https://arxiv.org/abs/2606.16952v1)** | 2026-06-15 | <details><summary>35 pa...</summary><p>35 pages, 10 tables, 5 figures</p></details> |
-| **[Scheduling With Time Discounts](https://arxiv.org/abs/2402.08549v3)** | 2026-06-15 | 29 pages, 5 figures |
+| **[EBench: Elemental Diagnosis of Generalist Mobile Manipulation Policies](https://arxiv.org/abs/2606.18239v1)** | 2026-06-16 |  |
+| **[Zone of Proximal Policy Optimization: Teacher in Prompts, Not Gradients](https://arxiv.org/abs/2606.18216v1)** | 2026-06-16 | <details><summary>Proje...</summary><p>Project page: https://byungkwanlee.github.io/ZPPO-page/</p></details> |
+| **[Regression Language Models for Code](https://arxiv.org/abs/2509.26476v3)** | 2026-06-16 | <details><summary>Publi...</summary><p>Published in International Conference on Machine Learning (ICML) 2026</p></details> |
+| **[A Red-Team Study of Anthropic Fable 5 & Opus 4.8 Models](https://arxiv.org/abs/2606.18193v1)** | 2026-06-16 | White paper |
+| **[Group Commit Self-Clocks: Why Tuning Is Unnecessary Above a Device-Set Load Threshold](https://arxiv.org/abs/2606.18187v1)** | 2026-06-16 | <details><summary>5 pag...</summary><p>5 pages, 4 figures. Code, benchmarks, and full pre-registration: https://github.com/samyama-ai/group-commit-policy</p></details> |
+| **[Online Connectivity Augmentation](https://arxiv.org/abs/2606.18160v1)** | 2026-06-16 | <details><summary>27 pa...</summary><p>27 pages, 5 figures, full version of the SODA 2026 paper</p></details> |
+| **[A polynomial-time approximation scheme for minimum-weight decoding of topological codes](https://arxiv.org/abs/2606.18145v1)** | 2026-06-16 | 18 pages, 5 figures |
+| **[The Value of Adaptivity in LSM Bloom-Filter Tuning: A Log-Law and a Two-Clock Frontier](https://arxiv.org/abs/2606.18138v1)** | 2026-06-16 | <details><summary>7 pag...</summary><p>7 pages, 5 figures. Code, benchmarks, and full pre-registration: https://github.com/samyama-ai/lsm-bloom-allocation</p></details> |
+| **[LLM-Powered Multi-Agent System for Automated Crypto Portfolio Management](https://arxiv.org/abs/2501.00826v3)** | 2026-06-16 |  |
 
 ## Diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Context-Aware RL for Agentic and Multimodal LLMs](https://arxiv.org/abs/2606.17053v1)** | 2026-06-15 | 29 pages, 9 figures |
-| **[A Diffusion Monte Carlo algorithm employing depth first traversal and a stack instead of a swarm](https://arxiv.org/abs/2606.08946v2)** | 2026-06-15 | <details><summary>12 pa...</summary><p>12 pages. The code in the original (v1) Arxiv submission could randomly get trapped in a cycle where the same walker is all the time restarted with ever decreasing weight. The issue is described and addressed in this (v2) submission</p></details> |
-| **[Exact Posterior Score Estimation for Solving Linear Inverse Problems](https://arxiv.org/abs/2606.17048v1)** | 2026-06-15 |  |
-| **[R2RDreamer: 3D-aware Data Augmentation for Spatially-generalized 2D Manipulation Policies](https://arxiv.org/abs/2606.17040v1)** | 2026-06-15 | <details><summary>Proje...</summary><p>Project page: https://r2rdreamer.github.io/</p></details> |
-| **[Qwen-RobotWorld Technical Report: Unifying Embodied World Modeling through Language-Conditioned Video Generation](https://arxiv.org/abs/2606.17030v1)** | 2026-06-15 |  |
-| **[DreamX-World 1.0: A General-Purpose Interactive World Model](https://arxiv.org/abs/2606.16993v1)** | 2026-06-15 | <details><summary>Proje...</summary><p>Project page: https://amap-ml.github.io/DreamX_World, Code: https://github.com/AMAP-ML/DreamX-World</p></details> |
-| **[PhyloSDF: Phylogenetically-Conditioned Neural Generation of 3D Skull Morphology via Residual Flow Matching](https://arxiv.org/abs/2604.25371v2)** | 2026-06-15 |  |
-| **[Code as a Weapon: A Consensus-Labeled Prompt Bank for Measuring Coding-Model Compliance with Malicious-Code Requests](https://arxiv.org/abs/2605.28734v2)** | 2026-06-15 | <details><summary>23 pa...</summary><p>23 pages, 9 figures, 6 tables. Consensus-labeled prompt bank consolidating eight malicious-code corpora (ASTRA, CySecBench, AdvBench/harmful_behaviors, JailbreakBench, MalwareBench, RedCode, RMCBench, Scam2Prompt) spanning diverse elicitation paradigms; 6,675 prompts, 33,375 classification calls</p></details> |
-| **[Phantoms and Disclosures: a Causal Framework for Auditing Synthetic Data](https://arxiv.org/abs/2606.16952v1)** | 2026-06-15 | <details><summary>35 pa...</summary><p>35 pages, 10 tables, 5 figures</p></details> |
-| **[Fast-dLLM++: Fréchet Profile Decoding for Faster Diffusion LLM Inference](https://arxiv.org/abs/2606.02955v2)** | 2026-06-15 | <details><summary>Initi...</summary><p>Initial version accepted at Workshop on Structured Probabilistic Inference & Generative Modeling, ICML 2026. Project Page: https://ringo-star.github.io/projectpage_frechet/</p></details> |
+| **[Unified Multimodal Autoregressive Modeling with Shared Context-Visual Tokenizer is Key to Unification](https://arxiv.org/abs/2606.18249v1)** | 2026-06-16 | <details><summary>Accep...</summary><p>Accepted by ICML2026. Project page https://sharelab-sii.github.io/uniar-web</p></details> |
+| **[MOCHI: Motion Enhancement of Collaborative Human-object Interactions](https://arxiv.org/abs/2606.18243v1)** | 2026-06-16 | <details><summary>SIGGR...</summary><p>SIGGRAPH 2026 Journal (ACM TOG); Project page: https://jiyewise.github.io/projects/MOCHI/</p></details> |
+| **[EBench: Elemental Diagnosis of Generalist Mobile Manipulation Policies](https://arxiv.org/abs/2606.18239v1)** | 2026-06-16 |  |
+| **[Zone of Proximal Policy Optimization: Teacher in Prompts, Not Gradients](https://arxiv.org/abs/2606.18216v1)** | 2026-06-16 | <details><summary>Proje...</summary><p>Project page: https://byungkwanlee.github.io/ZPPO-page/</p></details> |
+| **[On Surjectivity of Neural Networks: Can you elicit any behavior from your model?](https://arxiv.org/abs/2508.19445v3)** | 2026-06-16 | <details><summary>Blog:...</summary><p>Blog: https://astro-eric.github.io/blogs/surjective/</p></details> |
+| **[Learning from the Self-future: On-policy Self-distillation for dLLMs](https://arxiv.org/abs/2606.18195v1)** | 2026-06-16 | Preprint |
+| **[A Red-Team Study of Anthropic Fable 5 & Opus 4.8 Models](https://arxiv.org/abs/2606.18193v1)** | 2026-06-16 | White paper |
+| **[Rethinking Cross-Layer Information Routing in Diffusion Transformers](https://arxiv.org/abs/2605.20708v2)** | 2026-06-16 |  |
+| **[Group Commit Self-Clocks: Why Tuning Is Unnecessary Above a Device-Set Load Threshold](https://arxiv.org/abs/2606.18187v1)** | 2026-06-16 | <details><summary>5 pag...</summary><p>5 pages, 4 figures. Code, benchmarks, and full pre-registration: https://github.com/samyama-ai/group-commit-policy</p></details> |
+| **[Kolmogorov Regression for Robust Diffusion Policies](https://arxiv.org/abs/2606.18186v1)** | 2026-06-16 |  |
+| **[A Diffusion Approximation for Temporal-Difference Learning with Linear Features under Markovian Noise](https://arxiv.org/abs/2606.18183v1)** | 2026-06-16 |  |
 
 ## Object Counting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Context-Aware RL for Agentic and Multimodal LLMs](https://arxiv.org/abs/2606.17053v1)** | 2026-06-15 | 29 pages, 9 figures |
-| **[DreamX-World 1.0: A General-Purpose Interactive World Model](https://arxiv.org/abs/2606.16993v1)** | 2026-06-15 | <details><summary>Proje...</summary><p>Project page: https://amap-ml.github.io/DreamX_World, Code: https://github.com/AMAP-ML/DreamX-World</p></details> |
-| **[Code as a Weapon: A Consensus-Labeled Prompt Bank for Measuring Coding-Model Compliance with Malicious-Code Requests](https://arxiv.org/abs/2605.28734v2)** | 2026-06-15 | <details><summary>23 pa...</summary><p>23 pages, 9 figures, 6 tables. Consensus-labeled prompt bank consolidating eight malicious-code corpora (ASTRA, CySecBench, AdvBench/harmful_behaviors, JailbreakBench, MalwareBench, RedCode, RMCBench, Scam2Prompt) spanning diverse elicitation paradigms; 6,675 prompts, 33,375 classification calls</p></details> |
-| **[Phantoms and Disclosures: a Causal Framework for Auditing Synthetic Data](https://arxiv.org/abs/2606.16952v1)** | 2026-06-15 | <details><summary>35 pa...</summary><p>35 pages, 10 tables, 5 figures</p></details> |
-| **[Scheduling With Time Discounts](https://arxiv.org/abs/2402.08549v3)** | 2026-06-15 | 29 pages, 5 figures |
-| **[Compositional Reasoning Depth Predicts Clinical AI Failure: Empirical Evidence Consistent with Transformer Compositionality Limits in Electronic Health Record Question Answering](https://arxiv.org/abs/2606.16890v1)** | 2026-06-15 | <details><summary>20 pa...</summary><p>20 pages, 5 figures. Code: https://github.com/sanjaybasu/compositional-depth-clinical-ehr</p></details> |
+| **[EBench: Elemental Diagnosis of Generalist Mobile Manipulation Policies](https://arxiv.org/abs/2606.18239v1)** | 2026-06-16 |  |
+| **[Zone of Proximal Policy Optimization: Teacher in Prompts, Not Gradients](https://arxiv.org/abs/2606.18216v1)** | 2026-06-16 | <details><summary>Proje...</summary><p>Project page: https://byungkwanlee.github.io/ZPPO-page/</p></details> |
+| **[A Red-Team Study of Anthropic Fable 5 & Opus 4.8 Models](https://arxiv.org/abs/2606.18193v1)** | 2026-06-16 | White paper |
+| **[Group Commit Self-Clocks: Why Tuning Is Unnecessary Above a Device-Set Load Threshold](https://arxiv.org/abs/2606.18187v1)** | 2026-06-16 | <details><summary>5 pag...</summary><p>5 pages, 4 figures. Code, benchmarks, and full pre-registration: https://github.com/samyama-ai/group-commit-policy</p></details> |
+| **[Online Connectivity Augmentation](https://arxiv.org/abs/2606.18160v1)** | 2026-06-16 | <details><summary>27 pa...</summary><p>27 pages, 5 figures, full version of the SODA 2026 paper</p></details> |
+| **[A polynomial-time approximation scheme for minimum-weight decoding of topological codes](https://arxiv.org/abs/2606.18145v1)** | 2026-06-16 | 18 pages, 5 figures |
+| **[The Value of Adaptivity in LSM Bloom-Filter Tuning: A Log-Law and a Two-Clock Frontier](https://arxiv.org/abs/2606.18138v1)** | 2026-06-16 | <details><summary>7 pag...</summary><p>7 pages, 5 figures. Code, benchmarks, and full pre-registration: https://github.com/samyama-ai/lsm-bloom-allocation</p></details> |
+| **[LLM-Powered Multi-Agent System for Automated Crypto Portfolio Management](https://arxiv.org/abs/2501.00826v3)** | 2026-06-16 |  |
 
 ## Image Caption
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Context-Aware RL for Agentic and Multimodal LLMs](https://arxiv.org/abs/2606.17053v1)** | 2026-06-15 | 29 pages, 9 figures |
-| **[DreamX-World 1.0: A General-Purpose Interactive World Model](https://arxiv.org/abs/2606.16993v1)** | 2026-06-15 | <details><summary>Proje...</summary><p>Project page: https://amap-ml.github.io/DreamX_World, Code: https://github.com/AMAP-ML/DreamX-World</p></details> |
-| **[Code as a Weapon: A Consensus-Labeled Prompt Bank for Measuring Coding-Model Compliance with Malicious-Code Requests](https://arxiv.org/abs/2605.28734v2)** | 2026-06-15 | <details><summary>23 pa...</summary><p>23 pages, 9 figures, 6 tables. Consensus-labeled prompt bank consolidating eight malicious-code corpora (ASTRA, CySecBench, AdvBench/harmful_behaviors, JailbreakBench, MalwareBench, RedCode, RMCBench, Scam2Prompt) spanning diverse elicitation paradigms; 6,675 prompts, 33,375 classification calls</p></details> |
-| **[Phantoms and Disclosures: a Causal Framework for Auditing Synthetic Data](https://arxiv.org/abs/2606.16952v1)** | 2026-06-15 | <details><summary>35 pa...</summary><p>35 pages, 10 tables, 5 figures</p></details> |
-| **[Scheduling With Time Discounts](https://arxiv.org/abs/2402.08549v3)** | 2026-06-15 | 29 pages, 5 figures |
-| **[Compositional Reasoning Depth Predicts Clinical AI Failure: Empirical Evidence Consistent with Transformer Compositionality Limits in Electronic Health Record Question Answering](https://arxiv.org/abs/2606.16890v1)** | 2026-06-15 | <details><summary>20 pa...</summary><p>20 pages, 5 figures. Code: https://github.com/sanjaybasu/compositional-depth-clinical-ehr</p></details> |
+| **[EBench: Elemental Diagnosis of Generalist Mobile Manipulation Policies](https://arxiv.org/abs/2606.18239v1)** | 2026-06-16 |  |
+| **[Zone of Proximal Policy Optimization: Teacher in Prompts, Not Gradients](https://arxiv.org/abs/2606.18216v1)** | 2026-06-16 | <details><summary>Proje...</summary><p>Project page: https://byungkwanlee.github.io/ZPPO-page/</p></details> |
+| **[A Red-Team Study of Anthropic Fable 5 & Opus 4.8 Models](https://arxiv.org/abs/2606.18193v1)** | 2026-06-16 | White paper |
+| **[Group Commit Self-Clocks: Why Tuning Is Unnecessary Above a Device-Set Load Threshold](https://arxiv.org/abs/2606.18187v1)** | 2026-06-16 | <details><summary>5 pag...</summary><p>5 pages, 4 figures. Code, benchmarks, and full pre-registration: https://github.com/samyama-ai/group-commit-policy</p></details> |
+| **[Online Connectivity Augmentation](https://arxiv.org/abs/2606.18160v1)** | 2026-06-16 | <details><summary>27 pa...</summary><p>27 pages, 5 figures, full version of the SODA 2026 paper</p></details> |
+| **[A polynomial-time approximation scheme for minimum-weight decoding of topological codes](https://arxiv.org/abs/2606.18145v1)** | 2026-06-16 | 18 pages, 5 figures |
+| **[The Value of Adaptivity in LSM Bloom-Filter Tuning: A Log-Law and a Two-Clock Frontier](https://arxiv.org/abs/2606.18138v1)** | 2026-06-16 | <details><summary>7 pag...</summary><p>7 pages, 5 figures. Code, benchmarks, and full pre-registration: https://github.com/samyama-ai/lsm-bloom-allocation</p></details> |
+| **[LLM-Powered Multi-Agent System for Automated Crypto Portfolio Management](https://arxiv.org/abs/2501.00826v3)** | 2026-06-16 |  |
 
 ## Describe
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Context-Aware RL for Agentic and Multimodal LLMs](https://arxiv.org/abs/2606.17053v1)** | 2026-06-15 | 29 pages, 9 figures |
-| **[A Diffusion Monte Carlo algorithm employing depth first traversal and a stack instead of a swarm](https://arxiv.org/abs/2606.08946v2)** | 2026-06-15 | <details><summary>12 pa...</summary><p>12 pages. The code in the original (v1) Arxiv submission could randomly get trapped in a cycle where the same walker is all the time restarted with ever decreasing weight. The issue is described and addressed in this (v2) submission</p></details> |
-| **[FusionRS: A Large-Scale RGB-Infrared Remote Sensing Dataset for Dual-Modal Vision-Language Foundation Models](https://arxiv.org/abs/2606.17020v1)** | 2026-06-15 |  |
-| **[DreamX-World 1.0: A General-Purpose Interactive World Model](https://arxiv.org/abs/2606.16993v1)** | 2026-06-15 | <details><summary>Proje...</summary><p>Project page: https://amap-ml.github.io/DreamX_World, Code: https://github.com/AMAP-ML/DreamX-World</p></details> |
-| **[Code as a Weapon: A Consensus-Labeled Prompt Bank for Measuring Coding-Model Compliance with Malicious-Code Requests](https://arxiv.org/abs/2605.28734v2)** | 2026-06-15 | <details><summary>23 pa...</summary><p>23 pages, 9 figures, 6 tables. Consensus-labeled prompt bank consolidating eight malicious-code corpora (ASTRA, CySecBench, AdvBench/harmful_behaviors, JailbreakBench, MalwareBench, RedCode, RMCBench, Scam2Prompt) spanning diverse elicitation paradigms; 6,675 prompts, 33,375 classification calls</p></details> |
+| **[EBench: Elemental Diagnosis of Generalist Mobile Manipulation Policies](https://arxiv.org/abs/2606.18239v1)** | 2026-06-16 |  |
+| **[Darshana Graph: A Parallel Commentary Corpus for Comparative Indian Philosophy, with Stylometric and Exploratory Graph Analyses](https://arxiv.org/abs/2606.18222v1)** | 2026-06-16 | <details><summary>12 pa...</summary><p>12 pages, 1 figure. Open Source Code available at https://github.com/joyboseroy/darshana-graph and dataset at https://huggingface.co/datasets/joyboseroy/darshana-graph</p></details> |
+| **[Zone of Proximal Policy Optimization: Teacher in Prompts, Not Gradients](https://arxiv.org/abs/2606.18216v1)** | 2026-06-16 | <details><summary>Proje...</summary><p>Project page: https://byungkwanlee.github.io/ZPPO-page/</p></details> |
+| **[A Red-Team Study of Anthropic Fable 5 & Opus 4.8 Models](https://arxiv.org/abs/2606.18193v1)** | 2026-06-16 | White paper |
+| **[Group Commit Self-Clocks: Why Tuning Is Unnecessary Above a Device-Set Load Threshold](https://arxiv.org/abs/2606.18187v1)** | 2026-06-16 | <details><summary>5 pag...</summary><p>5 pages, 4 figures. Code, benchmarks, and full pre-registration: https://github.com/samyama-ai/group-commit-policy</p></details> |
+| **[IUU+DB: Tracking Illegal, Unreported, and Unregulated Fishing, Seafood Fraud, and Labor Abuse through LLM-driven Information Extraction](https://arxiv.org/abs/2606.18181v1)** | 2026-06-16 |  |
+| **[Online Connectivity Augmentation](https://arxiv.org/abs/2606.18160v1)** | 2026-06-16 | <details><summary>27 pa...</summary><p>27 pages, 5 figures, full version of the SODA 2026 paper</p></details> |
+| **[Neural Tree Reconstruction for the Open Forest Observatory](https://arxiv.org/abs/2606.18153v1)** | 2026-06-16 | <details><summary>Publi...</summary><p>Published as a workshop paper at "Tackling Climate Change with Machine Learning", ICLR 2024</p></details> |
 
 ## Light Weight
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Context-Aware RL for Agentic and Multimodal LLMs](https://arxiv.org/abs/2606.17053v1)** | 2026-06-15 | 29 pages, 9 figures |
-| **[DreamX-World 1.0: A General-Purpose Interactive World Model](https://arxiv.org/abs/2606.16993v1)** | 2026-06-15 | <details><summary>Proje...</summary><p>Project page: https://amap-ml.github.io/DreamX_World, Code: https://github.com/AMAP-ML/DreamX-World</p></details> |
-| **[Code as a Weapon: A Consensus-Labeled Prompt Bank for Measuring Coding-Model Compliance with Malicious-Code Requests](https://arxiv.org/abs/2605.28734v2)** | 2026-06-15 | <details><summary>23 pa...</summary><p>23 pages, 9 figures, 6 tables. Consensus-labeled prompt bank consolidating eight malicious-code corpora (ASTRA, CySecBench, AdvBench/harmful_behaviors, JailbreakBench, MalwareBench, RedCode, RMCBench, Scam2Prompt) spanning diverse elicitation paradigms; 6,675 prompts, 33,375 classification calls</p></details> |
-| **[Phantoms and Disclosures: a Causal Framework for Auditing Synthetic Data](https://arxiv.org/abs/2606.16952v1)** | 2026-06-15 | <details><summary>35 pa...</summary><p>35 pages, 10 tables, 5 figures</p></details> |
-| **[Scheduling With Time Discounts](https://arxiv.org/abs/2402.08549v3)** | 2026-06-15 | 29 pages, 5 figures |
-| **[Compositional Reasoning Depth Predicts Clinical AI Failure: Empirical Evidence Consistent with Transformer Compositionality Limits in Electronic Health Record Question Answering](https://arxiv.org/abs/2606.16890v1)** | 2026-06-15 | <details><summary>20 pa...</summary><p>20 pages, 5 figures. Code: https://github.com/sanjaybasu/compositional-depth-clinical-ehr</p></details> |
+| **[EBench: Elemental Diagnosis of Generalist Mobile Manipulation Policies](https://arxiv.org/abs/2606.18239v1)** | 2026-06-16 |  |
+| **[Zone of Proximal Policy Optimization: Teacher in Prompts, Not Gradients](https://arxiv.org/abs/2606.18216v1)** | 2026-06-16 | <details><summary>Proje...</summary><p>Project page: https://byungkwanlee.github.io/ZPPO-page/</p></details> |
+| **[A Red-Team Study of Anthropic Fable 5 & Opus 4.8 Models](https://arxiv.org/abs/2606.18193v1)** | 2026-06-16 | White paper |
+| **[Group Commit Self-Clocks: Why Tuning Is Unnecessary Above a Device-Set Load Threshold](https://arxiv.org/abs/2606.18187v1)** | 2026-06-16 | <details><summary>5 pag...</summary><p>5 pages, 4 figures. Code, benchmarks, and full pre-registration: https://github.com/samyama-ai/group-commit-policy</p></details> |
+| **[Online Connectivity Augmentation](https://arxiv.org/abs/2606.18160v1)** | 2026-06-16 | <details><summary>27 pa...</summary><p>27 pages, 5 figures, full version of the SODA 2026 paper</p></details> |
+| **[A polynomial-time approximation scheme for minimum-weight decoding of topological codes](https://arxiv.org/abs/2606.18145v1)** | 2026-06-16 | 18 pages, 5 figures |
+| **[The Value of Adaptivity in LSM Bloom-Filter Tuning: A Log-Law and a Two-Clock Frontier](https://arxiv.org/abs/2606.18138v1)** | 2026-06-16 | <details><summary>7 pag...</summary><p>7 pages, 5 figures. Code, benchmarks, and full pre-registration: https://github.com/samyama-ai/lsm-bloom-allocation</p></details> |
+| **[LLM-Powered Multi-Agent System for Automated Crypto Portfolio Management](https://arxiv.org/abs/2501.00826v3)** | 2026-06-16 |  |
 
 ## Class Incremental
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Context-Aware RL for Agentic and Multimodal LLMs](https://arxiv.org/abs/2606.17053v1)** | 2026-06-15 | 29 pages, 9 figures |
-| **[DreamX-World 1.0: A General-Purpose Interactive World Model](https://arxiv.org/abs/2606.16993v1)** | 2026-06-15 | <details><summary>Proje...</summary><p>Project page: https://amap-ml.github.io/DreamX_World, Code: https://github.com/AMAP-ML/DreamX-World</p></details> |
-| **[Code as a Weapon: A Consensus-Labeled Prompt Bank for Measuring Coding-Model Compliance with Malicious-Code Requests](https://arxiv.org/abs/2605.28734v2)** | 2026-06-15 | <details><summary>23 pa...</summary><p>23 pages, 9 figures, 6 tables. Consensus-labeled prompt bank consolidating eight malicious-code corpora (ASTRA, CySecBench, AdvBench/harmful_behaviors, JailbreakBench, MalwareBench, RedCode, RMCBench, Scam2Prompt) spanning diverse elicitation paradigms; 6,675 prompts, 33,375 classification calls</p></details> |
-| **[Phantoms and Disclosures: a Causal Framework for Auditing Synthetic Data](https://arxiv.org/abs/2606.16952v1)** | 2026-06-15 | <details><summary>35 pa...</summary><p>35 pages, 10 tables, 5 figures</p></details> |
-| **[Scheduling With Time Discounts](https://arxiv.org/abs/2402.08549v3)** | 2026-06-15 | 29 pages, 5 figures |
-| **[Compositional Reasoning Depth Predicts Clinical AI Failure: Empirical Evidence Consistent with Transformer Compositionality Limits in Electronic Health Record Question Answering](https://arxiv.org/abs/2606.16890v1)** | 2026-06-15 | <details><summary>20 pa...</summary><p>20 pages, 5 figures. Code: https://github.com/sanjaybasu/compositional-depth-clinical-ehr</p></details> |
+| **[EBench: Elemental Diagnosis of Generalist Mobile Manipulation Policies](https://arxiv.org/abs/2606.18239v1)** | 2026-06-16 |  |
+| **[Zone of Proximal Policy Optimization: Teacher in Prompts, Not Gradients](https://arxiv.org/abs/2606.18216v1)** | 2026-06-16 | <details><summary>Proje...</summary><p>Project page: https://byungkwanlee.github.io/ZPPO-page/</p></details> |
+| **[A Red-Team Study of Anthropic Fable 5 & Opus 4.8 Models](https://arxiv.org/abs/2606.18193v1)** | 2026-06-16 | White paper |
+| **[Group Commit Self-Clocks: Why Tuning Is Unnecessary Above a Device-Set Load Threshold](https://arxiv.org/abs/2606.18187v1)** | 2026-06-16 | <details><summary>5 pag...</summary><p>5 pages, 4 figures. Code, benchmarks, and full pre-registration: https://github.com/samyama-ai/group-commit-policy</p></details> |
+| **[Online Connectivity Augmentation](https://arxiv.org/abs/2606.18160v1)** | 2026-06-16 | <details><summary>27 pa...</summary><p>27 pages, 5 figures, full version of the SODA 2026 paper</p></details> |
+| **[A polynomial-time approximation scheme for minimum-weight decoding of topological codes](https://arxiv.org/abs/2606.18145v1)** | 2026-06-16 | 18 pages, 5 figures |
+| **[The Value of Adaptivity in LSM Bloom-Filter Tuning: A Log-Law and a Two-Clock Frontier](https://arxiv.org/abs/2606.18138v1)** | 2026-06-16 | <details><summary>7 pag...</summary><p>7 pages, 5 figures. Code, benchmarks, and full pre-registration: https://github.com/samyama-ai/lsm-bloom-allocation</p></details> |
+| **[LLM-Powered Multi-Agent System for Automated Crypto Portfolio Management](https://arxiv.org/abs/2501.00826v3)** | 2026-06-16 |  |
 
