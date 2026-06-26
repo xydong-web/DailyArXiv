@@ -1,5 +1,5 @@
 ---
-title: Latest 50 Papers - June 26, 2026
+title: Latest 50 Papers - June 27, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/JiamingZang/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,101 +7,89 @@ labels: documentation
 ## Molecular
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[RevengeBench: Reverse Engineering Code-Space Policies from Behavioral Experiments](https://arxiv.org/abs/2606.26094v1)** | 2026-06-24 | <details><summary>12 pa...</summary><p>12 pages, 5 figures, 22 appendix pages</p></details> |
-| **[Same Evidence, Different Answer: Auditing Order Sensitivity in Multimodal Large Language Models](https://arxiv.org/abs/2606.26079v1)** | 2026-06-24 | <details><summary>22 pa...</summary><p>22 pages, 4 figures, 5 tables</p></details> |
-| **[A welding penetration prediction model for laser welding process based on self-supervised learning using physics-informed neural networks](https://arxiv.org/abs/2606.26059v1)** | 2026-06-24 |  |
-| **[Natural Ungrokking: Asymmetric Control of Which Rules Survive Pretraining](https://arxiv.org/abs/2606.26050v1)** | 2026-06-24 | <details><summary>Found...</summary><p>Foundations of Deep Generative Models (FoGen) Workshop at ICML 2026. 23 pages (5-page main text plus appendices), 5 figures. Code: https://github.com/lijuliana/Natural-Ungrokking</p></details> |
-| **[How Robust is OCR-Reasoning? Evaluating OCR-Reasoning Robustness of Vision-Language Models under Visual Perturbations](https://arxiv.org/abs/2606.26041v1)** | 2026-06-24 |  |
-| **[Uncovering Insights of Compound Flooding with Data-Driven AI](https://arxiv.org/abs/2506.04281v3)** | 2026-06-24 | <details><summary>Accep...</summary><p>Accepted to SIGKDD 2026 AI for Science Track; 12 Pages, 5 Figures, 6 Tables</p></details> |
-| **[Narrative Feature or Structured Feature? A Study of Large Language Models to Identify Cancer Patients at Risk of Heart Failure](https://arxiv.org/abs/2403.11425v4)** | 2026-06-24 | <details><summary>10 pa...</summary><p>10 pages, 4 figures, 5 tables</p></details> |
+| **[Autoregressive Boltzmann Generators](https://arxiv.org/abs/2606.27361v1)** | 2026-06-25 | <details><summary>ICML ...</summary><p>ICML 2026 (Spotlight)</p></details> |
+| **[CHIA: An open-source framework for principled, agentic AI-driven hardware/software co-design research](https://arxiv.org/abs/2606.27350v1)** | 2026-06-25 |  |
+| **[Weak-to-Strong Elicitation via Mismatched Wrong Drafts](https://arxiv.org/abs/2605.17314v2)** | 2026-06-25 |  |
+| **[How Good Can Linear Models Be for Time-Series Forecasting?](https://arxiv.org/abs/2606.27282v1)** | 2026-06-25 | <details><summary>17 pa...</summary><p>17 pages, 10 figures, and 5 tables</p></details> |
+| **[EO-WM: A Physically Informed World Model for Probabilistic Earth Observation Forecasting](https://arxiv.org/abs/2606.27277v1)** | 2026-06-25 | <details><summary>28 pa...</summary><p>28 pages, 5 figures, 11 tables</p></details> |
 
 ## Molecular Generation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[RevengeBench: Reverse Engineering Code-Space Policies from Behavioral Experiments](https://arxiv.org/abs/2606.26094v1)** | 2026-06-24 | <details><summary>12 pa...</summary><p>12 pages, 5 figures, 22 appendix pages</p></details> |
-| **[Same Evidence, Different Answer: Auditing Order Sensitivity in Multimodal Large Language Models](https://arxiv.org/abs/2606.26079v1)** | 2026-06-24 | <details><summary>22 pa...</summary><p>22 pages, 4 figures, 5 tables</p></details> |
-| **[A welding penetration prediction model for laser welding process based on self-supervised learning using physics-informed neural networks](https://arxiv.org/abs/2606.26059v1)** | 2026-06-24 |  |
-| **[Natural Ungrokking: Asymmetric Control of Which Rules Survive Pretraining](https://arxiv.org/abs/2606.26050v1)** | 2026-06-24 | <details><summary>Found...</summary><p>Foundations of Deep Generative Models (FoGen) Workshop at ICML 2026. 23 pages (5-page main text plus appendices), 5 figures. Code: https://github.com/lijuliana/Natural-Ungrokking</p></details> |
-| **[How Robust is OCR-Reasoning? Evaluating OCR-Reasoning Robustness of Vision-Language Models under Visual Perturbations](https://arxiv.org/abs/2606.26041v1)** | 2026-06-24 |  |
-| **[Uncovering Insights of Compound Flooding with Data-Driven AI](https://arxiv.org/abs/2506.04281v3)** | 2026-06-24 | <details><summary>Accep...</summary><p>Accepted to SIGKDD 2026 AI for Science Track; 12 Pages, 5 Figures, 6 Tables</p></details> |
-| **[Narrative Feature or Structured Feature? A Study of Large Language Models to Identify Cancer Patients at Risk of Heart Failure](https://arxiv.org/abs/2403.11425v4)** | 2026-06-24 | <details><summary>10 pa...</summary><p>10 pages, 4 figures, 5 tables</p></details> |
+| **[CHIA: An open-source framework for principled, agentic AI-driven hardware/software co-design research](https://arxiv.org/abs/2606.27350v1)** | 2026-06-25 |  |
+| **[Weak-to-Strong Elicitation via Mismatched Wrong Drafts](https://arxiv.org/abs/2605.17314v2)** | 2026-06-25 |  |
+| **[How Good Can Linear Models Be for Time-Series Forecasting?](https://arxiv.org/abs/2606.27282v1)** | 2026-06-25 | <details><summary>17 pa...</summary><p>17 pages, 10 figures, and 5 tables</p></details> |
+| **[EO-WM: A Physically Informed World Model for Probabilistic Earth Observation Forecasting](https://arxiv.org/abs/2606.27277v1)** | 2026-06-25 | <details><summary>28 pa...</summary><p>28 pages, 5 figures, 11 tables</p></details> |
+| **[How Many Trees in a Random Forest? A Revisited Approach with Plateau Search and Optuna Integration](https://arxiv.org/abs/2606.03549v2)** | 2026-06-25 | <details><summary>24 pa...</summary><p>24 pages, 4 figures, 5 tables. Author-prepared preprint of the article published in IEEE Access. The published article is licensed under CC BY 4.0</p></details> |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[RevengeBench: Reverse Engineering Code-Space Policies from Behavioral Experiments](https://arxiv.org/abs/2606.26094v1)** | 2026-06-24 | <details><summary>12 pa...</summary><p>12 pages, 5 figures, 22 appendix pages</p></details> |
-| **[Same Evidence, Different Answer: Auditing Order Sensitivity in Multimodal Large Language Models](https://arxiv.org/abs/2606.26079v1)** | 2026-06-24 | <details><summary>22 pa...</summary><p>22 pages, 4 figures, 5 tables</p></details> |
-| **[Estimating condition number with Graph Neural Networks](https://arxiv.org/abs/2603.10277v3)** | 2026-06-24 |  |
-| **[A welding penetration prediction model for laser welding process based on self-supervised learning using physics-informed neural networks](https://arxiv.org/abs/2606.26059v1)** | 2026-06-24 |  |
-| **[Natural Ungrokking: Asymmetric Control of Which Rules Survive Pretraining](https://arxiv.org/abs/2606.26050v1)** | 2026-06-24 | <details><summary>Found...</summary><p>Foundations of Deep Generative Models (FoGen) Workshop at ICML 2026. 23 pages (5-page main text plus appendices), 5 figures. Code: https://github.com/lijuliana/Natural-Ungrokking</p></details> |
-| **[How Robust is OCR-Reasoning? Evaluating OCR-Reasoning Robustness of Vision-Language Models under Visual Perturbations](https://arxiv.org/abs/2606.26041v1)** | 2026-06-24 |  |
-| **[Uncovering Insights of Compound Flooding with Data-Driven AI](https://arxiv.org/abs/2506.04281v3)** | 2026-06-24 | <details><summary>Accep...</summary><p>Accepted to SIGKDD 2026 AI for Science Track; 12 Pages, 5 Figures, 6 Tables</p></details> |
-| **[Narrative Feature or Structured Feature? A Study of Large Language Models to Identify Cancer Patients at Risk of Heart Failure](https://arxiv.org/abs/2403.11425v4)** | 2026-06-24 | <details><summary>10 pa...</summary><p>10 pages, 4 figures, 5 tables</p></details> |
+| **[CHIA: An open-source framework for principled, agentic AI-driven hardware/software co-design research](https://arxiv.org/abs/2606.27350v1)** | 2026-06-25 |  |
+| **[Weak-to-Strong Elicitation via Mismatched Wrong Drafts](https://arxiv.org/abs/2605.17314v2)** | 2026-06-25 |  |
+| **[How Good Can Linear Models Be for Time-Series Forecasting?](https://arxiv.org/abs/2606.27282v1)** | 2026-06-25 | <details><summary>17 pa...</summary><p>17 pages, 10 figures, and 5 tables</p></details> |
+| **[EO-WM: A Physically Informed World Model for Probabilistic Earth Observation Forecasting](https://arxiv.org/abs/2606.27277v1)** | 2026-06-25 | <details><summary>28 pa...</summary><p>28 pages, 5 figures, 11 tables</p></details> |
+| **[How Many Trees in a Random Forest? A Revisited Approach with Plateau Search and Optuna Integration](https://arxiv.org/abs/2606.03549v2)** | 2026-06-25 | <details><summary>24 pa...</summary><p>24 pages, 4 figures, 5 tables. Author-prepared preprint of the article published in IEEE Access. The published article is licensed under CC BY 4.0</p></details> |
 
 ## Diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[RevengeBench: Reverse Engineering Code-Space Policies from Behavioral Experiments](https://arxiv.org/abs/2606.26094v1)** | 2026-06-24 | <details><summary>12 pa...</summary><p>12 pages, 5 figures, 22 appendix pages</p></details> |
-| **[MVTrack4Gen: Multi-View Point Tracking as Geometric Supervision for 4D Video Generation](https://arxiv.org/abs/2606.26087v1)** | 2026-06-24 | <details><summary>Proje...</summary><p>Project Page : https://cvlab-kaist.github.io/MVTrack4Gen/</p></details> |
-| **[On the entropic convergence for piecewise deterministic samplers: speedup and obstruction](https://arxiv.org/abs/2606.26086v1)** | 2026-06-24 |  |
-| **[Same Evidence, Different Answer: Auditing Order Sensitivity in Multimodal Large Language Models](https://arxiv.org/abs/2606.26079v1)** | 2026-06-24 | <details><summary>22 pa...</summary><p>22 pages, 4 figures, 5 tables</p></details> |
-| **[A welding penetration prediction model for laser welding process based on self-supervised learning using physics-informed neural networks](https://arxiv.org/abs/2606.26059v1)** | 2026-06-24 |  |
-| **[Natural Ungrokking: Asymmetric Control of Which Rules Survive Pretraining](https://arxiv.org/abs/2606.26050v1)** | 2026-06-24 | <details><summary>Found...</summary><p>Foundations of Deep Generative Models (FoGen) Workshop at ICML 2026. 23 pages (5-page main text plus appendices), 5 figures. Code: https://github.com/lijuliana/Natural-Ungrokking</p></details> |
-| **[How Robust is OCR-Reasoning? Evaluating OCR-Reasoning Robustness of Vision-Language Models under Visual Perturbations](https://arxiv.org/abs/2606.26041v1)** | 2026-06-24 |  |
-| **[Uncovering Insights of Compound Flooding with Data-Driven AI](https://arxiv.org/abs/2506.04281v3)** | 2026-06-24 | <details><summary>Accep...</summary><p>Accepted to SIGKDD 2026 AI for Science Track; 12 Pages, 5 Figures, 6 Tables</p></details> |
+| **[Ask, Solve, Generate: Self-Evolving Unified Multimodal Understanding and Generation via Self-Consistency Rewards](https://arxiv.org/abs/2606.27376v1)** | 2026-06-25 |  |
+| **[Scalable Behavior Cloning with Open Data, Training, and Evaluation](https://arxiv.org/abs/2606.27375v1)** | 2026-06-25 | <details><summary>30 pa...</summary><p>30 pages. Project page: https://abc.bot</p></details> |
+| **[PhysiFormer: Learning to Simulate Mechanics in World Space](https://arxiv.org/abs/2606.27364v1)** | 2026-06-25 | <details><summary>Proje...</summary><p>Project page: https://yimingc9.github.io/physiformer</p></details> |
+| **[CHIA: An open-source framework for principled, agentic AI-driven hardware/software co-design research](https://arxiv.org/abs/2606.27350v1)** | 2026-06-25 |  |
+| **[Weak-to-Strong Elicitation via Mismatched Wrong Drafts](https://arxiv.org/abs/2605.17314v2)** | 2026-06-25 |  |
+| **[RayPE: Ray-Space Positional Encoding for 3D-Aware Video Generation](https://arxiv.org/abs/2606.27345v1)** | 2026-06-25 |  |
+| **[RoPEMover: Depth-Aware Object Relocation via Positional Embeddings](https://arxiv.org/abs/2606.27332v1)** | 2026-06-25 |  |
+| **[How Good Can Linear Models Be for Time-Series Forecasting?](https://arxiv.org/abs/2606.27282v1)** | 2026-06-25 | <details><summary>17 pa...</summary><p>17 pages, 10 figures, and 5 tables</p></details> |
+| **[EO-WM: A Physically Informed World Model for Probabilistic Earth Observation Forecasting](https://arxiv.org/abs/2606.27277v1)** | 2026-06-25 | <details><summary>28 pa...</summary><p>28 pages, 5 figures, 11 tables</p></details> |
 
 ## Object Counting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[RevengeBench: Reverse Engineering Code-Space Policies from Behavioral Experiments](https://arxiv.org/abs/2606.26094v1)** | 2026-06-24 | <details><summary>12 pa...</summary><p>12 pages, 5 figures, 22 appendix pages</p></details> |
-| **[Same Evidence, Different Answer: Auditing Order Sensitivity in Multimodal Large Language Models](https://arxiv.org/abs/2606.26079v1)** | 2026-06-24 | <details><summary>22 pa...</summary><p>22 pages, 4 figures, 5 tables</p></details> |
-| **[A welding penetration prediction model for laser welding process based on self-supervised learning using physics-informed neural networks](https://arxiv.org/abs/2606.26059v1)** | 2026-06-24 |  |
-| **[Natural Ungrokking: Asymmetric Control of Which Rules Survive Pretraining](https://arxiv.org/abs/2606.26050v1)** | 2026-06-24 | <details><summary>Found...</summary><p>Foundations of Deep Generative Models (FoGen) Workshop at ICML 2026. 23 pages (5-page main text plus appendices), 5 figures. Code: https://github.com/lijuliana/Natural-Ungrokking</p></details> |
-| **[How Robust is OCR-Reasoning? Evaluating OCR-Reasoning Robustness of Vision-Language Models under Visual Perturbations](https://arxiv.org/abs/2606.26041v1)** | 2026-06-24 |  |
-| **[Uncovering Insights of Compound Flooding with Data-Driven AI](https://arxiv.org/abs/2506.04281v3)** | 2026-06-24 | <details><summary>Accep...</summary><p>Accepted to SIGKDD 2026 AI for Science Track; 12 Pages, 5 Figures, 6 Tables</p></details> |
-| **[TriViewBench: Controlled Complexity Scaling for Multi-View Structural Reasoning in MLLMs](https://arxiv.org/abs/2606.26029v1)** | 2026-06-24 | 26 pages, 8 figures |
-| **[Narrative Feature or Structured Feature? A Study of Large Language Models to Identify Cancer Patients at Risk of Heart Failure](https://arxiv.org/abs/2403.11425v4)** | 2026-06-24 | <details><summary>10 pa...</summary><p>10 pages, 4 figures, 5 tables</p></details> |
+| **[PhysiFormer: Learning to Simulate Mechanics in World Space](https://arxiv.org/abs/2606.27364v1)** | 2026-06-25 | <details><summary>Proje...</summary><p>Project page: https://yimingc9.github.io/physiformer</p></details> |
+| **[CHIA: An open-source framework for principled, agentic AI-driven hardware/software co-design research](https://arxiv.org/abs/2606.27350v1)** | 2026-06-25 |  |
+| **[Weak-to-Strong Elicitation via Mismatched Wrong Drafts](https://arxiv.org/abs/2605.17314v2)** | 2026-06-25 |  |
+| **[How Good Can Linear Models Be for Time-Series Forecasting?](https://arxiv.org/abs/2606.27282v1)** | 2026-06-25 | <details><summary>17 pa...</summary><p>17 pages, 10 figures, and 5 tables</p></details> |
+| **[EO-WM: A Physically Informed World Model for Probabilistic Earth Observation Forecasting](https://arxiv.org/abs/2606.27277v1)** | 2026-06-25 | <details><summary>28 pa...</summary><p>28 pages, 5 figures, 11 tables</p></details> |
+| **[How Many Trees in a Random Forest? A Revisited Approach with Plateau Search and Optuna Integration](https://arxiv.org/abs/2606.03549v2)** | 2026-06-25 | <details><summary>24 pa...</summary><p>24 pages, 4 figures, 5 tables. Author-prepared preprint of the article published in IEEE Access. The published article is licensed under CC BY 4.0</p></details> |
 
 ## Image Caption
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[RevengeBench: Reverse Engineering Code-Space Policies from Behavioral Experiments](https://arxiv.org/abs/2606.26094v1)** | 2026-06-24 | <details><summary>12 pa...</summary><p>12 pages, 5 figures, 22 appendix pages</p></details> |
-| **[Same Evidence, Different Answer: Auditing Order Sensitivity in Multimodal Large Language Models](https://arxiv.org/abs/2606.26079v1)** | 2026-06-24 | <details><summary>22 pa...</summary><p>22 pages, 4 figures, 5 tables</p></details> |
-| **[A welding penetration prediction model for laser welding process based on self-supervised learning using physics-informed neural networks](https://arxiv.org/abs/2606.26059v1)** | 2026-06-24 |  |
-| **[Natural Ungrokking: Asymmetric Control of Which Rules Survive Pretraining](https://arxiv.org/abs/2606.26050v1)** | 2026-06-24 | <details><summary>Found...</summary><p>Foundations of Deep Generative Models (FoGen) Workshop at ICML 2026. 23 pages (5-page main text plus appendices), 5 figures. Code: https://github.com/lijuliana/Natural-Ungrokking</p></details> |
-| **[How Robust is OCR-Reasoning? Evaluating OCR-Reasoning Robustness of Vision-Language Models under Visual Perturbations](https://arxiv.org/abs/2606.26041v1)** | 2026-06-24 |  |
-| **[Uncovering Insights of Compound Flooding with Data-Driven AI](https://arxiv.org/abs/2506.04281v3)** | 2026-06-24 | <details><summary>Accep...</summary><p>Accepted to SIGKDD 2026 AI for Science Track; 12 Pages, 5 Figures, 6 Tables</p></details> |
-| **[Narrative Feature or Structured Feature? A Study of Large Language Models to Identify Cancer Patients at Risk of Heart Failure](https://arxiv.org/abs/2403.11425v4)** | 2026-06-24 | <details><summary>10 pa...</summary><p>10 pages, 4 figures, 5 tables</p></details> |
+| **[Paying More Attention to Visual Tokens in Self-Evolving Large Multimodal Models](https://arxiv.org/abs/2606.27373v1)** | 2026-06-25 | ECCV 2026 |
+| **[CHIA: An open-source framework for principled, agentic AI-driven hardware/software co-design research](https://arxiv.org/abs/2606.27350v1)** | 2026-06-25 |  |
+| **[Weak-to-Strong Elicitation via Mismatched Wrong Drafts](https://arxiv.org/abs/2605.17314v2)** | 2026-06-25 |  |
+| **[How Good Can Linear Models Be for Time-Series Forecasting?](https://arxiv.org/abs/2606.27282v1)** | 2026-06-25 | <details><summary>17 pa...</summary><p>17 pages, 10 figures, and 5 tables</p></details> |
+| **[EO-WM: A Physically Informed World Model for Probabilistic Earth Observation Forecasting](https://arxiv.org/abs/2606.27277v1)** | 2026-06-25 | <details><summary>28 pa...</summary><p>28 pages, 5 figures, 11 tables</p></details> |
+| **[How Many Trees in a Random Forest? A Revisited Approach with Plateau Search and Optuna Integration](https://arxiv.org/abs/2606.03549v2)** | 2026-06-25 | <details><summary>24 pa...</summary><p>24 pages, 4 figures, 5 tables. Author-prepared preprint of the article published in IEEE Access. The published article is licensed under CC BY 4.0</p></details> |
 
 ## Describe
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[RevengeBench: Reverse Engineering Code-Space Policies from Behavioral Experiments](https://arxiv.org/abs/2606.26094v1)** | 2026-06-24 | <details><summary>12 pa...</summary><p>12 pages, 5 figures, 22 appendix pages</p></details> |
-| **[Same Evidence, Different Answer: Auditing Order Sensitivity in Multimodal Large Language Models](https://arxiv.org/abs/2606.26079v1)** | 2026-06-24 | <details><summary>22 pa...</summary><p>22 pages, 4 figures, 5 tables</p></details> |
-| **[A welding penetration prediction model for laser welding process based on self-supervised learning using physics-informed neural networks](https://arxiv.org/abs/2606.26059v1)** | 2026-06-24 |  |
-| **[Natural Ungrokking: Asymmetric Control of Which Rules Survive Pretraining](https://arxiv.org/abs/2606.26050v1)** | 2026-06-24 | <details><summary>Found...</summary><p>Foundations of Deep Generative Models (FoGen) Workshop at ICML 2026. 23 pages (5-page main text plus appendices), 5 figures. Code: https://github.com/lijuliana/Natural-Ungrokking</p></details> |
-| **[How Robust is OCR-Reasoning? Evaluating OCR-Reasoning Robustness of Vision-Language Models under Visual Perturbations](https://arxiv.org/abs/2606.26041v1)** | 2026-06-24 |  |
-| **[Uncovering Insights of Compound Flooding with Data-Driven AI](https://arxiv.org/abs/2506.04281v3)** | 2026-06-24 | <details><summary>Accep...</summary><p>Accepted to SIGKDD 2026 AI for Science Track; 12 Pages, 5 Figures, 6 Tables</p></details> |
+| **[CHIA: An open-source framework for principled, agentic AI-driven hardware/software co-design research](https://arxiv.org/abs/2606.27350v1)** | 2026-06-25 |  |
+| **[Weak-to-Strong Elicitation via Mismatched Wrong Drafts](https://arxiv.org/abs/2605.17314v2)** | 2026-06-25 |  |
+| **[An Instruction Set Architecture for IMPLY-based Memristive Processing-in-Array](https://arxiv.org/abs/2606.27319v1)** | 2026-06-25 | <details><summary>Based...</summary><p>Based on the BSc thesis of Liam Splittgerber at TU Wien, June 2025</p></details> |
+| **[Set Theory in the Foundation of Math; Internal Classes and External Sets](https://arxiv.org/abs/2209.07497v19)** | 2026-06-25 | <details><summary>Sec. ...</summary><p>Sec. 3.3 replaced. 7 pages article + 17 pages slides; talk video: https://doi.org/10.5281/zenodo.18626525</p></details> |
+| **[How Good Can Linear Models Be for Time-Series Forecasting?](https://arxiv.org/abs/2606.27282v1)** | 2026-06-25 | <details><summary>17 pa...</summary><p>17 pages, 10 figures, and 5 tables</p></details> |
+| **[EO-WM: A Physically Informed World Model for Probabilistic Earth Observation Forecasting](https://arxiv.org/abs/2606.27277v1)** | 2026-06-25 | <details><summary>28 pa...</summary><p>28 pages, 5 figures, 11 tables</p></details> |
+| **[BetXplain: An Explanation-Annotated Dataset for Detecting Manipulative Betting Advertisements on Social Media](https://arxiv.org/abs/2606.27274v1)** | 2026-06-25 |  |
 
 ## Light Weight
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[RevengeBench: Reverse Engineering Code-Space Policies from Behavioral Experiments](https://arxiv.org/abs/2606.26094v1)** | 2026-06-24 | <details><summary>12 pa...</summary><p>12 pages, 5 figures, 22 appendix pages</p></details> |
-| **[Same Evidence, Different Answer: Auditing Order Sensitivity in Multimodal Large Language Models](https://arxiv.org/abs/2606.26079v1)** | 2026-06-24 | <details><summary>22 pa...</summary><p>22 pages, 4 figures, 5 tables</p></details> |
-| **[A welding penetration prediction model for laser welding process based on self-supervised learning using physics-informed neural networks](https://arxiv.org/abs/2606.26059v1)** | 2026-06-24 |  |
-| **[Natural Ungrokking: Asymmetric Control of Which Rules Survive Pretraining](https://arxiv.org/abs/2606.26050v1)** | 2026-06-24 | <details><summary>Found...</summary><p>Foundations of Deep Generative Models (FoGen) Workshop at ICML 2026. 23 pages (5-page main text plus appendices), 5 figures. Code: https://github.com/lijuliana/Natural-Ungrokking</p></details> |
-| **[How Robust is OCR-Reasoning? Evaluating OCR-Reasoning Robustness of Vision-Language Models under Visual Perturbations](https://arxiv.org/abs/2606.26041v1)** | 2026-06-24 |  |
-| **[Uncovering Insights of Compound Flooding with Data-Driven AI](https://arxiv.org/abs/2506.04281v3)** | 2026-06-24 | <details><summary>Accep...</summary><p>Accepted to SIGKDD 2026 AI for Science Track; 12 Pages, 5 Figures, 6 Tables</p></details> |
-| **[Narrative Feature or Structured Feature? A Study of Large Language Models to Identify Cancer Patients at Risk of Heart Failure](https://arxiv.org/abs/2403.11425v4)** | 2026-06-24 | <details><summary>10 pa...</summary><p>10 pages, 4 figures, 5 tables</p></details> |
+| **[CHIA: An open-source framework for principled, agentic AI-driven hardware/software co-design research](https://arxiv.org/abs/2606.27350v1)** | 2026-06-25 |  |
+| **[Weak-to-Strong Elicitation via Mismatched Wrong Drafts](https://arxiv.org/abs/2605.17314v2)** | 2026-06-25 |  |
+| **[How Good Can Linear Models Be for Time-Series Forecasting?](https://arxiv.org/abs/2606.27282v1)** | 2026-06-25 | <details><summary>17 pa...</summary><p>17 pages, 10 figures, and 5 tables</p></details> |
+| **[EO-WM: A Physically Informed World Model for Probabilistic Earth Observation Forecasting](https://arxiv.org/abs/2606.27277v1)** | 2026-06-25 | <details><summary>28 pa...</summary><p>28 pages, 5 figures, 11 tables</p></details> |
+| **[How Many Trees in a Random Forest? A Revisited Approach with Plateau Search and Optuna Integration](https://arxiv.org/abs/2606.03549v2)** | 2026-06-25 | <details><summary>24 pa...</summary><p>24 pages, 4 figures, 5 tables. Author-prepared preprint of the article published in IEEE Access. The published article is licensed under CC BY 4.0</p></details> |
 
 ## Class Incremental
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[RevengeBench: Reverse Engineering Code-Space Policies from Behavioral Experiments](https://arxiv.org/abs/2606.26094v1)** | 2026-06-24 | <details><summary>12 pa...</summary><p>12 pages, 5 figures, 22 appendix pages</p></details> |
-| **[Same Evidence, Different Answer: Auditing Order Sensitivity in Multimodal Large Language Models](https://arxiv.org/abs/2606.26079v1)** | 2026-06-24 | <details><summary>22 pa...</summary><p>22 pages, 4 figures, 5 tables</p></details> |
-| **[A welding penetration prediction model for laser welding process based on self-supervised learning using physics-informed neural networks](https://arxiv.org/abs/2606.26059v1)** | 2026-06-24 |  |
-| **[Natural Ungrokking: Asymmetric Control of Which Rules Survive Pretraining](https://arxiv.org/abs/2606.26050v1)** | 2026-06-24 | <details><summary>Found...</summary><p>Foundations of Deep Generative Models (FoGen) Workshop at ICML 2026. 23 pages (5-page main text plus appendices), 5 figures. Code: https://github.com/lijuliana/Natural-Ungrokking</p></details> |
-| **[How Robust is OCR-Reasoning? Evaluating OCR-Reasoning Robustness of Vision-Language Models under Visual Perturbations](https://arxiv.org/abs/2606.26041v1)** | 2026-06-24 |  |
-| **[Uncovering Insights of Compound Flooding with Data-Driven AI](https://arxiv.org/abs/2506.04281v3)** | 2026-06-24 | <details><summary>Accep...</summary><p>Accepted to SIGKDD 2026 AI for Science Track; 12 Pages, 5 Figures, 6 Tables</p></details> |
-| **[Narrative Feature or Structured Feature? A Study of Large Language Models to Identify Cancer Patients at Risk of Heart Failure](https://arxiv.org/abs/2403.11425v4)** | 2026-06-24 | <details><summary>10 pa...</summary><p>10 pages, 4 figures, 5 tables</p></details> |
+| **[CHIA: An open-source framework for principled, agentic AI-driven hardware/software co-design research](https://arxiv.org/abs/2606.27350v1)** | 2026-06-25 |  |
+| **[Weak-to-Strong Elicitation via Mismatched Wrong Drafts](https://arxiv.org/abs/2605.17314v2)** | 2026-06-25 |  |
+| **[How Good Can Linear Models Be for Time-Series Forecasting?](https://arxiv.org/abs/2606.27282v1)** | 2026-06-25 | <details><summary>17 pa...</summary><p>17 pages, 10 figures, and 5 tables</p></details> |
+| **[EO-WM: A Physically Informed World Model for Probabilistic Earth Observation Forecasting](https://arxiv.org/abs/2606.27277v1)** | 2026-06-25 | <details><summary>28 pa...</summary><p>28 pages, 5 figures, 11 tables</p></details> |
+| **[How Many Trees in a Random Forest? A Revisited Approach with Plateau Search and Optuna Integration](https://arxiv.org/abs/2606.03549v2)** | 2026-06-25 | <details><summary>24 pa...</summary><p>24 pages, 4 figures, 5 tables. Author-prepared preprint of the article published in IEEE Access. The published article is licensed under CC BY 4.0</p></details> |
 
